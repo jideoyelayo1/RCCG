@@ -1,12 +1,17 @@
 import json
 import xml.etree.ElementTree as ET
 
+def formatBookName(s):
+    if not s[0].isdigit():
+        return s[0].upper() + s[1:]
+    else:
+        return s[0] + " " + s[1].upper() + s[2:]
 
 def json_to_xml(data):
     root = ET.Element("XMLBIBLE", attrib={"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "biblename": "ENGLISHAMP"})
 
     for book_name, chapters in data.items():
-        book_element = ET.SubElement(root, "BIBLEBOOK", attrib={"bname": book_name})
+        book_element = ET.SubElement(root, "BIBLEBOOK", attrib={"bname": formatBookName(book_name)})
 
         for chapter_name, verses in chapters.items():
             chapter_element = ET.SubElement(book_element, "CHAPTER", attrib={"cnumber": chapter_name})
