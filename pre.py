@@ -4,7 +4,7 @@ import os
 import re
 
 def extract_first_verse(text):
-    match = re.search(r'\d+([A-Z].*?)(?=\d+[A-Z]|$)', text)
+    match = re.search(r'\d+([A-Za-z].*?)(?=\d+[A-Za-z]|$)', text)
     if match:
         verse_text = match.group(1).strip()
         return verse_text
@@ -51,6 +51,7 @@ def HTM_To_Json(book_name, book_number):
                     'verse_number': verse_number,
                     'verse_text': first_verse 
                 })
+                
 
     with open(fr'books/book{book_number}.json', 'w', encoding='utf-8') as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
