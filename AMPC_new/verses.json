@@ -1,0 +1,962 @@
+{
+    "genesis": {
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the beginning God (prepared, formed, fashioned, and) created the heavens and the earth.(A)"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The earth was without form and an empty waste, and darkness was upon the face of the very great deep. The Spirit of God was moving (hovering, brooding) over the face of the waters."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And God said, Let there be light; and there was light."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "And God saw that the light was good (suitable, pleasant) and He approved it; and God separated the light from the darkness.(B)"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And God called the light Day, and the darkness He called Night. And there was evening and there was morning, one day."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "And God said, Let there be a firmament [the expanse of the sky] in the midst of the waters, and let it separate the waters [below] from the waters [above]."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "And God made the firmament [the expanse] and separated the waters which were under the expanse from the waters which were above the expanse. And it was so."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And God called the firmament Heavens. And there was evening and there was morning, a second day."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "And God said, Let the waters under the heavens be collected into one place [of standing], and let the dry land appear. And it was so."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "God called the dry land Earth, and the accumulated waters He called Seas. And God saw that this was good (fitting, admirable) and He approved it."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And God said, Let the earth put forth [tender] vegetation: plants yielding seed and fruit trees yielding fruit whose seed is in itself, each according to its kind, upon the earth. And it was so."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The earth brought forth vegetation: plants yielding seed according to their own kinds and trees bearing fruit in which was their seed, each according to its kind. And God saw that it was good (suitable, admirable) and He approved it."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "And there was evening and there was morning, a third day."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "And God said, Let there be lights in the expanse of the heavens to separate the day from the night, and let them be signs and tokens [of God’s provident care], and [to mark] seasons, days, and years,(C)"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And let them be lights in the expanse of the sky to give light upon the earth. And it was so."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "And God made the two great lights—the greater light (the sun) to rule the day and the lesser light (the moon) to rule the night. He also made the stars."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And God set them in the expanse of the heavens to give light upon the earth,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "To rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good (fitting, pleasant) and He approved it."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And there was evening and there was morning, a fourth day."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And God said, Let the waters bring forth abundantly and swarm with living creatures, and let birds fly over the earth in the open expanse of the heavens."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "God created the great sea monsters and every living creature that moves, which the waters brought forth abundantly, according to their kinds, and every winged bird according to its kind. And God saw that it was good (suitable, admirable) and He approved it."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And God blessed them, saying, Be fruitful, multiply, and fill the waters in the seas, and let the fowl multiply in the earth."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "And there was evening and there was morning, a fifth day."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "And God said, Let the earth bring forth living creatures according to their kinds: livestock, creeping things, and [wild] beasts of the earth according to their kinds. And it was so."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "And God made the [wild] beasts of the earth according to their kinds, and domestic animals according to their kinds, and everything that creeps upon the earth according to its kind. And God saw that it was good (fitting, pleasant) and He approved it."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "God said, Let Us [Father, Son, and Holy Spirit] make mankind in Our image, after Our likeness, and let them have complete authority over the fish of the sea, the birds of the air, the [tame] beasts, and over all of the earth, and over everything that creeps upon the earth.(D)"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "So God created man in His own image, in the image and likeness of God He created him; male and female He created them.(E)"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "And God blessed them and said to them, Be fruitful, multiply, and fill the earth, and subdue it [using all its vast resources in the service of God and man]; and have dominion over the fish of the sea, the birds of the air, and over every living creature that moves upon the earth."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "And God said, See, I have given you every plant yielding seed that is on the face of all the land and every tree with seed in its fruit; you shall have them for food."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "And to all the animals on the earth and to every bird of the air and to everything that creeps on the ground—to everything in which there is the breath of life—I have given every green plant for food. And it was so."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "And God saw everything that He had made, and behold, it was very good (suitable, pleasant) and He approved it completely. And there was evening and there was morning, a sixth day."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "2 Thus the heavens and the earth were finished, and all the host of them."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And on the seventh day God ended His work which He had done; and He rested on the seventh day from all His work which He had done.(A)"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And God blessed (spoke good of) the seventh day, set it apart as His own, and hallowed it, because on it God rested from all His work which He had created and done.(B)"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "This is the history of the heavens and of the earth when they were created. In the day that the Lord God made the earth and the heavens—"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When no plant of the field was yet in the earth and no herb of the field had yet sprung up, for the Lord God had not [yet] caused it to rain upon the earth and there was no man to till the ground,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But there went up a mist (fog, vapor) from the land and watered the whole surface of the ground—"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then the Lord God formed man from the [a]dust of the ground and breathed into his nostrils the breath or spirit of life, and man became a living being.(C)"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And the Lord God planted a garden toward the east, in Eden [delight]; and there He put the man whom He had formed (framed, constituted)."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "And out of the ground the Lord God made to grow every tree that is pleasant to the sight or to be desired—good (suitable, pleasant) for food; the tree of life also in the center of the garden, and the tree of the knowledge of [the difference between] good and evil and blessing and calamity.(D)"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Now a river went out of Eden to water the garden; and from there it divided and became four [river] heads."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The first is named Pishon; it is the one flowing around the whole land of Havilah, where there is gold."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The gold of that land is of high quality; bdellium (pearl?) and onyx stone are there."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The second river is named Gihon; it is the one flowing around the whole land of Cush."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The third river is named Hiddekel [the Tigris]; it is the one flowing east of Assyria. And the fourth river is the Euphrates."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And the Lord God took the man and put him in the Garden of Eden to tend and guard and keep it."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "And the Lord God commanded the man, saying, You may freely eat of every tree of the garden;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "But of the tree of the knowledge of good and evil and blessing and calamity you shall not eat, for in the day that you eat of it you shall surely die."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Now the Lord God said, It is not good (sufficient, satisfactory) that the man should be alone; I will make him a helper (suitable, adapted, complementary) for him."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And out of the ground the Lord God formed every [wild] beast and living creature of the field and every bird of the air and brought them to Adam to see what he would call them; and whatever Adam called every living creature, that was its name."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And Adam gave names to all the livestock and to the birds of the air and to every [wild] beast of the field; but for Adam there was not found a helper meet (suitable, adapted, complementary) for him."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "And the Lord God caused a deep sleep to fall upon Adam; and while he slept, He took one of his ribs or a part of his side and closed up the [place with] flesh."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And the rib or part of his side which the Lord God had taken from the man He built up and made into a woman, and He brought her to the man."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Then Adam said, This [creature] is now bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of a man."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Therefore a man shall leave his father and his mother and shall become united and cleave to his wife, and they shall become one flesh.(E)"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "And the man and his wife were both naked and were not embarrassed or ashamed in each other’s presence."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "3 Now the serpent was more subtle and crafty than any living creature of the field which the Lord God had made. And he [Satan] said to the woman, Can it really be that God has said, You shall not eat from every tree of the garden?(A)"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And the woman said to the serpent, We may eat the fruit from the trees of the garden,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Except the fruit from the tree which is in the middle of the garden. God has said, You shall not eat of it, neither shall you touch it, lest you die."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But the serpent said to the woman, You shall not surely die,(B)"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing the difference between good and evil and blessing and calamity."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "And when the woman saw that the tree was good (suitable, pleasant) for food and that it was delightful to look at, and a tree to be desired in order to make one wise, she took of its fruit and ate; and she gave some also to her husband, and he ate."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves apronlike girdles."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And they heard the sound of the Lord God walking in the garden in the cool of the day, and Adam and his wife hid themselves from the presence of the Lord God among the trees of the garden."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But the Lord God called to Adam and said to him, Where are you?"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He said, I heard the sound of You [walking] in the garden, and I was afraid because I was naked; and I hid myself."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And He said, Who told you that you were naked? Have you eaten of the tree of which I commanded you that you should not eat?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And the man said, The woman whom You gave to be with me—she gave me [fruit] from the tree, and I ate."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "And the Lord God said to the woman, What is this you have done? And the woman said, The serpent beguiled (cheated, outwitted, and deceived) me, and I ate."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "And the Lord God said to the serpent, Because you have done this, you are cursed above all [domestic] animals and above every [wild] living thing of the field; upon your belly you shall go, and you shall eat dust [and what it contains] all the days of your life."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And I will put enmity between you and the woman, and between your offspring and her [a]Offspring; He will bruise and tread your head underfoot, and you will lie in wait and bruise His heel.(C)"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "To the woman He said, I will greatly multiply your grief and your suffering in pregnancy and the pangs of childbearing; with spasms of distress you will bring forth children. Yet your desire and craving will be for your husband, and he will rule over you."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And to Adam He said, Because you have listened and given heed to the voice of your wife and have eaten of the tree of which I commanded you, saying, You shall not eat of it, the ground is under a curse because of you; in sorrow and toil shall you eat [of the fruits] of it all the days of your life."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Thorns also and thistles shall it bring forth for you, and you shall eat the plants of the field."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "In the sweat of your face shall you eat bread until you return to the ground, for out of it you were taken; for dust you are and to dust you shall return."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The man called his wife’s name Eve [life spring], because she was the mother of all the living."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "For Adam also and for his wife the Lord God made long coats (tunics) of skins and clothed them."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And the Lord God said, Behold, the man has become like one of Us [the Father, Son, and Holy Spirit], to know [how to distinguish between] good and evil and blessing and calamity; and now, lest he put forth his hand and take also from the tree of life and eat, and live [b]forever—"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Therefore the Lord God sent him forth from the Garden of Eden to till the ground from which he was taken."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "So [God] drove out the man; and He placed at the east of the Garden of Eden the [c]cherubim and a flaming sword which turned every way, to keep and guard the way to the tree of life.(D)"
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "4 And Adam knew Eve as his wife, and she became pregnant and bore Cain; and she said, I have gotten and gained a man with the help of the Lord."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And [next] she gave birth to his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And in the course of time Cain brought to the Lord an offering of the fruit of the ground."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "And Abel brought of the firstborn of his flock and of the fat portions. And the Lord had respect and regard for Abel and for his offering,(A)"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But for [a]Cain and his offering He had no respect or regard. So Cain was exceedingly angry and indignant, and he looked sad and depressed."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "And the Lord said to Cain, Why are you angry? And why do you look sad and depressed and dejected?"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "If you do well, will you not be accepted? And if you do not do well, sin crouches at your door; its desire is for you, but you must master it."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And Cain said to his brother, [b]Let us go out to the field. And when they were in the field, Cain rose up against Abel his brother and killed him.(B)"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "And the Lord said to Cain, Where is Abel your brother? And he said, I do not know. Am I my brother’s keeper?"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And [the Lord] said, What have you done? The voice of your brother’s blood is crying to Me from the ground."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And now you are cursed by reason of the earth, which has opened its mouth to receive your brother’s [shed] blood from your hand."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When you till the ground, it shall no longer yield to you its strength; you shall be a fugitive and a vagabond on the earth [in perpetual exile, a degraded outcast]."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Then Cain said to the Lord, My punishment is [c]greater than I can bear."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Behold, You have driven me out this day from the face of the land, and from Your face I will be hidden; and I will be a fugitive and a vagabond and a wanderer on the earth, and whoever finds me will kill me."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And the Lord said to him, [d]Therefore, if anyone kills Cain, vengeance shall be taken on him sevenfold. And the Lord set a [e]mark or sign upon Cain, lest anyone finding him should kill him."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So Cain went away from the presence of the Lord and dwelt in the land of Nod [wandering], east of Eden."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And Cain’s wife [one of Adam’s offspring] became pregnant and bore Enoch; and Cain built a [f]city and named it after his son Enoch."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "To Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael the father of Methusael, and Methusael the father of Lamech."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And Lamech took two wives; the name of the one was Adah and of the other was Zillah."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Adah bore Jabal; he was the father of those who dwell in tents and have cattle and purchase possessions."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "His brother’s name was Jubal; he was the father of all those who play the lyre and pipe."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Zillah bore Tubal-cain; he was the forger of all [cutting] instruments of bronze and iron. The sister of Tubal-cain was Naamah."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Lamech said to his wives, Adah and Zillah, Hear my voice; you wives of Lamech, listen to what I say; for I have slain a man [merely] for wounding me, and a young man [only] for striking and bruising me."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "If Cain is avenged sevenfold, truly Lamech [will be avenged] seventy-sevenfold."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "And Adam’s wife again became pregnant, and she bore a son and called his name Seth. For God, she said, has appointed for me another child instead of Abel, for Cain slew him."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "And to Seth also a son was born, whom he named Enosh. At that time men began to call [upon God] by the name of the Lord."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "5 This is the book (the written record, the history) of the generations of the offspring of Adam. When God created man, He made him in the likeness of God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He created them male and female and blessed them and named them [both] Adam [Man] at the time they were created."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When Adam had lived 10 years, he had a son in his own likeness, after his image; and he named him Seth."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "After he had Seth, Adam lived 800 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So altogether Adam lived 930 years, and he died."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When Seth was 105 years old, Enosh was born."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Seth lived after the birth of Enosh 80 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So Seth lived 912 years, and he died."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "When Enosh was 0 years old, Kenan was born to him."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Enosh lived after the birth of Kenan 815 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Enosh lived 905 years, and he died."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When Kenan was 70 years old, Mahalalel was born."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Kenan lived after the birth of Mahalalel 840 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So Kenan lived 910 years, and he died."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "When Mahalalel was 65 years old, Jared was born."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Mahalalel lived after the birth of Jared 830 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So Mahalalel lived 895 years, and he died."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When Jared was 162 years old, Enoch was born."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Jared lived after the birth of Enoch 800 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "So Jared lived 962 years, and he died."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "When Enoch was 65 years old, Methuselah was born."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Enoch walked [in habitual fellowship] with God after the birth of Methuselah 300 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So all the days of Enoch were 365 years."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "And Enoch walked [in habitual fellowship] with God; and he was not, for God took him [home with Him].(A)"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "When Methuselah was 187 years old, Lamech was born to him."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Methuselah lived after the birth of Lamech 782 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "So Methuselah lived 969 years, and he died."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "When Lamech was 182 years old, a son was born."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "He named him Noah, saying, This one shall bring us relief and comfort from our work and the [grievous] toil of our hands due to the ground being cursed by the Lord."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Lamech lived after the birth of Noah 595 years and had other sons and daughters."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "So all the days of [a]Lamech were 777 years, and he died."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "6 When men began to multiply on the face of the land and daughters were born to them,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The sons of God saw that the daughters of men were fair, and they took wives of all they desired and chose."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Then the Lord said, My Spirit shall not forever dwell and strive with man, for he also is flesh; but his days shall yet be 120 years."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "There were giants on the earth in those days—and also afterward—when the sons of God lived with the daughters of men, and they bore children to them. These were the mighty men who were of old, men of renown."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The Lord saw that the wickedness of man was great in the earth, and that every imagination and intention of all human thinking was only evil continually."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "And the Lord regretted that He had made man on the earth, and He was grieved at heart."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So the Lord said, I will destroy, blot out, and wipe away mankind, whom I have created from the face of the ground—not only man, [but] the beasts and the creeping things and the birds of the air—for it grieves Me and makes Me regretful that I have made them."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "But Noah found grace (favor) in the eyes of the Lord."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "This is the history of the generations of Noah. Noah was a just and righteous man, blameless in his [evil] generation; Noah walked [in habitual fellowship] with God."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And Noah became the father of three sons: Shem, Ham, and Japheth."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The earth was depraved and putrid in God’s sight, and the land was filled with violence (desecration, infringement, outrage, assault, and lust for power)."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And God looked upon the world and saw how degenerate, debased, and vicious it was, for all humanity had corrupted their way upon the earth and lost their true direction."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "God said to Noah, I intend to make an end of all flesh, for through men the land is filled with violence; and behold, I will [a]destroy them and the land."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Make yourself an ark of gopher or cypress wood; make in it rooms (stalls, pens, coops, nests, cages, and compartments) and cover it inside and out with pitch (bitumen)."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And this is the way you are to make it: the length of the ark shall be 300 cubits, its breadth 50 cubits, and its height 30 cubits [that is, 450 ft. x 75 ft. x 45 ft.]."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "You shall make a roof or [b]window [a place for light] for the ark and finish it to a cubit [at least 18 inches] above—and the [c]door of the ark you shall put in the side of it; and you shall make it with lower, second, and third stories."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "For behold, I, even I, will bring a flood of waters upon the earth to destroy and make putrid all flesh under the heavens in which are the breath and spirit of life; everything that is on the land shall die."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "But I will establish My covenant (promise, pledge) with you, and you shall come into the ark—you and your sons and your wife and your sons’ wives with you."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And of every living thing of all flesh [found on land], you shall bring two of every sort into the ark, to keep them alive with you; they shall be male and female."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Of fowls and birds according to their kinds, of beasts according to their kinds, of every creeping thing of the ground according to its kind—two of every sort shall come in with you, that they may be kept alive."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Also take with you every sort of food that is eaten, and you shall collect and store it up, and it shall serve as food for you and for them."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Noah did this; he did all that God commanded him."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "7 And the Lord said to Noah, Come with all your household into the ark, for I have seen you to be righteous (upright and in right standing) before Me in this generation.(A)"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Of every clean beast you shall receive and take with you seven pairs, the male and his mate, and of beasts that are not clean a pair of each kind, the male and his mate,(B)"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Also of the birds of the air seven pairs, the male and the female, to keep seed [their kind] alive over all the earth or land."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "For in seven days I will cause it to rain upon the earth forty days and forty nights, and every living substance and thing that I have made I will destroy, blot out, and wipe away from the face of the earth."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And Noah did all that the Lord commanded him.(C)"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Noah was 00 years old when the flood of waters came upon the earth or land."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "And Noah and his sons and his wife and his sons’ wives with him went into the ark because of the waters of the flood.(D)"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Of [a]clean animals and of animals that are not clean, and of birds and fowls, and of everything that creeps on the ground,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "There went in two and two with Noah into the ark, the male and the female, as God had commanded Noah."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And after the seven days the floodwaters came upon the earth or land."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "In the year 600 of Noah’s life, in the seventeenth day of the second month, that same day all the fountains of the great deep were broken up and burst forth, and the windows and floodgates of the heavens were opened."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And it rained upon the earth forty days and forty nights."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "On the very same day Noah and Shem, Ham, and Japheth, the sons of Noah, and Noah’s wife and the three wives of his sons with them, went into the ark,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They and every [wild] beast according to its kind, all the livestock according to their kinds, every moving thing that creeps on the land according to its kind, and every fowl according to its kind, every winged thing of every sort."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And they went into the ark with Noah, two and two of all flesh in which there were the breath and spirit of life."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "And they that entered, male and female of all flesh, went in as God had commanded [Noah]; and the Lord shut him in and closed [the door] round about him."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The flood [that is, the downpour of rain] was forty days upon the earth; and the waters increased and bore up the ark, and it was lifted [high] above the land."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "And the waters became mighty and increased greatly upon the land, and the ark went [gently floating] upon the surface of the waters."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And the waters prevailed so exceedingly and were so mighty upon the earth that all the high hills under the whole sky were covered."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "[In fact] the waters became fifteen cubits higher, as the high hills were covered."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "And all flesh ceased to breathe that moved upon the earth—fowls and birds, [tame] animals, [wild] beasts, all swarming and creeping things that swarm and creep upon the land, and all mankind."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Everything on the dry land in whose nostrils were the breath and spirit of life died."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "God destroyed (blotted out) every living thing that was upon the face of the earth; man and animals and the creeping things and the birds of the heavens were destroyed (blotted out) from the land. Only Noah remained alive, and those who were with him in the ark.(E)"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "And the waters prevailed [mightily] upon the earth or land 150 days (five months)."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "8 And God [earnestly] remembered Noah and every living thing and all the animals that were with him in the ark; and God made a wind blow over the land, and the waters sank down and abated."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Also the fountains of the deep and the windows of the heavens were closed, the gushing rain from the sky was checked,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And the waters receded from the land continually. At the end of 150 days the waters had diminished."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "On the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat [in Armenia]."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And the waters continued to diminish until the tenth month; on the first day of the tenth month the tops of the high hills were seen."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "At the end of [another] forty days Noah opened a window of the ark which he had made"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "And sent forth a raven, which kept going to and fro until the waters were dried up from the land."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then he sent forth a dove to see if the waters had decreased from the surface of the ground."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But the dove found no resting-place on which to roost, and she returned to him to the ark, for the waters were [yet] on the face of the whole land. So he put forth his hand and drew her to him into the ark."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He waited another seven days and again sent forth the dove out of the ark."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And the dove came back to him in the evening, and behold, in her mouth was a newly sprouted and freshly plucked olive leaf! So Noah knew that the waters had subsided from the land."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then he waited another seven days and sent forth the dove, but she did not return to him any more."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "In the year 601 [of Noah’s life], on the first day of the first month, the waters were drying up from the land. And Noah [a]removed the covering of the ark and looked, and behold, the surface of the ground was drying."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "And on the twenty-seventh day of the second month the land was entirely dry."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And God spoke to Noah, saying,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Go forth from the ark, you and your wife and your sons and their wives with you."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Bring forth every living thing that is with you of all flesh—birds and beasts and every creeping thing that creeps on the ground—that they may breed abundantly on the land and be fruitful and multiply upon the earth."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "And Noah went forth, and his wife and his sons and their wives with him [after being in the ark one year and ten days]."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Every beast, every creeping thing, every bird—and whatever moves on the land—went forth by families out of the ark."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And Noah built an altar to the Lord and took of every clean [four-footed] animal and of every clean fowl or bird and offered burnt offerings on the altar."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "When the Lord smelled the pleasing odor [a scent of satisfaction to His heart], the Lord said to Himself, I will never again curse the ground because of man, for the imagination (the strong desire) of man’s heart is evil and wicked from his youth; neither will I ever again smite and destroy every living thing, as I have done."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "While the earth remains, seedtime and harvest, cold and heat, summer and winter, and day and night shall not cease."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "9 And God pronounced a blessing upon Noah and his sons and said to them, Be fruitful and multiply and fill the earth."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And the fear of you and the dread and terror of you shall be upon every beast of the land, every bird of the air, all that creeps upon the ground, and upon all the fish of the sea; they are delivered into your hand."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Every moving thing that lives shall be food for you; and as I gave you the green vegetables and plants, I give you everything."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But you shall not eat flesh with the life of it, which is its blood."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And surely for your lifeblood I will require an accounting; from every beast I will require it; and from man, from every man [who spills another’s lifeblood] I will require a reckoning."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Whoever sheds man’s blood, by man shall his blood be shed; for in the image of God He made man."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "And you, be fruitful and multiply; bring forth abundantly on the earth and multiply on it."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then God spoke to Noah and to his sons with him, saying,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Behold, I establish My covenant or pledge with you and with your descendants after you"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And with every living creature that is with you—whether the birds, the livestock, or the wild beasts of the earth along with you, as many as came out of the ark—every animal of the earth."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I will establish My covenant or pledge with you: Never again shall all flesh be cut off by the waters of a flood; neither shall there ever again be a flood to destroy the earth and make it corrupt."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And God said, This is the token of the covenant (solemn pledge) which I am making between Me and you and every living creature that is with you, for all future generations:"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I set My bow [rainbow] in the cloud, and it shall be a token or sign of a covenant or solemn pledge between Me and the earth."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "And it shall be that when I bring clouds over the earth and the bow [rainbow] is seen in the clouds,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I will [earnestly] remember My covenant or solemn pledge which is between Me and you and every living creature of all flesh; and the waters will no more become a flood to destroy and make all flesh corrupt."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "When the bow [rainbow] is in the clouds and I look upon it, I will [earnestly] remember the everlasting covenant or pledge between God and every living creature of all flesh that is upon the earth."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And God said to Noah, This [rainbow] is the token or sign of the covenant or solemn pledge which I have established between Me and all flesh upon the earth."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. Ham was the father of Canaan [born later]."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "These are the three sons of Noah, and from them the whole earth was overspread and stocked with inhabitants."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And Noah began to cultivate the ground, and he planted a vineyard."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "And he drank of the wine and became drunk, and he was uncovered and lay naked in his tent."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And Ham, the father of Canaan, glanced at and saw the nakedness of his father and told his two brothers outside."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So Shem and Japheth took a garment, laid it upon the shoulders of both, and went backward and covered the nakedness of their father; and their faces were backward, and they did not see their father’s nakedness."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "When Noah awoke from his wine, and knew the thing which his youngest son had done to him,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "He exclaimed, Cursed be Canaan! He shall be the [a]servant of servants to his brethren!(A)"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "He also said, Blessed be the Lord, the God of Shem! And blessed by the Lord my God be Shem! And let Canaan be his servant."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "May God enlarge Japheth; and let him dwell in the tents of Shem, and let Canaan be his servant."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "And Noah lived after the flood 350 years."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "All the days of Noah were 950 years, and he died."
+            }
+        ]
+    }
+}
