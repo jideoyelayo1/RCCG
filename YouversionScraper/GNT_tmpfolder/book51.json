@@ -3,11 +3,11 @@
         "1": [
             {
                 "verse_number": "1",
-                "verse_text": "From Paul, who by God's will is an apostle of Christ Jesus, and from our brother Timothy—"
+                "verse_text": "From Paul, who by God's will is an apostle of Christ Jesus, and from our brother Timothy— May God our Father give you grace and peace."
             },
             {
                 "verse_number": "2",
-                "verse_text": "To God's people in Colossae, who are our faithful friends in union with Christ: May God our Father give you grace and peace."
+                "verse_text": "To God's people in Colossae, who are our faithful friends in union with Christ:"
             },
             {
                 "verse_number": "3",
@@ -27,11 +27,7 @@
             },
             {
                 "verse_number": "7",
-                "verse_text": "You learned of God's grace from Epaphras, our dear fellow servant, who is Christ's faithful worker on our"
-            },
-            {
-                "verse_number": "7",
-                "verse_text": "behalf."
+                "verse_text": "You learned of God's grace from Epaphras, our dear fellow servant, who is Christ's faithful worker on our behalf."
             },
             {
                 "verse_number": "8",
@@ -75,11 +71,7 @@
             },
             {
                 "verse_number": "20",
-                "verse_text": "Through the Son, then, God decided to bring the whole universe back to himself. God made peace through his Son's blood"
-            },
-            {
-                "verse_number": "20",
-                "verse_text": "on the cross and so brought back to himself all things, both on earth and in heaven."
+                "verse_text": "Through the Son, then, God decided to bring the whole universe back to himself. God made peace through his Son's blood on the cross and so brought back to himself all things, both on earth and in heaven."
             },
             {
                 "verse_number": "21",
@@ -177,11 +169,7 @@
             },
             {
                 "verse_number": "15",
-                "verse_text": "And on that cross Christ freed himself from the power of the spiritual rulers and authorities;"
-            },
-            {
-                "verse_number": "15",
-                "verse_text": "he made a public spectacle of them by leading them as captives in his victory procession."
+                "verse_text": "And on that cross Christ freed himself from the power of the spiritual rulers and authorities; he made a public spectacle of them by leading them as captives in his victory procession."
             },
             {
                 "verse_number": "16",
@@ -321,7 +309,7 @@
         "4": [
             {
                 "verse_number": "1",
-                "verse_text": "Masters, be fair and just in the way you treat your slaves. Remember that you too have a Master in heaven."
+                "verse_text": "Masters, be fair and just in the way you treat your slaves. Remember that you too have a Master in heaven. May God's grace be with you."
             },
             {
                 "verse_number": "2",
@@ -389,15 +377,7 @@
             },
             {
                 "verse_number": "18",
-                "verse_text": "With my own hand I write this:"
-            },
-            {
-                "verse_number": "18",
-                "verse_text": "Greetings from Paul"
-            },
-            {
-                "verse_number": "18",
-                "verse_text": ". Do not forget my chains! May God's grace be with you."
+                "verse_text": "With my own hand I write this: Greetings from Paul . Do not forget my chains!"
             }
         ]
     }

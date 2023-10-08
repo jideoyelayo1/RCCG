@@ -3,11 +3,11 @@
         "1": [
             {
                 "verse_number": "1",
-                "verse_text": "From Paul, an apostle of Christ Jesus by order of God our Savior and Christ Jesus our hope—"
+                "verse_text": "From Paul, an apostle of Christ Jesus by order of God our Savior and Christ Jesus our hope— May God the Father and Christ Jesus our Lord give you grace, mercy, and peace."
             },
             {
                 "verse_number": "2",
-                "verse_text": "To Timothy, my true son in the faith: May God the Father and Christ Jesus our Lord give you grace, mercy, and peace."
+                "verse_text": "To Timothy, my true son in the faith:"
             },
             {
                 "verse_number": "3",
@@ -141,15 +141,7 @@
             },
             {
                 "verse_number": "15",
-                "verse_text": "But a woman will be saved through having children,"
-            },
-            {
-                "verse_number": "15",
-                "verse_text": "if she perseveres"
-            },
-            {
-                "verse_number": "15",
-                "verse_text": "in faith and love and holiness, with modesty."
+                "verse_text": "But a woman will be saved through having children, if she perseveres in faith and love and holiness, with modesty."
             }
         ],
         "3": [
@@ -159,11 +151,7 @@
             },
             {
                 "verse_number": "2",
-                "verse_text": "A church leader must be without fault; he must have only one wife,"
-            },
-            {
-                "verse_number": "2",
-                "verse_text": "be sober, self-controlled, and orderly; he must welcome strangers in his home; he must be able to teach;"
+                "verse_text": "A church leader must be without fault; he must have only one wife, be sober, self-controlled, and orderly; he must welcome strangers in his home; he must be able to teach;"
             },
             {
                 "verse_number": "3",
@@ -183,7 +171,7 @@
             },
             {
                 "verse_number": "7",
-                "verse_text": "He should be a man who is respected by the people outside the church, so that he will not be disgraced and fall into the Devil's trap."
+                "verse_text": "He should be a man who is respected by the people outside the church, so that he will not be disgraced and fall into the Devil's trap. He appeared in human form, and was seen by angels. He was preached among the nations, was believed in throughout the world, and was taken up to heaven."
             },
             {
                 "verse_number": "8",
@@ -199,19 +187,11 @@
             },
             {
                 "verse_number": "11",
-                "verse_text": "Their wives"
-            },
-            {
-                "verse_number": "11",
-                "verse_text": "also must be of good character and must not gossip; they must be sober and honest in everything."
+                "verse_text": "Their wives also must be of good character and must not gossip; they must be sober and honest in everything."
             },
             {
                 "verse_number": "12",
-                "verse_text": "A church helper must have only one wife,"
-            },
-            {
-                "verse_number": "12",
-                "verse_text": "and be able to manage his children and family well."
+                "verse_text": "A church helper must have only one wife, and be able to manage his children and family well."
             },
             {
                 "verse_number": "13",
@@ -227,7 +207,7 @@
             },
             {
                 "verse_number": "16",
-                "verse_text": "No one can deny how great is the secret of our religion: He appeared in human form, was shown to be right by the Spirit, and was seen by angels. He was preached among the nations, was believed in throughout the world, and was taken up to heaven."
+                "verse_text": "No one can deny how great is the secret of our religion: was shown to be right by the Spirit,"
             }
         ],
         "4": [
@@ -269,11 +249,7 @@
             },
             {
                 "verse_number": "10",
-                "verse_text": "We struggle"
-            },
-            {
-                "verse_number": "10",
-                "verse_text": "and work hard, because we have placed our hope in the living God, who is the Savior of all and especially of those who believe."
+                "verse_text": "We struggle and work hard, because we have placed our hope in the living God, who is the Savior of all and especially of those who believe."
             },
             {
                 "verse_number": "11",
@@ -409,7 +385,7 @@
             },
             {
                 "verse_number": "2",
-                "verse_text": "Slaves belonging to Christian masters must not despise them, for they are believers too. Instead, they are to serve them even better, because those who benefit from their work are believers whom they love. You must teach and preach these things."
+                "verse_text": "Slaves belonging to Christian masters must not despise them, for they are believers too. Instead, they are to serve them even better, because those who benefit from their work are believers whom they love. You must teach and preach these things. God's grace be with you all."
             },
             {
                 "verse_number": "3",
@@ -485,7 +461,7 @@
             },
             {
                 "verse_number": "21",
-                "verse_text": "For some have claimed to possess it, and as a result they have lost the way of faith. God's grace be with you all."
+                "verse_text": "For some have claimed to possess it, and as a result they have lost the way of faith."
             }
         ]
     }

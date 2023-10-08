@@ -7,6 +7,8 @@ import csv
 import json
 import xml.etree.ElementTree as ET
 import time
+import xml.dom.minidom
+
 
 
 def convert_text_to_json(book_name, chapter, text, json_data):
@@ -60,6 +62,7 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
 
         current_verse_number = None
         verses_text = ""
+        verses = {}
 
         for verse_element in verse_elements:
             verse_number_span = verse_element.find_previous(
@@ -75,6 +78,16 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
                 verse_text = verse_element.get_text().strip()
                 verse_text = re.sub(r'^(Unknown|#):', '', verse_text)
                 verses_text += f"{verse_number}: {verse_text}\n"
+                verse_text = verse_text
+                if verse_number not in verses:
+                    verses[verse_number] = verse_text
+                else:
+                    verses[verse_number] += " " + verse_text
+        
+        verses_text = ""
+        for verse_number, verse_text in verses.items():
+            verses_text += f"{verse_number}: {verse_text}\n"
+
 
         processed_text = ""
         for line in verses_text.splitlines():
@@ -123,6 +136,30 @@ def Load_cvs():
     return res
 
 
+def getbibleList():
+    res = []
+    with open('biblebooks.csv') as file:
+        csv_reader = csv.reader(file)
+        rowCnt = 0
+
+        for row in csv_reader:
+            if rowCnt == 0:
+                rowCnt += 1
+                continue
+            bookname = row[0].strip()
+            chapterLength = row[1].strip()
+            biblecode = row[2].strip()
+            if biblecode == "N/A":
+                res.append(None)
+                continue
+            res.append(bookname)
+            rowCnt += 1
+
+    if len(res) == 0:
+        print("Error with loading CSV")
+    return res
+
+
 def formatBookName(s):
     if not s[0].isdigit():
         return s[0].upper() + s[1:]
@@ -130,13 +167,16 @@ def formatBookName(s):
         return s[0] + " " + s[1].upper() + s[2:]
 
 
+
 def json_to_xml(data, version):
     root = ET.Element("XMLBIBLE", attrib={
                       "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "biblename": f"ENGLISH_{version}"})
-
+    lst = getbibleList()
+    
     for book_name, chapters in data.items():
+        bNum = lst.index((book_name)) + 1
         book_element = ET.SubElement(root, "BIBLEBOOK", attrib={
-                                     "bname": formatBookName(book_name)})
+                                     "bnumber": str(bNum),"bname": formatBookName(book_name) })
 
         for chapter_name, verses in chapters.items():
             chapter_element = ET.SubElement(book_element, "CHAPTER", attrib={
@@ -147,14 +187,16 @@ def json_to_xml(data, version):
                                               "vnumber": verse["verse_number"]})
                 verse_element.text = verse["verse_text"]
 
-        print(book_name + " has been added to the XML file.")
-
     xml_str = ET.tostring(root, encoding="UTF-8", method="xml").decode()
 
-    xml_lines = xml_str.split('>')
-    formatted_xml = '>'.join(xml_lines)
+    # Use minidom to prettify the XML with indentation and line breaks
+    dom = xml.dom.minidom.parseString(xml_str)
+    pretty_xml_str = dom.toprettyxml()
 
-    return formatted_xml
+    return pretty_xml_str
+
+
+
 
 
 def webScrap(version):
@@ -260,12 +302,8 @@ def postProcess(version):
 
     tree.write(f'bible_{version}.xml')
 
-
-if __name__ == "__main__":
-    # Enter what version for the website Youversion You want to turn into an XML
-
-    # version = "TPT"
-    version = str(input("What version do you want? "))
+def run(version):
+    #version = str(input("What version do you want? "))
     print(f"Getting {version} and turning it into an XML")
     start_time = time.time()
 
@@ -277,4 +315,17 @@ if __name__ == "__main__":
 
     elapsed_time = end_time - start_time
 
-    print(f"Program took: {elapsed_time} seconds( {elapsed_time//60} mins)")
+    print(f"Program took: {elapsed_time} seconds( {elapsed_time//60} mins for {version})")
+
+if __name__ == "__main__":
+    version = str(input("What version do you want? "))
+    run(version)
+    #run("AMP")
+    #run("AMPC")
+    #run("ASV")
+    #run("CEB")
+    #run("ERV")
+    #run("GNBDC")
+    #run("GNT")
+    #run("NET")
+    #run("TPT")

@@ -3,7 +3,7 @@
         "1": [
             {
                 "verse_number": "1",
-                "verse_text": "From Paul, a servant of Christ Jesus and an apostle chosen and called by God to preach his Good News."
+                "verse_text": "From Paul, a servant of Christ Jesus and an apostle chosen and called by God to preach his Good News. May God our Father and the Lord Jesus Christ give you grace and peace."
             },
             {
                 "verse_number": "2",
@@ -27,7 +27,7 @@
             },
             {
                 "verse_number": "7",
-                "verse_text": "And so I write to all of you in Rome whom God loves and has called to be his own people: May God our Father and the Lord Jesus Christ give you grace and peace."
+                "verse_text": "And so I write to all of you in Rome whom God loves and has called to be his own people:"
             },
             {
                 "verse_number": "8",
@@ -119,11 +119,7 @@
             },
             {
                 "verse_number": "30",
-                "verse_text": "and speak evil of one another; they are hateful to God, insolent,"
-            },
-            {
-                "verse_number": "30",
-                "verse_text": "proud, and boastful; they think of more ways to do evil; they disobey their parents;"
+                "verse_text": "and speak evil of one another; they are hateful to God, insolent, proud, and boastful; they think of more ways to do evil; they disobey their parents;"
             },
             {
                 "verse_number": "31",
@@ -267,7 +263,7 @@
             },
             {
                 "verse_number": "4",
-                "verse_text": "Certainly not! God must be true, even though all human beings are liars. As the scripture says, “You must be shown to be right when you speak; you must win your case when you are being tried.”"
+                "verse_text": "Certainly not! God must be true, even though all human beings are liars. As the scripture says, “You must be shown to be right when you speak; you must win your case when you are being tried.” “There is no one who is righteous, or who worships God. they have all gone wrong; no one does what is right, not even one. wicked lies roll off their tongues, and dangerous threats, like snake's poison, from their lips;"
             },
             {
                 "verse_number": "5",
@@ -287,27 +283,23 @@
             },
             {
                 "verse_number": "9",
-                "verse_text": "Well then, are we Jews in any better condition than the Gentiles? Not at all!"
-            },
-            {
-                "verse_number": "9",
-                "verse_text": "I have already shown that Jews and Gentiles alike are all under the power of sin."
+                "verse_text": "Well then, are we Jews in any better condition than the Gentiles? Not at all! I have already shown that Jews and Gentiles alike are all under the power of sin."
             },
             {
                 "verse_number": "10",
-                "verse_text": "As the Scriptures say: “There is no one who is righteous,"
+                "verse_text": "As the Scriptures say:"
             },
             {
                 "verse_number": "11",
-                "verse_text": "no one who is wise or who worships God."
+                "verse_text": "no one who is wise"
             },
             {
                 "verse_number": "12",
-                "verse_text": "All have turned away from God; they have all gone wrong; no one does what is right, not even one."
+                "verse_text": "All have turned away from God;"
             },
             {
                 "verse_number": "13",
-                "verse_text": "Their words are full of deadly deceit; wicked lies roll off their tongues, and dangerous threats, like snake's poison, from their lips;"
+                "verse_text": "Their words are full of deadly deceit;"
             },
             {
                 "verse_number": "14",
@@ -397,11 +389,11 @@
             },
             {
                 "verse_number": "6",
-                "verse_text": "This is what David meant when he spoke of the happiness of the person whom God accepts as righteous, apart from anything that person does:"
+                "verse_text": "This is what David meant when he spoke of the happiness of the person whom God accepts as righteous, apart from anything that person does: whose sins are pardoned!"
             },
             {
                 "verse_number": "7",
-                "verse_text": "“Happy are those whose wrongs are forgiven, whose sins are pardoned!"
+                "verse_text": "“Happy are those whose wrongs are forgiven,"
             },
             {
                 "verse_number": "8",
@@ -479,27 +471,15 @@
         "5": [
             {
                 "verse_number": "1",
-                "verse_text": "Now that we have been put right with God through faith, we have"
-            },
-            {
-                "verse_number": "1",
-                "verse_text": "peace with God through our Lord Jesus Christ."
+                "verse_text": "Now that we have been put right with God through faith, we have peace with God through our Lord Jesus Christ."
             },
             {
                 "verse_number": "2",
-                "verse_text": "He has brought us by faith into this experience of God's grace, in which we now live. And so we boast"
-            },
-            {
-                "verse_number": "2",
-                "verse_text": "of the hope we have of sharing God's glory!"
+                "verse_text": "He has brought us by faith into this experience of God's grace, in which we now live. And so we boast of the hope we have of sharing God's glory!"
             },
             {
                 "verse_number": "3",
-                "verse_text": "We also boast"
-            },
-            {
-                "verse_number": "3",
-                "verse_text": "of our troubles, because we know that trouble produces endurance,"
+                "verse_text": "We also boast of our troubles, because we know that trouble produces endurance,"
             },
             {
                 "verse_number": "4",
@@ -507,7 +487,7 @@
             },
             {
                 "verse_number": "5",
-                "verse_text": "This hope does not disappoint us, for God has poured out his love into our hearts by means of the Holy Spirit, who is God's gift to us."
+                "verse_text": "This hope does not disappoint us, for God has poured out his love into our hearts by means of the Holy Spirit, who is God's gift to us. Adam was a figure of the one who was to come."
             },
             {
                 "verse_number": "6",
@@ -523,11 +503,7 @@
             },
             {
                 "verse_number": "9",
-                "verse_text": "By his blood"
-            },
-            {
-                "verse_number": "9",
-                "verse_text": "we are now put right with God; how much more, then, will we be saved by him from God's anger!"
+                "verse_text": "By his blood we are now put right with God; how much more, then, will we be saved by him from God's anger!"
             },
             {
                 "verse_number": "10",
@@ -547,7 +523,7 @@
             },
             {
                 "verse_number": "14",
-                "verse_text": "But from the time of Adam to the time of Moses, death ruled over all human beings, even over those who did not sin in the same way that Adam did when he disobeyed God's command. Adam was a figure of the one who was to come."
+                "verse_text": "But from the time of Adam to the time of Moses, death ruled over all human beings, even over those who did not sin in the same way that Adam did when he disobeyed God's command."
             },
             {
                 "verse_number": "15",
@@ -695,7 +671,7 @@
             },
             {
                 "verse_number": "6",
-                "verse_text": "Now, however, we are free from the Law, because we died to that which once held us prisoners. No longer do we serve in the old way of a written law, but in the new way of the Spirit."
+                "verse_text": "Now, however, we are free from the Law, because we died to that which once held us prisoners. No longer do we serve in the old way of a written law, but in the new way of the Spirit. This, then, is my condition: on my own I can serve God's law only with my mind, while my human nature serves the law of sin."
             },
             {
                 "verse_number": "7",
@@ -771,7 +747,7 @@
             },
             {
                 "verse_number": "25",
-                "verse_text": "Thanks be to God, who does this through our Lord Jesus Christ! This, then, is my condition: on my own I can serve God's law only with my mind, while my human nature serves the law of sin."
+                "verse_text": "Thanks be to God, who does this through our Lord Jesus Christ!"
             }
         ],
         "8": [
@@ -781,11 +757,7 @@
             },
             {
                 "verse_number": "2",
-                "verse_text": "For the law of the Spirit, which brings us life in union with Christ Jesus, has set me"
-            },
-            {
-                "verse_number": "2",
-                "verse_text": "free from the law of sin and death."
+                "verse_text": "For the law of the Spirit, which brings us life in union with Christ Jesus, has set me free from the law of sin and death."
             },
             {
                 "verse_number": "3",
@@ -809,7 +781,7 @@
             },
             {
                 "verse_number": "8",
-                "verse_text": "Those who obey their human nature cannot please God."
+                "verse_text": "Those who obey their human nature cannot please God. “For your sake we are in danger of death at all times; we are treated like sheep that are going to be slaughtered.”"
             },
             {
                 "verse_number": "9",
@@ -817,11 +789,7 @@
             },
             {
                 "verse_number": "10",
-                "verse_text": "But if Christ lives in you, the Spirit is life for you"
-            },
-            {
-                "verse_number": "10",
-                "verse_text": "because you have been put right with God, even though your bodies are going to die because of sin."
+                "verse_text": "But if Christ lives in you, the Spirit is life for you because you have been put right with God, even though your bodies are going to die because of sin."
             },
             {
                 "verse_number": "11",
@@ -873,11 +841,7 @@
             },
             {
                 "verse_number": "23",
-                "verse_text": "But it is not just creation alone which groans; we who have the Spirit as the first of God's gifts also groan within ourselves as we wait for God to make us his children and"
-            },
-            {
-                "verse_number": "23",
-                "verse_text": "set our whole being free."
+                "verse_text": "But it is not just creation alone which groans; we who have the Spirit as the first of God's gifts also groan within ourselves as we wait for God to make us his children and set our whole being free."
             },
             {
                 "verse_number": "24",
@@ -897,11 +861,7 @@
             },
             {
                 "verse_number": "28",
-                "verse_text": "We know that in all things God works for good with those who love him,"
-            },
-            {
-                "verse_number": "28",
-                "verse_text": "those whom he has called according to his purpose."
+                "verse_text": "We know that in all things God works for good with those who love him, those whom he has called according to his purpose."
             },
             {
                 "verse_number": "29",
@@ -933,7 +893,7 @@
             },
             {
                 "verse_number": "36",
-                "verse_text": "As the scripture says, “For your sake we are in danger of death at all times; we are treated like sheep that are going to be slaughtered.”"
+                "verse_text": "As the scripture says,"
             },
             {
                 "verse_number": "37",
@@ -963,19 +923,11 @@
             },
             {
                 "verse_number": "4",
-                "verse_text": "They are God's people; he made them his children and revealed his glory to them; he made his covenants"
-            },
-            {
-                "verse_number": "4",
-                "verse_text": "with them and gave them the Law; they have the true worship; they have received God's promises;"
+                "verse_text": "They are God's people; he made them his children and revealed his glory to them; he made his covenants with them and gave them the Law; they have the true worship; they have received God's promises;"
             },
             {
                 "verse_number": "5",
-                "verse_text": "they are descended from the famous Hebrew ancestors; and Christ, as a human being, belongs to their race. May God, who rules over all, be praised forever!"
-            },
-            {
-                "verse_number": "5",
-                "verse_text": "Amen."
+                "verse_text": "they are descended from the famous Hebrew ancestors; and Christ, as a human being, belongs to their race. May God, who rules over all, be praised forever! Amen. “The people who were not mine I will call ‘My People.’ The nation that I did not love I will call ‘My Beloved.’ there they will be called the children of the living God.” “Look, I place in Zion a stone that will make people stumble, a rock that will make them fall. But whoever believes in him will not be disappointed.”"
             },
             {
                 "verse_number": "6",
@@ -987,19 +939,11 @@
             },
             {
                 "verse_number": "8",
-                "verse_text": "This means that the children born in the usual way"
-            },
-            {
-                "verse_number": "8",
-                "verse_text": "are not the children of God; instead, the children born as a result of God's promise are regarded as the true descendants."
+                "verse_text": "This means that the children born in the usual way are not the children of God; instead, the children born as a result of God's promise are regarded as the true descendants."
             },
             {
                 "verse_number": "9",
-                "verse_text": "For God's promise was made in these words: “At the right time"
-            },
-            {
-                "verse_number": "9",
-                "verse_text": "I will come back, and Sarah will have a son.”"
+                "verse_text": "For God's promise was made in these words: “At the right time I will come back, and Sarah will have a son.”"
             },
             {
                 "verse_number": "10",
@@ -1055,11 +999,11 @@
             },
             {
                 "verse_number": "25",
-                "verse_text": "This is what he says in the book of Hosea: “The people who were not mine I will call ‘My People.’ The nation that I did not love I will call ‘My Beloved.’"
+                "verse_text": "This is what he says in the book of Hosea:"
             },
             {
                 "verse_number": "26",
-                "verse_text": "And in the very place where they were told, ‘You are not my people,’ there they will be called the children of the living God.”"
+                "verse_text": "And in the very place where they were told, ‘You are not my people,’"
             },
             {
                 "verse_number": "27",
@@ -1087,7 +1031,7 @@
             },
             {
                 "verse_number": "33",
-                "verse_text": "that the scripture speaks of: “Look, I place in Zion a stone that will make people stumble, a rock that will make them fall. But whoever believes in him will not be disappointed.”"
+                "verse_text": "that the scripture speaks of:"
             }
         ],
         "10": [
@@ -1105,7 +1049,7 @@
             },
             {
                 "verse_number": "4",
-                "verse_text": "For Christ has brought the Law to an end, so that everyone who believes is put right with God."
+                "verse_text": "For Christ has brought the Law to an end, so that everyone who believes is put right with God. “The sound of their voice went out to all the world; their words reached the ends of the earth.” “I will use a so-called nation to make my people jealous; and by means of a nation of fools I will make my people angry.” “I was found by those who were not looking for me; I appeared to those who were not asking for me.”"
             },
             {
                 "verse_number": "5",
@@ -1161,15 +1105,15 @@
             },
             {
                 "verse_number": "18",
-                "verse_text": "But I ask: Is it true that they did not hear the message? Of course they did—for as the scripture says: “The sound of their voice went out to all the world; their words reached the ends of the earth.”"
+                "verse_text": "But I ask: Is it true that they did not hear the message? Of course they did—for as the scripture says:"
             },
             {
                 "verse_number": "19",
-                "verse_text": "Again I ask: Did the people of Israel not understand? Moses himself is the first one to answer: “I will use a so-called nation to make my people jealous; and by means of a nation of fools I will make my people angry.”"
+                "verse_text": "Again I ask: Did the people of Israel not understand? Moses himself is the first one to answer:"
             },
             {
                 "verse_number": "20",
-                "verse_text": "And Isaiah is even bolder when he says, “I was found by those who were not looking for me; I appeared to those who were not asking for me.”"
+                "verse_text": "And Isaiah is even bolder when he says,"
             },
             {
                 "verse_number": "21",
@@ -1199,7 +1143,7 @@
             },
             {
                 "verse_number": "6",
-                "verse_text": "His choice is based on his grace, not on what they have done. For if God's choice were based on what people do, then his grace would not be real grace."
+                "verse_text": "His choice is based on his grace, not on what they have done. For if God's choice were based on what people do, then his grace would not be real grace. “May they be caught and trapped at their feasts; may they fall, may they be punished! and make them bend under their troubles at all times.” “The Savior will come from Zion and remove all wickedness from the descendants of Jacob. when I take away their sins.” “Who knows the mind of the Lord? Who is able to give him advice? so that he had to pay it back?”"
             },
             {
                 "verse_number": "7",
@@ -1211,11 +1155,11 @@
             },
             {
                 "verse_number": "9",
-                "verse_text": "And David says, “May they be caught and trapped at their feasts; may they fall, may they be punished!"
+                "verse_text": "And David says,"
             },
             {
                 "verse_number": "10",
-                "verse_text": "May their eyes be blinded so that they cannot see; and make them bend under their troubles at all times.”"
+                "verse_text": "May their eyes be blinded so that they cannot see;"
             },
             {
                 "verse_number": "11",
@@ -1279,11 +1223,11 @@
             },
             {
                 "verse_number": "26",
-                "verse_text": "And this is how all Israel will be saved. As the scripture says, “The Savior will come from Zion and remove all wickedness from the descendants of Jacob."
+                "verse_text": "And this is how all Israel will be saved. As the scripture says,"
             },
             {
                 "verse_number": "27",
-                "verse_text": "I will make this covenant with them when I take away their sins.”"
+                "verse_text": "I will make this covenant with them"
             },
             {
                 "verse_number": "28",
@@ -1299,11 +1243,7 @@
             },
             {
                 "verse_number": "31",
-                "verse_text": "In the same way, because of the mercy that you have received, the Jews now disobey God, in order that they also may now"
-            },
-            {
-                "verse_number": "31",
-                "verse_text": "receive God's mercy."
+                "verse_text": "In the same way, because of the mercy that you have received, the Jews now disobey God, in order that they also may now receive God's mercy."
             },
             {
                 "verse_number": "32",
@@ -1315,11 +1255,11 @@
             },
             {
                 "verse_number": "34",
-                "verse_text": "As the scripture says, “Who knows the mind of the Lord? Who is able to give him advice?"
+                "verse_text": "As the scripture says,"
             },
             {
                 "verse_number": "35",
-                "verse_text": "Who has ever given him anything, so that he had to pay it back?”"
+                "verse_text": "Who has ever given him anything,"
             },
             {
                 "verse_number": "36",
@@ -1389,11 +1329,7 @@
             },
             {
                 "verse_number": "16",
-                "verse_text": "Have the same concern for everyone. Do not be proud, but accept humble duties."
-            },
-            {
-                "verse_number": "16",
-                "verse_text": "Do not think of yourselves as wise."
+                "verse_text": "Have the same concern for everyone. Do not be proud, but accept humble duties. Do not think of yourselves as wise."
             },
             {
                 "verse_number": "17",
@@ -1489,7 +1425,7 @@
             },
             {
                 "verse_number": "4",
-                "verse_text": "Who are you to judge the servants of someone else? It is their own Master who will decide whether they succeed or fail. And they will succeed, because the Lord is able to make them succeed."
+                "verse_text": "Who are you to judge the servants of someone else? It is their own Master who will decide whether they succeed or fail. And they will succeed, because the Lord is able to make them succeed. “As surely as I am the living God, says the Lord, everyone will kneel before me, and everyone will confess that I am God.”"
             },
             {
                 "verse_number": "5",
@@ -1517,7 +1453,7 @@
             },
             {
                 "verse_number": "11",
-                "verse_text": "For the scripture says, “As surely as I am the living God, says the Lord, everyone will kneel before me, and everyone will confess that I am God.”"
+                "verse_text": "For the scripture says,"
             },
             {
                 "verse_number": "12",
@@ -1549,11 +1485,7 @@
             },
             {
                 "verse_number": "19",
-                "verse_text": "So then, we must always aim"
-            },
-            {
-                "verse_number": "19",
-                "verse_text": "at those things that bring peace and that help strengthen one another."
+                "verse_text": "So then, we must always aim at those things that bring peace and that help strengthen one another."
             },
             {
                 "verse_number": "20",
@@ -1595,7 +1527,7 @@
             },
             {
                 "verse_number": "6",
-                "verse_text": "so that all of you together may praise with one voice the God and Father of our Lord Jesus Christ."
+                "verse_text": "so that all of you together may praise with one voice the God and Father of our Lord Jesus Christ. “And so I will praise you among the Gentiles; I will sing praises to you.” “Rejoice, Gentiles, with God's people!” “Praise the Lord, all Gentiles; praise him, all peoples!” “A descendant of Jesse will appear; he will come to rule the Gentiles, and they will put their hope in him.” “Those who were not told about him will see, and those who have not heard will understand.”"
             },
             {
                 "verse_number": "7",
@@ -1607,19 +1539,19 @@
             },
             {
                 "verse_number": "9",
-                "verse_text": "and to enable even the Gentiles to praise God for his mercy. As the scripture says, “And so I will praise you among the Gentiles; I will sing praises to you.”"
+                "verse_text": "and to enable even the Gentiles to praise God for his mercy. As the scripture says,"
             },
             {
                 "verse_number": "10",
-                "verse_text": "Again it says, “Rejoice, Gentiles, with God's people!”"
+                "verse_text": "Again it says,"
             },
             {
                 "verse_number": "11",
-                "verse_text": "And again, “Praise the Lord, all Gentiles; praise him, all peoples!”"
+                "verse_text": "And again,"
             },
             {
                 "verse_number": "12",
-                "verse_text": "And again, Isaiah says, “A descendant of Jesse will appear; he will come to rule the Gentiles, and they will put their hope in him.”"
+                "verse_text": "And again, Isaiah says,"
             },
             {
                 "verse_number": "13",
@@ -1655,7 +1587,7 @@
             },
             {
                 "verse_number": "21",
-                "verse_text": "As the scripture says, “Those who were not told about him will see, and those who have not heard will understand.”"
+                "verse_text": "As the scripture says,"
             },
             {
                 "verse_number": "22",
@@ -1713,7 +1645,7 @@
             },
             {
                 "verse_number": "2",
-                "verse_text": "Receive her in the Lord's name, as God's people should, and give her any help she may need from you; for she herself has been a good friend to many people and also to me."
+                "verse_text": "Receive her in the Lord's name, as God's people should, and give her any help she may need from you; for she herself has been a good friend to many people and also to me. Greetings to my dear friend Epaenetus, who was the first in the province of Asia to believe in Christ."
             },
             {
                 "verse_number": "3",
@@ -1725,7 +1657,7 @@
             },
             {
                 "verse_number": "5",
-                "verse_text": "Greetings also to the church that meets in their house. Greetings to my dear friend Epaenetus, who was the first in the province of Asia to believe in Christ."
+                "verse_text": "Greetings also to the church that meets in their house."
             },
             {
                 "verse_number": "6",
@@ -1733,11 +1665,7 @@
             },
             {
                 "verse_number": "7",
-                "verse_text": "Greetings also to Andronicus and Junia,"
-            },
-            {
-                "verse_number": "7",
-                "verse_text": "fellow Jews who were in prison with me; they are well known among the apostles, and they became Christians before I did."
+                "verse_text": "Greetings also to Andronicus and Junia, fellow Jews who were in prison with me; they are well known among the apostles, and they became Christians before I did."
             },
             {
                 "verse_number": "8",
