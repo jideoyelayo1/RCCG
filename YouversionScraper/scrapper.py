@@ -112,6 +112,19 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
         processed_text = processed_text.replace("‘", "&quot;")
         processed_text = processed_text.replace("—", "&ndash;")
         processed_text = processed_text.replace("–", "&ndash;")
+        processed_text = processed_text.replace(" ", "&nbsp;")
+        processed_text = processed_text.replace("–", "&ndash;")
+        processed_text = processed_text.replace("—", "&mdash;")
+        processed_text = processed_text.replace("…", "&hellip;")
+        processed_text = processed_text.replace("†", "&dagger;")
+        processed_text = processed_text.replace("‡", "&Dagger;")
+        processed_text = processed_text.replace("•", "&bull;")
+        processed_text = processed_text.replace("©", "&copy;")
+        processed_text = processed_text.replace("™", "&trade;")
+        processed_text = processed_text.replace("→", "&rarr;")
+        processed_text = processed_text.replace("←", "&larr;")
+
+        
 
 
         convert_text_to_json(book_name, str(chapter),
