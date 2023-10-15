@@ -1,14 +1,692 @@
 {
     "Esther": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "This is what happened back when Ahasuerus lived, the very Ahasuerus who ruled from India to Cush&ndash;one hundred twenty-seven provinces in all."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "At that time, Ahasuerus ruled the kingdom from his royal throne in the fortified part of Susa."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "In the third year of his rule he hosted a feast for all his officials and courtiers. The leaders of Persia and Media attended, along with his provincial officials and officers."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He showed off the awesome riches of his kingdom and beautiful treasures as mirrors of how very great he was. The event lasted a long time&ndash;six whole months, to be exact!"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "After that the king held a seven-day feast for everyone in the fortified part of Susa. Whether they were important people in the town or not, they all met in the walled garden of the royal palace."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "White linen curtains and purple hangings were held up by shining white and red-purple ropes tied to silver rings and marble posts. Gold and silver couches sat on a mosaic floor made of gleaming purple crystal, marble, and mother-of-pearl."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They served the drinks in cups made of gold, and each cup was different. The king made sure there was plenty of royal wine."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The rule about the drinks was &apos;No limits!&apos; The king had ordered everyone serving wine in the palace to offer as much as each guest wanted."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "At the same time, Queen Vashti held a feast for women in King Ahasuerus&quot; palace."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "On the seventh day, when wine had put the king in high spirits, he gave an order to Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, the seven eunuchs who served King Ahasuerus personally."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They were to bring Queen Vashti before him wearing the royal crown. She was gorgeous, and he wanted to show off her beauty both to the general public and to his important guests."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But Queen Vashti refused to come as the king had ordered through the eunuchs. The king was furious, his anger boiling inside."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Now, when a need arose, the king would often talk with certain very smart people about the best way to handle it. They were people who knew both the kingdom&quot;s written laws and what judges had decided about cases in the past."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The ones he talked with most often were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan. They were seven very important people in Persia and Media who, as the kingdom&quot;s highest leaders, were in the king&quot;s inner circle. So the king said to them,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;According to the law, what should I do with Queen Vashti since she didn&quot;t do what King Ahasuerus ordered her through the eunuchs?&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Then Memucan spoke up in front of the king and the officials. &apos;Queen Vashti,&apos; he said, &apos;has done something wrong not just to the king himself. She has also done wrong to all the officials and the peoples in all the provinces of King Ahasuerus."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "This is the reason: News of what the queen did will reach all women, making them look down on their husbands. They will say, &quot;King Ahasuerus ordered servants to bring Queen Vashti before him, but she refused to come.&quot;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "This very day, the important women of Persia and Media who hear about the queen will tell the royal officials the same thing. There will be no end of put-downs and arguments."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Now, if the king wishes, let him send out a royal order and have it written into the laws of Persia and Media, laws no one can ever change. It should say that Vashti will never again come before King Ahasuerus. It should also say that the king will give her royal place to someone better than she."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "When the order becomes public through the whole empire, vast as it is, all women will treat their husbands properly. The rule should touch everyone, whether from an important family or not.&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The king liked the plan, as did the other men, and he did just what Memucan said."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "He sent written orders to all the king&quot;s provinces. Each province received it written in its own alphabet and each people received it in its own language. It said that each husband should rule over his own house."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "Sometime later when King Ahasuerus was less angry, he remembered Vashti, what she had done, and what he had decided about her."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So his young male servants said, &apos;Let the king have a search made for beautiful young women who haven&quot;t yet married."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And let the king choose certain people in all the royal provinces to lead the search. Have them bring all the beautiful young women together to the fortified part of Susa, to the women&quot;s house, to the care of Hegai the king&quot;s eunuch in charge of the women so that he might provide beauty treatments for them."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Let the young woman who pleases you the most take Vashti&quot;s place as queen.&apos; The king liked the plan and implemented it."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Now there was a Jew in the fortified part of Susa whose name was Mordecai, Jair&quot;s son. He came from the family line of Shimei and Kish; he was a Benjaminite. ("
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Benjaminites had been taken into exile away from Jerusalem along with the group, which included Judah&quot;s King Jeconiah, whom Babylon&quot;s King Nebuchadnezzar exiled to Babylon.)"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Mordecai had been a father to Hadassah (that is, Esther), though she was really his cousin, because she had neither father nor mother. The girl had a beautiful figure and was lovely to look at. When her parents died, Mordecai had taken her to be his daughter."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "When the king&quot;s order and his new law became public, many young women were gathered into the fortified part of Susa under the care of Hegai. Esther was also taken to the palace to the care of Hegai, the one in charge of the women."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The young woman pleased him and won his kindness. He quickly began her beauty treatments and gave her carefully chosen foods. He also gave her seven servants selected from among the palace servants and moved her and her servants into the nicest rooms in the women&quot;s house. ("
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Esther hadn&quot;t told anyone her race and family background because Mordecai had ordered her not to.)"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Each day found Mordecai pacing back and forth along the wall in front of the women&quot;s house to learn how Esther was doing and what they were doing with her."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "According to the rules for women, the moment for each young woman to go to King Ahasuerus came at the end of twelve months. (She had six months of treatment with pleasant-smelling creams and six months with fragrant oils and other treatments for women.)"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So this is how the young woman would go to the king: They gave her anything that she asked to take with her from the women&quot;s house to the palace."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "In the evening she would go in, and the next morning she would return to the second women&quot;s house under the care of Shaashgaz. He was the king&quot;s eunuch in charge of the secondary wives. She would never go to the king again unless he was so pleased that he called for her by name."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Soon the moment came for Esther daughter of Mordecai&quot;s uncle Abihail, whom Mordecai had taken as his own daughter, to go to the king. But she asked for nothing except what Hegai the king&quot;s eunuch in charge of the women told her. (Esther kept winning the favor of everyone who saw her.)"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Esther was taken to King Ahasuerus, to his own palace, in the tenth month (that is, the month of Tevet) in the seventh year of his rule."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The king loved Esther more than all the other women; she had won his love and his favor more than all the others. He placed the royal crown on her head and made her ruler in place of Vashti."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The king held a magnificent, lavish feast, &apos;the feast of Esther,&apos; for all his officials and courtiers. He declared a public holiday for the provinces and gave out gifts with royal generosity."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "When they gathered the young women to the second women&quot;s house, Mordecai was working for the king at the King&quot;s Gate."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Esther still wasn&quot;t telling anyone her family background and race, just as Mordecai had ordered her. She continued to do what Mordecai said, just as she did when she was in his care."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "At that time, as Mordecai continued to work at the King&quot;s Gate, two royal eunuchs, Bigthan and Teresh, became angry with King Ahasuerus. They were among the guards protecting the doorway to the king, but they secretly planned to kill him."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "When Mordecai got wind of it, he reported it to Queen Esther. She spoke to the king about it, saying the information came from Mordecai."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The matter was investigated and found to be true, so the two men were impaled on pointed poles. A report about the event was written in the royal record with the king present."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Sometime later, King Ahasuerus promoted Haman, Hammedatha the Agagite&quot;s son, by promoting him above all the officials who worked with him."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "All the royal workers at the King&quot;s Gate would kneel and bow facedown to Haman because the king had so ordered. But Mordecai didn&quot;t kneel or bow down."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So the royal workers at the King&quot;s Gate said to Mordecai, &apos;Why don&quot;t you obey the king&quot;s order?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Day after day they questioned him, but he paid no attention to them. So they let Haman know about it just to see whether or not Mordecai&quot;s words would hold true. (He had told them that he was a Jew.)"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When Haman himself saw that Mordecai didn&quot;t kneel or bow down to him, he became very angry."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But he decided not to kill only Mordecai, for people had told him Mordecai&quot;s race. Instead, he planned to wipe out all the Jews, Mordecai&quot;s people, throughout the whole kingdom of Ahasuerus."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "In the first month (that is, the month of Nisan) in the twelfth year of the rule of King Ahasuerus, servants threw pur, namely, dice, in front of Haman to find the best day for his plan. They tried every day and every month, and the dice chose the thirteenth day of the twelfth month (that is, the month of Adar)."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then Haman said to King Ahasuerus, &apos;A certain group of people exist in pockets among the other peoples in all the provinces of your kingdom. Their laws are different from those of everyone else, and they refuse to obey the king&quot;s laws. There&quot;s no good reason for the king to put up with them any longer."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "If the king wishes, let a written order be sent out to destroy them, and I will hand over ten thousand kikkars of silver to those in charge of the king&quot;s business. The silver can go into the king&quot;s treasuries.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The king removed his royal ring from his finger and handed it to Haman, Hammedatha the Agagite&quot;s son, enemy of the Jews."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The king said to Haman, &apos;Both the money and the people are under your power. Do as you like with them.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "So in the first month, on the thirteenth day, royal scribes were summoned to write down everything that Haman ordered. The orders were for the king&quot;s rulers and the governors in charge of each province, as well as for the officials of each people. They wrote in the alphabet of each province and in the language of each people. They wrote in the name of King Ahasuerus and sealed the order with the king&quot;s royal ring."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Fast runners were to take the order to all the provinces of the king. The order commanded people to wipe out, kill, and destroy all the Jews, both young and old, even women and little children. This was to happen on a single day&ndash;the thirteenth day of the twelfth month (that is, the month of Adar). They were also to seize their property."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "A copy of the order was to become law in each province and to be posted in public for all peoples to read. The people were to be ready for this day to do as the order commanded."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Driven by the king&quot;s order, the runners left Susa just as the law became public in the fortified part of Susa. While the king and Haman sat down to have a drink, the city of Susa was in total shock."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "When Mordecai learned what had been done, he tore his clothes, dressed in mourning clothes, and put ashes on his head. Then he went out into the heart of the city and cried out loudly and bitterly."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He went only as far as the King&quot;s Gate because it was against the law for anyone to pass through it wearing mourning clothes."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "At the same time, in every province and place where the king&quot;s order and his new law arrived, a very great sadness came over the Jews. They gave up eating and spent whole days weeping and crying out loudly in pain. Many Jews lay on the ground in mourning clothes and ashes."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When Esther&quot;s female servants and eunuchs came and told her about Mordecai, the queen&quot;s whole body showed how upset she was. She sent everyday clothes for Mordecai to wear instead of mourning clothes, but he rejected them."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Esther then sent for Hathach, one of the royal eunuchs whose job it was to wait on her. She ordered him to go to Mordecai and find out what was going on and why he was acting this way."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Hathach went out to Mordecai, to the city square in front of the King&quot;s Gate."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Mordecai told him everything that had happened to him. He spelled out the exact amount of silver that Haman promised to pay into the royal treasury. It was in exchange for the destruction of the Jews."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He also gave Hathach a copy of the law made public in Susa concerning the Jews&quot; destruction so that Hathach could show it to Esther and report it to her. Through him Mordecai ordered her to go to the king to seek his kindness and his help for her people."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Hathach came back and told Esther what Mordecai had said."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "In reply Esther ordered Hathach to tell Mordecai:"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;All the king&quot;s officials and the people in his provinces know that there&quot;s a single law in a case like this. Any man or woman who comes to the king in the inner courtyard without being called is to be put to death. Only the person to whom the king holds out the gold scepter may live. In my case, I haven&quot;t been called to come to the king for the past thirty days.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When they told Mordecai Esther&quot;s words,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "he had them respond to Esther: &apos;Don&quot;t think for one minute that, unlike all the other Jews, you&quot;ll come out of this alive simply because you are in the palace."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "In fact, if you don&quot;t speak up at this very important time, relief and rescue will appear for the Jews from another place, but you and your family will die. But who knows? Maybe it was for a moment like this that you came to be part of the royal family.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Esther sent back this word to Mordecai:"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "&apos;Go, gather all the Jews who are in Susa and tell them to give up eating to help me be brave. They aren&quot;t to eat or drink anything for three whole days, and I myself will do the same, along with my female servants. Then, even though it&quot;s against the law, I will go to the king; and if I am to die, then die I will.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So Mordecai left where he was and did exactly what Esther had ordered him."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Three days later, Esther put on royal clothes and stood in the inner courtyard of the palace, facing the palace itself. At that moment the king was inside sitting on his royal throne and facing the palace doorway."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "When the king noticed Queen Esther standing in the entry court, he was pleased. The king held out to Esther the gold scepter in his hand, and she came forward and touched the scepter&quot;s tip."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Then the king said to her, &apos;What is it, Queen Esther? What do you want? I&quot;ll give you anything&ndash;even half the kingdom.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Esther answered, &apos;If the king wishes, please come today with Haman for the feast that I have prepared for him.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "&apos;Hurry, get Haman,&apos; the king ordered, &apos;so we can do what Esther says.&apos; So the king and Haman came to the feast that Esther had prepared."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "As they sipped wine, the king asked, &apos;Now what is it you wish? I&quot;ll give it to you. What do you want? I&quot;ll do anything&ndash;even give you half the kingdom.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Esther answered, &apos;This is my wish and this is what I want:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "If I please the king, and if the king wishes to grant my wish and my desire, I&quot;d like the king and Haman to come to another feast that I will prepare for them. Tomorrow I will answer the king&quot;s questions.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "That day Haman left Esther&quot;s place happy, his spirits high, but then he saw Mordecai in the King&quot;s Gate. Mordecai neither stood up nor seemed the least bit nervous around him, so Haman suddenly felt great rage toward Mordecai."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But Haman held himself back and went on home. He sent word that his friends and his wife Zeresh should join him there."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Haman boasted to them about his great wealth and his many sons. He told all about how the king had honored him by promoting him over the officials and high royal workers."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Best of all,&apos; Haman said, &apos;Queen Esther has invited no one else but me to join the king for food and drinks that she has prepared. In fact, I&quot;ve been called to join the king at her place tomorrow!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "But all this loses its meaning every time I see Mordecai the Jew sitting at the King&quot;s Gate.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So his wife Zeresh and all his friends told him: &apos;Have people prepare a pointed pole seventy-five feet high. In the morning, tell the king to have Mordecai impaled on it. Then you can go with the king to the feast in a happy mood.&apos; Haman liked the idea and had the pole prepared."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "That same night, the king simply couldn&quot;t sleep. He had the official royal records brought in, and his young male servants began reading them to the king."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "They came to the report about Mordecai informing on Bigthan and Teresh. (They were the two royal eunuchs among the guards protecting the king&quot;s doorway, who secretly planned to kill King Ahasuerus.)"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "&apos;What was done to honor and reward Mordecai for this?&apos; the king asked. His young male servants replied, &apos;Nothing was done for him, sir.&apos; Haman thought to himself, Whom would the king really want to honor more than me?"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "&apos;Who is that out in the courtyard?&apos; the king asked. (Haman had just entered the outer courtyard of the palace. He had come to tell the king to impale Mordecai on the pole that he had set up for him.)"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The king&quot;s servants answered, &apos;That&quot;s Haman standing out in the courtyard, sir.&apos; So the king said, &apos;Have him come in.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When Haman entered, the king asked him, &apos;What should be done for the man whom the king really wants to honor?&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So Haman said to the king, &apos;Here&quot;s what should be done for the man the king really wants to honor."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Have servants bring out a royal robe that the king himself has worn and a horse on which the king himself has ridden. It should have a royal crest on its head."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then hand over the robe and the horse to another man, one of the king&quot;s officials. Have him personally robe the man whom the king really wants to honor and lead him on the horse through the city square. As he goes, have him shout, &quot;This is what the king does for the man he really wants to honor!&quot;&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then the king said to Haman, &apos;Hurry, take the robe and the horse just as you&quot;ve said and do exactly that for Mordecai the Jew, who works at the King&quot;s Gate. Don&quot;t leave out a single thing you&quot;ve said!&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Haman took the robe and the horse and put the robe on Mordecai. He led him on horseback through the city square, shouting as he went, &apos;This is what the king does for the man he really wants to honor!&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Afterward, Mordecai returned to the King&quot;s Gate, while Haman hurried home feeling great shame, his head covered."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Haman told his wife Zeresh and all his friends everything that had happened to him. Both his friends and his wife said to him, &apos;You&quot;ve already begun to lose out to Mordecai. If he is of Jewish birth, you&quot;ll not be able to win against him. You are surely going to lose out to him.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They were still discussing this with him when several royal eunuchs arrived. They quickly hurried Haman off to the feast that Esther had prepared."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "When the king and Haman came in for the banquet with Queen Esther,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "the king said to her, &apos;This is the second day we&quot;ve met for wine. What is your wish, Queen Esther? I&quot;ll give it to you. And what do you want? I&quot;ll do anything&ndash;even give you half the kingdom.&apos; &apos;Impale him on it!&apos; the king ordered."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Queen Esther answered, &apos;If I please the king, and if the king wishes, give me my life&ndash;that&quot;s my wish&ndash;and the lives of my people too. That&quot;s my desire."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "We have been sold&ndash;I and my people&ndash;to be wiped out, killed, and destroyed. If we simply had been sold as male and female slaves, I would have said nothing. But no enemy can compensate the king for this kind of damage.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "King Ahasuerus said to Queen Esther, &apos;Who is this person, and where is he? Who would dare do such a thing?&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Esther replied, &apos;A man who hates, an enemy&ndash;this wicked Haman!&apos; Haman was overcome with terror in the presence of the king and queen."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Furious, the king got up and left the banquet for the palace garden. But Haman stood up to beg Queen Esther for his life. He saw clearly that the king&quot;s mood meant a bad end for him."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The king returned from the palace garden to the banquet room just as Haman was kneeling on the couch where Esther was reclining. &apos;Will you even molest the queen while I am in the house?&apos; the king said. The words had barely left the king&quot;s mouth before covering Haman&quot;s face with dread."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Harbona, one of the eunuchs serving the king, said, &apos;Sir, look! There&quot;s the stake that Haman made for Mordecai, the man who spoke up and did something good for the king. It&quot;s standing at Haman&quot;s house&ndash;seventy-five feet high.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "So they impaled Haman on the very pole that he had set up for Mordecai, and the king&quot;s anger went away."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "That same day King Ahasuerus gave Queen Esther what Haman the enemy of the Jews owned. Mordecai himself came before the king because Esther had told the king that he was family to her."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The king took off his royal ring, the one he had removed from Haman, and gave it to Mordecai. Esther put Mordecai in charge of what Haman had owned."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Esther again spoke before the king. She bowed at his feet, wept, and begged him to treat her kindly. She wanted him to overturn the evil plot of Haman the Agagite&ndash;his secret plan directed against the Jews."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The king held out the gold scepter to Esther, and she got up and stood before him."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "She said, &apos;If the king wishes, and if I please him&ndash;that is, if the idea seems right to the king, and if he still sees me as a good person&ndash;then have people write something to call back the order&ndash;the order that put into effect the plan of Haman, Hammedatha the Agagite&quot;s son, that he wrote to destroy the Jews in all the royal provinces."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "How can I bear to watch the terrible evil about to sweep over my people? And how can I bear to watch others destroy my own family?&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "King Ahasuerus said to Queen Esther and to Mordecai the Jew, &apos;Look, I&quot;ve given Esther everything Haman owned. And Haman himself my servants have impaled on the pole because he planned to attack the Jews."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So you yourselves write to the Jews whatever you like in the name of the king and seal the letters with the king&quot;s royal ring. Anything written in the name of the king and sealed with the king&quot;s royal ring can&quot;t be called back.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So that was when the royal scribes were summoned&ndash;on the twenty-third day of the third month (that is, the month of Sivan). They wrote exactly what Mordecai ordered to the Jews, rulers, governors, and officials of the provinces from India to Cush&ndash;one hundred twenty-seven in all. They wrote in the alphabet of each province and in the language of each people."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "They wrote in the name of King Ahasuerus and sealed the order with the king&quot;s royal ring. He sent letters with riders mounted on royal horses bred from mares known to run fast."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The order allowed Jews in each town to join together and defend their lives. The Jews were free to wipe out, kill, and destroy every army of any people and province that attacked them, along with their women and children. They could also take and keep anything their attackers owned."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The one day in all the provinces of King Ahasuerus on which they could do so was the thirteenth day of the twelfth month (that is, the month of Adar)."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "A copy of the writing was to become law in each province and be on public display for all its peoples to read. The Jews were to be ready on this day to get back at their enemies."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The riders mounted on royal horses left Susa, spurred on by the king&quot;s order, and the law also became public in the fortified part of Susa."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Mordecai went out from the king&quot;s presence in a blue and white royal robe wearing a large gold crown and a white and red-purple coat. The city of Susa greeted him with shouts of joy."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "For the Jews it was a day of light, happiness, joy, and honor."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "In every province and in every town&ndash;wherever the king&quot;s order and his law arrived&ndash;for the Jews it was a day of happiness and joy. For them it meant feasts and a holiday. Many people in the land became Jews themselves, out of fear of the Jews."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "It was on the thirteenth day of the twelfth month (that is, the month of Adar) that the king&quot;s order and his law were to be enforced. On the very day that the enemies of the Jews hoped to overpower them, the tables were turned against them. The Jews overpowered their enemies instead."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The Jews joined together in their towns in all the provinces of King Ahasuerus to defend themselves against those who tried to harm them. No one was able to stand in their way because everyone was afraid of the Jews."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "All the leaders of the provinces, rulers, governors, and those in charge of the king&quot;s business helped the Jews because they were afraid of Mordecai."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Because Mordecai was very important in the palace, news about him was sweeping through the provinces. Indeed, Mordecai was becoming more and more important every day."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The Jews put down all their enemies with sword blows, killing, and destruction. They did whatever they wanted with those who hated them."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "In the fortified part of Susa, the Jews killed five hundred people."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They also killed Parshandatha, Dalphon, Aspatha,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Poratha, Adalia, Aridatha,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Parmashta, Arisai, Aridai, and Vaizatha."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "These were the ten sons of Haman, Hammedatha&quot;s son, the enemy of the Jews. But the Jews didn&quot;t lay a hand on anything their enemies owned."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "That same day, a report concerning the number killed in the fortified part of Susa reached the king."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "So the king said to Queen Esther in the fortified part of Susa, &apos;The Jews have killed five hundred people as well as the ten sons of Haman. What have they done in the rest of the royal provinces? What do you wish now? I&quot;ll give it to you. What is your desire? I&quot;ll do it this time too.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Esther answered, &apos;If the king wishes, let the Jews who are in Susa also have tomorrow to do what the law allows for today. And let them also impale the ten sons of Haman on pointed poles.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The king ordered that this be done, and the law became public in Susa. They impaled the ten sons of Haman just as she said."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The Jews in Susa joined together again, this time on the fourteenth day of the month of Adar. In Susa, they killed three hundred people, but they didn&quot;t lay a hand on anything the people owned."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The Jews out in the royal provinces also joined together to defend their lives. They put to rest the troubles with their enemies and killed those who hated them. The total was seventy-five thousand dead, but the Jews didn&quot;t lay a hand on anything their enemies owned."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "They acted on the thirteenth day of the month of Adar. Then on the fourteenth day they rested, making it a day of feasts and rejoicing. ("
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The Jews in Susa joined together for self-defense on the thirteenth and fourteenth days of the month. But they rested on the fifteenth day of the month and made it a day of feasts and joyous events.)"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "That is why Jews who live in villages make the fourteenth day of the month of Adar a day of rejoicing and feasts, a holiday. It is a day on which they send gifts of food to each other."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Mordecai wrote these things down and sent letters to all the Jews in all the provinces, both near and far, of King Ahasuerus."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He made it a rule that Jews keep the fourteenth and fifteenth days of the month of Adar as special days each and every year."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "They are the days on which the Jews finally put to rest the troubles with their enemies. The month is the one when everything turned around for them from sadness to joy, and from sad, loud crying to a holiday. They are to make them days of feasts and joyous events, days to send food gifts to each other and money gifts to the poor."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The Jews agreed to continue what they had already begun to do&ndash;just what Mordecai had written to them."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Indeed, Haman, Hammedatha the Agagite&quot;s son, the enemy of all the Jews, had planned to destroy the Jews. He had servants throw pur (that is, the dice) to find the best month and day to trouble greatly and destroy them."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "But when Esther came before the king, his written order said: The wicked plan that Haman made against the Jews should turn back on him instead. So they impaled him and his sons on pointed poles."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "That is why people call these days Purim, by using the ancient word pur . It all fit with what this letter said, with what they saw happen, and with what they themselves went through."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The Jews agreed that they, their children, grandchildren, and great-grandchildren, as well as all non-Jews who become Jews, should always keep these two days. They agreed to follow the written rules&ndash;and at the proper time too&ndash;every year."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "So forever every family, province, and town remembers to keep these days. These days of Purim won&quot;t die out among the Jews. They will remember to keep them forever."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Queen Esther daughter of Abihail, along with Mordecai the Jew, wrote with her full royal power to show that this second letter about Purim was correct."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Letters conveying good wishes and words of friendship were sent to all the Jews throughout the one hundred twenty-seven provinces in the kingdom of Ahasuerus."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Their aim was to make sure that the Jews kept these days of Purim at the proper time, following the rule that Mordecai the Jew and Queen Esther had made. The rule fit well with what they themselves had agreed to do forever and with other things they did&ndash;like fasting and lamenting."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Esther&quot;s order made these features of Purim part of the law, so it was written down."
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "King Ahasuerus taxed the entire kingdom, including the islands of the Mediterranean."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Now some may want to know about all the king&quot;s mighty, great deeds. They may also want a full report about how important Mordecai became after the king honored him. Are they not written in the official records of the kings of Media and Persia?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Certainly, Mordecai the Jew was second only to King Ahasuerus in importance. The Jews also admired him greatly, and his many brothers and sisters were proud of him. He always wanted to do good things for his Jewish people and to speak up for all his family whenever they needed help."
+            }
+        ]
     }
 }

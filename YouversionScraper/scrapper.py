@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 import time
 import xml.dom.minidom
 
-
+letterSet = set()
 
 def convert_text_to_json(book_name, chapter, text, json_data):
     verses = text.split('\n')
@@ -25,6 +25,8 @@ def convert_text_to_json(book_name, chapter, text, json_data):
         if verse_match:
             verse_number, verse_text = verse_match.groups()
             verse_text = ' '.join(verse_text.split())
+            for char in verse_text:
+                letterSet.add(char)
             json_data[book_name][chapter].append({
                 "verse_number": verse_number,
                 "verse_text": verse_text
@@ -42,10 +44,14 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
         code = 1588
     if version == "ASV":
         code = 12
+    if version == "KJV":
+        code = 1
+    if version == "KJVAE":
+        code = 547
     if version == "CEB":
-        code = 1849
+        code = 37
     if version == "ERV":
-        code = 1849
+        code = 406
     if version == "GNBDC":
         code = 416
     if version == "GNT":
@@ -100,6 +106,14 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
                 if processed_text:
                     processed_text += "\n"
                 processed_text += line
+        processed_text = processed_text.replace("”", "&apos;")
+        processed_text = processed_text.replace("“", "&apos;")
+        processed_text = processed_text.replace("’", "&quot;")
+        processed_text = processed_text.replace("‘", "&quot;")
+        processed_text = processed_text.replace("—", "&ndash;")
+        processed_text = processed_text.replace("–", "&ndash;")
+
+
         convert_text_to_json(book_name, str(chapter),
                              processed_text, json_data)
     bookId = str(bookNumber) if len(
@@ -247,14 +261,20 @@ def JsonToXML(version):
         if is_page_empty(f'{folderlocation}/book{str(book_number).zfill(2)}.json'):
             continue
         try:
+            #print("Here")
             filename = f'{folderlocation}/book{str(book_number).zfill(2)}.json'
+            #print(filename)
             if version != "TPT" and version != "GNT":
                 JSON_merger(filename)
-            with open(f'{folderlocation}/book{str(book_number).zfill(2)}.json', 'r', encoding='utf-8') as json_file:
-                data = json.load(json_file)
+            #print(f"Loading:  + {filename}")
+            with open(filename, 'r', errors='ignore') as json_file:
+                file_content = json_file.read()
+                cleaned_content = re.sub(r'\x9d', '', file_content)
+                data = json.loads(cleaned_content)
+                #data = json.load(json_file)
                 json_data.update(data)
         except Exception as e:
-            print(e)
+            print(f"Error: {e}")
             print(f"Error on Book number: {book_number}")
             continue
 
@@ -264,6 +284,9 @@ def JsonToXML(version):
         xml_file.write(xml_content)
 
     print(f"XML file 'bible_{version}.xml' has been created.")
+
+
+
 
 
 def is_page_empty(json_file_path):
@@ -308,6 +331,7 @@ def run(version):
     start_time = time.time()
 
     webScrap(version)
+    #print(letterSet)
     JsonToXML(version)
     # postProcess(version) ### doesnt work / not needed
 
@@ -320,6 +344,7 @@ def run(version):
 if __name__ == "__main__":
     version = str(input("What version do you want? "))
     run(version)
+    #print(letterSet)
     #run("AMP")
     #run("AMPC")
     #run("ASV")

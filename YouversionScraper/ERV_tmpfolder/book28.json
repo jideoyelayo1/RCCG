@@ -1,18 +1,812 @@
 {
     "Hosea": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": [],
-        "14": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "This is the Lord&quot;s message that came to Hosea son of Beeri during the time that Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah, and Jeroboam son of Joash was king of Israel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "This was the Lord&quot;s first message to Hosea. The Lord said, &apos;Go, marry a prostitute who has had children as a result of her prostitution. Do this because the people in this country have acted like prostitutes&ndash;they have been unfaithful to the Lord.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So Hosea married Gomer daughter of Diblaim. She became pregnant and gave birth to a son for Hosea."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Lord said to Hosea, &apos;Name him Jezreel, because soon I will punish the family of Jehu for the people he killed at Jezreel Valley. Then I will put an end to the kingdom of the nation of Israel."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And at that time I will break Israel&quot;s bow at Jezreel Valley.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then Gomer became pregnant again and gave birth to a daughter. The Lord said to Hosea, &apos;Name her Lo-Ruhamah, because I will not show mercy to the nation of Israel anymore, nor will I forgive them."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But I will show mercy to the nation of Judah. I will save them, but I will not use bows or swords or war horses and soldiers to save them. I will save them by my own power. &apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "After Gomer had finished nursing Lo-Ruhamah, she became pregnant again and gave birth to a son."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then the Lord said, &apos;Name him Lo-Ammi, because you are not my people, and I am not your God.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;In the future the number of the people of Israel will be like the sand of the sea, which you cannot measure or count. In the same place that God told them, &quot;You are not my people,&quot; he will call them &quot;children of the Living God.&quot;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Then the people of Judah and the people of Israel will be gathered together. They will choose one ruler for themselves, and their nation will be too large for the land. Jezreel&quot;s day will be great!"
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;Then you will say to your brothers, &quot;You are my people,&quot; and you will say to your sisters, &quot;He has shown mercy to you.&quot;&apos; &apos;I will speak to the skies, and they will give rain to the earth. and they will meet Jezreel&quot;s needs. And they will say to me, &quot;You are our God.&quot;&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;Argue with your mother. Argue with her because she is no longer my wife, and I am no longer her husband! Tell her to stop being like a prostitute. Tell her to take away her lovers from between her breasts."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "If she refuses to stop her adultery, I will strip her naked and leave her like the day she was born. I will take away her people, and she will be like an empty, dry desert. I will kill her with thirst."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I will have no pity on her children because they are the children of prostitution."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Their mother has acted like a prostitute. She should be ashamed of what she did. She said, &quot;I will go to my lovers, who give me food and water, wool and linen, wine and olive oil.&quot;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "&apos;So I, the Lord, will block Israel&quot;s road with thorns, and I will build a wall. Then she will not be able to find her path."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "She will run after her lovers, but she will not be able to catch up with them. She will look for her lovers, but she will not be able to find them. Then she will say, &quot;I will go back to my husband. Life was better for me when I was with him. Life was better then than it is now.&quot;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Israel didn&quot;t know that I, the Lord, was the one who gave her grain, wine, and oil. I kept giving her more and more silver and gold, but she used this silver and gold to make statues of Baal."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So I will return and take back my grain at the time it is ready to be harvested. I will take back my wine at the time the grapes are ready. I will take back my wool and linen. I gave those things to her so that she could cover her naked body."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Now I will strip her. She will be naked, so all her lovers can see her. No one will be able to save her from my power."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I will take away all her fun. I will stop her festivals, her New Moon celebrations, and her days of rest. I will stop all her special feasts."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I will destroy her vines and fig trees. She said, &quot;My lovers gave these things to me.&quot; But I will change her gardens&ndash;they will become like a wild forest. Wild animals will come and eat from those plants."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;Israel served false gods, so I will punish her. She burned incense to those false gods. She dressed up&ndash;she put on her jewelry and nose ring. Then she went to her lovers and forgot me.&apos; This is what the Lord has said."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;So I, the Lord, will speak romantic words to her. I will lead her into the desert and speak tender words."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "There I will give her vineyards. I will give her Achor Valley as a doorway of hope. Then she will answer as she did when she came out of the land of Egypt.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "This is what the Lord says. &apos;At that time you will call me &quot;My husband.&quot; You will not call me &quot;My Baal.&quot; To Lo-Ruhamah, I will show mercy. To Lo-Ammi, I will say, &quot;You are my people.&quot;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I will take the names of those false gods out of her mouth. Then people will not use those names again."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "&apos;At that time I will make an agreement for the Israelites with the animals of the field, the birds of the sky, and the crawling things on the ground. I will break the bow, the sword, and the weapons of war in that land. I will make the land safe, so the people of Israel can lie down in peace."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And I will make you my bride forever. I will make you my bride with goodness and justice and with love and mercy."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "I will make you my faithful bride. Then you will really know the Lord."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "And at that time I will answer.&apos; This is what the Lord says."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The earth will produce grain, wine, and oil,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "I will sow her many seeds on her land."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then the Lord said to me again, &apos;Gomer has many lovers, but you must continue loving her. Do this because it is an example of the Lord&quot;s love for Israel. He continues to love them, but they continue to turn to other gods, and they love to eat those raisin cakes. &apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So I bought Gomer back for 6 ounces of silver and 9 bushels of barley."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Then I told her, &apos;You must stay at home with me for many days. You will not be like a prostitute. You will not have sexual relations with another man. I will be your husband.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "In the same way the people of Israel will continue many days without a king or a leader. They will be without a sacrifice or a memorial stone. They will be without an ephod or a household god."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "After this, the people of Israel will come back and look for the Lord their God and for David their king. In the last days they will come to honor the Lord and his goodness."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "People of Israel, listen to the Lord&quot;s message. The Lord has something to say against those who live in this land: &apos;The people in this land are not honest or loyal. They don&quot;t really know God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "They are always cursing, lying, killing, stealing, and committing adultery. They murder one person after another."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So the country is like someone crying for the dead, and all of its people are weak. Even the animals of the field, the birds of the sky, and the fish in the sea are dying."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "No one should argue or blame another person. Priests, my argument is with you!"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "You priests will fall in the daytime. And at night the prophet will also fall with you. I will also destroy your mother."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "&apos;My people are destroyed because they have no knowledge. You priests have refused to learn, so I will refuse to let you be priests for me. You have forgotten the law of your God, so I will forget your children."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They became proud. They sinned more and more against me, so I will change their honor to shame."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;The priests fed on the people&quot;s sins. They wanted more and more of their sin offerings."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So the priests are no different from the people. I will punish them for the things they did. I will pay them back for the wrong things they did."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "They will eat, but they will not be satisfied. They will commit sexual sins, but they will not have babies. This is because they left the Lord and became like prostitutes."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Sexual sins, strong drink, and new wine ruin a person&quot;s ability to think straight."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "My people are asking pieces of wood for advice. They think those sticks will answer them! They have chased after those false gods like prostitutes and have left their own God."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They make sacrifices on the tops of the mountains and burn incense on the hills under oak trees, poplar trees, and elm trees. The shade under those trees looks nice. So your daughters lie under those trees like prostitutes, and your daughters-in-law commit sexual sins."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;I cannot blame your daughters or your daughters-in-law for doing this, because your men go and have sex with the temple prostitutes and offer sacrifices with them. This is how foolish people destroy themselves."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;Israel, just because you act like a prostitute doesn&quot;t mean that Judah should feel guilty too. People, don&quot;t go to Gilgal or Beth Aven. Don&quot;t use the Lord&quot;s name to make promises. Don&quot;t say, &quot;As the Lord lives \u00e2\u20ac\u00a6!&quot;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The Lord has given many things to Israel. He is like a shepherd who takes his sheep to a large field with plenty of grass. But Israel is stubborn like a young cow that runs away again and again."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;Ephraim has joined his idols, so leave him alone."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Ephraim has joined their drunkenness. Let them continue to be prostitutes. Let them be with their lovers."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They went to those gods for safety, and they have lost their ability to think. Their altars will bring them shame."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;Priests, nation of Israel, and people in the king&quot;s family, listen to me. You have been judged guilty! &apos;You were like a trap at Mizpah and like a net spread on the ground at Tabor. Blow the trumpet in Ramah."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "You have done many evil things, so I will punish you all."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I know Ephraim. I know what Israel has done. Ephraim, right now you act like a prostitute. Israel is dirty with sin."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The people of Israel have done many evil things, and these evil things keep them from coming back to their God. They are always thinking of ways to chase after other gods. They don&quot;t know the Lord."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Israel&quot;s pride is a witness against them, so Israel and Ephraim will stumble in their sin. But Judah will also stumble with them. Give the warning at Beth Aven. The enemy is behind you, Benjamin. at the time of punishment. I, God, warn the families of Israel that this really will happen. so I will pour out my anger on them like water. He will be crushed and pressed like grapes, because he decided to follow filth. I will ruin Judah, like rot on a piece of wood. so they went to Assyria for help. They told their problems to the great king, but he cannot heal you or cure your wound. like a young lion to the nation of Judah. I&ndash;yes, I myself&ndash;will rip them to pieces. I will carry them away, and no one can save them. until the people admit they are guilty, until they come looking for me. Yes, in their trouble they will try very hard to find me.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "&apos;The leaders of the people went to look for the Lord. They took their sheep and cattle with them, but they did not find the Lord because he refused to accept them."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They have not been faithful to the Lord. Their children are from some stranger. And now, he will destroy them and their land again."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Blow the horn in Gibeah."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Ephraim will become empty"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The leaders of Judah are like thieves trying to steal someone&quot;s property,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Ephraim will be punished."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I will destroy Ephraim as a moth eats a piece of cloth."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Ephraim saw his sickness, and Judah saw his wound,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I will be like a lion to Ephraim,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I will go back to my place,"
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;Come, let&quot;s go back to the Lord. He hurt us, but he will heal us. He wounded us, but he will put bandages on us. He will raise us up on the third day. Then we can live near him. Let&quot;s try very hard to know him. We know he is coming, just as we know the dawn is coming. He will come to us like the rain, like the spring rain that waters the ground.&apos; Judah, what should I do with you? Your faithfulness is like a morning mist. Your faithfulness is like the dew that goes away early in the morning. and made laws for the people. The people were killed at my command, not sacrifice. I want people to know God, not to bring burnt offerings. They were unfaithful to me in their country. people who have tricked and killed others. hiding and waiting on the road to attack someone. They murder people before they reach safety in Shechem. They do such evil things. Ephraim was unfaithful to God. Israel is dirty with sin."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "After two days he will bring us back to life."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Let&quot;s learn about the Lord."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "&apos;Ephraim, what should I do with you?"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I used the prophets but good things will come from those decisions. It will happen when I bring my people back from captivity."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "This is because I want faithful love,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But the people broke the agreement as Adam did."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Gilead is a city of people who do evil&ndash;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The priests are like gangs of robbers"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I have seen a terrible thing in the nation of Israel."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Judah, there is also a time of harvest for you."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;I will heal Israel! Then people will know that Ephraim sinned. They will know about the thieves who come and go in that town. The bad things they did are all around. I can see their sins clearly. Their false gods please their leaders. He puts the bread in the oven. He does not make the fire hotter while the bread is rising. But the people of Israel are not like that. They are always making their fire hotter. They become crazy with wine and make agreements with people who laugh at God. Their hearts burn with excitement like an oven. Their excitement burns all night, and in the morning it is like a hot fire. They destroyed their rulers. All their kings fell. Not one of them called to me for help. Ephraim is like a cake that was not cooked on both sides. but Ephraim does not know it. but Ephraim does not know it. The people had many troubles, but they still didn&quot;t go back to the Lord their God. They didn&quot;t look to him for help. The people called to Egypt for help. They went to Assyria for help. but I will trap them. I will throw my net over them, and I will bring them down like the birds of the sky. They refused to obey me, so they will be destroyed. I saved them, but they speak lies against me. Yes, they cry on their beds. And they cut themselves when they ask for grain and new wine. But in their hearts, they have turned away from me. but they made evil plans against me. Their leaders bragged about their strength, but they will be killed with swords. And the people in Egypt will laugh at them. They will know about Samaria&quot;s lies. Gray hairs are also sprinkled on Ephraim, I will punish them for their agreements. but they did not come back to me."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "They don&quot;t believe that I will remember their crimes."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Their evil makes their king happy."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "A baker presses dough to make bread."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "On Our King&quot;s Day, the leaders get so drunk that they get sick."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The people make their secret plans."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They are all like hot ovens."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Ephraim mixes with the nations."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Strangers destroy Ephraim&quot;s strength,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Ephraim&quot;s pride speaks against him."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Ephraim has become like a silly dove without understanding."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They go to those countries for help,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "It will be very bad for those who left me."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They never call to me from their hearts."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I trained them and made their arms strong,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Like a boomerang, they changed directions,"
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;Put the trumpet to your lips and give the warning. Be like an eagle over the Lord&quot;s house. The Israelites have broken my agreement. They have not obeyed my law."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "They yell out at me, &quot;My God, we in Israel know you!&quot;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But Israel refused the good things, so the enemy chases him."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Israelites chose their kings, but they didn&quot;t come to me for advice. They chose leaders, but they didn&quot;t choose men I knew. The Israelites used their silver and gold to make idols for themselves, so they will be destroyed."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The Israelites did a foolish thing&ndash;it was like trying to plant the wind. But they will get only troubles&ndash;they will harvest a whirlwind. The grain in the fields will grow, but it will give no food. Even if it grew something, strangers would eat it. its people are scattered among the nations, like some dish that was thrown away because no one wanted it. Like a stubborn donkey, they led him off to Assyria. but I will bring them back. But first, they must suffer a little by carrying the burden of that mighty king. and that was a sin. They have been altars of sin for Ephraim. he would treat them as if they were for some stranger. They offer the meat and eat it. The Lord does not accept their sacrifices. He remembers their sins, and he will punish them. They will be carried away as prisoners to Egypt. and now Judah builds fortresses. But they have forgotten their Maker! So I will send a fire to destroy their cities and fortresses!&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Israel was destroyed;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Ephraim went to his &quot;lovers.&quot;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Yes, Israel was taken to the nations,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Ephraim built more and more altars,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Even if I wrote 10,000 laws for Ephraim,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The Israelites love sacrifices."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Israel has built palaces for their kings,"
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "Israel, don&quot;t celebrate like the nations do. Don&quot;t be happy. You acted like a prostitute and left your God. You committed your sexual sin on every threshing floor."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "But the grain from those threshing floors will not provide enough food for Israel. There will not be enough wine for Israel. I began hating them there. I will force them to leave my house because of the evil things they do. I will not love them anymore. Their leaders are rebels who turned against me. Their root is dying. They will not have any more babies. They might give birth to babies, but I will kill the precious babies who come from their bodies. so he will refuse to listen to them. And they will wander among the nations without a home."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The Israelites will not stay in the Lord&quot;s land. Ephraim will return to Egypt. In Assyria they will eat food that they should not eat."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They will not be able to give offerings of wine to the Lord. None of their sacrifices will please him. What they offer will be like food eaten at a funeral&ndash;whoever eats it will become unclean. They can eat that food for their own hunger, but it cannot be taken into the Lord&quot;s Temple."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "They will not be able to celebrate the Lord&quot;s feasts or festivals."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The people of Israel left because the enemy took everything from them. But Egypt will take the people themselves. Memphis will bury them. Weeds will grow over their silver treasures, and thorns will grow where the Israelites lived."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The prophet says, &apos;Israel, learn this: The time of punishment has come. The time has come for you to pay for the evil things you did.&apos; But the people of Israel say, &apos;The prophet is a fool. This man with God&quot;s Spirit is crazy.&apos; The prophet says, &apos;You will be punished for your terrible sins. You will be punished for your hate.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "God and the prophet are like guards watching over Ephraim, but there are many traps along his way. And people hate the prophet, even in the house of his God."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Israelites have gone deep into ruin as in the time of Gibeah. God will remember the Israelites&quot; sins, and he will punish them."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;At the time I, the Lord, found Israel, they were like fresh grapes in the desert. They were like the first figs on a fig tree at the beginning of the season. But when they came to Baal Peor, they changed. So I had to cut them off like rotten fruit. They became like the terrible things that they loved."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Like a bird, Ephraim&quot;s glory will fly away. There will be no more pregnancies, no more births, and no more babies."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But even if the Israelites do raise their children, it will not help, because I will take the children away from them. I will leave them, and they will have nothing but troubles.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I can see that Ephraim is leading his children into a trap. Ephraim will lead his children out to the killer."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Lord, give them what you will. Give them a womb that loses babies and breasts that cannot give milk."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "All their evil is in Gilgal;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Ephraim will be punished."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Those people will not listen to my God,"
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "Israel is like a vine that grows plenty of fruit. But as Israel got more and more things, he built more and more altars to honor false gods. His land became better and better, so he put up better and better stones to honor false gods. but now they must accept their guilt. He will break down their altars and destroy their memorial stones."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The people of Israel tried to trick God,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Now the Israelites say, &apos;We have no king. We don&quot;t honor the Lord. And his king cannot do anything to us.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They make promises, but they are only telling lies. They don&quot;t keep their promises. They make agreements with other countries. God does not like those agreements . The judges are like poisonous weeds growing in a plowed field."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The people from Samaria worship the calves at Beth Aven. They will cry. The priests will cry, because their beautiful idol is gone. It was carried away."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "It was carried away as a gift to the great king of Assyria. He will keep Ephraim&quot;s shameful idol. Israel will be ashamed of its idol."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Samaria&quot;s false god will be destroyed. It will be like a piece of wood floating away on the water&quot;s surface."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Israel sinned and built many high places. The high places of Aven will be destroyed. Thorns and weeds will grow on their altars. Then they will say to the mountains, &apos;Cover us!&apos; and to the hills, &apos;Fall on us!&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Israel, you have sinned since the time of Gibeah. (And the people have continued to sin there.) Those evil people at Gibeah will be trapped by war."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I will come to punish them. Armies will come together against them and punish the Israelites for both of their sins."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Ephraim is like a trained young cow that loves to walk on grain on the threshing floor. I will put a good yoke on her neck. I will put the ropes on Ephraim. Then Judah will begin plowing. Jacob will break the ground himself.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "If you plant goodness, you will harvest faithful love. Plow your ground, and you will harvest with the Lord. He will come, and he will make goodness fall on you like rain."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "But you planted evil, and you harvested trouble. You ate the fruit of your lies, because you had trusted in your power and your soldiers."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So your armies will hear the noise of battle, and all your fortresses will be destroyed. It will be like the time Shalman destroyed Beth Arbel. At that time of war, mothers were killed with their children."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And this will happen to you at Bethel, because you did so many evil things. When that day begins, the king of Israel will be fully destroyed."
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "The Lord said, &apos;I loved Israel when he was a child, and I called my son out of Egypt. the more they left me. and burned incense to the idols. I took the Israelites in my arms. I healed them, but they don&quot;t know that. but they were ropes of love. I bent down and fed them. Israel, I want to protect you. I don&quot;t want to make you like Admah. I am changing my mind. My love for you is too strong. I will not destroy Ephraim again. I am God and not a human. I am the Holy One. I am with you. I will not show my anger. and my children will come and follow me. They will come from the west, shaking with fear. shaking like birds. They will come shaking like doves from the land of Assyria, and I will take them back home.&apos; This is what the Lord said."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "But the more I called the Israelites, The Israelites gave sacrifices to the false gods I was like a person who set them free. I don&quot;t want to make you like Zeboiim. The people of Israel turned against me. But Judah still walks with God and is true to the Holy One. &apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "&apos;But I was the one who taught Ephraim to walk."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I led them with ropes,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "&apos;The Israelites will not go back to Egypt. The king of Assyria will become their king, because they refused to turn back to God."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The sword will swing against their cities and kill their strong men. It will destroy their leaders."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;My people expect me to come back. They will call to God above, but he will not help them.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Ephraim, I don&quot;t want to give you up."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I will not let my terrible anger win."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I, the Lord, will roar like a lion,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They will come from Egypt,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Ephraim surrounded me with false gods."
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "Ephraim is wasting its time; Israel &apos;chases the wind&apos; all day long. The people tell more and more lies and steal more and more. They have made agreements with Assyria, and they are carrying their olive oil to Egypt."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The Lord says, &apos;I have a complaint against Israel. Jacob must be punished for the bad things he did."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "While Jacob was still in his mother&quot;s womb, he began to trick his brother. Jacob was a strong young man, and at that time he fought with God."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Jacob wrestled with God&quot;s angel and won. He cried and asked for a favor. That happened at Bethel. There he spoke to us."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Yes, YAHWEH is the God of the armies. His name is YAHWEH."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So come back to your God. Be loyal to him. Do the right thing, and always trust in your God!"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;Jacob is a tricky merchant. He even cheats his friend! Even his scales lie."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Ephraim said, &quot;I am rich! I have found true riches! No one will learn about my crimes. No one will learn about my sins.&quot;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;But I am still the Lord your God, as I was when you left the land of Egypt. I will make you live in tents, as you do during the Festival of Shelters."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I spoke to the prophets and gave them many visions. I gave the prophets many ways to teach my lessons to you."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But the people in Gilead have sinned. There are many terrible idols in that place. They offer sacrifices to bulls at Gilgal. They have many altars. There are rows and rows of altars&ndash;like the rows of dirt in a plowed field."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Jacob ran away to the land of Aram. There Israel worked for a wife. He kept sheep to get another wife."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "But the Lord used a prophet and brought Israel out of Egypt. He used a prophet and kept Israel safe."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "But Ephraim made the Lord very angry. Ephraim killed many people, so he will be punished for his crimes. His Lord will make him bear his shame.&apos;"
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;The tribe of Ephraim made itself very important in Israel. Ephraim spoke and people shook with fear. But Ephraim sinned by worshiping Baal, so he must die."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Now the Israelites sin more and more. They make idols for themselves. Workers make those fancy statues from silver, and then they talk to their statues. They offer sacrifices to them, and they kiss those calf idols."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "That is why those people will soon disappear. They will be like a fog that comes early in the morning and then quickly disappears. The Israelites will be like chaff that is blown from the threshing floor. The Israelites will be like smoke that goes out a window and disappears. He thought his sins were a secret, but he will be punished. He will not be a wise son. The time will come for his birth, and he will not survive. I will rescue them from death. Death, where are your diseases? Grave, where is your power? I am not looking for revenge. but a powerful east wind will come&ndash;the Lord&quot;s wind will blow from the desert. Then his well will dry up. His spring of water will be dry. The wind will take away anything of value. because she turned against her God. The Israelites will be killed with swords. Their children will be torn to pieces, and their pregnant women will be ripped open.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "&apos;I have been the Lord your God since the time you were in the land of Egypt. You did not know any other god except me. I am the one who saved you."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I knew you in the desert&ndash;I knew you in that dry land."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I gave food to the Israelites, and they ate it. They became full and satisfied. They became proud, and then they forgot me."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;That is why I will be like a lion to them. I will be like a leopard waiting by the road."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I will attack them like a bear whose cubs were robbed from her. I will attack them and rip open their chests. I will be like a lion or other wild animal tearing and eating its prey."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Israel, I helped you, but you turned against me. So now I will destroy you."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Where is your king? Can he save you in any of your cities? Where are your judges? You asked for them, saying, &quot;Give me a king and leaders.&quot;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I was angry, and I gave you a king. And when I became very angry, I took him away."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Ephraim tried to hide his guilt."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "His punishment will be like the pain of a woman giving birth."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;I will save them from the grave."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Israel grows among his brothers,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Samaria must be punished"
+            }
+        ],
+        "14": [
+            {
+                "verse_number": "1",
+                "verse_text": "Israel, you fell and sinned against God. So come back to the Lord your God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Think about what you will say, and come back to the Lord. Say to him, &apos;Take away our sin, and accept these words as our sacrifice. We will not ride on war horses. We will never again say, &quot;Our God&quot; to something we made with our hands. This is because you are the one who shows mercy to orphans.&apos; &apos;I will forgive them for leaving me. I will show them my love without limits, because I have stopped being angry. Israel will blossom like the lily. He will grow like the cedar trees of Lebanon. and he will be like a beautiful olive tree. He will be like the sweet smell from the cedar trees of Lebanon. They will grow like grain. They will bloom like a vine. They will be like the wine of Lebanon. I am like a fir tree that is always green. Your fruit comes from me.&apos; and a smart person should learn them. The Lord&quot;s ways are right. Good people will live by them. We offer you the praise from our lips. I am the one who answers your prayers and watches over you. Sinners will die by them."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Assyria will not save us."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Lord says,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I will be like the dew to Israel."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "His branches will grow,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The people of Israel will again live under my protection."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Ephraim, I will have nothing more to do with idols."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "A wise person understands these things,"
+            }
+        ]
     }
 }

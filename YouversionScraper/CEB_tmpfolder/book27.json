@@ -1,16 +1,1456 @@
 {
     "Daniel": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the third year of the rule of Judah&quot;s King Jehoiakim, Babylon&quot;s King Nebuchadnezzar came to Jerusalem and attacked it."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The Lord handed Judah&quot;s King Jehoiakim over to Nebuchadnezzar, along with some of the equipment from God&quot;s house. Nebuchadnezzar took these to Shinar, to his own god&quot;s temple, putting them in his god&quot;s treasury."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Nebuchadnezzar instructed his highest official Ashpenaz to choose royal descendants and members of the ruling class from the Israelites&ndash;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "good-looking young men without defects, skilled in all wisdom, possessing knowledge, conversant with learning, and capable of serving in the king&quot;s palace. Ashpenaz was to teach them the Chaldean language and its literature."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The king assigned these young men daily allotments from his own food and from the royal wine. Ashpenaz was to teach them for three years so that at the end of that time they could serve before the king."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Among these young men from the Judeans were Daniel, Hananiah, Mishael, and Azariah."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But the chief official gave them new names. He named Daniel &apos;Belteshazzar,&apos; Hananiah &apos;Shadrach,&apos; Mishael &apos;Meshach,&apos; and Azariah &apos;Abednego.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Daniel decided that he wouldn&quot;t pollute himself with the king&quot;s rations or the royal wine, and he appealed to the chief official in hopes that he wouldn&quot;t have to do so."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Now God had established faithful loyalty between Daniel and the chief official;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "but the chief official said to Daniel, &apos;I&quot;m afraid of my master, the king, who has mandated what you are to eat and drink. What will happen if he sees your faces looking thinner than the other young men in your group? The king will have my head because of you!&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Daniel spoke to the guard whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah:"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Why not test your servants for ten days? You could give us a diet of vegetables to eat and water to drink."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Then compare our appearance to the appearance of the young men who eat the king&quot;s food. Then deal with your servants according to what you see.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The guard decided to go along with their plan and tested them for ten days."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "At the end of ten days they looked better and healthier than all the young men who were eating the king&quot;s food."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So the guard kept taking away their rations and the wine they were supposed to drink and gave them vegetables instead."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And God gave knowledge, mastery of all literature, and wisdom to these four men. Daniel himself gained understanding of every type of vision and dream."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When the time came to review the young men as the king had ordered, the chief official brought them before Nebuchadnezzar."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "When the king spoke with them, he found no one as good as Daniel, Hananiah, Mishael, and Azariah. So they took their place in the king&quot;s service."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Whenever the king consulted them about any aspect of wisdom and understanding, he found them head and shoulders above all the dream interpreters and enchanters in his entire kingdom."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "And Daniel stayed in the king&quot;s service until the first year of King Cyrus."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the second year of Nebuchadnezzar&quot;s rule, he had many dreams. The dreams made him anxious, but he kept sleeping."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The king summoned the dream interpreters, enchanters, diviners, and Chaldeans to explain his dreams to him. They came and stood before the king. from age to eternal age! Wisdom and might are his! who dethrones one king, only to establish another, who grants wisdom to the wise and knowledge to those with insight. he knows what hides in darkness; light lives with him! You&quot;ve given me wisdom and might, and now you&quot;ve made known to me what we asked of you: you&quot;ve made known to us the king&quot;s demand."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Then the king said to them: &apos;I had a dream, and I&quot;m anxious to know its meaning.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Chaldeans answered the king in Aramaic: &apos;Long live the king! Tell your servants the dream, and we will explain its meaning.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The king answered the Chaldeans: &apos;My decision is final: If you can&quot;t tell me the dream and its meaning, you will be torn limb from limb, and your houses will be turned into trash dumps."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But if you do explain the dream and its meaning, you&quot;ll receive generous gifts and glorious honor from me. So explain to me the dream as well as its meaning.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They answered him again: &apos;The king must tell his servants the dream. We will then explain the meaning.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The king replied: &apos;Now I definitely know you are stalling for time, because you see that my decision is final"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "and that if you can&quot;t tell me the dream, your fate is certain. You&quot;ve conspired to make false and lying speeches before me until the situation changes. Tell me the dream now! Then I&quot;ll know you can explain its meaning to me.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The Chaldeans answered the king: &apos;No one on earth can do what the king is asking! No king or ruler, no matter how great, has ever asked such a thing of any dream interpreter, enchanter, or Chaldean."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "What the king is asking is impossible! No one could declare the dream to the king but the gods, who don&quot;t live among mere humans.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "At this, the king exploded in a furious rage and ordered that all Babylon&quot;s sages be wiped out."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So the command went out: The sages were to be killed. Daniel and his friends too were hunted down; they were to be killed as well."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then Daniel, with wisdom and sound judgment, responded to Arioch the king&quot;s chief executioner, who had gone out to kill Babylon&quot;s sages."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He said to Arioch the king&quot;s royal officer, &apos;Why is the king&quot;s command so unreasonable?&apos; After Arioch explained the situation to Daniel,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Daniel went and asked the king to give him some time so he could explain the dream&quot;s meaning to him."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Then Daniel went to his house and explained the situation to his friends Hananiah, Mishael, and Azariah"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "so that they would ask the God of heaven for help about this mystery, in hopes that Daniel and his friends wouldn&quot;t die with the rest of Babylon&quot;s sages."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then, in a vision by night, the mystery was revealed to Daniel! Daniel praised the God of heaven:"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "God&quot;s name be praised"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "God is the one who changes times and eras,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "God is the one who uncovers what lies deeply hidden;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "I acknowledge and praise you, my fathers&quot; God!"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "So Daniel went to Arioch, the man the king had appointed to wipe out Babylon&quot;s sages. Daniel said to him, &apos;Don&quot;t wipe out the sages of Babylon! Bring me before the king, and I will explain the dream&quot;s meaning to him.&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Wasting no time, Arioch brought Daniel before the king, telling him, &apos;I have found someone from the Judean exiles who will tell the dream&quot;s meaning to the king.&apos;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "In reply the king said to Daniel (whose name was Belteshazzar), &apos;Can you really tell me the dream that I saw, as well as its meaning?&apos;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Daniel answered the king, &apos;Sages, enchanters, dream interpreters, and diviners can&quot;t explain to the king the mystery he seeks."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "But there is a God in heaven, a revealer of mysteries, who has shown King Nebuchadnezzar what will happen in the days to come! Now this was your dream&ndash;this was the vision in your head as you lay in your bed:"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "&apos;As you lay in bed, Your Majesty, your thoughts turned to what will happen in the future. The revealer of mysteries has revealed to you what will happen."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Now this mystery was revealed to me, not because I have more wisdom than any other living person but so that the dream&quot;s meaning might be made known to the king, and so that you might know the thoughts of your own mind."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "&apos;Your Majesty, you were looking, and there, rising before you, was a single, massive statue. This statue was huge, shining with dazzling light, and was awesome to see."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "The statue&quot;s head was made of pure gold; its chest and arms were made from silver; its abdomen and hips were made of bronze."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Its legs were of iron, and its feet were a mixture of iron and clay."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "You observed this until a stone was cut, but not by hands; and it smashed the statue&quot;s feet of iron and clay and shattered them."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Then all the parts shattered simultaneously&ndash;iron, clay, bronze, silver, and gold. They became like chaff, left on summer threshing floors. The wind lifted them away until no trace of them remained. But the stone that smashed the statue became a mighty mountain, and it filled the entire earth."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "&apos;This was the dream. Now we will tell the king its meaning:"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "You, Your Majesty, are the king of kings. The God of heaven has given kingship, power, might, and glory to you!"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "God has delivered into your care human beings, wild creatures, and birds in the sky&ndash;wherever they live&ndash;and has made you ruler of all of them. You are the gold head."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "But in your place, another kingdom will arise, one inferior to yours, and then a third, bronze kingdom will rule over all the earth."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Then will come a fourth kingdom, mighty like iron. Just as iron shatters and crushes everything; so like an iron that smashes, it will shatter and crush all these others."
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "As for the feet and toes that you saw, which were a mixture of potter&quot;s clay and iron, that signifies a divided kingdom; but it will possess some of the unyielding strength of iron. Even so, you saw the iron mixed with earthy clay"
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "so that the toes were made from a mixture of iron and clay. Part of the kingdom will be mighty, but part of it will be fragile."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "Just as you saw the iron mixed with earthy clay, they will join together by intermarrying, but they will not bond to each other, just as iron does not fuse with clay."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "&apos;But in the days of those kings, the God of heaven will raise up an everlasting kingdom that will be indestructible. Its rule will never pass to another people. It will shatter other kingdoms. It will put an end to all of them. It will stand firm forever,"
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "just like you saw when the stone, which was cut from the mountain, but not by hands, shattered the iron, bronze, clay, silver, and gold. A great God has revealed to the king what will happen in the future. The dream is certain. Its meaning can be trusted.&apos;"
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "Then King Nebuchadnezzar bowed low and honored Daniel. The king ordered that grain and incense offerings be made to Daniel."
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "The king declared to Daniel, &apos;No doubt about it: your God is God of gods, Lord of kings, and a revealer of mysteries because you were able to reveal this mystery!&apos;"
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "Then the king exalted Daniel and lavished gifts on him, making him ruler over all the province of Babylon and chief minister over all Babylon&quot;s sages."
+            },
+            {
+                "verse_number": "49",
+                "verse_text": "At Daniel&quot;s urging, the king appointed Shadrach, Meshach, and Abednego to administer the province of Babylon, but Daniel himself remained at the royal court."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "King Nebuchadnezzar made a gold statue. It was ninety feet high and nine feet wide. He set it up in the Dura Valley in the province of Babylon."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "King Nebuchadnezzar then ordered the chief administrators, ministers, governors, counselors, treasurers, judges, magistrates, and all the provincial officials to assemble and come for the dedication of the statue that he had set up."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So the chief administrators, ministers, governors, counselors, treasurers, judges, magistrates, and all the provincial officials assembled for the dedication of the statue that King Nebuchadnezzar had set up. They stood in front of the statue the king had set up."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The herald proclaimed loudly: &apos;Peoples, nations, and languages! This is what you must do:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When you hear the sound of the horn, pipe, zither, lyre, harp, flute, and every kind of instrument, you must bow down and worship the gold statue that King Nebuchadnezzar has set up."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Anyone who will not bow down and worship will be immediately thrown into a furnace of flaming fire.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So because of this order as soon as they heard the sound of the horn, pipe, zither, lyre, harp, flute, and every kind of instrument, all the peoples, nations, and languages bowed down and worshipped the gold statue that King Nebuchadnezzar had set up. &apos;Long live the king! They answered the king, &apos;Certainly, Your Majesty.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "At that moment some Chaldeans came forward, seizing a chance to attack the Jews."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "They said to King Nebuchadnezzar:"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Your Majesty, you gave a command that everyone who hears the sound of the horn, pipe, zither, lyre, harp, flute, and every kind of instrument should bow down and worship the gold statue."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Anyone who wouldn&quot;t bow and worship would be thrown into a furnace of flaming fire."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now there are some Jews, ones you appointed to administer the province of Babylon&ndash;specifically, Shadrach, Meshach, and Abednego&ndash;who have ignored your command. They don&quot;t serve your gods, and they don&quot;t worship the gold statue you&quot;ve set up.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "In a violent rage Nebuchadnezzar ordered them to bring Shadrach, Meshach, and Abednego. They were brought before the king."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Nebuchadnezzar said to them: &apos;Shadrach, Meshach, and Abednego: Is it true that you don&quot;t serve my gods or worship the gold statue I&quot;ve set up?"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If you are now ready to do so, bow down and worship the gold statue I&quot;ve made when you hear the sound of horn, pipe, zither, lyre, harp, flute, and every kind of instrument. But if you won&quot;t worship it, you will be thrown straight into the furnace of flaming fire. Then what god will rescue you from my power?&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Shadrach, Meshach, and Abednego answered King Nebuchadnezzar: &apos;We don&quot;t need to answer your question."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "If our God&ndash;the one we serve&ndash;is able to rescue us from the furnace of flaming fire and from your power, Your Majesty, then let him rescue us."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "But if he doesn&quot;t, know this for certain, Your Majesty: we will never serve your gods or worship the gold statue you&quot;ve set up.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Nebuchadnezzar was filled with rage, and his face twisted beyond recognition because of Shadrach, Meshach, and Abednego. In response he commanded that the furnace be heated to seven times its normal heat."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "He told some of the strongest men in his army to bind Shadrach, Meshach, and Abednego and throw them into the furnace of flaming fire."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "So Shadrach, Meshach, and Abednego were bound, still dressed in all their clothes, and thrown into the furnace of flaming fire. ("
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Now the king&quot;s command had been rash, and the furnace was heated to such an extreme that the fire&quot;s flame killed the very men who carried Shadrach, Meshach, and Abednego to it.)"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So these three men, Shadrach, Meshach, and Abednego, fell, bound, into the furnace of flaming fire."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Then King Nebuchadnezzar jumped up in shock and said to his associates, &apos;Didn&quot;t we throw three men, bound, into the fire?&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "He replied, &apos;Look! I see four men, unbound, walking around inside the fire, and they aren&quot;t hurt! And the fourth one looks like one of the gods.&apos;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Nebuchadnezzar went near the opening of the furnace of flaming fire and said, &apos;Shadrach, Meshach, and Abednego, servants of the Most High God, come out! Come here!&apos; Then Shadrach, Meshach, and Abednego came out of the fire."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The chief administrators, ministers, governors, and the king&quot;s associates crowded around to look at them. The fire hadn&quot;t done anything to them: their hair wasn&quot;t singed; their garments looked the same as before; they didn&quot;t even smell like fire!"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Nebuchadnezzar declared: &apos;May the God of Shadrach, Meshach, and Abednego be praised! He sent his messenger to rescue his servants who trusted him. They ignored the king&quot;s order, sacrificing their bodies, because they wouldn&quot;t serve or worship any god but their God."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "I now issue a decree to every people, nation, and language: whoever speaks disrespectfully about Shadrach, Meshach, and Abednego&quot;s God will be torn limb from limb and their house made a trash heap, because there is no other god who can rescue like this.&apos;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Then the king made Shadrach, Meshach, and Abednego prosperous in the province of Babylon."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "King Nebuchadnezzar&quot;s message to all the peoples, nations, and languages inhabiting the entire earth: &apos;I wish you much peace."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I&quot;m delighted to share the signs and miracles that the Most High God has worked in my life. His miracles so powerful! His kingdom is everlasting. His rule is for all time. At the center of the earth was a towering tree. it was as high as the sky; it could be seen from every corner of the earth. it had enough food for everyone. Wild animals took shade under it; birds nested in its branches. All living things lived off that tree. &quot;Cut down the tree and shear off its branches! Strip its leaves and scatter its fruit! The creatures should flee from its shelter; the birds should take flight from its branches. bound with iron and bronze in the field grass. Dew from heaven is to wash it, and it must live with the animals in the earth&quot;s vegetation. it will be given the mind of an animal. Seven periods of time will pass over it. this decision is the holy ones&quot; word so that all who live might know that the Most High dominates human kingship. The Most High gives kingship to anyone he wants and sets over it the lowest of people.&quot; The king declared, &apos;Don&quot;t let the dream and its meaning scare you, Belteshazzar.&apos; Then Belteshazzar answered, &apos;Sir, I wish the dream to be for those who hate you and its meaning to be for your enemies!"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "His signs are superb!"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "&apos;While I, Nebuchadnezzar, was safe in my house, content in my palace,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I had a terrifying dream. My thoughts while I was lying in bed and the vision in my mind overwhelmed me."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I ordered all Babylon&quot;s sages to come before me, so they might tell me the dream&quot;s meaning."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So the dream interpreters, enchanters, Chaldeans, and diviners came. I told them the dream, but they couldn&quot;t interpret it for me."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Daniel, who is called Belteshazzar after the name of my god, was the last to come before me. In him is the breath of the holy gods! I told Daniel the dream:"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Belteshazzar, chief of the dream interpreters, I know the breath of the holy gods is in you, and no mystery is too difficult for you. Tell me the meaning of the visions I had in my dream."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "In my mind, as I lay in bed, I saw a vision:"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The tree grew in size and strength;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Its leaves were beautiful, its fruit abundant;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;In my mind, as I lay in bed, I saw another vision: A holy watcher came down from heaven."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He proclaimed loudly:"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "But leave its deepest root in the earth,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Its human mind is to be changed:"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "This sentence is by the watchers&quot; decree;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "&apos;This is the dream that I, King Nebuchadnezzar, had. So now Belteshazzar, tell me the meaning because all the sages in my kingdom were unable to interpret it for me. But you are able to do it because the breath of the holy gods is in you.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Daniel, who was called Belteshazzar, was shocked for a bit. What he thought about frightened him."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The tree you saw that grew in size and strength, that was as high as the sky, that could be seen from every corner of the earth,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "with its beautiful leaves and its abundant fruit, and that had enough food for everyone, with wild animals living under it and birds nesting in its branches&ndash;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Your Majesty, that tree is you! You have grown large and become powerful. Your greatness is as high as the sky; your rule extends to the edge of the earth!"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "&apos;Your Majesty, the holy watcher you saw coming down from heaven, who said, &quot;Cut down the tree and destroy it, but leave its deepest root in the earth, bound with iron and bronze in the field grass, dew from heaven is to wash it, and it must live with the wild animals until seven periods of time pass over it&quot;&ndash;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Your Majesty, this is the dream&quot;s meaning: It is the sentence of the Most High, delivered to my master the king."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "You will be driven away from other humans and will live with the wild animals. You will eat grass like cattle and will be washed by dew from heaven. Seven periods of time will pass over you, until you acknowledge that the Most High dominates human kingship, giving it to anyone he wants."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "And when he said to leave the deepest root of the tree&ndash;that means your kingship will again be yours, once you acknowledge that heaven rules all."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Therefore, Your Majesty, please accept my advice: remove your sins by doing what is right; remove your wrongdoing by showing mercy to the poor. Then your safety will be long lasting.&apos;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "All this happened to King Nebuchadnezzar."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Twelve months later, he was walking on the roof of the royal palace in Babylon."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "The king declared, &apos;Isn&quot;t this Babylon, the magnificent city that I built as the royal house by my own mighty strength and for my own majestic glory?&apos;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "These words hadn&quot;t even left the king&quot;s mouth when a voice came from heaven: &apos;You, King Nebuchadnezzar, are now informed: Kingship is taken away from you."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "You will be driven away from other humans and will live with the wild animals. You will eat grass like cattle, and seven periods of time will pass over you until you acknowledge that the Most High dominates human kingship, giving it to anyone he wants.&apos;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Nebuchadnezzar&quot;s sentence was immediately carried out. He was driven away from other humans and ate grass like cattle. Dew from heaven washed his body until he grew hair like eagles&quot; feathers and claws like a bird."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "&apos;At the end of that time, I, Nebuchadnezzar, raised my eyes to heaven. My reason returned to me, and I praised the Most High. I worshipped and glorified the one who lives forever because his rule is everlasting; his kingdom is for all time."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "All of earth&quot;s inhabitants are nothing in comparison. The Most High does whatever he wants with heaven&quot;s forces and with earth&quot;s inhabitants. No one can contain his power or say to him, &quot;What do you think you are doing?&quot;"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "So at that moment my reason returned to me. My honor and splendor came back to me for the glory of my kingdom. My associates and my princes wanted to be with me again. Not only was I reinstated over my kingdom, I received more power than ever before."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "&apos;Now I, Nebuchadnezzar, worship, magnify, and glorify the king of heaven. All his works are truth, all his paths are justice, and he is able to humble all who walk in pride.&apos;"
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "King Belshazzar threw a huge party for a thousand of his princes, and he drank a lot of wine in front of them."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "While he was under the wine&quot;s influence, Belshazzar commanded that the gold and silver equipment that his father Nebuchadnezzar had taken from Jerusalem&quot;s temple be brought to the party so that the king, his princes, his consorts, and his secondary wives could drink wine out of them."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So the gold equipment that had been carried out of the temple, God&quot;s house in Jerusalem, was brought in; and the king, his princes, his consorts, and his secondary wives drank out of it."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They drank a lot of wine; and they praised the gods of gold, silver, bronze, iron, wood, and stone. The king told these sages of Babylon: &apos;Anyone who can read this writing and tell me its meaning will wear royal robes, will have a gold chain around his neck, and will rule the kingdom as third in command.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Right then the fingers of a human hand appeared and wrote on the plaster of the king&quot;s palace wall in the light of the lamp. The king saw the hand that wrote."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The king&quot;s mood changed immediately, and he was deeply disturbed. He felt weak, and his knees were shaking."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The king yelled, calling for the enchanters, the Chaldeans, and the diviners."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then all the king&quot;s sages arrived, but they couldn&quot;t read the writing or interpret it for the king."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "At that point King Belshazzar was really frightened. All the color drained from his face, and his princes were also very worried."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Upon hearing the commotion coming from the king and his princes, the queen entered the banqueting hall and declared, &apos;Long live the king! Don&quot;t be so disturbed. Don&quot;t be so frightened."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "There is a man in your kingdom who has the breath of holy gods in him! When your father was alive, this man was shown to possess illumination, insight, and wisdom like the very wisdom of the gods. Your father King Nebuchadnezzar appointed this man as chief over the dream interpreters, enchanters, Chaldeans, and diviners. Yes, your father did this"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "because this man&ndash;Daniel, the one the king named Belteshazzar&ndash;possesses an extraordinary spirit, knowledge, and insight into the meaning of dreams. He can explain ambiguities and resolve mysteries. Now in light of all that, summon Daniel! He will explain the meaning of this thing.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So Daniel was brought before the king. The king said to him, &apos;So you are Daniel, the Daniel from the exiles that my father the king brought from Judah?"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I have heard that the breath of the gods is in you and that you possess illumination, insight, and extraordinary wisdom."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Now, the sages and the dream interpreters were brought before me to read this writing and interpret it for me, but they couldn&quot;t explain its meaning."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But I&quot;ve heard that you can explain meanings and solve mysteries. So if you can read this writing and interpret it for me, you will wear royal robes, have a gold chain around your neck, and will rule the kingdom as third in command.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Daniel answered the king: &apos;Keep your gifts. Give the rewards to someone else. But I will still read the writing to the king and interpret it for him."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Listen, Your Majesty: The Most High God gave kingship, power, glory, and majesty to your father Nebuchadnezzar."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Because of the power God gave Nebuchadnezzar, all peoples, nations, and languages were terrified of him. He did whatever he wanted, whenever he wanted: killing or sparing, exalting or humbling."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "But when he became arrogant, acting in stubborn pride, he was pulled off his royal throne and the glory was taken from him."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He was driven away from other humans, and his mind became like an animal&quot;s. He lived with wild donkeys, he ate grass like cattle, and dew from heaven washed his body until he realized that the Most High God dominates human kingship and sets over it anyone he wants."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "&apos;But you who are his son, Belshazzar, you haven&quot;t submitted, even though you&quot;ve known all this."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Instead, you&quot;ve set yourself up against the Lord of heaven! The equipment of God&quot;s house was brought to you; and you, your princes, your consorts, and your secondary wives drank wine out of it, all the while praising the gods of silver, gold, bronze, iron, wood, and stone&ndash;gods who can&quot;t see, hear, or know anything. But you didn&quot;t glorify the true God who holds your very breath in his hand and who owns every road you take."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "&apos;That&quot;s why this hand was sent from God and why this message was written down."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "This is what was written down: mene, mene, tekel , and parsin ."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "&apos;This is the meaning of the word mene : God has numbered the days of your rule. It&quot;s over!"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "tekel means that you&quot;ve been weighed on the scales, and you don&quot;t measure up."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "peres means your kingship is divided and given to the Medes and the Persians.&apos;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Then Belshazzar commanded that Daniel be dressed in a purple robe, have a gold chain around his neck, and be officially appointed as third in command in the kingdom."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "That very same night, Belshazzar the Chaldean king was killed."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Darius the Mede received the kingdom at the age of 62."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "Darius decided to appoint one hundred twenty chief administrators throughout the kingdom,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "and to set over them three main officers to whom they would report so that the king wouldn&quot;t have to be bothered with too much. One of these main officers was Daniel."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Because of his extraordinary spirit, Daniel soon surpassed the other officers and the chief administrators&ndash;so much so that the king had plans to set him over the entire kingdom."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "As a result, the other officers and the chief administrators tried to find some problem with Daniel&quot;s work for the kingdom. But they couldn&quot;t find any problem or corruption at all because Daniel was trustworthy. He wasn&quot;t guilty of any negligence or corruption. The king replied, &apos;The decision is absolutely firm in accordance with the law of Media and Persia, which cannot be annulled.&apos; To all the peoples, nations, and languages inhabiting the entire earth: I wish you much peace. He is the living God. God stands firm forever. His kingship is indestructible. God&quot;s rule will last until the end of time. God performs signs and miracles in heaven and on earth. Here&quot;s the proof: He rescued Daniel from the lions&quot; power."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So these men said, &apos;We won&quot;t find any fault in Daniel, unless we can find something to use against him from his religious practice.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So these officers and chief administrators ganged together and went to the king. They said to him, &apos;Long live King Darius!"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "All the officers of the kingdom, the ministers, the chief administrators, the royal associates, and the governors advise the king to issue an edict and enforce a law, that for thirty days anyone who says prayers to any god or human being except you, Your Majesty, will be thrown into a pit of lions."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Now, Your Majesty, issue the law and sign the document so that it cannot be changed, as per the law of Media and Persia, which cannot be annulled.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Because of this, King Darius signed the document containing the law."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "When Daniel learned that the document had been signed, he went to his house. Now his upper room had open windows that faced Jerusalem. Daniel knelt down, prayed, and praised his God three times that day, just like he always did."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Just then these men, all ganged together, came upon Daniel praying and seeking mercy from his God."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They then went and talked to the king about the law: &apos;Your Majesty! Didn&quot;t you sign a law, that for thirty days any person who prays to any god or human being besides you, Your Majesty, would be thrown into a pit of lions?&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So they said to the king, &apos;One of the Judean exiles, Daniel, has ignored you, Your Majesty, as well as the law you signed. He says his prayers three times a day!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "When the king heard this report, he was very unhappy. He decided to rescue Daniel and did everything he could do to save Daniel before the sun went down."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "But these men, all ganged together, came and said to the king, &apos;You must realize, Your Majesty, that the law of Media and Persia, including every law and edict the king has issued, cannot be changed.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So the king gave the order, and they brought Daniel and hurled him into the pit of lions. The king said to Daniel: &apos;Your God&ndash;the one you serve so consistently&ndash;will rescue you.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "A single stone was brought and placed over the entrance to the pit. The king sealed it with his own ring and with those of his princes so that Daniel&quot;s situation couldn&quot;t be changed."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The king then went home to his palace and fasted through the night. No pleasures were brought to him, and he couldn&quot;t sleep."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "At dawn, at the first sign of light, the king rose and rushed to the lions&quot; pit."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "As he approached it, he called out to Daniel, worried: &apos;Daniel, servant of the living God! Was your God&ndash;the one you serve so consistently&ndash;able to rescue you from the lions?&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Then Daniel answered the king: &apos;Long live the king!"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "My God sent his messenger, who shut the lions&quot; mouths. They haven&quot;t touched me because I was judged innocent before my God. I haven&quot;t done anything wrong to you either, Your Majesty.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The king was thrilled. He commanded that Daniel be brought up out of the pit, and Daniel was lifted out. Not a scratch was found on him, because he trusted in his God."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The king then ordered that the men who had accused Daniel be brought and thrown into the lions&quot; pit&ndash;including their wives and children. They hadn&quot;t even reached the bottom of the pit before the lions overpowered them, crushing all their bones."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Then King Darius wrote the following decree:"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "I now issue this command: In every region of my kingdom, all people must fear and revere Daniel&quot;s God because:"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "He is rescuer and savior;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "And so Daniel was made prosperous during the rule of Darius and during the rule of Cyrus the Persian."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the first year of Babylon&quot;s King Belshazzar, Daniel had a dream&ndash;a vision in his head as he lay on his bed. He wrote the dream down. Here is the beginning of the account: thrones were raised up. The ancient one took his seat. His clothes were white like snow; his hair was like a lamb&quot;s wool. His throne was made of flame; its wheels were blazing fire. thousands upon thousands served him; ten thousand times ten thousand stood ready to serve him! The court sat in session; the scrolls were opened. coming with the heavenly clouds. He came to the ancient one and was presented before him. all peoples, nations, and languages will serve him. His rule is an everlasting one&ndash; it will never pass away!&ndash; his kingship is indestructible. He spoke to me and explained to me the meaning of these things. &apos;The fourth beast means that there will be a fourth kingship on the earth. It will be different from all the other kingships. It will devour the entire earth, trample it, crush it. that from this kingship will rise ten kings, and after them will rise yet another. He will be different from the previous ones. He will defeat three kings. and will exhaust the holy ones of the Most High. He will try to change times set by law. And for a period of time, periods of time, and half a period of time, they will be delivered into his power. His rule will be taken away&ndash; ruined and wiped out for all time. of all kingdoms under heaven will be given to the people, the holy ones of the Most High. Their kingship is an everlasting one; every authority will serve them and obey.&apos; Now as for how I, Daniel, felt about this: My thoughts disturbed me greatly. My mood darkened considerably, and I kept thinking about this matter."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I am Daniel. In the vision I had during the night I saw the four winds of heaven churning the great sea."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Four giant beasts emerged from the sea, each different from the others."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The first was like a lion with eagle&quot;s wings. I observed it until its wings were pulled off, and it was lifted up from the ground. It was then set on two feet, like a human being, and it received a human mind."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then I saw another beast, a second one, like a bear. It was raised on one side. It had three ribs in its mouth between its teeth. It was told: &apos;Get up! Devour much flesh!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I kept watching, and suddenly there was another beast, this one like a leopard. On its back it had four wings like bird wings. This beast had four heads. Authority was given to it."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "After this, as I continued to watch this night vision, I saw a fourth beast, terrifying and hideous, with extraordinary power and with massive iron teeth. As it ate and crushed, its feet smashed whatever was left over. It was different from all the other beasts before it, and it had ten horns."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I was staring at the horns when, suddenly, another small horn came up between them. Three of the earlier horns were ripped out to make room for it. On this new horn were eyes like human eyes and a mouth that bragged and bragged."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "As I was watching,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "A river of fire flowed out from his presence;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I kept watching. I watched from the moment the horn started bragging until the beast was killed and its body was destroyed, handed over to be burned with fire."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then the authority of the remaining beasts was brought to an end, but they were given an extension among the living for a set time and season."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "As I continued to watch this night vision of mine, I suddenly saw one like a human being"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Rule, glory, and kingship were given to him;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Now this caused me, Daniel, to worry. My visions disturbed me greatly."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So I went to one of the servants who was standing ready nearby. I asked him for the truth about all this."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;These four giant beasts are four kings that will rise up from the earth,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "but the holy ones of the Most High will receive the kingship. They will hold the kingship securely forever and always.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Next I wanted greater clarity about the fourth beast, the one that was different from all the others and utterly terrifying with its iron teeth and bronze claws. As it ate and crushed, its feet smashed whatever was left over."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "I wanted greater clarity about the ten horns on its head, and the other horn that came up, along with the three that fell out to make room for it&ndash;but especially about the horn that had eyes and a mouth that bragged, and that seemed more important than the others."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "As I watched, this same horn waged war against the holy ones and defeated them,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "until the Ancient One came. Then judgment was given in favor of the holy ones of the Most High. The set time arrived, and the holy ones held the kingship securely."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "This is what he said:"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The ten horns mean"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "He will say things against the Most High"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Then the court will sit in session."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The kingship, authority, and power"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "The account ends here."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the third year of King Belshazzar&quot;s rule, a vision came to me, Daniel, some time after the earlier vision I had."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I saw this vision, and as I experienced it I was in the walled city of Susa in the province of Elam, by the Ulai canal."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When I lifted my eyes, I suddenly saw a ram with two horns standing in front of the canal. Both horns were high, but one was higher than the other. The higher one came up after the other one."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I saw the ram goring west, north, and south. No animal could resist the ram, and no one could stop it, rescuing others from its power. The ram did whatever it pleased. It became powerful. a king will step forward. He will be stern and a master of deception. he will wreak unbelievable destructions. He will succeed in all he does. He will destroy both the mighty and the people of the holy ones. he will succeed by using deceit. In his own mind, he will be great. In a time of peace, he will bring destruction on many, opposing even the supreme leader. But he will be broken&ndash; and not by a human hand."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I was trying to understand this when suddenly a he-goat came from the west, crossing the entire earth but not touching the ground. Between this goat&quot;s eyes was a horn that was a sight to see."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The he-goat came to the ram that had two horns, the one I&quot;d seen standing in front of the canal. The he-goat charged the ram in powerful anger."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I saw the he-goat approach the ram. It was enraged at the ram and attacked it, shattering the ram&quot;s two horns. The ram couldn&quot;t resist the he-goat. The he-goat threw the ram on the ground and trampled on it. No one could rescue the ram from the he-goat&quot;s power."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The he-goat became even greater, but at the height of its power, its large horn snapped. In its place, four horns, each a sight to see, came up toward the four winds of heaven."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "A single, very small horn came out of one of the four horns. It grew bigger and bigger, stretching toward the south, the east, and the beautiful country."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "It grew as high as the heavenly forces, until it finally threw some of them and some of the stars down to the earth. Then it trampled on them."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "It grew as high as the very leader of those forces, taking the daily sacrifice away from him and overturning his holy place."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "In an act of rebellion, another force will take control of the daily sacrifice. It will throw truth to the ground and will succeed in everything it does."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I then heard a certain holy one speaking. A second holy one said to the first one: &apos;How long will this vision last&ndash;the one concerning the daily sacrifice, the desolating rebellion, and the handing over of the sanctuary and its forces to be trampled?&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He said to me, &apos;For two thousand three hundred evenings and mornings. Then the sanctuary will be restored.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Now I, Daniel, needed help understanding the vision I saw. Suddenly standing in front of me was someone who looked like a man."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I then heard a human voice coming out of the center of the Ulai canal. It called out: &apos;Gabriel, help this person understand what he has seen.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Gabriel approached me, and I was terrified when he came. I fell with my face to the ground. Gabriel said to me, &apos;Know this, human one: the vision is for the end time.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "As soon as he said this to me, I fell into a trance. My face was still on the ground. Then Gabriel touched me and set me up on my feet."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "He said, &apos;Now, I am going to tell you what will happen during the time of doom that is coming, because at the appointed time there will be an end."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The two-horned ram you saw represents the kings of Media and Persia."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The long-haired he-goat is the king of Greece, and the big horn between its eyes is the first king."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The horn that snapped so that four came up in its place means that four kingdoms will come from one nation, but these four won&quot;t have the strength of the first one."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "When their kingship nears its end and their sins are almost complete,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "At the height of his power,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Along with his cunning,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Now this vision of evening and morning, which has been announced, is true. But you must seal it up, because it is for days far in the future.&apos;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Then I, Daniel, was overwhelmed and felt sick for days. When I finally got up and went about the king&quot;s business, I remained troubled by the vision and couldn&quot;t understand it."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the first year of Darius&quot; rule&ndash;Darius, who was Ahasuerus&quot; son, a Median by birth and who ruled the Chaldean kingdom&ndash;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I, Daniel, pondered the scrolls, specifically the number of years that it would take to complete Jerusalem&quot;s desolation according to the LORD &quot;s word to the prophet Jeremiah. It was seventy years."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I then turned my face to my Lord God, asking for an answer with prayer and pleading, and with fasting, mourning clothes, and ashes."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "As I prayed to the LORD my God, I made this confession: Please, my Lord&ndash;you are the great and awesome God, the one who keeps the covenant, and truly faithful to all who love him and keep his commands:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "We have sinned and done wrong. We have brought guilt on ourselves and rebelled, ignoring your commands and your laws."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "We haven&quot;t listened to your servants, the prophets, who spoke in your name to our kings, our leaders, our parents, and to all the land&quot;s people."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Righteousness belongs to you, my Lord! But we are ashamed this day&ndash;we, the people of Judah, the inhabitants of Jerusalem, all Israel whether near or far, in whatever country where you&quot;ve driven them because of their unfaithfulness when they broke faith with you."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "LORD , we are ashamed&ndash;we, our kings, our leaders, and our parents who sinned against you."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Compassion and deep forgiveness belong to my Lord, our God, because we rebelled against him."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "We didn&quot;t listen to the voice of the LORD our God by following the teachings he gave us through his servants, the prophets."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "All Israel broke your Instruction and turned away, ignoring your voice. Then the curse that was sworn long ago&ndash;the one written in the Instruction from Moses, God&quot;s servant&ndash;swept over us because we sinned against God."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "God confirmed the words he spoke against us and against our rulers, bringing great trouble on us. What happened in Jerusalem hasn&quot;t happened anywhere else in the entire world!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "All this trouble came upon us, exactly as it was written in the Instruction of Moses, but we didn&quot;t try to reconcile with the LORD our God by turning from our wrongdoing or by finding wisdom in your faithfulness."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So the LORD oversaw the great trouble and brought it on us, because the LORD our God has been right in every move he&quot;s made, but we haven&quot;t listened to his voice."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;But now, my Lord, our God&ndash;you who brought your people out of Egypt with a strong hand, making a name for yourself even to this day: We have sinned and done the wrong thing.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "My Lord, please! In line with your many righteous acts, please turn your raging anger from Jerusalem, which is your city, your own holy mountain. Because of our sins and the wrongdoing of our parents, both Jerusalem and your people have become a disgrace to all our neighbors."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;But now, our God, listen to your servant&quot;s prayer and pleas for help. Shine your face on your ruined sanctuary, for your own sake, my Lord."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Open your ears, my God, and listen! Open your eyes and look at our devastation. Look at the city called by your name! We pray our prayers for help to you, not because of any righteous acts of ours but because of your great compassion."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "My Lord, listen! My Lord, forgive! My Lord, pay attention and act! Don&quot;t delay! My God, do all this for your own sake, because your city and your people are called by your name."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "While I was still speaking, praying, and confessing my sin and the sins of my people Israel&ndash;while I was still praying my prayer for help to the LORD my God about my God&quot;s holy mountain&ndash;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "while I was still speaking this prayer, the man Gabriel approached me at the time of the evening offering. This was the same Gabriel I had seen in my earlier vision. He was weary with exhaustion."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "He explained as he spoke with me: &apos;Daniel, here&quot;s why I&quot;ve come: to give you insight and understanding."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "When you began making your requests, a word went out, and I&quot;ve come to tell it to you because you are greatly treasured. So now understand this word and grasp the meaning of this vision!"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Seventy weeks are appointed for your people and for your holy city to complete the rebellion, to end sins, to cover over wrongdoing, to bring eternal righteousness, to seal up prophetic vision, and to anoint the most holy place."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "&apos;So you must know and gain wisdom about this: There will be seven weeks from the moment the word went out to restore and rebuild Jerusalem until a leader is anointed. And for sixty-two weeks the city will be rebuilt with a courtyard and a moat. But in difficult times,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "after the sixty-two weeks, an anointed one will be eliminated. No one will support him. The army of a future leader will destroy the city and the sanctuary. His end will come in a flood, but devastations will be decreed until the end of the war."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "For one week, he will make a strong covenant with many people. For one half of the week, he will stop both sacrifices and offerings. In their place will be the desolating monstrosities until the decreed destruction sweeps over the devastator.&apos;"
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the third year of Persia&quot;s King Cyrus, a message was revealed to Daniel, who was called Belteshazzar. The message was true: there would be a great conflict. Daniel understood the message, having discerned the meaning of the vision. As he said this to me, I stood up, shaking. As he spoke to me, I suddenly felt strong. Then I said: &apos;My lord can go on, because you&quot;ve made me strong.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "During that time, I, Daniel, had been mourning for three weeks."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I didn&quot;t eat any rich foods. Neither meat nor wine passed my lips, and I didn&quot;t clean up at all until the three weeks were up."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then, on the twenty-fourth day of the first month, as I was on the bank of the great Tigris River,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I looked up and suddenly saw a man clothed in linen in front of me. He had a brilliant gold belt around his waist,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "and his body was like topaz. His face was like a flash of lightning, and his eyes were like burning torches. His arms and feet looked like polished bronze. When he spoke, it sounded like the roar of a crowd."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Only I, Daniel, saw this vision. The other people who were with me didn&quot;t see it. Despite that, they were terrified and ran away to hide."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So I was left alone to see this great vision all by myself. All my strength left me. My energy was sapped, and I couldn&quot;t stay strong."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then I heard the sound of the man&quot;s words. When I heard it, I fell into a trance with my face on the ground."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But then a hand touched me, lifting me up to my hands and knees."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The man said to me, &apos;Daniel, you are greatly treasured. Now grasp the meaning of what I&quot;m saying to you. And stand up, because I&quot;ve been sent to you.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then the man said to me, &apos;Don&quot;t be afraid, Daniel, because from the day you first set your mind to understand things and to humble yourself before your God, your words were heard. I&quot;ve come because of your words!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "For twenty-one days the leader of the Persian kingdom blocked my way. But then Michael, one of the highest leaders, came to help me. I left Michael there with the leader of the Persian kingdom."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "But I&quot;ve come to help you understand what will happen to your people in the future, because there is another vision concerning that time.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "While he said this to me, I turned my face to the ground and kept quiet."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But then someone who looked like a human being touched my lips. Then I opened my mouth and spoke, saying to the person standing in front of me: &apos;My lord, the vision bothered me deeply, and I couldn&quot;t stay strong during it."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So how can I, my lord&quot;s servant, speak with you, my lord? Even now there&quot;s no strength in me, and I can barely breathe.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The one who looked like a human being touched me again and gave me strength."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "He said, &apos;Don&quot;t be afraid. You are greatly treasured. All will be well with you. Be strong!&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Then he said: &apos;Do you know why I have come to you? Now I must go back to fight the leader of Persia. As I leave, the leader of Greece will come!"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "But I will tell you what is written in the Scroll of Truth. No one stands strong with me against these leaders except your leader Michael."
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;In the first year of Darius the Mede&quot;s rule, I took my stand to strengthen and protect him.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I will now tell you the truth. Persia will have three more kings, but the fourth will be richer than all of them. Once he has become strong through his great riches, he will disturb everyone, including the Greek kingdom."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Then a warrior-king will come forward, ruling over a vast empire and doing whatever he wants."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But even as he takes control, his kingdom will be broken, divided to the four winds of heaven. It won&quot;t pass to his descendants. No one will rule like he did because his kingdom will be uprooted. It will belong to others, not to these."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "&apos;Then the southern king will gain power, but one of his princes will overpower him, ruling in his place. His empire will be vast."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "After some years, they will make an agreement together. The southern king&quot;s daughter will go to the northern king to finalize the agreement, but she won&quot;t retain her great power. Neither will his power remain in place. In those times she will be handed over, along with her escort, the one who fathered her, and the one who strengthened her."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;A branch from her roots will rise up in his place. Attacking the army, he will enter the walled fortress of the northern king. He will fight with them, and he will conquer."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He will even carry off their gods to Egypt, along with their statues and their silver and gold equipment. For years he will avoid the northern king."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then the northern king will attack the kingdom of the southern king, but will return to his own land."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "His sons will get ready for war, gathering massive forces. Their attack will be like an overwhelming flood. And they will attack again, taking the battle as far as his walled fortress."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;The southern king, in a bitter rage, will come out to battle the northern king. He will muster a huge army, but the army will be handed over to his enemy."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When the army is carried off, he will become confident. He will kill tens of thousands, but he will not stand strong."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The northern king will then muster another army&ndash;this one bigger than the first. After some years have passed, he will attack with a large and well-equipped army."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "In those times, many will oppose the southern king. Violent persons from among your people also will rise up to support the vision, but they will fail."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;When the northern king attacks, he will throw up a siege ramp and occupy a walled city. The southern forces will not be able to resist&ndash;not even its elite forces. No one will be strong enough to resist."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The one who comes to attack will do whatever he wants; no one will be able to oppose him. He will take his place in the beautiful country, and he will hand out destruction."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He will decide to occupy his entire kingdom by force. He will make an agreement with him and will give him a wife, intending to destroy him, but it won&quot;t succeed and it won&quot;t happen."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "He will turn his face to the coastlands, capturing many people. A commander will put an end to his disgrace, even though he won&quot;t repay that disgrace."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then he will turn his attention to the walled fortresses of his own country but will stumble, fall, and disappear."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "&apos;In his place one will arise who will send his agent to exact a kingdom&quot;s glory, but in a few days he will be broken, though not by anger and not by war."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "A worthless person will arise in his place. Royal majesty will not have been given to him, but he will come in a time of security and seize the kingdom by deceitful means."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Forces will be completely swept away and broken before him. The same is true for the leader of the covenant."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "From the moment they make an agreement with him, he will act deceitfully. He will gain power at the expense of a small nation."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "He will come into a province&quot;s richest places untroubled and will do what his fathers and grandfathers never could. He will hand out plunder, spoil, and wealth to them. He will make plans against fortresses, but only for a time."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "&apos;Then with a large army he will gather his strength and courage against the southern king. The southern king, with a large and super powerful army, will prepare for war, but he won&quot;t endure because they will make plans against him."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Those who eat the king&quot;s provisions will destroy him. His army will be overrun. Many will die."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "&apos;These two kings, with their minds set on evil, will sit at one table, telling lies, but with no success because the end will come at the set time."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "He will return to his country with great wealth and set his mind against a holy covenant. He will do what he wants and then return to his country."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "At the set time he will again battle against the south, but the second time will be different from the first."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Kittim ships will fight against him, and he will retreat in fear. He will rage against a holy covenant and will do what he wants. Then he will pay special attention to those who violate a holy covenant."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "His forces will come and make the sanctuary fortress impure. They will stop the daily sacrifice and set up a desolating monstrosity."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "By deceitful means he will corrupt those who violate a covenant, but the people who acknowledge their God will stand strong and will act."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "&apos;The people&quot;s teachers will help many understand, but for a time they will fall by sword and by flame, by captivity and by plunder."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "When they fall, they will receive a little help, but many will join them with deceitful plans."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Some of the teachers too will fall in order that they might be refined, purified, and cleansed&ndash;until an end time, because it is still not yet the set time."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "&apos;The king will do whatever he wants. He will exalt himself, making himself greater than any god. He will say unbelievable things against the God of gods. He will succeed until the doom is completed, because what is decreed must take place."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "He will give no thought to the gods of his fathers, nor to the god cherished by women. He will give no thought to any god, because he will make himself greater than all of them."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "In their place, he will worship a god of walled fortresses. With gold and silver, rare stones and precious things, he will worship a god his fathers did not acknowledge."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "He will deal with walled fortresses with the help of a foreign god. He will heap rewards on those who support him, making them rule over many and dividing up the land for a price."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "At the end time, the southern king will attack him. The northern king will storm against him with chariots and horses and many ships. He will invade countries, sweeping over them like a flood."
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "He will invade the beautiful country, and tens of thousands will die. But Edom, Moab, and the best of the Ammonites will escape from his hand."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "He will extend his power into other countries. Even Egypt won&quot;t escape."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "He will take control of Egypt&quot;s hidden treasures of gold, silver, and all its precious things. Libyans and Cushites will follow at his feet."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "But reports from the east and north will alarm him, and in a great rage he will set off to devastate and destroy many."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "He will pitch his royal tents between the sea and the beautiful holy mountain. But he will come to his end, and no one will help him."
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "&apos;At that time, Michael the great leader who guards your people will take his stand. It will be a difficult time&ndash;nothing like it has ever happened since nations first appeared. But at that time every one of your people who is found written in the scroll will be rescued."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Many of those who sleep in the dusty land will wake up&ndash;some to eternal life, others to shame and eternal disgrace."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Those skilled in wisdom will shine like the sky. Those who lead many to righteousness will shine like the stars forever and always."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But you, Daniel, must keep these words secret! Seal the scroll until the end time! Many will stray far, but knowledge will increase.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I, Daniel, looked and suddenly saw two other figures&ndash;one standing on each side of the stream."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "One said to the man clothed in white linen, who was farther upstream: &apos;When will these astonishing things be over?&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I heard the man clothed in white linen, who was farther upstream, swear by the one who lives forever as he raised both hands to heaven: &apos;For one set time, two set times, and half a set time. When the breaking of the holy people&quot;s power is over, all these things will be over.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I heard it, but I didn&quot;t understand it. &apos;My lord,&apos; I said, &apos;what will happen after all this?&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "He said, &apos;Get going now, Daniel, because these words must remain secret and sealed up until the end time."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Many will purify, cleanse, and refine themselves, but the wicked will act wickedly. None of the wicked will understand, but those skilled in wisdom will understand."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "There will be one thousand two hundred ninety days from the time the daily sacrifice is stopped to the setting up of the desolating monstrosity."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Happy is the one who waits and reaches one thousand three hundred thirty-five days."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Now as for you, go on to the end. You will rest and will stand to receive your reward at the end of days.&apos;"
+            }
+        ]
     }
 }

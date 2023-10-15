@@ -1,18 +1,876 @@
 {
     "Zechariah": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": [],
-        "14": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the eighth month in the second year of Darius, the LORD &quot;s word came to Zechariah the prophet, Berechiah&quot;s son and Iddo&quot;s grandson: The LORD of heavenly forces proclaims: Return to me, says the LORD of heavenly forces, and I will return to you, says the LORD of heavenly forces. The LORD of heavenly forces proclaims: Turn from your evil ways and your evil deeds. But they didn&quot;t listen; they didn&quot;t draw near to me. Do the prophets live forever? which I gave to my servants, the prophets, pursue your ancestors? And then the people changed their hearts, and they said, The LORD of heavenly forces has treated us according to exactly as he planned. which was standing among the myrtle trees in the valley; and behind him were red, sorrel, and white horses. The messenger speaking with me said, &apos;I will show you what they are.&apos; &apos;These are the ones the LORD sent to patrol the earth.&apos; who was standing among the myrtles, &apos;We have patrolled the earth. The whole earth is peaceful and quiet.&apos; &apos; LORD of heavenly forces, how long will you withhold compassion from Jerusalem and the cities of Judah, with whom you have been angry these seventy years?&apos; with kind and compassionate words. &apos;This is what the LORD of heavenly forces says: I care passionately about Jerusalem and Zion. Though I was somewhat angry, they added to the violence.&apos; I have returned to Jerusalem with compassion. My house will be built in it, says the LORD of heavenly forces. Let a measuring line be stretched over Jerusalem. The LORD of heavenly forces proclaims: My cities will again overflow with prosperity. The LORD will again show compassion to Zion and will again choose Jerusalem.&apos; &apos;What are these?&apos; He said to me, &apos;These are the horns that scattered Judah, Israel, and Jerusalem.&apos; &apos;What are they coming to do?&apos; And he said, &apos;These are the horns that scattered Judah so that no one could raise his head."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The LORD was terribly angry with your ancestors."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But you must say to the people,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Don&quot;t be like your ancestors to whom the former prophets preached:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So where are your ancestors?"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "In fact, didn&quot;t my words and laws, what we have done, The metalworkers have come to terrify them and to destroy the horns of the nations, those who were attacking the land of Judah with their horns to scatter it.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "On the twenty-fourth day of the eleventh month (the month of Shebat ) in the second year of Darius, the LORD &quot;s word came to Zechariah the prophet, Berechiah&quot;s son and Iddo&quot;s grandson:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Tonight I looked and saw a man riding on a red horse,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I said, &apos;What are these, sir?&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The man standing among the myrtles responded,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Then they responded to the LORD &quot;s messenger,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then the LORD &quot;s messenger, who was speaking with me, said:"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The LORD responded to the messenger who was speaking with me"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The messenger speaking with me called out,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And I am exceedingly angry with those carefree nations."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Therefore, this is what the LORD says:"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;Call out again,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Then I looked up and saw four horns."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "I said to the messenger speaking with me,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Then the LORD showed me four metalworkers."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I said,"
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then I looked up and saw a man. In his hand was a measuring line. He said to me, &apos;To measure Jerusalem to see how wide and long it will be.&apos; &apos;Run! Say to this young man: Jerusalem will be inhabited like open fields because of the throngs of people and cattle inside it. and I will be glorious inside it. for I will scatter you like the four winds of heaven, says the LORD . Flee, you who dwell with Daughter Babylon! concerning the nations plundering you: Those who strike you strike the pupil of my eye. they will become prey to their own slaves, so you will know that the LORD of heavenly forces sent me. because I am about to come and dwell among you, says the LORD . They will become my people, and I will dwell among you so you will know that the LORD of heavenly forces sent me to you.&apos; he will again choose Jerusalem. presence, because he has moved from his holy habitation!"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I said, &apos;Where are you going?&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "As I watched, the messenger speaking with me went ahead and another messenger came to meet him."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He said to him,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But I will be a wall of fire around it, says the LORD ,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Look out; look out! Flee from the land of the north, says the LORD ,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Look out, Zion."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The LORD of heavenly forces proclaims (after his glory sent me)"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But look, I am about to raise my hand against them;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Rejoice and be glad, Daughter Zion,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Many nations will be joined to the LORD on that day."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The LORD will possess Judah as his inheritance upon the holy land;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Be silent, everyone, in the LORD &quot;s"
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then the LORD showed me the high priest Joshua, standing before the messenger from the LORD , and the Adversary was standing by his right side to accuse him. &apos;The LORD rebukes you, Adversary. The LORD , the one choosing Jerusalem, rebukes you. Is this one not a log snatched from the fire?&apos; &apos;Take off his filthy clothes.&apos; And he said to Joshua, &apos;Look, I have removed your guilt from you. Put on priestly robes.&apos; So they put the clean turban upon his head, and they dressed him in garments while the LORD &quot;s messenger stood by. If you will walk in my paths, if you will keep my charge, then you will lead my house and guard my courts, and I will allow you to walk among those standing here. you and your companions sitting before you&ndash; for these men are a sign&ndash; look, I am about to bring my servant, Branch. Upon one stone, there are seven facets. I am about to engrave an inscription on it, says the LORD of heavenly forces. I will remove the guilt of that land in one day. everyone will invite their neighbors to sit beneath their vines and the fig trees.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And the LORD said to the Adversary:"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Joshua was wearing filthy clothes and standing before the messenger."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He responded to those standing before him,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "He said, &apos;Put a clean turban upon his head.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then the LORD &quot;s messenger admonished Joshua:"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Now listen, High Priest Joshua,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "See this stone that I have put before Joshua."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "On that day, says the LORD of heavenly forces,"
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "The messenger speaking with me returned and woke me like one who awakens someone who is asleep. I said, &apos;I see a lampstand made entirely of gold. It has a bowl on top. The bowl has seven lamps on top and seven metal pipes for those lamps. one to the right of its bowl and one to the left.&apos; &apos;What are these, sir?&apos; &apos;Don&quot;t you know what these are?&apos; I said, &apos;No, sir. I don&quot;t.&apos; &apos;This is the LORD &quot;s word to Zerubbabel: Neither by power, nor by strength, but by my spirit, says the LORD of heavenly forces.&apos; Before Zerubbabel you will become a plain. He will present the capstone to shouts of great gratitude. and his hands will finish it so that you will know that the LORD of heavenly forces has sent me to you. These are the seven eyes of the LORD , surveying the entire earth. &apos;What are these two olive trees on the right and left sides of the lampstand?&apos; &apos;What are these two olive branches that empty out golden oil through the two gold pipes?&apos; I said, &apos;No, sir.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Then he said to me, &apos;What do you see?&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "It has two olive trees beside the lampstand,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I responded to the messenger speaking with me,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The messenger responded to me:"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He answered me:"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Who are you, great mountain?"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The LORD &quot;s word came to me:"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The hands of Zerubbabel laid the foundation of this house,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Those who despise a time of little things will rejoice when they see the plumb line in Zerubbabel&quot;s hand."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I responded to him,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then I responded a second time,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He said to me, &apos;Don&quot;t you know what these are?&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He said, &apos;These are the two anointed ones standing beside the LORD of all the earth.&apos;"
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "I looked up again and saw a flying scroll. I said, &apos;I see a flying scroll, thirty feet long and fifteen feet wide.&apos; It will come to the house of the thief and the one swearing lies in my name. It will lodge in their house and destroy the wood and stones of that house.&apos; &apos;Look up and see what&quot;s approaching.&apos; showing a woman sitting in the middle of the basket. He shoved her back into the basket, and he put the lead stone over its opening. There was a wind in their wings; their wings were like the wings of a stork. They carried the basket between the earth and the sky. &apos;Where are they taking the basket?&apos; &apos;To build a house for it in the land of Shinar. It will be firmly placed there on its base.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And he said to me, &apos;What do you see?&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "He said to me, &apos;This is the curse going out across all the land. Anyone stealing will be purged according to what&quot;s on one side of the scroll, and anyone swearing lies will be purged according to what&quot;s on the other side. He said, &apos;This is the basket that is going out. This is how it appears throughout the entire land.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I sent it out, says the LORD of heavenly forces."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then the messenger speaking with me came forward and said,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I said, &apos;What&quot;s this?&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then a lead cover was lifted,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He said, &apos;This is wickedness.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I looked up again and saw two women going out."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I said to the messenger speaking with me,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "He said to me,"
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "I looked up again and saw four chariots coming out from between two mountains; the mountains were made of bronze. and the second chariot had black horses. and the fourth chariot had horses that were heavily spotted. &apos;What are these, sir?&apos; &apos;These are the four winds of heaven that are going out after presenting themselves to the LORD of all the earth. and the spotted ones are going south.&apos; He said, &apos;Go! Patrol the earth!&apos; So they patrolled the earth. &apos;Look, the ones going north have provided rest for my spirit in the north.&apos; from Heldai, from Tobijah, and from Jedaiah. As for you, go that same day to the house of Josiah son of Zephaniah. Place it on the head of the high priest Joshua, Jehozadak&quot;s son. &apos;The LORD of heavenly forces proclaims: Here is a man. His name is Branch, and he will branch out from his place; he will build the LORD &quot;s temple. He will be majestic; he will sit and rule on his throne. There will be a priest on his throne, and the two of them will share a peaceable plan. for Helem, Tobijah, Jedaiah, and for Hen, Zephaniah&quot;s son. so you might know that the LORD of heavenly forces has sent me to you. It will happen if you truly obey the voice of the LORD your God.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The first chariot had red horses,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The third chariot had white horses,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I responded and said to the messenger speaking with me,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The messenger answered and said to me,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The one with the black horses is going to the north country; the white ones are going to the west;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then the powerful ones approached, intent on going to patrol the earth."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then he called out and said to me,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The LORD &quot;s word came to me:"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Take silver and gold from the exiles who came from Babylon,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Take silver and gold and make a crown."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Say to him,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He will build the LORD &quot;s temple."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The crown will be a memorial in the LORD &quot;s temple"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "People from far away will come and build the LORD &quot;s temple"
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the fourth year of Darius the king, the LORD &quot;s word came to Zechariah on the fourth day of the ninth month, Kislev."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The people of Bethel sent Sharezer and Regem-Melech, along with his men, to seek the LORD &quot;s favor,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "saying to the priests who were in the house of the LORD of heavenly forces and to the prophets: &apos;Should I weep in the fifth month and abstain as I have done for a number of years?&apos; Make just and faithful decisions; show kindness and compassion to each other!"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then the word of the LORD of heavenly forces came to me:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Say to all the land&quot;s people and to the priests: When you fasted and lamented in the fifth month and the seventh month for these past seventy years, did you fast for me?"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When you ate and drank, weren&quot;t you the ones eating and drinking?"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Weren&quot;t these the words that the LORD proclaimed through the former prophets when Jerusalem was dwelling quietly along with the surrounding cities, and when the arid southern plain and the western foothills were inhabited?"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The LORD &quot;s word came to Zechariah:"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Don&quot;t oppress the widow, the orphan, the stranger, and the poor; don&quot;t plan evil against each other!"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But they refused to pay attention. They turned a cold shoulder and stopped listening."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They steeled their hearts against hearing the Instruction and the words that the LORD of heavenly forces sent by his spirit through the earlier prophets. As a result, the LORD of heavenly forces became enraged."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So just as he called and they didn&quot;t listen, when they called, I didn&quot;t listen, says the LORD of heavenly forces."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I scattered them throughout the nations whom they didn&quot;t know. The land was devastated behind them, with no one leaving or returning. They turned a delightful land into a wasteland."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "The word from the LORD of heavenly forces came to me: I care passionately about Zion; I burn with passion for her. Old men and old women will again dwell in the plazas of Jerusalem. Each of them will have a staff in their hand because of their great age. Even though it may seem to be a miracle for the few remaining among this people in these days, should it seem to be a miracle for me? says the LORD of heavenly forces. I&quot;m about to deliver my people from the land of the east and the land of the west. Be strong, you who are now hearing these words from the mouths of the prophets spoken on the day when the foundations for the house of the LORD of heavenly forces were laid. the vine will give its fruit. The land will give its produce; the heavens will give its dew. I will give the remnant of this people all these things. so now I will deliver you; you will be a blessing. Don&quot;t fear, but be strong. Just as I planned evil against you when your ancestors angered me, says the LORD of heavenly forces, and did not relent, The fasts of the fourth, fifth, seventh, and tenth months will become times of joy and gladness, pleasant feasts for the house of Judah. Love truth and peace! Peoples will still come, the inhabitants of many cities. In those days ten men from nations with entirely different languages will grab hold of a Judean&quot;s clothes and say, &apos;Let&quot;s go with you, for we have heard that God is with you.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The LORD proclaims: I have returned to Zion; I will settle in Jerusalem. Jerusalem will be called the city of truth; the mountain of the LORD of heavenly forces will be the holy mountain."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The city will be full of boys and girls playing in its plazas."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I&quot;ll bring them back so they will dwell in Jerusalem. They will be my people, and I will be their God&ndash;in truth and in righteousness."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Before this time, there were no wages for people or animals; there was no relief from distress about going out or coming in, because I set everyone against their own neighbor."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But now, unlike those earlier days, I&quot;ll be with the few remaining among this people, says the LORD of heavenly forces."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The seed is healthy:"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Just as you were a curse among the nations, house of Judah and house of Israel,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "so now I have changed course and again plan to do good to Jerusalem and the house of Judah. Don&quot;t be afraid."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "These are the things you should do: Speak the truth to each other; make truthful, just, and peaceable decisions within your gates."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Don&quot;t plan evil for each other. Don&quot;t adore swearing falsely, for all of these are things that I hate, says the LORD ."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The word of the LORD of heavenly forces came to me:"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The inhabitants of one city will go to another saying, &apos;Let&quot;s go and seek the favor of the LORD , and look for the LORD of heavenly forces. I&quot;m going too.&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Many peoples and mighty nations will come to seek the LORD of heavenly forces in Jerusalem and to seek the favor of the LORD ."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The LORD of heavenly forces proclaims:"
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "A pronouncement. The LORD &quot;s word is against the land of Hadrach, and Damascus is its resting place, Tyre and Sidon, indeed, each is exceedingly wise. She piled up silver like dust and gold like mud in the streets, and knock her wealth into the sea. She will be devoured with fire. Gaza will writhe in agony, and also Ekron, because her hope has dried up. The king will perish from Gaza; Ashkelon won&quot;t be inhabited. I will eliminate the pride of the Philistines. and pieces of unclean food from between his teeth. He will be a survivor who belongs to our God. He will be like a chieftain in Judah; Ekron will be like a Jebusite. against anyone departing or returning. A slave driver will no longer pass through against them, Sing aloud, Daughter Jerusalem. Look, your king will come to you. He is righteous and victorious. He is humble and riding on an ass, on a colt, the offspring of a donkey. and the warhorse from Jerusalem. The bow used in battle will be cut off; he will speak peace to the nations. His rule will stretch from sea to sea, and from the river to the ends of the earth. I will release your prisoners from the waterless pit. Moreover, declare today that I will return double to you. I will fill it with Ephraim. Zion, I will rouse your sons against your sons. Greece, I will make you like a warrior&quot;s sword. his arrow will go forth like lightning. The LORD God will blow the horn; he will march forth on the stormy winds of the south. They will drink, mumbling like one having wine. They will be filled like a bowl, like the corners of the altar. they will be the jewels in a crown dotting his land. and what is his beauty? Grain will make his young men flourish; so too wine his young women. for the city of Aram and all the tribes of Israel belong to the LORD . for I have seen you with my eyes. They will devour and subdue like sling stones."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Hamath also borders on it."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Tyre built a fortress for herself."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "but the LORD will take her possessions away"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Ashkelon will look and be afraid."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "An illegitimate child will dwell in Ashdod;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I will remove bloody food from his mouth"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I will encamp before my house as a guard"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Rejoice greatly, Daughter Zion."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He will cut off the chariot from Ephraim"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Moreover, by the blood of your covenant,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Return to the stronghold, prisoners of hope."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Indeed, I myself will bend Judah as a bow;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The LORD will appear above them;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The LORD of heavenly forces will protect them."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The LORD their God will deliver them on that day as the flock of his people;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "What is his goodness,"
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "Ask the LORD for rain when it is time for the spring rain. The LORD is the one who makes the thunderstorms. He gives them rain showers. speak idolatry, and diviners see lies. They interpret dreams falsely and provide empty comfort. Therefore, they wander like sheep, but they are oppressed because there is no shepherd. I will punish the goats. The LORD of heavenly forces will take care of his splendor, the house of Judah. He will make them like his majestic horse in battle. Every oppressor will leave Judah simultaneously. trampling through the muddy streets during battle. They will do battle because the LORD is with them. All the cavalry will be ashamed. and deliver the house of Joseph. They will be as though I hadn&quot;t rejected them, for I am the LORD their God; I will respond to them. They will be as glad as if they were drinking wine. Their children will watch and be glad. Their hearts will rejoice in the LORD . because I have ransomed them. They will be as numerous as they were previously. they will remember me in the distant places where they are living with their children until they return. I will collect them from Assyria. I will bring them to the land of Gilead and Lebanon until there is no more room for them. All the depths of the river will dry up. The pride of Assyria will be brought down; the scepter of Egypt will turn away. and they will walk in his name, says the LORD . He gives vegetation in the field to each of them. I will bring them back because I have compassion on them. and strike the sea with waves."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The household divine images"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "My anger burns hot against the shepherds;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The cornerstone, the tent peg, and the bow used in battle will come from Judah."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Judah will be like warriors,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I will strengthen the house of Judah"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Ephraim will be like a warrior."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I will whistle for them and gather them,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Though I sowed them among the peoples,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I will bring them back from the land of Egypt;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They will pass through the sea of distress"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I will strengthen them in the LORD ,"
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "Open your doors, Lebanon, so that fire will devour your cedars. those majestic ones have been devastated. Scream, oaks of Bashan, for the deep forest has fallen. because their majesty has been devastated. The sound of roaring can be heard among the young lions because the pride of the Jordan has been devastated. Shepherd the flock intended for slaughter. but they will go unpunished. Those who sell them will say, &apos;Blessed is the LORD , for I have become rich.&apos; And their own shepherds won&quot;t spare them. But look what I am about to bring upon humanity, upon each of them by their neighbor&quot;s hand and by the hand of their king: They will beat the land to pieces, but I won&quot;t rescue anyone from their hand. I took two staffs for myself. I named one Delight; the other I named Harmony. I shepherded the flock. when I grew impatient with them. Moreover, they detested me. Let the dying die, and let what is to be removed be removed. Let those who are left devour the flesh of their neighbor.&apos; and I chopped it up in order to break my covenant that I had made with all the peoples. &apos;If it appears good to you, give me my wages; but if not, then stop.&apos; So they weighed out my wages, thirty shekels of silver. They value me at too magnificent a price.&apos; and put them in the treasury of the LORD &quot;s house. to break the alliance between Judah and Israel. &apos;Take for yourself again the equipment of a foolish shepherd, He won&quot;t tend to those who have been removed. He won&quot;t seek the young or heal the broken. He won&quot;t sustain the one standing. Instead, he will devour the flesh of the fat ones, even tearing off their hooves. His arm will wither completely; his right eye will become blind.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Scream, cypress, for the cedar has fallen;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The sound of screaming appears among the shepherds"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "This is what the LORD my God says:"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Those who buy them will kill them,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "In fact, I will no longer spare the inhabitants of the land, says the LORD ."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So I shepherded the flock intended for slaughter, the afflicted of the flock. As a result, the afflicted of the flock knew that it was the LORD &quot;s word. &apos;Put it in the treasury. So I took the thirty shekels of silver A sword will strike his arm and his right eye."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I removed three shepherds in one month"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then I said, &apos;I won&quot;t shepherd you."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then I took the staff Delight,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "It was broken on that day."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And I said to them,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The LORD said to me,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then I chopped up my second staff Harmony,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then the LORD said to me,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "because I am about to appoint a shepherd in the land."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Doom, foolish shepherd who forsakes the flock."
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "A pronouncement. The LORD &quot;s word against Israel, an utterance of the LORD who stretches out the heavens, who establishes the earth, and who fashions the spirit of humanity within it: There will be a siege against Judah and against Jerusalem. All who carry it will hurt themselves; nevertheless, the nations of the earth will conspire against it. and its rider with madness. I will keep my eyes open for the house of Judah; I will strike blind every horse of the peoples. the inhabitants of Jerusalem will say, They will devour all the surrounding nations to the right and the left. Jerusalem will dwell again in its place, in Jerusalem. and the splendor of Jerusalem&quot;s inhabitants won&quot;t overshadow Judah. Anyone among them who stumbles on that day will become like David, and David&quot;s house will become like God, like the LORD &quot;s messenger in front of them. and on the inhabitants of Jerusalem. They will look to me concerning the one whom they pierced; they will mourn over him like the mourning for an only child. will be as great as the mourning of Hadad-Rimmon in the Megiddo Valley. the clan of David&quot;s house by themselves, and their women by themselves; the clan of Nathan&quot;s house by themselves, and their women by themselves; and the Shimeites&quot; clan by themselves, and their women by themselves;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I am about to make Jerusalem a cup that will stagger all the surrounding nations."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "On that day I will make Jerusalem into a heavy stone for all the peoples."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "On that day, says the LORD , I will strike every horse with confusion"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The chieftains of Judah will say to themselves, We are strong; The LORD their God of heavenly forces is strong. They will mourn bitterly over him like the bitter mourning over the death of an oldest child."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "On that day I will place the chieftains of Judah like a pot on a wood fire and like a burning torch among the bundles of grain."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The LORD will first deliver the tents of Judah so that the splendor of David&quot;s house"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "On that day the LORD will protect the inhabitants of Jerusalem."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "On that day I intend to destroy all the nations who come against Jerusalem,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "but I will pour out a spirit of grace and mercy on David&quot;s house"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "On that day, the mourning in Jerusalem"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The land will mourn, each of the clans by itself:"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "the clan of Levi&quot;s house by themselves, and their women by themselves;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "and all the remaining clans, each clan by itself, and their women by themselves."
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "On that day, a fountain will open to cleanse the sin and impurity of David&quot;s house and the inhabitants of Jerusalem. against the man responsible for my community, says the LORD of heavenly forces! I will eliminate the names of the idols from the land; they will no longer be remembered. Moreover, I will remove the prophets and the sinful spirit from the land. then that person&quot;s birth father and mother will say, &apos;You won&quot;t live, for you have told a lie in the name of the LORD .&apos; That person&quot;s own birth father and mother will stab him when he prophesies. and won&quot;t put on a shaggy coat in order to deceive. I&quot;m a man who works the ground, for the soil has been my occupation since I was young.&apos; &apos;What are these wounds between your hands?&apos; And he will say, &apos;These happened when I was hit in my friends&quot; home.&apos; Strike the shepherd in order to scatter the flock! I will turn my hand against the little ones. two-thirds will be cut off and die; but one-third will be left in it. I will refine them like one refines silver; I will test them like one tests gold. They will call on my name, and I will respond to them. I will say, &apos;They are my people.&apos; And they will say, &apos;The LORD is our God.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "On that day, says the LORD of heavenly forces,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "If anyone again prophesies,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "On that day each of the prophets will be ashamed of his vision when he prophesies"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Each will say, &apos;I&quot;m not a prophet."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Someone will say to him,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Sword, arise against my shepherd,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Throughout all the land, says the LORD ,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I will put the third part into the fire."
+            }
+        ],
+        "14": [
+            {
+                "verse_number": "1",
+                "verse_text": "A day is coming that belongs to the LORD , when that which has been plundered from you will be divided among you. the city will be captured, the houses will be plundered, and the women will be raped. Half of the city will go forth into exile, but what is left of the people won&quot;t be eliminated from the city. The Mount of Olives will be split in half by a very large valley running from east to west. Half of the mountain will move north, and the other half will move south. because the valley of the mountains will reach to Azal. You will flee just as you fled from the earthquake in the days of Judah&quot;s King Uzziah. but at evening time there will be light. this will happen during the summer and the fall. On that day the LORD will be one, and the LORD &quot;s name will be one. from Geba to Rimmon, south of Jerusalem. Jerusalem will be high up and firmly in place from the Benjamin Gate to the place of the former gate, to the Corner Gate, and from the Hananel Tower to the king&quot;s wine vats. it will never again be destroyed. Jerusalem will dwell securely. LORD will strike all the peoples who swarmed against Jerusalem: their flesh will rot, even while standing on their feet; their eyes will rot in their sockets; and their tongues will rot in their mouths. they will all grasp at the hand of their neighbors; neighbors will attack each other. The wealth of all the surrounding nations will be collected: gold, silver, and a great abundance of garments. All those who sacrifice will come. They will take some of the pots and cook with them."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I will gather all the nations to Jerusalem for the battle,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The LORD will go out and fight against those nations as when he fights on a day of battle."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "On that day he will stand upon the Mount of Olives, to the east of Jerusalem."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "You will flee through the valley of my mountain, The LORD my God will come, and all the holy ones with him. Splendid things will disappear. half of it to the Dead Sea and half of it to the Mediterranean; and the pots in the LORD &quot;s house will be holy like the bowls before the altar. There will no longer be any merchants in the house of the LORD of heavenly forces on that day."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "On that day, there will be no light."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "On one day known to the LORD , there will be neither day nor night,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "On that day, running water will flow out from Jerusalem,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The LORD will become king over all the land."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The entire land will become like the desert"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "People will dwell in it;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "This will be the plague with which the"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "On that day, a great panic brought on by the LORD will fall upon them;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Even Judah will fight in Jerusalem."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "This plague will also affect the horses, mules, camels, donkeys, and any cattle in those camps during this plague."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "All those left from all the nations who attacked Jerusalem will go up annually to pay homage to the king, the LORD of heavenly forces, and to celebrate the Festival of Booths."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Whoever among the families of the earth doesn&quot;t go up to Jerusalem to pay homage to the king, the LORD of heavenly forces, upon them no rain will fall."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "And if the family of Egypt doesn&quot;t go up and doesn&quot;t present itself, then no rain will fall on them. There will be a plague like the one with which the LORD struck the nations that didn&quot;t go up to celebrate the Festival of Booths."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "This would be the sin of Egypt and the sin of all the nations who don&quot;t go up to celebrate the Festival of Booths."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "On that day, Holy to the LORD will be inscribed on the bells of the horses,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Every pot in Jerusalem and in Judah will be holy to the LORD of heavenly forces."
+            }
+        ]
     }
 }

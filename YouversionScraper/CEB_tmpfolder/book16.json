@@ -1,17 +1,1654 @@
 {
     "Nehemiah": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "These are the words of Nehemiah, Hacaliah&quot;s son. In the month of Kislev, in the twentieth year, while I was in the fortress city of Susa,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Hanani, one of my brothers, came with some other men from Judah. I asked them about the Jews who had escaped and survived the captivity, and about Jerusalem. &apos; LORD God of heaven, great and awesome God, you are the one who keeps covenant and is truly faithful to those who love you and keep your commandments. &apos;I confess the sins of the people of Israel, which we have committed against you. Both I and my family have sinned."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "They told me, &apos;Those in the province who survived the captivity are in great trouble and shame! The wall around Jerusalem is broken down, and its gates have been destroyed by fire!&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When I heard this news, I sat down and wept. I mourned for days, fasting and praying before the God of heaven."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I said:"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Let your ear be attentive and your eyes open to hear the prayer of your servant, which I now pray before you night and day for your servants, the people of Israel."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "We have wronged you greatly. We haven&quot;t kept the commandments, the statutes, and the ordinances that you commanded your servant Moses."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;Remember the word that you gave to your servant Moses when you said, &quot;If you are unfaithful, I will scatter you among the peoples."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But if you return to me and keep my commandments by really doing them, then, even though your outcasts live under distant skies, I will gather them from there and bring them to the place that I have chosen as a dwelling for my name.&quot;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "They are your servants and your people. They are the ones whom you have redeemed by your great power and your strong hand."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos; LORD , let your ear be attentive to the prayer of your servant and to the prayer of your servants who delight in honoring your name. Please give success to your servant today and grant him favor in the presence of this man!&apos;"
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "In the month of Nisan, in the twentieth year of King Artaxerxes, the king was about to be served wine. I took the wine and gave it to the king. Since I had never seemed sad in his presence,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "the king asked me, &apos;Why do you seem sad? Since you aren&quot;t sick, you must have a broken heart!&apos; I was very afraid I prayed to the God of heaven The king gave me what I asked, for the gracious power of my God was with me."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "and replied, &apos;May the king live forever! Why shouldn&quot;t I seem sad when the city, the place of my family&quot;s graves, is in ruins and its gates destroyed by fire?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The king asked, &apos;What is it that you need?&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "and replied, &apos;If it pleases the king, and if your servant has found favor with you, please send me to Judah, to the city of my family&quot;s graves so that I may rebuild it.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "With the queen sitting beside him, the king asked me, &apos;How long will you be away and when will you return?&apos; So it pleased the king to send me, and I told him how long I would be gone."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I also said to him, &apos;If it pleases the king, may letters be given me addressed to the governors of the province Beyond the River to allow me to travel to Judah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "May the king also issue a letter to Asaph the keeper of the king&quot;s forest, directing him to supply me with timber for the beams of the temple fortress gates, for the city wall, and for the house in which I will live.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So I went to the governors of the province Beyond the River and gave them the king&quot;s letters. The king had sent officers of the army and cavalry with me."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "When Sanballat the Horonite and Tobiah the Ammonite official heard this, they were very angry that someone had come to seek the welfare of the people of Israel."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "When I reached Jerusalem and had been there for three days,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I set out at night, taking only a few people with me. I didn&quot;t tell anyone what my God was prompting me to do for Jerusalem, and the only animal I took was the one I rode."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I went out by night through the Valley Gate past the Dragon&quot;s Spring to the Dung Gate so that I could inspect the walls of Jerusalem that had been broken down, as well as its gates, which had been destroyed by fire."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then I went on to the Spring Gate and to the King&quot;s Pool. Since there was no room for the animal on which I was riding to pass,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I went up by way of the valley by night and inspected the wall. Then I turned back and returned by entering through the Valley Gate."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The officials didn&quot;t know where I had gone or what I was doing. I hadn&quot;t yet told the Jews, the priests, the officials, the officers, or the rest who were to do the work."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So I said to them, &apos;You see the trouble that we&quot;re in: Jerusalem is in ruins, and its gates are destroyed by fire! Come, let&quot;s rebuild the wall of Jerusalem so that we won&quot;t continue to be in disgrace.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I told them that my God had taken care of me, and also told them what the king had said to me. &apos;Let&quot;s start rebuilding!&apos; they said, and they eagerly began the work."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about it, they mocked and made fun of us. &apos;What are you doing?&apos; they asked. &apos;Are you rebelling against the king?&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "&apos;The God of heaven will give us success!&apos; I replied. &apos;As God&quot;s servants, we will start building. But you will have no share, right, or claim in Jerusalem.&apos;"
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Eliashib the high priest set to work with his fellow priests and built the Sheep Gate. They dedicated it and set up its doors, then dedicated it as far as the Tower of the Hundred and as far as the Tower of Hananel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The people of Jericho built next to them, and Zaccur, Imri&quot;s son, built next to them."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The children of Hassenaah built the Fish Gate; they laid its beams and set up its doors, bolts, and bars."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Next to them Meremoth, Uriah&quot;s son and Hakkoz&quot;s grandson, made repairs. Meshullam, Berechiah&quot;s son and Meshezabel&quot;s grandson, made repairs next to them, and Zadok, Baana&quot;s son, made repairs next to them."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Next to them the people from Tekoa made repairs, but their officials wouldn&quot;t help with the work of their supervisors."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Joiada, Paseah&quot;s son, and Meshullam, Besodeiah&quot;s son, repaired the Mishneh Gate; they laid its beams and set up its doors, bolts, and bars."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Next to them repairs were made by Melatiah the Gibeonite, Jadon the Meronothite, and the people of Gibeon and of Mizpah, who were ruled by the governor of the province Beyond the River."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Uzziel, Harhaiah&quot;s son, one of the goldsmiths, made repairs next to them; and Hananiah, one of the perfumers, made repairs next to him. They restored Jerusalem as far as the Broad Wall."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Next to them Rephaiah, Hur&quot;s son, ruler of half the district of Jerusalem, made repairs."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Next to them Jedaiah, Harumaph&quot;s son, made repairs opposite his house, and Hattush, Hashabneiah&quot;s son, made repairs next to him."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Malchijah, Harim&quot;s son, and Hasshub, Pahath-moab&quot;s son, repaired another section and the Tower of the Ovens."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Next to them Shallum, Hallohesh&quot;s son, ruler of half the district of Jerusalem, made repairs, along with his daughters."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Hanun and the people of Zanoah repaired the Valley Gate; they built it and set up its doors, bolts, and bars. They also repaired fifteen hundred feet of the wall, as far as the Dung Gate."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Malchiah, Rechab&quot;s son, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and set up its doors, bolts, and bars."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And Shallum, Col-hozeh&quot;s son, ruler of the Mizpah district, repaired the Spring Gate. He rebuilt and covered it, and set up its doors, bolts, and bars. He also built the wall of the Pool of Shelah of the King&quot;s Garden, as far as the stairs that go down from David&quot;s City."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "After him, Nehemiah, Azbuk&quot;s son, ruler of half the Beth-zur district, repaired from the point opposite David&quot;s tombs as far as the artificial pool and the Warriors&quot; House."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "After him, the Levites made repairs: Rehum, Bani&quot;s son, and next to him Hashabiah, ruler of half the district of Keilah, made repairs for his district."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "After him, their relatives made repairs: Binnui, Henadad&quot;s son, ruler of half the district of Keilah."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Next to him, Ezer, Jeshua&quot;s son, ruler of Mizpah, repaired another section opposite the ascent to the armory at the Angle."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "After him, Baruch, Zabbai&quot;s son, thoroughly repaired another section from the Angle to the door of the house of the high priest Eliashib."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "After him, Meremoth, Uriah&quot;s son and Hakkoz&quot;s grandson, repaired another section from the door to the back of Eliashib&quot;s house."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "After him, the priests from the surrounding area made repairs."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "After them, Benjamin and Hasshub made repairs opposite their house. After them, Azariah, Maaseiah&quot;s son and Ananiah&quot;s grandson, repaired beside his house."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "After him, Binnui, Henadad&quot;s son, repaired another section from the house of Azariah to the Angle and to the corner."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Palal, Uzai&quot;s son, repaired from the point opposite the Angle and the tower projecting from the upper house of the king at the court of the guard. After him, Pedaiah, Parosh&quot;s son,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "and the temple servants living on Ophel made repairs up to the point opposite the Water Gate to the east and the projecting tower."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "After them, the people of Tekoa repaired another section opposite the great projecting tower as far as the wall of Ophel."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "From the Horse Gate, the priests made repairs, each one opposite his own house."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "After them, Zadok, Immer&quot;s son, made repairs opposite his own house. After him, Shemaiah, Shecaniah&quot;s son, the keeper of the East Gate, made repairs."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "After him, Hananiah, Shelemiah&quot;s son, and Hanun, Zalaph&quot;s sixth son, repaired another section. After them, Meshullam, Berechiah&quot;s son, made repairs opposite his own room."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "After him, Malchiah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Parade Gate, and as far as the upper room at the corner."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "And between the upper room of the corner and the Sheep Gate, the goldsmiths and the merchants made repairs."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "When Sanballat heard that we were building the wall, he became angry and raged. He mocked the Jews,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "saying in the presence of his associates and the army of Samaria: &apos;What are those feeble Jews doing? Will they restore things themselves? Will they offer sacrifices? Will they finish it in a day? Will they revive the stones from the piles of rubble, even though they are burned?&apos; &apos;The carrier&quot;s strength is failing, for there is too much rubble. We are unable to rebuild the wall!&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Tobiah the Ammonite, who was beside him, added: &apos;If even a fox climbs on whatever they build, their wall of stones will crumble.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Listen, God; we are despised! Turn their insults to us back on their heads and make them like plunder in a captive land."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Don&quot;t forgive their iniquity or blot out their sins from your sight. They have thrown insults at the builders!"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "We continued to build the wall. All of it was joined together, and it reached half of its intended height because the people were eager to work."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But when Sanballat, Tobiah, the Arabs, the Ammonites, and the people of Ashdod heard that the work on the walls was progressing and the gaps were being closed, they were very angry."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They plotted together to come and fight against Jerusalem and to create a disturbance in it."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So we prayed to our God and set a guard as protection against them day and night."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But in Judah it was said,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Meanwhile, our enemies were saying: &apos;Before they know or see anything, we can be in their midst and start to kill them. We&quot;ll stop the work!&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now the Jews who were living near them came and said to us again and again, &apos;You must return to us!&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So I took up a position in the lowest parts of the space behind the wall in an open area. Then I stationed the people by families, and they had their swords, spears, and bows."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "After reviewing this, I stood up and said to the officials, the officers, and the rest of the people, &apos;Don&quot;t be afraid of them! Remember that the LORD is great and awesome! Fight for your families, your sons, your daughters, your wives, and your houses!&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then our enemies heard that we had found out and that God had spoiled their plans. So we all returned to doing our own work on the wall."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But from that day on, only half of my workers continued in the construction, while the other half held the spears, shields, bows, and body armor. Meanwhile, the leaders positioned themselves behind the whole house of Judah,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "who were building the wall. The carriers did their work with a load in one hand and a weapon in the other."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The builders built with swords fastened in their belts, and the trumpeter stayed by my side."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then I said to the officials, the officers, and the rest of the people, &apos;The work is very spread out, and we are far apart from each other along the wall."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "When you hear the trumpet sound, come and gather where we are. Our God will fight for us!&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "So we continued the work, with half of them holding spears from dawn until dusk."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "I also said to the people at that time, &apos;Let every man and his servant spend the night in Jerusalem so that we can guard during the night and work during the day.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Neither I nor my relatives, nor my servants, nor my bodyguards took off our clothes, even when they sent for water."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then there was a great protest of the people and their wives against their fellow Jews."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Some said, &apos;With our sons and daughters we are many, and we all need grain to eat and stay alive.&apos; So I called the priests and made them swear to do what they had promised. The whole assembly said, &apos;Amen,&apos; and praised the LORD . And the people did as they had promised."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Others said, &apos;We have to mortgage our fields, our vineyards, and our houses in order to get grain during the famine.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Still others said, &apos;We have had to borrow money against our fields and vineyards in order to pay the king&quot;s tax.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "&apos;We are of the same flesh and blood as our kin, and our children are the same as theirs. Yet we are just about to force our sons and daughters into slavery, and some of our daughters are already slaves! There is nothing we can do since our fields and vineyards now belong to others.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I was very angry when I heard their protest and these complaints."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "After thinking it over, I brought charges against the officials and the officers. I told them, &apos;You are all taking interest from your own people!&apos; I also called for a large assembly in order to deal with them."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;To the best of our ability,&apos; I said to them, &apos;we have bought back our Jewish kin who had been sold to other nations. But now you are selling your own kin, who must then be bought back by us!&apos; At this they were silent, unable to offer a response."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So I continued, &apos;What you are doing isn&quot;t good! Why don&quot;t you walk in the fear of our God? This will prevent the taunts of the nations that are our enemies!"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I myself, along with my family and my servants, am lending them money and grain. But let&quot;s stop charging this interest!"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Give it back to them, right now. Return their fields, their vineyards, their olive orchards, and their houses. And give back the interest on money, grain, wine, and oil that you are charging them.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They replied, &apos;We&quot;ll return everything, and we won&quot;t charge anything else. We&quot;ll do what you&quot;ve asked.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I also shook out the fold of my robe, saying, &apos;So may God shake out everyone from their house and property if they don&quot;t keep this promise. So may they be shaken out and emptied!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "In addition, from the time that I was appointed to be their governor in the land of Judah (that is, from the twentieth to the thirty-second year of King Artaxerxes for a total of twelve years), neither I nor my family ate from the governor&quot;s food allowance."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The earlier governors who had come before me laid heavy burdens on the people. They took food and wine from them as well as forty shekels of silver. Even their servants oppressed the people. But because I was God-fearing, I didn&quot;t behave in this way."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Instead, I devoted myself to the work on this wall. We acquired no land, and all my servants were gathered there for the work."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "One hundred fifty Jews and officials, along with those who came to us from the surrounding nations, gathered around my table."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "One ox, six choice sheep, and birds were prepared each day. Every ten days there was a large amount of wine. Yet even with this I didn&quot;t ask for the governor&quot;s food allowance because of the heavy burden the people had to carry."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Remember in my favor, my God, all that I&quot;ve done for this people!"
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "Now when Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and that there were no gaps left in it (although I hadn&quot;t yet hung the doors in the gates),"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Sanballat and Geshem sent me this message: &apos;Come, let&quot;s meet together in one of the villages in the plain of Ono.&apos; But they wanted to harm me, &apos;Let&quot;s meet together in God&quot;s house, inside the temple itself. Let&quot;s shut the doors of the temple, for they are coming to kill you; they are coming to kill you tonight!&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "so I sent messengers to tell them, &apos;I&quot;m doing important work, so I can&quot;t come down. Why should the work stop while I leave it to come down to you?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They sent me a message like this four times, and every time I gave them a similar reply."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But the fifth time, Sanballat sent his servant to me in the same way, except that now he carried an open letter."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "It stated: It is reported among the nations and confirmed by Geshem that you and the Jews intend to rebel. This is why you are rebuilding the wall. According to these reports, you intend to become their king."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "You have also appointed prophets to make this announcement about you in Jerusalem: There is a king in Judah! Now, the king will hear of these reports, so come; let&quot;s talk together."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So I sent him this reply: &apos;Nothing that you say has happened. You are simply inventing this.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "All of them were trying to make us afraid, saying, &apos;They will be discouraged, and the work won&quot;t get finished.&apos; But now, God, strengthen me!"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Later I went to see Shemaiah, Delaiah&quot;s son and Mehetabel&quot;s grandson, who was confined to his house, and he said:"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But I replied, &apos;Should someone like me run away? Who like me would go into the temple to save his life? I won&quot;t go in!&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then I realized that God hadn&quot;t sent him at all but that he spoke this prophecy against me because Tobiah and Sanballat had hired him."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He was hired to frighten me and to make me sin by acting in this way. Then they could give me a bad name and discredit me."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "My God, remember these deeds of Tobiah and Sanballat! Also remember Noadiah the prophetess and the rest of the prophets who have been trying to frighten me."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So the wall was finished on the twenty-fifth day of the month of Elul. It took fifty-two days."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "When our enemies heard about this, all of the nations around us were afraid and their confidence was greatly shaken. They knew that this work was completed with the help of our God."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "In addition, in those days the officials of Judah sent many letters to Tobiah, and Tobiah&quot;s letters were coming to them."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Many in Judah were bound to him by solemn pledge because he was the son-in-law of Shecaniah, Arah&quot;s son, and his son Jehohanan had married the daughter of Meshullam, Berechiah&quot;s son."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They also kept talking about his good deeds in my presence and then reported back to him what I said. In addition, Tobiah sent letters to intimidate me."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "When the wall had been built and I had hung the doors, the gatekeepers, singers, and Levites were appointed."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Then I put my brother Hanani and Hananiah the commander of the fortress in charge of Jerusalem. Hananiah was a faithful man who revered God more than many. The number of the people of Israel: 2,172 372 652 2,818 1,254 845 760 648 628 2,322 667 2,067 655 98 328 324 112 95 188 128 42 743 621 122 123 52 1,254 320 345 721 3,930 973 1,052 1,247 1,017 74 148 138"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I said to them, &apos;The gates of Jerusalem aren&quot;t to be opened during the hottest time of the day. While the gatekeepers are still on duty, have them shut and bar the doors. Also, appoint guards from among those who live in Jerusalem. Station some at their watch posts and some in front of their own houses.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Now although the city was wide and large, only a few people were living within it, and no houses had been rebuilt."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "My God then prompted me to assemble the officials, the officers, and the people so that they could be registered by families. I found the record of the families who were the first to return, and I found the following written in it:"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "These are the people of the province who returned from the captivity of those exiles whom Babylon&quot;s King Nebuchadnezzar had taken into exile. They all returned to Jerusalem and Judah, everyone to their own town."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The family of Parosh"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "of Shephatiah"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "of Arah"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "of Pahath-moab, that is, of the descendants of Jeshua and Joab"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "of Elam"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "of Zattu"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "of Zaccai"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "of Binnui"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "of Bebai"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "of Azgad"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "of Adonikam"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "of Bigvai"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "of Adin"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "of Ater, that is, of the descendants of Hezekiah"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "of Hashum"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "of Bezai"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "of Hariph"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "of Gibeon"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "The people of Bethlehem and Netophah"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "of Anathoth"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "of Beth-azmaveth"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "of Kiriath-jearim, Chephirah, and Beeroth"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "of Ramah and Geba"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "of Michmas"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "of Bethel and Ai"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "of the other Nebo"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "the inhabitants of the other Elam"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "of Harim"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "of Jericho"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "of Lod, Hadid, and Ono"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "of Senaah"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "The priests: the descendants of Jedaiah, that is, of the house of Jeshua"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "of Immer"
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "of Pashhur"
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "of Harim"
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "The Levites: the descendants of Jeshua, that is, of Kadmiel, of the descendants of Hodaviah"
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "The singers: the descendants of Asaph"
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "The descendants of gatekeepers: of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai"
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,"
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "Keros, Sia, Padon,"
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "Lebanah, Hagabah, Shalmai,"
+            },
+            {
+                "verse_number": "49",
+                "verse_text": "Hanan, Giddel, Gahar,"
+            },
+            {
+                "verse_number": "50",
+                "verse_text": "Reaiah, Rezin, Nekoda,"
+            },
+            {
+                "verse_number": "51",
+                "verse_text": "Gazzam, Uzza, Paseah,"
+            },
+            {
+                "verse_number": "52",
+                "verse_text": "Besai, Meunim, Nephushesim,"
+            },
+            {
+                "verse_number": "53",
+                "verse_text": "Bakbuk, Hakupha, Harhur,"
+            },
+            {
+                "verse_number": "54",
+                "verse_text": "Bazlith, Mehida, Harsha,"
+            },
+            {
+                "verse_number": "55",
+                "verse_text": "Barkos, Sisera, Temah,"
+            },
+            {
+                "verse_number": "56",
+                "verse_text": "Neziah, and Hatipha."
+            },
+            {
+                "verse_number": "57",
+                "verse_text": "The descendants of Solomon&quot;s servants: Sotai, Sophereth, Perida,"
+            },
+            {
+                "verse_number": "58",
+                "verse_text": "Jaala, Darkon, Giddel,"
+            },
+            {
+                "verse_number": "59",
+                "verse_text": "Shephatiah, Hattil, Pochereth-hazzebaim, and Amon."
+            },
+            {
+                "verse_number": "60",
+                "verse_text": "All of the temple servants and the descendants of Solomon&quot;s servants totaled 392."
+            },
+            {
+                "verse_number": "61",
+                "verse_text": "The following came up from Tel-Melah, Tel-harsha, Cherub, Addon, and Immer, but were unable to prove that their family or their descent was from Israel:"
+            },
+            {
+                "verse_number": "62",
+                "verse_text": "the descendants of Delaiah, Tobiah, and Nekoda, 642."
+            },
+            {
+                "verse_number": "63",
+                "verse_text": "And of the priests: the descendants of Hobaiah, Hakkoz, and Barzillai (who had married one of the daughters of Barzillai the Gileadite and was called by his name)"
+            },
+            {
+                "verse_number": "64",
+                "verse_text": "looked for their entries in the genealogical records, but they weren&quot;t found there, so they were excluded from the priesthood as unclean."
+            },
+            {
+                "verse_number": "65",
+                "verse_text": "The governor ordered that they shouldn&quot;t eat of the most holy food until a priest arose who could consult Urim and Thummim."
+            },
+            {
+                "verse_number": "66",
+                "verse_text": "The whole assembly together totaled 42,360."
+            },
+            {
+                "verse_number": "67",
+                "verse_text": "This number doesn&quot;t include their 7,337 male and female servants; they also had 245 male and female singers,"
+            },
+            {
+                "verse_number": "68",
+                "verse_text": "736 horses, 245 mules,"
+            },
+            {
+                "verse_number": "69",
+                "verse_text": "435 camels, and 6,720 donkeys."
+            },
+            {
+                "verse_number": "70",
+                "verse_text": "Some of the heads of families made a donation for the work. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly robes."
+            },
+            {
+                "verse_number": "71",
+                "verse_text": "Some of the heads of families gave 20,000 darics of gold and 2,200 manehs of silver to the treasury for the work."
+            },
+            {
+                "verse_number": "72",
+                "verse_text": "The rest of the people gave 20,000 darics of gold, 2,000 manehs of silver, and 67 priestly robes."
+            },
+            {
+                "verse_number": "73",
+                "verse_text": "So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel settled in their towns."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "When the seventh month came and the people of Israel were settled in their towns, all the people gathered together in the area in front of the Water Gate. They asked Ezra the scribe to bring out the Instruction scroll from Moses, according to which the LORD had instructed Israel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So on the first day of the seventh month, Ezra the priest brought the Instruction before the assembly. This assembly was made up of both men and women and anyone who could understand what they heard."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Facing the area in front of the Water Gate, he read it aloud, from early morning until the middle of the day. He read it in the presence of the men and the women and those who could understand, and everyone listened attentively to the Instruction scroll."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Ezra the scribe stood on a wooden platform that had been made for this purpose. And standing beside him were Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah on his righthand side; while Pedaiah, Mishael, Malchijah, Hashum, Hash-baddanah, Zechariah, and Meshullam stood on his lefthand side."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Standing above all of the people, Ezra the scribe opened the scroll in the sight of all of the people. And as he opened it, all of the people stood up."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then Ezra blessed the LORD , the great God, and all of the people answered, &apos;Amen! Amen!&apos; while raising their hands. Then they bowed down and worshipped the LORD with their faces to the ground."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The Levites&ndash;Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah &ndash;helped the people to understand the Instruction while the people remained in their places."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They read aloud from the scroll, the Instruction from God, explaining and interpreting it so the people could understand what they heard."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then Nehemiah the governor, Ezra the priest and scribe, and the Levites who taught the people said to all of the people, &apos;This day is holy to the LORD your God. Don&quot;t mourn or weep.&apos; They said this because all the people wept when they heard the words of the Instruction."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;Go, eat rich food, and drink something sweet,&apos; he said to them, &apos;and send portions of this to any who have nothing ready! This day is holy to our LORD . Don&quot;t be sad, because the joy from the LORD is your strength!&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The Levites also calmed all of the people, saying, &apos;Be quiet, for this day is holy. Don&quot;t be sad!&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then all of the people went to eat and to drink, to send portions, and to have a great celebration, because they understood what had been said to them."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "On the second day, the heads of the families of all the people, along with the priests and the Levites, gathered together around Ezra the scribe in order to study the words of the Instruction."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "And they found written in the Instruction that the LORD had commanded through Moses that the Israelites should live in booths during the festival of the seventh month."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "They also found that they should make the following proclamation and announce it throughout their towns and in Jerusalem: &apos;Go out to the hills and bring branches of olive, wild olive, myrtle, palm, and other leafy trees to make booths, as it is written.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So the people went out and brought them, and made booths for themselves, each on the roofs of their houses or their courtyards, in the courtyards of God&quot;s house, in the area by the Water Gate, or in the area by the Gate of Ephraim."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The whole assembly of those who had returned from captivity made booths and lived in them. This was something that the people of Israel hadn&quot;t done since the days of Joshua, Nun&quot;s son, and there was very great rejoicing."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "He read from God&quot;s Instruction scroll every day, from the first until the last day of the festival. They kept the festival for seven days and held a solemn assembly on the eighth day, just as the Instruction required."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "On the twenty-fourth day of this month, the people of Israel were assembled. They fasted, wore funeral clothing, and had dirt on their heads."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "After the Israelites separated themselves from all of the foreigners, they stood to confess their sins and the terrible behavior of their ancestors."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "They stood in their place and read the Instruction scroll from the LORD their God for a quarter of the day. For another quarter of the day, they confessed and worshipped the LORD their God. Stand up and bless the LORD your God. From everlasting to everlasting bless your glorious name, which is high above all blessing and praise. You alone made heaven, even the heaven of heavens, with all their forces. You made the earth and all that is on it, and the seas and all that is in them. You preserve them all, and the heavenly forces worship you. You brought him out of Ur of the Chaldeans and gave him the name Abraham. and you made a covenant with him. You promised to give to his descendants the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites, and the Girgashites. And you have kept your promise because you are righteous. all his servants, and the people of his land. You knew that they had acted arrogantly against our ancestors. You made a name for yourself, a name that is famous even today. But you cast their pursuers into the depths, as a stone into the mighty waters. and with a column of lightning by night; they lit the way in which the people should go. You gave them proper judgments and true Instruction, good statutes and commandments. and gave them commandments, statutes, and Instruction through your servant Moses. when they were thirsty, you brought water out of the rock for them. You told them to go in to possess the land that you had sworn to give them. They were stubborn and wouldn&quot;t obey your commandments. and didn&quot;t remember the wonders that you accomplished in their midst. They acted arrogantly and decided to return to their slavery in Egypt. But you are a God ready to forgive, merciful and compassionate, very patient, and truly faithful. You didn&quot;t forsake them. saying, &apos;This is your God who brought you up out of Egypt,&apos; and holding you in great contempt, The column of cloud continued to guide them on their journey during the day, and the column of lightning lit their path during the night. You didn&quot;t withhold your manna from them, and you gave them water for their thirst. they lacked nothing in the wilderness! Their clothes didn&quot;t wear out, and their feet didn&quot;t swell. They took possession of the land of King Sihon of Heshbon and the land of King Og of Bashan. You brought them into the land that you had told their ancestors to enter and possess. Before them, you subdued the Canaanites who inhabited the land. You also handed over to them their kings and the neighboring peoples, to do with as they wished. and took possession of houses filled with all kinds of good things, excavated cisterns, vineyards, olive orchards, and a great many fruit trees. They ate until they were satisfied and grew fat, and delighted themselves in your great goodness. and turned their back on your Instruction. They killed your prophets who had warned them so that they might return to you. They held you in great contempt. But when they cried out to you in their suffering, you heard them from heaven. Because you are merciful, you gave them saviors who saved them from the power of their enemies. So you gave them over to the power of their enemies who ruled over them. Yet when they turned and cried to you, you heard from heaven and rescued them many times because of your great mercy. but they acted arrogantly and didn&quot;t obey your commands. They sinned against your judgments, They turned a stubborn shoulder, became headstrong, and wouldn&quot;t obey. and warned them by your spirit through the prophets. But they wouldn&quot;t listen, so you handed them over to the neighboring peoples. Neither did you forsake them, because you are a merciful and compassionate God. you are the one who faithfully keeps the covenant. Don&quot;t treat lightly all of the hardship that has come upon us, upon our kings, our officials, our priests, our prophets, our ancestors, and all your people, from the time of the kings of Assyria until today. you have acted faithfully, and we have done wrong. They haven&quot;t heeded your commandments and the warnings that you gave them. even in the wide and rich land that you gave them, they didn&quot;t serve you or turn from their wicked works. slaves in the land that you gave to our ancestors to enjoy its fruit and its good gifts. They have power over our bodies and do as they please with our livestock. We are in great distress."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani. They cried out with a loud voice to the LORD their God."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then the Levites&ndash;Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah&ndash;said:"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "You alone are the LORD ."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "LORD God, you are the one who chose Abram."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "You found him to be faithful before you,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "You saw the affliction of our ancestors in Egypt and heard their cry at the Reed Sea. and assigned to them every side. even though life comes by keeping them."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "You performed signs and wonders against Pharaoh,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "You divided the sea before them so that they went through it on dry land."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "With a pillar of cloud you led them by day"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "You came down upon Mount Sinai and spoke with them from heaven."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "You made known to them your holy Sabbath,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "When they were hungry, you gave them bread from heaven;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But our ancestors acted arrogantly."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "They refused to obey,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Even when they had cast an image of a calf for themselves,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "you, in your great mercy, didn&quot;t abandon them in the wilderness."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "You gave your good spirit to teach them."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "You kept them alive for forty years&ndash;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "You gave them kingdoms and peoples,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "You multiplied their descendants as the stars of heaven."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "So the descendants went in and possessed the land."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They captured fortified cities and productive land,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "But they were disobedient, rebelled against you,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Therefore, you handed them over to the power of their enemies who made them suffer."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "But after they had rest from this, they again started doing evil against you."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "You also warned them to return to your Instruction,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "You were patient with them for many years"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "In your great mercy, however, you didn&quot;t make an end of them."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Now, our God, great and mighty and awesome God,"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "You have been just in all that has happened to us;"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Our kings, our officials, our priests, and our ancestors haven&quot;t kept your Instruction."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Even in their own kingdom, surrounded by the great goodness that you gave to them,"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "So now today we are slaves,"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "Its produce profits the kings whom you have placed over us because of our sins."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "Because of all this, we are making a firm agreement in writing, with the names of our officials, our Levites, and our priests on the seal."
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "Upon the seals are the names of Governor Nehemiah, Hacaliah&quot;s son, and Zedekiah; Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, Every seventh year we won&quot;t plant crops, and we will return anything held in debt."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Seraiah, Azariah, Jeremiah,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Pashhur, Amariah, Malchijah,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Hattush, Shebaniah, Malluch,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Harim, Meremoth, Obadiah,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Daniel, Ginnethon, Baruch,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Meshullam, Abijah, Mijamin,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Maaziah, Bilgai, Shemaiah; these are the priests."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Levites: Jeshua, Azaniah&quot;s son; Binnui of the descendants of Henadad; Kadmiel;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "and their associates:"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Mica, Rehob, Hashabiah,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Zaccur, Sherebiah, Shebaniah,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Hodiah, Bani, Beninu."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Bunni, Azgad, Bebai,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Adonijah, Bigvai, Adin,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Ater, Hezekiah, Azzur,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Hodiah, Hashum, Bezai,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Hariph, Anathoth, Nebai,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Magpiash, Meshullam, Hezir,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Meshezabel, Zadok, Jaddua,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Pelatiah, Hanan, Anaiah,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Hoshea, Hananiah, Hasshub,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Hallohesh, Pilha, Shobek,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Rehum, Hashabnah, Maaseiah,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Ahiah, Hanan, Anan,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Malluch, Harim, Baanah."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who have separated themselves from the neighboring peoples to follow the Instruction from God, together with their wives, their sons, their daughters, and all who have knowledge and understanding."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "They join with their officials and relatives, and make a solemn pledge to live by God&quot;s Instruction, which was given by Moses, God&quot;s servant, and to observe faithfully all the commandments, judgments, and statutes of our LORD God."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "We won&quot;t give our daughters in marriage to the neighboring peoples, nor take their daughters in marriage for our sons."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "If the neighboring peoples bring merchandise or any grain to sell on the Sabbath, we won&quot;t buy it from them on the Sabbath or on any holy day."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "We pledge ourselves to keep the commandment and pay one-third of a shekel each year for the service of our God&quot;s house,"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "for the stacks of bread and the regular grain offering and the regular entirely burned offering, for the sabbaths and the new moons and the appointed festivals, for the holy offerings and the purification offerings to make reconciliation for Israel, and for all the work of our God&quot;s house."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "We have also cast lots among the priests, the Levites, and the people so that we bring the wood offering into our God&quot;s house by families at the appointed times every year, to burn on the altar of the LORD our God, as it is written in the Instruction."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "We will also bring the early produce of our soil and the early fruit from all trees every year to the LORD &quot;s house."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "We will also bring the oldest offspring of our children and our cattle, as it is written in the Instruction, and the oldest males of our herds and flocks to our God&quot;s house, to the priests who serve in our God&quot;s house."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "We will also bring the first of our dough, our contributions, the fruit of every tree, the wine, and the oil to the priests at the storerooms of our God&quot;s house. We will also bring one-tenth of the produce of our soil to the Levites, for it is the Levites who collect the tenth-part gifts in all the towns where we work."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "A priest from the family of Aaron must be with the Levites when they collect the tenth-part gifts. Then the Levites must bring up one-tenth of the tenth-part gifts to our God&quot;s house, to the storerooms of the treasury."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "The Israelites and the Levites must bring the contribution of grain, wine, and oil to the storerooms where the sanctuary equipment is kept, and where the priests on duty, the gatekeepers, and the singers reside. We won&quot;t neglect our God&quot;s house!"
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "The leaders of the people lived in Jerusalem. The rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine stayed in the other towns."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The people blessed those who agreed to live in Jerusalem. From the family of Judah: Athaiah son of Uzziah son of Zechariah son of Amariah son of Shephatiah son of Mahalalel of the family of Perez;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "These are the leaders of the province who lived in Jerusalem; while the Israelites, the priests, the Levites, the temple servants, and the descendants of Solomon&quot;s servants lived in the towns of Judah on their own property in their towns."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Some of the descendants of Judah and Benjamin settled in Jerusalem."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "and Maaseiah son of Baruch son of Col-hozeh son of Hazaiah son of Adaiah son of Joiarib son of Zechariah son of the Shilonite."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "All of the family of Perez who lived in Jerusalem totaled 468 courageous people."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "From the family of Benjamin: Sallu son of Meshullam son of Joed son of Pedaiah son of Kolaiah son of Maaseiah son of Ithiel son of Jeshaiah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And after him were Gabbai and Sallai: 928."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Joel son of Zichri was their supervisor, and Judah son of Hassenuah was second in charge of the city."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Of the priests: Jedaiah son of Joiarib, Jachin,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Seraiah son of Hilkiah son of Meshullam son of Zadok son of Meraioth son of Ahitub the officer of God&quot;s house,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "and their associates who carried out the work in the temple: 822. There was also Adaiah son of Jeroham son of Pelaliah son of Amzi son of Zechariah son of Pashhur son of Malchijah,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "and his associates, heads of families: 242. There was also Amashsai son of Azarel son of Ahzai son of Meshillemoth son of Immer"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "and their associates, for a total of 128 courageous people. Their supervisor was Zabdiel, Haggedolim&quot;s son."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Of the Levites: Shemaiah son of Hasshub son of Azrikam son of Hashabiah son of Bunni;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "as well as Shabbethai and Jozabad, who were some of the leaders of the Levites in charge of the outside work on God&quot;s house;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "also Mattaniah son of Mica son of Zabdi son of Asaph the leader who began the thanksgiving with prayer, and Bakbukiah, who was the second among his associates; and Abda son of Shammua son of Galal son of Jeduthun."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "All the Levites in the holy city totaled 284."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The gatekeepers: Akkub, Talmon, and their associates who guarded the gates totaled 172."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The rest of Israel, the priests, and the Levites were in all the towns of Judah, each of them in their own property."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "But the temple servants lived in Ophel, with Ziha and Gishpa in charge of them."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The supervisor of the Levites in Jerusalem was Uzzi son of Bani son of Hashabiah son of Mattaniah son of Mica, from the family of Asaph, who were the singers in charge of the work of God&quot;s house."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "There was a command from the king setting out the daily requirements of the singers."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Advising the king in all matters concerning the people was Pethahiah, Meshezabel&quot;s son, from the family of Zerah, Judah&quot;s son."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "As for the villages with their fields, some of the people of Judah lived in Kiriath-arba and its villages, in Dibon and its villages, in Jekabzeel and its villages,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "in Jeshua, in Moladah and Beth-pelet,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "in Hazar-shual, in Beer-sheba and its villages,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "in Ziklag, in Meconah and its villages,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "in En-rimmon, Zorah, Jarmuth,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So they settled from Beer-sheba to the Hinnom Valley."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "The people of Benjamin also lived from beyond Geba, at Michmash, Aija, Bethel and its villages,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Anathoth, Nob, Ananiah,"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Hazor, Ramah, Gittaim,"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Hadid, Zeboim, Neballat,"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Lod, and Ono, the valley of artisans."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Some divisions of the Levites in Judah were joined to Benjamin."
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "These are the priests and the Levites who came up with Zerubbabel son of Shealtiel and Jeshua: Seraiah, Jeremiah, Ezra,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Amariah, Malluch, Hattush,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Shecaniah, Rehum, Meremoth,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Iddo, Ginnethon, Abijah,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Mijamin, Maadiah, Bilgah,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Shemaiah, Joiarib, Jedaiah,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Sallu, Amok, Hilkiah, Jedaiah. These were the leaders of the priests and of their associates in the days of Jeshua. Meshullam, Talmon, and Akkub were gatekeepers standing guard by the storerooms of the gates."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and also Mattaniah, who was in charge of the thanksgiving songs along with his associates."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Bakbukiah and Unn and their associates stood opposite them in the service."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Joiada the father of Jonathan, and Jonathan the father of Jaddua."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "These were the heads of the priestly families in the days of Joiakim: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "of Ezra, Meshullam; of Amariah, Jehohanan;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "of Malluch, Jonathan; of Shebaniah, Joseph;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "of Harim, Adna; of Meraioth, Helkai;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "of Iddo, Zechariah; of Ginnethon, Meshullam;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "of Bilgah, Shammua; of Shemaiah, Jehonathan;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "of Joiarib, Mattenai; of Jedaiah, Uzzi;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "of Sallai, Kallai; of Amok, Eber;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "of Hilkiah, Hashabiah; of Jedaiah, Nethanel."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites and the priests were recorded as heads of families in the rule of Darius the Persian."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The Levites who were heads of families were recorded in the official records until the time of Johanan, Eliashib&quot;s son."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "These were the leaders of the Levites: Hashabiah, Sherebiah, and Jeshua, Kadmiel&quot;s son, and their associates who stood opposite them to praise and give thanks in turn according to the commandment of David, the man of God, namely,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Mattaniah, Bakbukiah, and Obadiah."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "These served in the days of Joiakim, Jeshua&quot;s son and Jozadak&quot;s grandson, and in the days of Governor Nehemiah and of Ezra the priest and scribe."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "When it was time for the dedication of Jerusalem&quot;s wall, they sought out the Levites in all the places where they lived in order to bring them to Jerusalem to celebrate the dedication with joy, with thanks and singing, and with cymbals, harps, and lyres."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "The singers also gathered together both from the region around Jerusalem and from the villages of the Netophathites,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "also from Beth-hagilgal and from the region of Geba and Azmaveth, because the singers had built themselves villages around Jerusalem."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "After the priests and the Levites purified themselves, they purified the people, the gates, and the wall."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Then I brought the leaders of Judah up onto the wall and organized two large groups to give thanks. The first group went in procession on the wall toward the right, in the direction of the Dung Gate."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Following them went Hoshaiah and half the officials of Judah,"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "along with Azariah, Ezra, Meshullam,"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Judah, Benjamin, Shemaiah, and Jeremiah."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "There were also some young priests with trumpets&ndash;Zechariah son of Jonathan son of Shemaiah son of Mattaniah son of Micaiah son of Zaccur son of Asaph&ndash;"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "along with his associates Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani. They brought the musical instruments of David the man of God. Ezra the scribe went in front of them."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "When they reached the Fountain Gate they went straight up by the stairs of David&quot;s City, on the ascent to the wall, past the house of David to the Water Gate on the east."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "The second group went in procession to the left. I followed them with half of the people along the wall past the Tower of the Ovens to the Broad Wall,"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "past the Gate of Ephraim and over the Mishneh Gate, the Fish Gate, the Tower of Hananel, and the Tower of the Hundred as far as the Sheep Gate. They came to a stop at the Gate of the Guard."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Then both groups of those who gave thanks stood in God&quot;s house. I was there too along with the half of the officials who were with me."
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "Also there were the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah with trumpets."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "Also there were Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang with Jezrahiah as their leader."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "They offered great sacrifices on that day and rejoiced, for God had made them rejoice with great joy. The women and children also rejoiced, and the sound of the joy in Jerusalem could be heard from far away."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "On that day, people were appointed over the rooms for the things to be stored, the contributions, the early produce, and the tenth-part gifts. They were to gather into them the portions required by the Instruction for the priests and for the Levites from the fields belonging to the towns, for the people of Judah were delighted with the ministry of the priests and the Levites."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "They performed the service of their God and the service of purification, as did the singers and the gatekeepers, according to the command of David and his son Solomon."
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "Long ago, in the days of David and Asaph, there was a leader of the singers, and there were songs of praise and thanks to God."
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "In the days of Zerubbabel and of Nehemiah all Israel gave the daily portions for the singers and the gatekeepers. They also set aside the portion for the Levites, and the Levites set aside the portion for the Aaronites."
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "On that day, when the scroll from Moses was being read to the people, they found written in it that no Ammonite or Moabite should ever enter God&quot;s assembly."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "This is because they hadn&quot;t met the Israelites with food and water but instead hired Balaam against them to curse them. Yet our God turned the curse into a blessing."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When the people heard this law, they separated out from Israel all those of mixed descent. Remember this also in my favor, my God, and spare me according to the greatness of your mercy. Remember me, my God, for good."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Now before this, however, Eliashib the priest, who was appointed to be in charge of the storerooms of our God&quot;s house and who was related to Tobiah,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "prepared a large room for Tobiah to use. This was the room where they had previously kept the grain offering, the incense, and the equipment, together with the tenth-part gifts of grain, wine, and oil. These items were for the Levites, singers, and gatekeepers as well as the portions for the priests."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I wasn&quot;t in Jerusalem while this was happening because I had gone to Babylon&quot;s King Artaxerxes in the thirty-second year of the king. After some time, I asked the king&quot;s permission"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "and returned to Jerusalem. That was when I saw the wrong that Eliashib had done on behalf of Tobiah by preparing him a room in the courtyards of God&quot;s house."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I was very angry and threw all of Tobiah&quot;s household furniture out of the room."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then I gave orders that the rooms be purified, and I put back the temple equipment, along with the grain offering and the incense."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I also found out that the Levites hadn&quot;t been given their portions, so they and the singers who did the work had gone back to their fields."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So I scolded the officials, asking, &apos;Why is God&quot;s house being neglected?&apos; I gathered them together and set them in their stations."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then all Judah brought the tenth-part gifts of the grain, wine, and oil into the storehouses."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I appointed the priest Shelemiah, the scribe Zadok, and Pedaiah of the Levites to be in charge over the storehouses. I also appointed Hanan, Zaccur&quot;s son and Mattaniah&quot;s grandson, as their assistant. These men were considered trustworthy, and their task was to hand out shares to their colleagues."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Remember me, my God, concerning this. Don&quot;t erase my good deeds that I have done for my God&quot;s house and for its services."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "In those days I saw people in Judah using the winepresses on the Sabbath. They were also collecting piles of grain and loading them on donkeys, as well as wine, grapes, figs, and every kind of load, and then bringing them to Jerusalem on the Sabbath. I warned them at that time against selling food."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "In addition, people from Tyre who lived in the city were bringing in fish and all kinds of merchandise and selling them to the people of Judah on the Sabbath. This happened in Jerusalem itself!"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So I scolded the officials of Judah: &apos;What is this evil thing that you are doing?&apos; I asked. &apos;You are making the Sabbath impure!"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "This is just what your ancestors did, and God brought all this evil upon us and upon this city. And now you are bringing more wrath upon Israel by making the Sabbath impure!&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So when it began to grow dark at the gates of Jerusalem before the Sabbath, I gave orders that the doors should be shut. I also ordered that they shouldn&quot;t be reopened until after the Sabbath. To make sure that no load would come into the city on the Sabbath, I stationed some of my own men at the gates."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Once or twice the traders and sellers of all kinds of merchandise spent the night outside Jerusalem."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "But I warned them: &apos;Why are you spending the night by the wall? If you do that again, I will lay hands on you!&apos; At that point, they stopped coming on the Sabbath."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "I also commanded the Levites to purify themselves and to come and guard the gates in order to keep the Sabbath day holy."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Also in those days I saw Jews who had married women of Ashdod, Ammon, and Moab."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Half of their children spoke the language of Ashdod or the language of various peoples; they couldn&quot;t speak the language of Judah."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "So I scolded them and cursed them, and beat some of them, and pulled out their hair. I also made them swear a solemn pledge in the name of God, saying, &apos;You won&quot;t give your daughters to their sons in marriage, or take their daughters in marriage for your sons or yourselves."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Didn&quot;t Israel&quot;s King Solomon sin on account of such women? Among the many nations there was no king like him. He was well loved by his God, and God made him king over all Israel. Yet foreign wives led even him into sin!"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Should we then listen to you and do all this great evil, acting unfaithfully toward our God by marrying foreign women?&apos;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Now one of the sons of Joiada son of the high priest Eliashib was a son-in-law of Sanballat the Horonite. So I chased him away from me."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Remember them, my God, because they have defiled the priesthood and the covenant of the priests and the Levites!"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "So I purified them of everything foreign and established the services of the priests and Levites with specific duties for each person."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "I also provided for the wood offering at appointed times as well as for the early produce."
+            }
+        ]
     }
 }

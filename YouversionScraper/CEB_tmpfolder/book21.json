@@ -1,12 +1,660 @@
 {
     "Ecclesiastes": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "The words of the Teacher of the Assembly, David&quot;s son, king in Jerusalem: Everything is pointless. that they work so hard at under the sun? but the earth remains as it always has. it returns panting to the place where it dawns. goes around to the north; around and around blows the wind; the wind returns to its rounds again. but the sea is never full; to the place where the rivers flow, there they continue to flow. no one is able to speak. The eye isn&quot;t satisfied with seeing, neither is the ear filled up by hearing. whatever has occurred&ndash;that&quot;s what will occur again. There&quot;s nothing new under the sun. what isn&quot;t there can&quot;t be counted. In much wisdom is much aggravation; the more knowledge, the more pain."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Perfectly pointless, says the Teacher, perfectly pointless."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "What do people gain from all the hard work"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "A generation goes, and a generation comes,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The sun rises, the sun sets;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The wind blows to the south,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "All streams flow to the sea,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "All words are tiring;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Whatever has happened&ndash;that&quot;s what will happen again;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "People may say about something: &apos;Look at this! It&quot;s new!&apos; But it was already around for ages before us."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "There&quot;s no remembrance of things in the past, nor of things to come in the future. Neither will there be any remembrance among those who come along in the future."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I am the Teacher. I was king over Israel in Jerusalem."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I applied my mind to investigate and to explore by wisdom all that happens under heaven. It&quot;s an unhappy obsession that God has given to human beings."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "When I observed all that happens under the sun, I realized that everything is pointless, a chasing after wind."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "What&quot;s crooked can&quot;t be straightened;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I said to myself, Look here, I have grown much wiser than any who ruled over Jerusalem before me. My mind has absorbed great wisdom and knowledge."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "But when I set my mind to understand wisdom, and also to understand madness and folly, I realized that this too was just wind chasing."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Remember:"
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "I said to myself, Come, I will make you experience pleasure; enjoy what is good! But this too was pointless!"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Merriment, I thought, is madness; pleasure, of no use at all."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I tried cheering myself with wine and by embracing folly&ndash;with wisdom still guiding me&ndash;until I might see what is really worth doing in the few days that human beings have under heaven. but fools walk around in darkness. But I also realized that the same fate happens to both of them."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I took on great projects: I built houses for myself, planted vineyards for myself."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I made gardens and parks for myself, planting every kind of fruit tree in them."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I made reservoirs for myself to water my lush groves."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I acquired male servants and female servants; I even had slaves born in my house. I also had great herds of cattle and sheep, more than any who preceded me in Jerusalem."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I amassed silver and gold for myself, the treasures of kings and provinces. I acquired male and female singers for myself, along with every human luxury, treasure chests galore!"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So I became far greater than all who preceded me in Jerusalem. Moreover, my wisdom stood by me."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I refrained from nothing that my eyes desired. I refused my heart no pleasure. Indeed, my heart found pleasure from the results of my hard work; that was the reward from all my hard work."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But when I surveyed all that my hands had done, and what I had worked so hard to achieve, I realized that it was pointless&ndash;a chasing after wind. Nothing is to be gained under the sun."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "My reflections then turned to wisdom, madness, and folly. What can the king&quot;s heir do but what has already been done?"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I saw that wisdom is more beneficial than folly, as light is more beneficial than darkness."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The wise have eyes in their head,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So I thought to myself, What happens to the fool will also happen to me. So why have I been so very wise? I said to myself, This too is pointless."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "There is no eternal memory of the wise any more than the foolish, because everyone is forgotten before long. How can the wise die just like the fool?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So I hated life, because the things that happen under the sun were troublesome to me. Definitely, everything is pointless&ndash;just wind chasing."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I hated the things I worked so hard for here under the sun, because I will have to leave them to someone who comes after me."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "And who knows whether that one will be wise or foolish? Either way, that person will have control over the results of all my hard work and wisdom here under the sun. That too is pointless."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "I then gave myself up to despair, as I thought about all my laborious hard work under the sun,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "because sometimes those who have worked hard with wisdom, knowledge, and skill must leave the results of their hard work as a possession to those who haven&quot;t worked hard for it. This too is pointless&ndash;it&quot;s a terrible wrong."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "I mean, What do people get for all their hard work and struggles under the sun?"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "All their days are pain, and their work is aggravation; even at night, their hearts don&quot;t find rest. This too is pointless."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "There&quot;s nothing better for human beings than to eat, drink, and experience pleasure in their hard work. I also saw that this is from God&quot;s hand&ndash;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Who can eat and find enjoyment otherwise?&ndash;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "because God gives wisdom, knowledge, and joy to those who please God. But to those who are offensive, God gives the task of hoarding and accumulating, but only so as to give it all to those who do please God. This too is pointless and a chasing after wind."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "There&quot;s a season for everything and a time for every matter under the heavens: a time for planting and a time for uprooting what was planted, a time for tearing down and a time for building up, a time for mourning and a time for dancing, a time for embracing and a time for avoiding embraces, a time for keeping and a time for throwing away, a time for keeping silent and a time for speaking, a time for war and a time for peace. all are from the dust; all return to the dust."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "a time for giving birth and a time for dying,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "a time for killing and a time for healing,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "a time for crying and a time for laughing,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "a time for throwing stones and a time for gathering stones,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "a time for searching and a time for losing,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "a time for tearing and a time for repairing,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "a time for loving and a time for hating,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "What do workers gain from all their hard work?"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I have observed the task that God has given human beings."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "God has made everything fitting in its time, but has also placed eternity in their hearts, without enabling them to discover what God has done from beginning to end."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I know that there&quot;s nothing better for them but to enjoy themselves and do what&quot;s good while they live."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Moreover, this is the gift of God: that all people should eat, drink, and enjoy the results of their hard work."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I know that whatever God does will last forever; it&quot;s impossible to add to it or take away from it. God has done this so that people are reverent before him."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Whatever happens has already happened, and whatever will happen has already happened before. And God looks after what is driven away."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I saw something else under the sun: in the place of justice, there was wickedness; and in the place of what was right, there was wickedness again!"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I thought to myself, God will judge both righteous and wicked people, because there&quot;s a time for every matter and every deed."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I also thought, Where human beings are concerned, God tests them to show them that they are but animals"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "because human beings and animals share the same fate. One dies just like the other&ndash;both have the same life-breath. Humans are no better off than animals because everything is pointless."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "All go to the same place:"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Who knows if a human being&quot;s life-breath rises upward while an animal&quot;s life-breath descends into the earth?"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "So I perceived that there was nothing better for human beings but to enjoy what they do because that&quot;s what they&quot;re allotted in life. Who, really, is able to see what will happen in the future?"
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "When I next observed all the oppressions that take place under the sun, I saw the tears of the oppressed&ndash;and they have no one to comfort them. Their oppressors wield power&ndash;but they have no one to comfort them."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So I declare that the dead, who have already died, are more fortunate than the living, who are still alive."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But happier than both are those who have never existed, who haven&quot;t witnessed the terrible things that happen under the sun. than working hard for two fistfuls and chasing after wind."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I also observed that people work hard and become good at what they do only out of mutual envy. This too is pointless, just wind chasing."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Fools fold their hands and eat their own flesh."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But better is resting with one handful"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Next, I saw under the sun something else that was pointless:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "There are people who are utterly alone, with no companions, not even a child or a sibling. Yet they work hard without end, never satisfied with their wealth. So for whom am I working so hard and depriving myself of enjoyment? This too is pointless and a terrible obsession."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Two are better than one because they have a good return for their hard work."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "If either should fall, one can pick up the other. But how miserable are those who fall and don&quot;t have a companion to help them up!"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Also, if two lie down together, they can stay warm. But how can anyone stay warm alone?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Also, one can be overpowered, but two together can put up resistance. A three-ply cord doesn&quot;t easily snap."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "A poor but wise youth is better than an old and foolish king, who no longer listens to advice."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He emerged from prison to become king, even though during his rule a poor child is born."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I saw all who live and walk under the sun following the next youth who would rise to take his place."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "There was no counting the number of people he ruled, but those who came later aren&quot;t happy with him. This too is pointless and a chasing after wind."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Watch your steps when you go to God&quot;s house. It&quot;s more acceptable to listen than to offer the fools&quot; sacrifice&ndash;they have no idea that they&quot;re acting wrongly."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Don&quot;t be quick with your mouth or say anything hastily before God, because God is in heaven, but you are on earth. Therefore, let your words be few. Dreams come with many cares, and the voice of fools with many words. When dreams multiply, so do pointless thoughts and excessive speech. Therefore, fear God."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Remember:"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When you make a promise to God, fulfill it without delay because God has no pleasure in fools. Fulfill what you promise."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Better not to make a promise than to make a promise without fulfilling it."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Don&quot;t let your mouth make a sinner of you, and don&quot;t say to the messenger: &apos;It was a mistake!&apos; Otherwise, God may become angry at such talk and destroy what you have accomplished."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Remember:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "If you witness the poor being oppressed or the violation of what is just and right in some territory, don&quot;t be surprised because a high official watches over another, and yet others stand over them."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But the land&quot;s yield should be for everyone if the field is cultivated."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The money lover isn&quot;t satisfied with money; neither is the lover of wealth satisfied with income. This too is pointless."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "When good things flow, so do those who consume them. But what do owners benefit from such goods, except to feast their eyes on them?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Sweet is the worker&quot;s sleep, whether there&quot;s a lot or little to eat; but the excess of the wealthy won&quot;t let them sleep."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I have seen a sickening tragedy under the sun: people hoard their wealth to their own detriment."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then that wealth is lost in a bad business venture so that when they have children, they are left with nothing."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Just as they came from their mother&quot;s womb naked, naked they&quot;ll return, ending up just like they started. All their hard work produces nothing&ndash;nothing they can take with them."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "This too is a sickening tragedy: they must pass on just as they arrived. What then do they gain from working so hard for wind?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "What&quot;s more, they constantly eat in darkness, with much aggravation, grief, and anger."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "This is the one good thing I&quot;ve seen: it&quot;s appropriate for people to eat, drink, and find enjoyment in all their hard work under the sun during the brief lifetime that God gives them because that&quot;s their lot in life."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Also, whenever God gives people wealth and riches and enables them to enjoy it, to accept their place in the world and to find pleasure in their hard work&ndash;all this is God&quot;s gift."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Indeed, people shouldn&quot;t brood too much over the days of their lives because God gives an answer in their hearts&quot; joy."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "I saw a tragedy under the sun, and it weighs heavily upon humanity."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "God may give some people plenty of wealth, riches, and glory so that they lack nothing they desire. But God doesn&quot;t enable them to enjoy it; instead, a stranger enjoys it. This is pointless and a sickening tragedy."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Some people may have one hundred children and live a long life. But no matter how long they live, if they aren&quot;t content with life&quot;s good things, I say that even a stillborn child with no grave is better off than they are."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Because that child arrives pointlessly, then passes away in darkness. Darkness covers its name."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "It hasn&quot;t seen the sun or experienced anything. But it has more peace than those"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "who live a thousand years twice over but don&quot;t enjoy life&quot;s good things. Isn&quot;t everyone heading to the same destination?"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "All the hard work of humans is for the mouth, but the appetite is never full."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "What advantage do the wise have over the foolish? Or what do the poor gain by knowing how to conduct themselves before the living?"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "It&quot;s better to enjoy what&quot;s at hand than to have an insatiable appetite. This too is pointless, just wind chasing."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Whatever happens has already been designated, and human beings are fully known. They can&quot;t contend with the one who is stronger than they are."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Because the more words increase, the more everything is pointless. What do people gain by it?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Because who knows what&quot;s good for human beings during life, during their brief pointless life, which will pass away like a shadow? Who can say what the future holds for people under the sun?"
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "A good name is better than fine oil, and the day of death better than the birthday. than to a house party, because that is everyone&quot;s destiny; and the living should take it to heart. because a sad face may lead to a glad heart. but the foolish heart is in the house that rejoices. than to listen to the song of fools, is like nettles crackling under a kettle. That too is pointless. a bribe corrupts the heart. Patience is better than arrogance. because anger lives in the fool&quot;s heart. because it isn&quot;t wise to ask this. an advantage for those who see the sun. the advantage of knowledge is that wisdom preserves the lives of its possessors."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "It is better to go to a house in mourning"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Aggravation is better than merriment"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The wise heart is in the house that mourns,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "It is better to obey the reprimand of the wise"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "because the fool&quot;s merriment"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Oppression turns the wise into fools;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The end of something is better than its beginning."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Don&quot;t be too quick to get angry"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Don&quot;t ask, &apos;How is it that the former days were better than these?&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Wisdom is as good as an inheritance&ndash;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Wisdom&quot;s protection is like the protection of money;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Consider God&quot;s work! Who can straighten what God has made crooked?"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "When times are good, enjoy the good; when times are bad, consider: God has made the former as well as the latter so that people can&quot;t discover anything that will come to be after them."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I have seen everything in my pointless lifetime: the righteous person may die in spite of their righteousness; then again, the wicked may live long in spite of their wickedness."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Don&quot;t be too righteous or too wise, or you may be dumbfounded."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Don&quot;t be too wicked and don&quot;t be a fool, or you may die before your time."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "It&quot;s good that you take hold of one of these without letting go of the other because the one who fears God will go forth with both."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Wisdom makes a wise person stronger than ten rulers who are in a city."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Remember: there&quot;s no one on earth so righteous as to do good only and never make a mistake."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Don&quot;t worry about all the things people say, so you don&quot;t hear your servant cursing you."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "After all, you know that you&quot;ve often cursed others yourself!"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "I tested all of this by wisdom. I thought, I will be wise, but it eluded me."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "All that happens is elusive and utterly unfathomable. Who can grasp it?"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "I turned my mind to know, to investigate, and to seek wisdom, along with an account of things, to know that wickedness is foolishness and folly is madness."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "I found one woman more bitter than death: she who is a trap, her heart a snare, her hands shackles. Anyone who pleases God escapes her, but a sinner is trapped by her."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "See, this is what I found, says the Teacher, examining one matter after another to account for things."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "But there&quot;s something that I constantly searched for but couldn&quot;t find: I found one man among a thousand, but I couldn&quot;t find a woman among any of these."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "See, this alone I found: God made human beings straightforward, but they search for many complications."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "Who is wise? And who knows the meaning of anything? A person&quot;s wisdom brightens the expression; it changes the hardness of someone&quot;s face. as you would keep a solemn pledge. Don&quot;t linger in a harmful situation because he can do whatever he wants! no one can say to him, &apos;What are you doing?&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Keep the king&quot;s command"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Don&quot;t be dismayed; leave his presence."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Because the king&quot;s word has authority,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Whoever keeps a command will meet no harm, and the wise heart knows the right time and the right way"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "because there&quot;s a right time and right way for every matter. But human misfortunes are overwhelming"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "because no one knows what will happen, and no one can say when something might happen."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "No one has control over the life-breath, to retain it, and there&quot;s no control over the day of death. There&quot;s no release from war, and wickedness won&quot;t deliver those who practice it."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I observed all of this as I paid attention to all that happens under the sun. Sometimes people exercise power over each other to their detriment."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then I saw the wicked brought to their graves, with people processing from a holy place, while those who had lived honestly were neglected in the city. This too is pointless."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The condemnation for wicked acts isn&quot;t carried out quickly; that&quot;s why people dare to do evil."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Wrongdoers may commit a hundred crimes but still live long lives. But I also know that it will go well for those who fear God, for those who are reverent before God."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "But it will not go well for the wicked; they won&quot;t live long at all because they aren&quot;t reverent before God."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Here&quot;s another thing that happens on earth that is pointless: the righteous get what the wicked deserve, and the wicked get what the righteous deserve. I say that this too is pointless."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So I commend enjoyment because there&quot;s nothing better for people to do under the sun but to eat, drink, and be glad. This is what will accompany them in their hard work, during the lifetime that God gives under the sun."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Then I set my mind to know wisdom and to observe the business that happens on earth, even going without sleep day and night"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I observed all the work of God&ndash;that no one can grasp what happens under the sun. Those who strive to know can&quot;t grasp it. Even the wise who are set on knowing are unable to grasp it."
+            }
+        ]
     }
 }

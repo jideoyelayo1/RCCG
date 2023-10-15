@@ -1,46 +1,4368 @@
 {
     "Job": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": [],
-        "14": [],
-        "15": [],
-        "16": [],
-        "17": [],
-        "18": [],
-        "19": [],
-        "20": [],
-        "21": [],
-        "22": [],
-        "23": [],
-        "24": [],
-        "25": [],
-        "26": [],
-        "27": [],
-        "28": [],
-        "29": [],
-        "30": [],
-        "31": [],
-        "32": [],
-        "33": [],
-        "34": [],
-        "35": [],
-        "36": [],
-        "37": [],
-        "38": [],
-        "39": [],
-        "40": [],
-        "41": [],
-        "42": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "A man in the land of Uz was named Job. That man was honest, a person of absolute integrity; he feared God and avoided evil."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He had seven sons and three daughters,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "and owned seven thousand sheep, three thousand camels, five hundred pairs of oxen, five hundred female donkeys, and a vast number of servants, so that he was greater than all the people of the east."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Each of his sons hosted a feast in his own house on his birthday. They invited their three sisters to eat and drink with them."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When the days of the feast had been completed, Job would send word and purify his children. Getting up early in the morning, he prepared entirely burned offerings for each one of them, for Job thought, Perhaps my children have sinned and then cursed God in their hearts. Job did this regularly. The Adversary answered the LORD , &apos;From wandering throughout the earth.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "One day the divine beings came to present themselves before the LORD , and the Adversary also came among them."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The LORD said to the Adversary, &apos;Where did you come from?&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The LORD said to the Adversary, &apos;Have you thought about my servant Job; surely there is no one like him on earth, a man who is honest, who is of absolute integrity, who reveres God and avoids evil?&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Adversary answered the LORD , &apos;Does Job revere God for nothing?"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Haven&quot;t you fenced him in&ndash;his house and all he has&ndash;and blessed the work of his hands so that his possessions extend throughout the earth?"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But stretch out your hand and strike all he has. He will certainly curse you to your face.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The LORD said to the Adversary, &apos;Look, all he has is within your power; only don&quot;t stretch out your hand against him.&apos; So the Adversary left the LORD &quot;s presence."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "One day Job&quot;s sons and daughters were eating and drinking wine in their oldest brother&quot;s house."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "A messenger came to Job and said: &apos;The oxen were plowing, and the donkeys were grazing nearby"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "when the Sabeans took them and killed the young men with swords. I alone escaped to tell you.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "While this messenger was speaking, another arrived and said: &apos;A raging fire fell from the sky and burned up the sheep and devoured the young men. I alone escaped to tell you.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "While this messenger was speaking, another arrived and said: &apos;Chaldeans set up three companies, raided the camels and took them, killing the young men with swords. I alone escaped to tell you.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "While this messenger was speaking, another arrived and said: &apos;Your sons and your daughters were eating and drinking wine in their oldest brother&quot;s house,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "when a strong wind came from the desert and struck the four corners of the house. It fell upon the young people, and they died. I alone escaped to tell you.&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Job arose, tore his clothes, shaved his head, fell to the ground, and worshipped."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He said: &apos;Naked I came from my mother&quot;s womb; naked I will return there. The LORD has given; the LORD has taken; bless the LORD &quot;s name.&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "In all this, Job didn&quot;t sin or blame God."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "One day the divine beings came to present themselves before the LORD . The Adversary also came among them to present himself before the LORD ."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The LORD said to the Adversary, &apos;Where have you come from?&apos; The Adversary answered the LORD , &apos;From wandering throughout the earth.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The LORD said to the Adversary, &apos;Have you thought about my servant Job, for there is no one like him on earth, a man who is honest, who is of absolute integrity, who reveres God and avoids evil? He still holds on to his integrity, even though you incited me to ruin him for no reason.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Adversary responded to the LORD , &apos;Skin for skin&ndash;people will give up everything they have in exchange for their lives."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But stretch out your hand and strike his bones and flesh. Then he will definitely curse you to your face.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The LORD answered the Adversary, &apos;There he is&ndash;within your power; only preserve his life.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The Adversary departed from the LORD &quot;s presence and struck Job with severe sores from the sole of his foot to the top of his head."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Job took a piece of broken pottery to scratch himself and sat down on a mound of ashes."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Job&quot;s wife said to him, &apos;Are you still clinging to your integrity? Curse God, and die.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Job said to her, &apos;You&quot;re talking like a foolish woman. Will we receive good from God but not also receive bad?&apos; In all this, Job didn&quot;t sin with his lips."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "When Job&quot;s three friends heard about all this disaster that had happened to him, they came, each one from his home&ndash;Eliphaz from Teman, Bildad from Shuah, and Zophar from Naamah. They agreed to come so they could console and comfort him."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When they looked up from a distance and didn&quot;t recognize him, they wept loudly. Each one tore his garment and scattered dust above his head toward the sky."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They sat with Job on the ground seven days and seven nights, not speaking a word to him, for they saw that he was in excruciating pain."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Afterward, Job spoke up and cursed the day he was born. the night someone said, &apos;A boy has been conceived.&apos; may God above ignore it, and light not shine on it. and a cloud linger over it; may all that darkens the day terrify it. may it not be counted in the days of a year; may it not appear in the months. may no happy singing come in it. those with enough skill to awaken Leviathan. may it wait in vain for light; may it not see dawn&quot;s gleam, didn&quot;t hide trouble from my eyes. come forth from the womb and die? and breasts let me nurse? I&quot;d sleep; rest would be mine who rebuild ruins for themselves, who fill their houses with silver. like babies who never see light? there the weak rest. they don&quot;t hear a boss&quot;s voice. a servant is free from his masters. life to those bitter of soul, who search for it more than for treasure, who are thrilled when they find a grave? whom God has fenced in? my roars pour out like water. and it arrived; what I dreaded came to me. and trembling came."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Job said:"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Perish the day I was born,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "That day&ndash;let it be darkness;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "May deepest darkness claim it"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "May gloom seize that night;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "May that night be childless;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "May those who curse the day curse it,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "May its evening stars stay dark;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "because it didn&quot;t close the doors of my mother&quot;s womb,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Why didn&quot;t I die at birth,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Why did knees receive me"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "For now I would be lying down quietly;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "with kings and earth&quot;s advisors,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "or with princes who have gold,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Or why wasn&quot;t I like a buried miscarried infant,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "There the wicked rage no more;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Prisoners are entirely at ease;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Both small and great are there;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Why is light given to the hard worker,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "those waiting in vain for death,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "who rejoice excitedly,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Why is light given to the person whose way is hidden,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "My groans become my bread;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Because I was afraid of something awful,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "I had no ease, quiet, or rest,"
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Eliphaz, a native of Teman, responded: But who can hold words back? and given strength to drooping hands. you&quot;ve steadied failing knees. it has struck you, and you are frightened. the integrity of your conduct, the source of your hope? When have those who do the right thing been destroyed? and sow trouble will harvest it. by a breath of his nostril they are annihilated. yet the teeth of lions are shattered; and its cubs are scattered. my ears caught a hint of it. when deep sleep falls on people, all of my bones shook. the hair of my skin bristled. although a figure was in front of my eyes. Silence! Then I heard a voice: a person purer than their maker?&apos; and levels a charge against his messengers, whose foundations are in dust, and who are crushed like a moth? they perish forever without anyone knowing."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "If one tries to answer you, will you be annoyed?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Look, you&quot;ve instructed many"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Your words have raised up the falling;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But now it comes to you, and you are dismayed;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Isn&quot;t your religion the source of your confidence;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Think! What innocent person has ever perished?"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "As I&quot;ve observed, those who plow sin"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "When God breathes deeply, they perish;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The roar of a lion and snarl of the king of beasts&ndash;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "the lion perishes without prey,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But a word sneaked up on me;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "In profound thoughts, visions of night,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "fear and dread struck me;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "A breeze swept by my face;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "It stopped. I didn&quot;t recognize its visible form,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;Can a human be more righteous than God,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "If he doesn&quot;t trust his servants"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "how much less those who dwell in houses of clay,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "They are smashed between morning and evening;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Isn&quot;t their tent cord pulled up? They die without wisdom."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Call out. Will anyone answer you? To which holy one will you turn? fury can kill the simple. and promptly curse their house. crushed in the gate without a deliverer. and the thirsty pant after their yield. nor does distress sprout from the ground. just as sparks rise up. put my case to God, wonderful things without number; sends water to the open country, raises mourners to victory; so that their hands achieve no success, so that the plans of the devious don&quot;t succeed. and at noon they fumble about as at night. the needy from the grip of the strong; and violence shuts its mouth. so don&quot;t reject the Almighty&quot;s instruction. he strikes, but his hands heal. from seven harm won&quot;t touch you. in war, from the power of the sword. and you won&quot;t fear destruction when it comes. you won&quot;t be afraid of wild beasts; and the beasts of the field will be at peace with you. You will examine your home and miss nothing. Your offspring will be like the grass of the earth. as bundles of grain stacked up at harvesttime. listen and find out for yourself."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Surely anger can kill the foolish;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I&quot;ve seen the foolish take root"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Their children are far from safety,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The hungry devour their crops; it&quot;s taken even from the thorns,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Surely trouble doesn&quot;t come from dust,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Surely humans are born to distress,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "But I would seek God,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "who does great things beyond comprehension,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "who provides rain over the earth&quot;s surface,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "exalts the lowly,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "who frustrates the schemes of the clever"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "trapping the wise in their cleverness"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They encounter darkness during the day,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Yet he rescues the orphan from the sword of their mouth,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "so the poor have hope"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Look, happy is the person whom God corrects;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "He injures, but he binds up;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "From six adversities he will deliver you;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "In famine he will ransom you from death;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "You will be hidden from the tongue&quot;s sting,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "You will laugh at destruction and hunger;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "for you will make an agreement with the stones of the field;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "You will know that your tent is secure."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "You will know that you&quot;ll have many children."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "You will come to your grave in old age"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Look, we&quot;ve searched this out, and so it is;"
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job responded: all of it were lifted up in scales; my spirit drinks their poison, and God&quot;s terrors are arrayed against me. or an ox bellow over its fodder? they resemble food for the sick. and God grant my hope; release his hand and cut me off. for I&quot;ve not denied the words of the holy one. my end, that my life should drag on? my flesh bronze? success has been taken from me. or do they stop fearing the Almighty? like channels that overrun their streambeds, in which snow is obscured and vanish from their channels in heat. they go up into untamed areas and perish. merchants from Sheba hope for it. they arrive and are dismayed. you see something awful and are afraid. Offer a bribe from your wealth for me? Ransom me from the grip of the ruthless?&apos; inform me how I&quot;ve erred. but what do your condemnations accomplish? to treat the words of a hopeless man as wind? barter away your friend? would I lie to your face? Turn now! I am righteous. or can my mouth not recognize disaster?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Oh, that my grief were actually weighed,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "for now it&quot;s heavier than the sands of the sea; therefore, my words are rash. or does egg white have taste? relieved even though in persistent pain;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Almighty&quot;s arrows are in me;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Does a donkey bray over grass"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Is tasteless food eaten without salt,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I refuse to touch them;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Oh, that what I&quot;ve requested would come"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "that God be willing to crush me,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I&quot;d still take comfort,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "What is my strength, that I should hope;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Is my strength that of rocks,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I don&quot;t have a helper for myself;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Are friends loyal to the one who despairs,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "My companions are treacherous like a stream in the desert,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "like those darkened by thawing ice,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "but that stop flowing in dry times"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Caravans turn aside from their paths;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Caravans from Tema look;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "They are ashamed that they trusted;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "That&quot;s what you are like;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Have I said, &apos;Give me something?"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Rescue me from the hand of my enemy?"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Instruct me and I&quot;ll be quiet;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "How painful are truthful words,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Do you intend to correct my words,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Would you even gamble over an orphan,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Now look at me&ndash;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Turn! Don&quot;t be faithless."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Is there wrong on my tongue,"
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "Isn&quot;t slavery everyone&quot;s condition on earth, our days like those of a hired worker? await our task like a hired worker. nights of toil have been measured out for me. my skin hardens and oozes. my eyes won&quot;t see pleasure again. your eyes will be on me, and I won&quot;t exist. won&quot;t be recognized in town anymore. I will speak in the adversity of my spirit, groan in the bitterness of my life. that you place me under guard? my bed will diminish my murmuring. frighten me with visions. and death instead of my bones. leave me alone, for my days are empty. that you take note of them, test them every moment? let me alone until I swallow my spit? guardian of people? Why have you made me your target so that I&quot;m a burden to myself? overlook my iniquity? Then I would lie down in the dust; you would search hard for me, and I would not exist."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Like a slave we pant for a shadow,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So I have inherited months of emptiness;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "If I lie down and think&ndash;When will I get up?&ndash; night drags on, and restless thoughts fill me until dawn. they reach their end without hope. like the one who descends to the grave and won&quot;t rise,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "My flesh is covered with worms and crusted earth;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "My days are swifter than a weaver&quot;s shuttle;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Remember that my life is wind;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The eye that sees me now will no longer look on me;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "A cloud breaks apart and moves on&ndash;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "won&quot;t return home again,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But I won&quot;t keep quiet;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Am I Sea or the Sea Monster"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "If I say, &apos;My couch will comfort me,&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "You scare me with dreams,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I would choose strangling"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I reject life; I don&quot;t want to live long;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "What are human beings, that you exalt them,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "visit them each morning,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Why not look away from me;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "If I sinned, what did I do to you,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Why not forgive my sin,"
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "Bildad from Shuah responded: such that your utterances become a strong wind? or does the Almighty distort what is right? then he delivered them into the power of their rebellion. plead with the Almighty. then surely he will become active on your behalf and reward your innocent dwelling. your future will be extraordinary. and verify the findings of your ancestors, because our days on earth are a shadow. Does a reed flourish without water? it will wither before every other grass. Hope perishes for the godless, their trust, a spider&quot;s web. grasps it, and it can&quot;t remain in place. its runners spread over its gardens. for it sees a home among stones. it lies, saying, &apos;I can&quot;t see you.&apos; won&quot;t strengthen the hand of the wicked. your lips with a victorious shout. and the tent of the wicked will vanish."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "How long will you mouth such things"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Does God pervert justice,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "If your children sinned against him,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If you will search eagerly for God,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "If you are pure and do the right thing,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Although your former state was ordinary,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Ask a previous generation"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "for we are only recently here and don&quot;t know"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Won&quot;t they instruct you and tell you; will words not proceed from their hearts? for from the dust other plants sprout."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Does papyrus grow apart from a marsh?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "While still tender, uncut,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So are the paths of all who forget God."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "whose confidence is a fragile thing,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He leans on its web, and it doesn&quot;t stand;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "It&quot;s like a well-watered plant in the sun;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Its roots are entwined over a pile of rocks,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "If it&quot;s uprooted from its place,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Surely its way is a joy,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Surely God won&quot;t reject integrity,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He will still fill your mouth with joy,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Those who hate you will be clothed with shame,"
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job responded: and how can anyone be innocent before God? he won&quot;t answer one in a thousand. who can resist him and prosper? who overthrows them in anger? and its pillars shudder? even seals up the stars; and the southern constellations; wonders beyond number? he glides past, and I can&quot;t perceive him. Who can say to him, &apos;What are you doing?&apos; the helpers of Rahab bow beneath him. I must plead for justice. I couldn&quot;t believe that he heard my voice. and multiplies my wounds for no reason? for he fills me with bitterness. If justice&ndash;who calls God to meet me? I have integrity; but God declares me perverse. I reject my life. therefore, I say God destroys the blameless and the sinners. he covers the faces of its judges. If not God, then who does? they flee and don&quot;t experience good. as an eagle swoops on prey. put on a different face so I can smile,&apos; I know that you won&quot;t declare me innocent. why have I tried so hard in vain? purify my hands with soap, so that my clothes detest me. so that we could come together in court. he would lay his hand on both of us, so his fury wouldn&quot;t frighten me. for I&quot;m not that way."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I know for certain that this is so;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "If one wants to contend with him,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He is wise and powerful;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Who removes mountains, and they are unaware;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Who shakes the earth from its place,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Who commands the sun, and it does not rise,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "stretched out the heavens alone and trod on the waves of the Sea; I&quot;ll choose my words in a contest with him. he mocks at the slaying of innocents."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "made the Bear and Orion, Pleiades"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "does great and unsearchable things,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "If God goes by me, I can&quot;t see him;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "If he seizes, who can bring back?"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "God won&quot;t retract his anger;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Yet I myself will answer him;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Even if I&quot;m innocent, I can&quot;t answer;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "If I were to call and he answered me,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Who bruises me with a tempest"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "He doesn&quot;t let me catch my breath,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "If the issue is strength&ndash;behold power!"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "If I&quot;m innocent, my mouth condemns me;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I&quot;m blameless, yet don&quot;t know myself;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "It&quot;s all the same;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "If calamity suddenly kills,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The earth is handed over to the wicked;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "My days are swifter than a runner;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "They sweep by like ships made of reeds,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "If I say, &apos;I&quot;ll forget my lament,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "I&quot;m still afraid of all my suffering;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "I myself am thought guilty;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "If I wash myself with snow,"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "then you&quot;ll hurl me into a slimy pit"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "God is not a man like me&ndash;someone I could answer&ndash;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Oh, that there were a mediator between us;"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "remove his rod from me,"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Then I would speak&ndash;unafraid&ndash;"
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "I loathe my life; I will let loose my complaint; I will speak out of my own bitterness. tell me what you are accusing me of doing. that you reject the work of your hands and cause the purpose of sinners to shine? do you see like a human? your years like years of a human, and seek my sin? yet no one delivers me from your power. yet you want to destroy me utterly. and you will return me to dust. curdle me like cheese? wove me from bones and sinews. and you oversaw and preserved my breath. I know this is the case with you. you won&quot;t consider me innocent of wrongdoing. I&quot;m innocent, but can&quot;t lift my head, full of shame and facing my misery. you would do awesome things to me again. and increase your anger toward me, I wish I had died without any eye seeing me. taken from the belly to the grave. Look away from me so I can brighten up a little to a land of deepest darkness, utter darkness and confusion, such that light shines like gloom."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I will say to God, Don&quot;t declare me guilty;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Does it seem good to you that you oppress me,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Do you have physical eyes;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Are your days like those of a human,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "that you search for my wrongdoing"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "You know that I&quot;m not guilty,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Your hands fashioned and made me;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Remember that you made me from clay,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Didn&quot;t you pour me out like milk,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "You clothed me with skin and flesh,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Life and kindness you gave me,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "These things you hid in your heart;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "If I sin and you observe me,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If I were guilty, doom to me;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I could boast like a lion, and you would hunt me;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "You continue to send your witnesses against me a swift army against me."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Why did you let me emerge from the womb?"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then I would be just as if I hadn&quot;t existed,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Aren&quot;t my few days coming to an end?"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "before I go and don&quot;t return"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "a land whose light is like gloom,"
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "Zophar from Naamah responded: or a wordy man be justified? will you mock and not be put to shame? open his lips against you for sound insight has two sides. Know that God lets some of your sin be forgotten. or find the extent of the Almighty? and broader than the sea. who can stop him? and spread your palms to him, and don&quot;t let injustice dwell in your tents, you will be secure and not fear. you will remember it as water that flows past. darkness will be like morning. you will look around and rest safely. many will beg for your favor. flight has vanished from them; their hope is a dying gasp."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Should all these words go unanswered"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Will your idle talk silence everyone;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "You&quot;ve said, &apos;My teaching is pure, and I&quot;m clean in God&quot;s eyes.&apos; Deeper than the underworld &ndash;what can you know? sees sin, and certainly takes note. when a wild ass of a person is born tame."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But oh, that God would speak,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "and tell you secrets of wisdom;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Can you find the secret of God"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They are higher than the heavens&ndash;what can you do?"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Its measurement is longer than the earth"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "If God passes by, imprisons someone, and calls a trial,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "He knows worthless people,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "A stupid person becomes intelligent"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "If you make your mind resolute"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "if you throw out the sin in your hands"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "then you will lift up your face without blemish;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "You will forget trouble;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "A life span will rise brighter than noon;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "You will be secure, for there is hope;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "You will lie down without anyone to scare you;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The eyes of the wicked will grow faint;"
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job responded: and wisdom will die with you. I&quot;m not inferior to you. who called to God and he answered; the innocent and blameless one is a joke, a fixed point for slipping feet. and God&quot;s provokers secure, the birds in the sky, and they will tell you; the fish of the sea will recount it for you. that the LORD &quot;s hand did this? the breath of every person? and the palate taste food? understanding in a long life.&apos; counsel and understanding are his. if he ties a person up, he can&quot;t be set free. if he lets it loose, it overturns the land. the deceiver and the deceived are his. makes madmen of judges; binds a garment around their loins; overthrows the well-established; takes away elders&quot; discernment; loosens the belt of the strong; makes utter darkness enter the light; expands nations and leads them astray; making them wander in untraveled wastelands. he makes them stumble like drunks."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Surely you are the people,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I am also intelligent; Who isn&quot;t like these people? who carry God in their hands."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I&quot;m a joke to friends"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "a torch of contempt to one who is idle,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Raiders&quot; tents are prosperous"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But ask Behemoth, and he will teach you,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "or talk to earth, and it will teach you;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Among all these, who hasn&quot;t known"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "In whose grasp is the life of every thing,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Doesn&quot;t the ear test words"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;In old age is wisdom;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "With him are wisdom and power;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "If he tears down, it can&quot;t be rebuilt;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If he restricts water, they have drought;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "With him are might and success;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He leads advisors away barefoot;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "unties the belt of kings,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "leads priests away barefoot;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "silences the talk of trusted people;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "pours contempt on royalty;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "discloses deep secrets of darkness,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "makes nations prominent and destroys them,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "takes away the power to think from earth&quot;s leaders,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They feel their way in the dark without light;"
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "Look, my eye has seen it all; my ear has heard and understood it. I&quot;m not inferior to you. I would gladly present my case to God. ineffective healers, all of you. that would be your wisdom. and pay attention to the arguments of my lips. speak deceit on his behalf? or contend for God? or can you fool him as you fool people? if you&quot;ve been secretly partial. and dread of him fall on you? your sayings defenses made of clay. come what may. put my life in jeopardy? I will surely prove my way to his face. that a godless person won&quot;t come before him. so that my remarks will be in your ears. I know that I&quot;m innocent. for then I would be quiet and die. then I won&quot;t hide from your face. and don&quot;t terrify me with your anger. or I&quot;ll speak and you can reply. Inform me about my rebellions and sins. and consider me your enemy? make me inherit my youthful indiscretions. you stamp marks on the bottom of my feet. like clothing that a moth eats."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Just as you know, I also know;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But I want to speak to the Almighty;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "You, however, are plasterers of lies;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Would that you were completely quiet;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Hear my teaching"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Will you speak injustice for God,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Will you be partial"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Will it go well when he searches you,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He will certainly correct you"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Wouldn&quot;t his majesty scare you"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Your old sayings are proverbs made of ashes,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Be quiet and I will speak,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "For what reason will I take my flesh in my teeth,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He will slay me; I&quot;m without hope;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Also this will be my vindication,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Listen closely to my words"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Look, I have laid out my case;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Who would dare contend with me,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Only don&quot;t do two things to me,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Remove your hand far from me"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Then call and I&quot;ll answer,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "How many are my offenses and sins?"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Why hide your face from me"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Will you cause a wind-tossed leaf to tremble, or will you pursue dry straw?"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "You even write bitter things about me,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "You tie up my feet and restrict all actions;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Surely a person wastes away like refuse,"
+            }
+        ],
+        "14": [
+            {
+                "verse_number": "1",
+                "verse_text": "All of us are born of women, have few days, and are full of turmoil. flee like a shadow, and don&quot;t last. ( you bring me into trial against you.) Nobody. you set a statute and we can&quot;t exceed it. until we are satisfied like a worker at day&quot;s end. If it&quot;s cut down and still sprouting and its shoots don&quot;t fail, and its stump dies in the dust, and produce sprouts like a plant. a person expires, and where is he? a river dries up completely. until the heavens cease; they don&quot;t get up and awaken from sleep. conceal me until your anger passes, set a time for me, and remember me. All the days of my service I would wait until my restoration took place. you would long for your handiwork. you would not keep a record of my sin. you would cover my sin. and rock is displaced. floods carry away soil; you destroy a people&quot;s hope. you change their appearance and send them away. their children become insignificant, and they don&quot;t see it. and they mourn for themselves."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Like a flower, we bloom, then wither,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Yes, you open your eyes on this one;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Who can make pure from impure?"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If our days are fixed, the number of our months with you,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Look away from us that we may rest,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Indeed there is hope for a tree."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "if its roots age in the ground"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "at the scent of water, it will bud"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But a human dies and lies there;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Water vanishes from the sea;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But a human lies down and doesn&quot;t rise"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I wish you would hide me in the underworld,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "If people die, will they live again?"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "You would call, and I would answer you;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Though you now number my steps,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "My rebellion is sealed in a bag;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "But an eroding mountain breaks up,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Water wears away boulders;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "You overpower them relentlessly, and they die;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Their children achieve honor, and they don&quot;t know it;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "They only feel the pain of their body,"
+            }
+        ],
+        "15": [
+            {
+                "verse_number": "1",
+                "verse_text": "Eliphaz answered: and fill their belly with the east wind? and with unprofitable words? and restraining meditation before God. you opt for a clever tongue. your lips argue against you. brought forth before the hills? is wisdom limited to you? what do you understand that isn&quot;t among us? those much older than your father. a word spoken gently with you? why have your eyes flashed, and utter such words from your mouth? and those born of woman that they might be innocent? and the heavens aren&quot;t pure in his eyes, for they drink sin like water. what I&quot;ve seen, I will declare to you; and no stranger passed in their midst. the number of years reserved for the hateful; when safe, raiders overtake them. they are destined for a sword. They know that their day of darkness is fixed. master them like a king ready to strike; and try to overpower the Almighty. with a massive and strong shield. and make their loins gross. unoccupied houses that turn to rubble. their property won&quot;t extend over the earth. a flame will dry out their shoots, and they will be taken away by the wind from his mouth. for their reward will be worthless. before it is green, and cast off their blossoms like the olive. and fire consumes the tents of bribers. their belly establishes deceit."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Will the wise respond with windy knowledge"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Will they argue with a word that has no benefit"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "You are truly making religion ineffective"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Your mouth multiplies your sins a thousand times;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Your mouth condemns you, not I;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Were you born the first Adam,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Did you listen in God&quot;s council;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "What do you know that we don&quot;t know;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Both the graybeard and the aged are with us;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Are God&quot;s comforts not enough for you,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Why has your mind seized you,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "so that you return your breath to God"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "What are humans that they might be pure,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If he doesn&quot;t trust his holy ones"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "how much less those who are abominable and corrupt,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Listen to me; I will argue with you;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "what the wise have told and have not concealed from their family,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "to whom alone the earth was given"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "All the days of the wicked are painful;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "a sound of terror pierces their ears;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "They can&quot;t count on turning away from darkness;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "They wander about for bread. &apos;Where is it?&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Adversity and stress scare them,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "for they raise a fist against God"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "They run toward him aggressively,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "They cover their face with grease"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "They lived in ruined cities,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "They won&quot;t get rich; their wealth won&quot;t last;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "They can&quot;t turn away from darkness;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "They shouldn&quot;t trust in what has no worth,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Before their branch is formed,"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "like the vine, they will drop early grapes"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "The ruthless gang is barren,"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "They conceive toil and give birth to sorrow;"
+            }
+        ],
+        "16": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Job answered: All of you are sorry comforters. what bothers you that you must argue? I could put words together to oppose you, shake my head over you. my trembling lips would be held in check. if I hold back, what have I lost? You have destroyed my entire group, My leanness rises to bear witness against me. he slashes at me with his teeth. My enemy pierces me with his eyes. and strike my cheek in a taunt; they gang up on me. and forces me into the hands of the wicked. seized me by the back of my neck, dashed me into pieces; he raised me up for his target. he cuts my kidneys open without pity and doesn&quot;t care, pours my gall on the ground, runs against me like a strong man. and buried my dignity in the dust. and dark gloom hangs on my eyelids. and my prayer is pure. let my outcry never cease. my advocate is on high; While my eyes drip tears to God, like a person pleads for a friend. and then I&quot;ll walk a path that I won&quot;t return."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I&quot;ve heard many things like these."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Will windy talk ever cease;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "In your situation I could speak like you;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I could heap up words, strengthen you with my speech;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "If I speak, my pain is not eased;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Now God has surely worn me out."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "seized me, which became grounds for an accusation."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "His anger tears me and afflicts me;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "They open their mouths at me"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "God delivers me to a criminal"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I was at rest, but he shattered me,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "His archers surround me;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "bursts me open over and over,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I&quot;ve sewed rough cloth over my skin"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "My face is red from crying,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "But there is no violence in my hands,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Earth, don&quot;t cover my blood;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Surely now my witness stands in heaven;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "my go-between, my friend."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "let him plead with God for a human being,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "A number of years will surely pass,"
+            }
+        ],
+        "17": [
+            {
+                "verse_number": "1",
+                "verse_text": "My spirit is broken, my days extinguished, and my eye looks on their rebellion. Who else is willing to make an agreement? therefore, you won&quot;t be exalted. and his children&quot;s eyes fail. I&quot;m like spit in people&quot;s faces. my limbs like a shadow&ndash;all of them. the guiltless become troubled about the godless. the one whose hands are clean grows stronger. and I won&quot;t find a wise one among you. my goals are destroyed, my heart&quot;s desires. light is near because of the darkness. lay out my bed in darkness, the worm, &apos;my mother and sister.&apos; My hope&ndash;who can see it? will we descend together to the dust? the grave, mine."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Surely mockers are with me,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Take my guarantee."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "You&quot;ve closed their mind to insight;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "He denounces his friends for gain,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He makes me a popular proverb;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "My eye is weak from grief;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Those who do the right thing are amazed at this;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The innocent clings to his way;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But you can bring all of them again,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "My days have passed;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They turn night into day;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "If I hope for the underworld as my dwelling,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I&quot;ve called corruption &apos;my father,&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Where then is my hope?"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Will they go down with me to the underworld;"
+            }
+        ],
+        "18": [
+            {
+                "verse_number": "1",
+                "verse_text": "Bildad from Shuah answered: Try to understand and then we can speak. ignorant in your sight? will earth be forsaken for your sake, a rock be dislodged from its place? the blaze of their fire doesn&quot;t shine. and their lamp above doesn&quot;t shine. their plans trip themselves. they walk on mesh. a snare tightens on them. a trap for them along the path. they follow their steps. calamity is ready for their spouses. Death&quot;s firstborn consumes their limbs. it parades them before the king of terrors. sulfur is scattered over their home. their branches wither above. they will achieve no recognition abroad. banished from the world. no survivor in their dwelling place. their predecessors pull their hair. this is the place of the one who doesn&quot;t know God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "How long? Would you all stop talking."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Why are we considered beasts,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "To you who tear yourself in rage&ndash;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "To be sure, the light of the wicked goes out;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The light in their tent becomes dark,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Their strong strides slow down;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They are caught by their feet in a net;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "A trap grabs them by the heel;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "A rope is hidden on the ground for them;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Terrors round about scare them;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Their offspring hunger;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "It eats some of their skin."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They are snatched from the safety of their tent;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Nothing they own remains in their tent;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Their roots dry out below;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The memory of them will perish from the earth;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "They are thrust from light into darkness,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They have no offspring or descendants among their people,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Their successors are appalled at what happens to them;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "These are surely the dwelling places of the evil;"
+            }
+        ],
+        "19": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Job responded: and crush me with words? shamelessly you insult me. If so, my error remains hidden inside me. and use my disgrace to criticize me, and enclosed his net over me. I shout&ndash;but there is no justice. and put darkness on my trail, removed the crown from my head, he considers me his enemy. they camp around my tent. my acquaintances are also alienated from me. those who know me have forgotten me. I&quot;m a foreigner in their sight. I myself must beg him. I am odious to my children. I get up, and they rail against me. the ones I have loved turn against me. I have escaped by the skin of my teeth. God&quot;s hand has truly struck me. always hungry for my flesh? inscribed on a scroll forever engraved on stone. and afterward he&quot;ll rise upon the dust. I am utterly dejected. for wrath brings punishment by the sword. You should know that there is judgment."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "How long will you harass me"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "These ten times you&quot;ve humiliated me;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Have I really gone astray?"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If you look down on me"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "know then that God has wronged me"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "If I cry &apos;Violence!&apos; I&quot;m not answered;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He walled up my path so I can&quot;t pass"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "stripped my honor from me,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "tore me down completely so that I&quot;ll die, and uprooted my hope like a tree."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "His anger burns against me;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "His troops come as one and construct their siege ramp against me; then from my flesh I&quot;ll see God, my eyes see, and not a stranger&quot;s. so that the root of the matter can be found in him?&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He has distanced my family from me;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "My visitors have ceased;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "My guests and female servants think me a stranger;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I call my servant, and he doesn&quot;t answer;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "My breath stinks to my wife;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Even the young despise me;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "All my closest friends despise me;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "My bones cling to my skin and flesh;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Pity me. Pity me. You&quot;re my friends."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Why do you pursue me like God does,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Oh, that my words were written down,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "with an iron instrument and lead,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "But I know that my redeemer is alive"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "After my skin has been torn apart this way&ndash;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "whom I&quot;ll see myself&ndash;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "You say, &apos;How will we pursue him"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "You ought to fear the sword yourselves,"
+            }
+        ],
+        "20": [
+            {
+                "verse_number": "1",
+                "verse_text": "Zophar from Naamah said: because of my inner turmoil. from when humans were placed on earth&ndash; the joy of the godless, brief? and their heads touch the clouds, those who saw them will say, &apos;Where are they?&apos; and none will find them, carried away like a nighttime vision. they won&quot;t be seen again at home. their hands will give back their wealth. and now sleeps with them in the dust. they hide it under their tongues; they hold it in their cheeks. becoming a cobra&quot;s poison inside. God dislodges it from their belly. a viper&quot;s tongue kills them. rivers of honey, and brooks of cream. they won&quot;t enjoy the wealth from their business. stole a house they didn&quot;t build; couldn&quot;t escape with their treasure. so their riches will not endure. all sorts of trouble come on them. unleash his burning anger on them, rain punishing blows on them. a bronze bow pierces them. its shaft in their liver brings terror. fire that no one stoked consumes them; what&quot;s left in their tent is ruined. earth opposes them. by rushing streams on the day of his anger. their heritage decreed by God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Therefore, my troubled thoughts make me turn back&ndash;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I hear teaching that insults me, but I am forced to answer based on my own understanding."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Do you know this from long ago&ndash;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "that the rejoicing of the wicked is short,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Though their height reaches heaven"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "they will perish forever like their dung;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They will disappear like a dream,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The eye that saw them will do so no more;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Their children will repay the poor;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Vigor filled their bones"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Though wickedness is sweet in their mouths,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "they like it, won&quot;t let it go;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Food turns their stomachs,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "They swallow wealth and vomit it;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "They suck cobra&quot;s poison;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "They won&quot;t experience streams,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "They won&quot;t receive the reward for their labor;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They crushed and abandoned the poor;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "didn&quot;t know contentment in their belly;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Nothing remained of their food,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Even in their plenty, they are hard-pressed;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Let God fill their belly,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "If they flee an iron weapon,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They pull it out, but it sticks out from their backs;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Complete darkness waits for their treasured possessions;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Heaven exposes their guilt;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Their household wealth will be carried off"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "This is a wicked person&quot;s lot from God,"
+            }
+        ],
+        "21": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Job answered: and let that comfort you. and after my reply you can mock. why is my patience short? lay your hand over your mouth. shaking seizes my body. grow old, and even become strong? their offspring in their sight, God&quot;s punishing stick not upon them. their cows give birth and never miscarry. their infants bounce around. rejoice at the sound of a flute. we take no pleasure in knowing your ways; and what can we gain if we meet him?&apos; A sinner&quot;s logic is beyond me. or disaster come upon them, with its fury inflicting pain on them? like dry grass stolen by a storm. Let him destroy them so they know. Let them drink from the Almighty&quot;s wrath. when their numbered days are cut off? he who judges the most powerful? completely comfortable and well, their bones marrow-filled and sound. never having tasted the good things. and worms cover them. your plans harm me. Where is the tent, the dwelling of the wicked?&apos; or paid attention to their reports? on the day of fury they are rescued. they act, and who can avenge them? someone keeps guard over their tombs. everyone marches after them&ndash; those before them, beyond counting. only deceit remains in your responses."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Listen carefully to my remarks"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Bear with me so I can speak, I myself;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Are my complaints against another human;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Turn to me and be appalled;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "If I recall it, I&quot;m scared;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Why do the wicked live,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Their children are always with them,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "their houses safe from dread,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Their bull always breeds successfully;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They send forth their little ones like sheep;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They raise drum and lyre,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They spend their days contentedly, go down to the grave peacefully."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They say to God, &apos;Turn away from us;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "who is the Almighty that we should serve him,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Look, isn&quot;t their well-being the work of their own hands?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "How often does the lamp of the wicked flicker"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Let them be like straw in the wind,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "God stores up his punishment for his children."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Let their own eyes witness their doom."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "What do they care about their household after they die,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Will they instruct God&ndash;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Someone dies in wonderful health,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "their buckets full of milk,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Another dies in bitter spirit,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "They lie together in the dust"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Look, I know your thoughts;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "You say, &apos;Where is the official&quot;s house?"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Haven&quot;t you asked travelers"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "On the day of disaster the wicked are spared;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Who can criticize their behavior to their faces;"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "They are carried to their graves;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "The soil near the desert streambed is sweet to them;"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "How empty is your comfort to me;"
+            }
+        ],
+        "22": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Eliphaz from Teman answered: Can an intelligent person bring profit? Does he gain when you perfect your ways? bring you in for judgment? your iniquity endless? stripped the naked, leaving no clothes; withheld bread from the starving. ( the favored live in it.) crushed orphans&quot; resources. sudden dread brings panic to you rushing water will cover you. see how high the topmost stars are? Can he judge through thick clouds? while he walks on heaven&quot;s rim.&apos; traveled by sinful persons, when a river flooded their foundations, what can the Almighty do to us?&apos; a sinner&quot;s logic is beyond me. the innocent mock them: fire will devour what&quot;s left of them. from this something good will come to you. put his words in your mind. if you keep wrongdoing out of your tent. your gold from Ophir on a rock in a desert streambed. silver piled up for you. lift up your face to God. you will fulfill your solemn promises. light will shine on your ways. God will rescue the lowly. they will be saved by your pure hands.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Can a human being be useful to God?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Does the Almighty delight in your innocence?"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Does he rebuke you for your piety,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Isn&quot;t your wickedness massive,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "You have taken payments from your family for no reason;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "denied water to the thirsty,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The powerful own land;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "You have sent widows away empty;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "For this reason, snares surround you;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "or a darkness that you can&quot;t see;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Isn&quot;t God in the heights of heaven;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "You say: &apos;What does God know?"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Clouds conceal him so he can&quot;t see"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Will you keep the ancient way"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "who were snatched prematurely"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "who say to God, &apos;Turn away from us;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Yet he filled their houses with good things;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The righteous see and rejoice;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "our enemies are certainly cut off;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Get along well with God and be at peace;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Receive instruction from his mouth;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "If you return to the Almighty, you will be restored;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Lay your prized possession in the dust,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "The Almighty will be your prized possession,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Then you will take pleasure in the Almighty;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "You will pray to him, and he will hear you;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "If you decree something, it will stand;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "When they&quot;re humbled, you will say: &apos;Cheer up;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "He will deliver the guilty;"
+            }
+        ],
+        "23": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job answered: my strength is weighed down because of my groaning. come to his dwelling place; fill my mouth with arguments, understand what he would say to me. No, he would surely listen to me. I could escape from my judge forever. west, and don&quot;t discover him; he turns south, and I don&quot;t see. when he tests me, I will emerge as gold. I have kept his way and not left it, valued the words from his mouth more than my food. What he desires, he does. and can do many similar things with me. I think and become afraid of him. the Almighty has frightened me. he has hidden deep darkness from me."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Today my complaint is again bitter;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Oh, that I could know how to find him&ndash;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I would lay out my case before him,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "know the words with which he would answer,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Would he contend with me through brute force?"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "There those who do the right thing can argue with him;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Look, I go east; he&quot;s not there,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "north in his activity, and I don&quot;t grasp him;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Surely he knows my way;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "My feet have stayed right in his tracks."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "kept the commandments from his lips and not departed,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He is of one mind; who can reverse it?"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He carries out what is decreed for me"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Therefore, I am scared by his presence;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "God has weakened my mind;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Still I&quot;m not annihilated by darkness;"
+            }
+        ],
+        "24": [
+            {
+                "verse_number": "1",
+                "verse_text": "Why doesn&quot;t the Almighty establish times for punishment? Why can&quot;t those who know him see his days? herd flocks they&quot;ve stolen, take a widow&quot;s ox as collateral, make the land&quot;s needy hide together. they go forth at dawn searching for prey; the wasteland is food for their young. glean in unproductive vineyards, in the cold without a cover, with no refuge, huddled against a rock. carry bundles of grain while hungry, tread winepresses, but remain thirsty. the throat of the mortally wounded screams, but God assigns no blame. don&quot;t acknowledge its direction, don&quot;t dwell in its paths. kills the poor and needy; at night, they are like a thief. thinking, No eye can see me, and puts a mask over his face. they shut themselves in by day; they don&quot;t know the light. because they recognize the horror of darkness. their portion of the land is cursed; no one walks down a path in the vineyards. the worm consumes them; they aren&quot;t remembered, and so wickedness is shattered like a tree. do nothing good for the widow. they may get up but without guarantee of survival. they are at ease. They are humbled then gathered in like everyone else; cut off like heads of grain. and make my words disappear?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "People move boundary stones,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "drive off an orphan&quot;s donkey,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "thrust the poor out of the way,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "They are like the wild donkeys in the desert;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "They gather their food in the field,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "spend the night naked, unclothed,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "wet from mountain rains,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The orphan is stolen from the breast; the infant of the poor is taken as collateral. just as the underworld steals sinners. His eyes are on their ways."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The poor go around naked, without clothes,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "crush olives between millstones,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "From the city, the dying cry out;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They rebel against light,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The murderer rises at twilight,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The adulterer&quot;s eye watches for twilight,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "In the dark they break into houses;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Deep darkness is morning to them"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "They are scum on the water&quot;s surface;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Drought and heat steal melted snow,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The womb forgets them;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "They prey on the barren, the childless,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "They drag away the strong by force;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "They make themselves secure;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "They are exalted for a short time, but no longer."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "If this isn&quot;t so, who can prove me a liar"
+            }
+        ],
+        "25": [
+            {
+                "verse_number": "1",
+                "verse_text": "Bildad from Shuah replied: he establishes peace on his heights. On whom does his light not rise? one born of a woman be pure? and the stars not pure in his eyes, a person&quot;s child, a grub."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Supreme power and awe belong to God;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Can his troops be counted?"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "How can a person be innocent before God;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If even the moon is not bright"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "how much less a human, a worm,"
+            }
+        ],
+        "26": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Job said: saved those with frail arms, informed many with insight! whose breath was expelled from you? the inhabitants beneath the waters as well. hung earth over nothing; yet they didn&quot;t burst out below; spreading his cloud over it; at the limit of light and darkness. terrified by his blast. split Rahab with his cleverness. his hand split the fleeing serpent. we hear only a whispered word about him. Who can understand his thunderous power?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "How well you have helped the weak,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "advised one lacking wisdom,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "With whom have you spoken;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The dead writhe,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The grave is naked before God; the underworld lacks covering."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "He stretched the North over chaos,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "wrapped up water in his clouds,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "hid the face of the full moon,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "traced a circle on the water&quot;s surface,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Heaven&quot;s pillars shook,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "By his power he stilled the Sea;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Due to his wind, heaven became clear;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Look, these are only the outer fringe of his ways;"
+            }
+        ],
+        "27": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Job took up his topic again: the Almighty, who made me bitter, and God&quot;s breath is in my nostrils&ndash; my tongue will mumble no deceit. Until my dying day, I won&quot;t give up my integrity. my opposition like the vicious. when he takes them away. when distress comes to them; call God at any time? not hide what pertains to the Almighty. why then this empty talk? the inheritance that the ruthless receive from the Almighty. their offspring won&quot;t have enough bread. their widows won&quot;t weep. amass clothing like clay, the innocent will divide the silver. like a hut made by a watchman. open their eyes, but it&quot;s missing. a tempest snatches them by night; removes them from their places, they flee desperately from its force. hisses at them from their place."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "As God lives, who rejected my legal claim,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "as long as breath is in me"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "my lips will utter no wickedness;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I will not agree that you are right."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I will insist on my innocence, never surrendering it; my conscience will never blame me for what I have done."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Let my enemy be like the wicked,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "For what hope has the godless when God cuts them off,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Will God hear their cries"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "will they delight in the Almighty,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I will teach you God&quot;s power,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Look, those of you who recognize this&ndash;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "This is the wicked&quot;s portion with God,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "If their children increase, they belong to the sword;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Their survivors will be buried with the dead;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "If they store up silver like dust,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "they may amass, but the righteous will wear it;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "They built their houses like nests,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They lie down rich, but no longer;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Terrors overtake them like waters;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "an east wind lifts them, and they are gone,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "throws itself on them without mercy;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "It claps its hands over them,"
+            }
+        ],
+        "28": [
+            {
+                "verse_number": "1",
+                "verse_text": "There is a sure source of silver, a place where gold is refined. rock is smelted into copper. dig for ore to the farthest depths, into stone in utter darkness, places forgotten by those on foot, apart from any human they hang and sway. there is gold dust in it. no bird of prey knows it; a hawk&quot;s eye hasn&quot;t seen it; a lion hasn&quot;t crossed over it. pull up mountains from their roots, their eyes see everything precious. hidden things come to light. where is the place of understanding? it isn&quot;t found in the land of the living. its price can&quot;t be measured in silver, with precious onyx or lapis lazuli. she can&quot;t be acquired with gold jewelry. the price of wisdom is more than rubies. she can&quot;t be set alongside pure gold. Where is the place of understanding? concealed from birds of the sky. &apos;We&quot;ve heard a report of her.&apos; he knows her place; and surveys everything beneath the heavens. to prepare a measure for waters, a path for thunderbolts, established it, searched it out, the fear of the LORD is wisdom; turning from evil is understanding.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Iron is taken from the earth;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Humans put an end to darkness,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "open a shaft away from any inhabitant,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Earth&ndash;from it comes food&ndash; is turned over below ground as by fire. the Sea says, &apos;Not alongside me!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Its rocks are the source for lapis lazuli;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "A path&ndash;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "proud beasts haven&quot;t trodden on it;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Humans thrust their hands into flint,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "cut channels into rocks;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They dam up the sources of rivers;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But wisdom, where can it be found;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Humankind doesn&quot;t know its value;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The Deep says, &apos;It&quot;s not with me&apos;;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "It can&quot;t be bought with gold;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "can&quot;t be weighed against gold from Ophir,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Neither gold nor glass can compare with it;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Coral and jasper shouldn&quot;t be mentioned;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Cushite topaz won&quot;t compare with her;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "But wisdom, where does she come from?"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "She&quot;s hidden from the eyes of all the living,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Destruction and Death have said,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "God understands her way;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "for he looks to the ends of the earth"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "In order to weigh the wind,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "when he made a decree for the rain,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "then he observed it, spoke of it,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "and said to humankind: &apos;Look,"
+            }
+        ],
+        "29": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job took up his subject again: like days when God watched over me; I walked by his light in the dark; when God&quot;s counsel was in my tent; my children around me; and a rock poured out pools of oil for me. took my seat in the square, the old rose and stood; put their hand on their mouth; their tongue stuck to their palate. the eye that looked commended me, the orphans who lacked help. I made the widow&quot;s heart sing; righteousness as my coat and turban; feet to the lame. the case I didn&quot;t know, I examined. rescued prey from their teeth. dew lingering on my branches, my bow ever successful in my hand. were silent for my advice. My words fell gently on them; opened their mouth as for spring rain. They never showed me disfavor. I lived like a king with his troops, like one who comforts mourners."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Oh, that life was like it used to be,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "when his lamp shone on my head,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "when I was in my prime;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "when the Almighty was with me,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "when my steps were washed with cream"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "When I went out to the city gate,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "the young saw me and drew back;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "princes restrained speech,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "the voices of officials were hushed,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Indeed, the ear that heard blessed me;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "because I rescued the weak who cried out,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The blessing of the perishing reached me;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I put on justice, and it clothed me,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I was eyes to the blind,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I was a father to the needy;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I shattered the fangs of the wicked,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I thought, I&quot;ll die in my nest, multiply days like sand,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "my roots opening to water,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "my honor newly with me,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "People listened to me and waited,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "After my speech, they didn&quot;t respond."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "they waited for me as for rain,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "I smiled on them; they couldn&quot;t believe it."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "I decided their path, sat as chief."
+            }
+        ],
+        "30": [
+            {
+                "verse_number": "1",
+                "verse_text": "But now those younger than I mock me, whose fathers I refused to put beside my sheepdogs. their energy having perished? those who gnaw dry ground, yesterday&quot;s desolate waste, the root of the broom&ndash; a shrub is their food. shout at them as if to a thief; holes in the ground and rocks. they are huddled together under a bush, whipped out of the land. I&quot;m their clich\u00c3\u00a9! don&quot;t withhold spit from my face. they throw off restraint in my presence. build their siege ramps against me, with no help. they roll along beneath the ruin. they sweep away my honor like wind; my safety disappears like a cloud. days of misery have seized me. my gnawing pain won&quot;t rest. it binds me like the neck of my shirt. I&quot;m a clich\u00c3\u00a9, like dust and ashes. I stand up, but you just look at me. attack me with the strength of your hand. you melt me in its roar. the house appointed for all the living. if in distress he cries out to him, or my soul grieve for the needy; I expected light, but gloom arrived. days of affliction confront me. I rise in the assembly and cry out. a companion to young ostriches. my bones are scorched by the heat. my flute, a weeping sound."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Their strength, what&quot;s it to me,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Stiff from want and hunger,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "who pluck off the leaves on a bush,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "People banish them from society,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "so they live in scary ravines,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Among shrubs, they make sounds like donkeys;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "children of fools and the nameless,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "And now I&quot;m their song;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "They detest me, keep their distance,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Because he loosened my bowstring and afflicted me,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "On the right, upstarts rise and target my feet,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "destroy my road, profit from my fall,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They advance as if through a destroyed wall;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Terrors crash upon me;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Now my life is poured out on me;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "At night he bores my bones;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "With great force he grasps my clothing;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "He hurls me into mud;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "I cry to you, and you don&quot;t answer;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "You are cruel to me,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "You lift me to the wind and make me ride;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "I know you will return me to death,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Surely he won&quot;t strike someone in ruins"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "if I didn&quot;t weep for those who have a difficult day"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "for I awaited good, but evil came;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "My insides, churning, are never quiet;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "I walk in the dark, lacking sunshine;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "I have become a brother to jackals,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "My skin is charred;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "My lyre is for mourning,"
+            }
+        ],
+        "31": [
+            {
+                "verse_number": "1",
+                "verse_text": "I&quot;ve made a covenant with my eyes; how could I look at a virgin? the Almighty&quot;s inheritance from on high? destruction for workers of iniquity? count all my steps? or my feet have hurried to deceit, let God know my integrity. if my heart has followed my eyes or a blemish has clung to my hands, let my offspring be uprooted. and I have lurked at my neighbor&quot;s door, and others kneel over her; it&quot;s a punishable offense; uprooting all my harvest. when they contended with me, when he requires an account, what could I answer? didn&quot;t the same one fashion us in the womb? made a widow&quot;s eyes tired, and not shared any with an orphan ( or if they weren&quot;t warmed by the wool from my sheep; when I saw that I had help in the city gate&ndash; my forearm be broken at the elbow&ndash; I couldn&quot;t endure his splendor. said to fine gold: &apos;My security!&apos; when my hand found plenty; the moon, splendid as it moved; and threw a kiss with my hand, because I would then be disloyal to God above. or was excited when evil found them, by asking for their life with a curse. &apos;Who has been filled by Job&quot;s food?&apos; I opened my doors to the road. concealing my offenses inside me the clan&quot;s contempt frightened me; I was quiet and didn&quot;t venture outside. let the Almighty respond, and let my accuser write an indictment. tie it around me like a wreath. approach him like a prince. its rows wept together; and caused its owners grief, poisonous weeds instead of barley. Job&quot;s words are complete."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "What is God&quot;s portion for me from above,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Isn&quot;t it disaster for the wicked,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Doesn&quot;t he see my ways,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If I have walked with frauds"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "let him weigh me on accurate scales;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "If my step has turned from the way,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "then let me sow and another reap;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "If my heart has been drawn to a woman"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "then may my wife grind for another"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "for that&quot;s a crime;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "indeed, it&quot;s a fire that consumes to the underworld,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "If I&quot;ve rejected the just cause of my male or female servant"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "what could I do when God rises;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Didn&quot;t the one who made me in the belly make them;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "If I have denied what the poor wanted,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "eaten my morsel alone,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "for from my youth I raised the orphan as a father, and from my mother&quot;s womb I led the widow); Here&quot;s my signature;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "if I ever saw someone dying without clothes, the needy naked;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "if they haven&quot;t blessed me fervently,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "if I have lifted my hand against the orphans,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "may my arm fall from my shoulder,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "for God&quot;s calamity is terror to me;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "If I&quot;ve made gold my trust,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "if I&quot;ve rejoiced because my wealth was great,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "if I&quot;ve looked at the sun when it shone,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "and my mind has been secretly enticed,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "that also is a punishable offense,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "If I have rejoiced over my foes&quot; ruin"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "I didn&quot;t let my mouth sin"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Surely those in my tent never said:"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "A stranger didn&quot;t spend the night in the street;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "If I have hidden my transgressions like Adam,"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "because I feared the large crowd;"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Oh, that I had someone to hear me!"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Surely I would bear it on my shoulder,"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "I would give him an account of my steps,"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "If my land has cried out against me,"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "if I have eaten its yield without payment"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "may briars grow instead of wheat,"
+            }
+        ],
+        "32": [
+            {
+                "verse_number": "1",
+                "verse_text": "These three men stopped answering Job because he thought he was righteous."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Elihu son of Barachel the Buzite from the clan of Ram was angry, angry with Job because he considered himself more righteous than God."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "He was also angry with his three friends because they hadn&quot;t found an answer but nevertheless thought Job wicked."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Elihu had waited while Job spoke, for they were older than he."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When Elihu saw that there had been no response in the speeches of the three men, he became very angry. I&quot;m young and you&quot;re old, so I held back, afraid to express my opinion to you. let multiple years make wisdom known. the Almighty&quot;s breath, gives understanding. the old don&quot;t understand what&quot;s right. I&quot;ll state my view, even I.&apos; listened while you reasoned, while you searched for words. but you offered no rebuke to Job, no answer from you for his words. God, not a person, will defeat him.&apos; and I won&quot;t quote you to him. words now escape them. for they stood but answered no more. I too will declare my view, The spirit in my belly compels me. like new wineskins it will burst. I will open my lips and respond. won&quot;t flatter a person; otherwise my maker would quickly whisk me away."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Elihu son of Barachel the Buzite said:"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I thought, Let days speak;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "But the spirit in a person,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The advanced in days aren&quot;t wise;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Therefore, I say: &apos;Listen to me;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Look, I waited while you spoke,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I was attentive to you,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Be careful you don&quot;t say, &apos;We&quot;ve found wisdom;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Now Job hasn&quot;t addressed me,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "They are troubled, no longer answer;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I waited, but they didn&quot;t speak,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I will answer. Indeed, I will state my piece;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "for I&quot;m full of words."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Look, my belly is like unopened wine;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "I will speak and get relief;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I won&quot;t be partial to anyone,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "for I don&quot;t know flattery;"
+            }
+        ],
+        "33": [
+            {
+                "verse_number": "1",
+                "verse_text": "But now, listen to me, Job; pay attention to all my words. my lips speak knowledge clearly. the Almighty&quot;s breath enlivens me. I also was pinched from clay. my pressure on you shouldn&quot;t be heavy. I heard the sound of your words: I&quot;m innocent, without offense. he considers me his enemy, watches all my paths.&apos; for God is greater than anybody. in two ways, but no one perceives it. when deep sleep falls upon humans, during their slumber on a bed, scares them with warnings, and to smother human pride. a life from perishing by the sword. while in bed, bones ever aching an appetite rejects a delicacy; the bones, once hidden, protrude. its very being draws near the death dealers. a mediator, one out of a thousand to declare one&quot;s integrity to another &apos;Rescue this one from going down to the pit; I have found a ransom.&apos; they regain their youth. they behold God&quot;s presence with a joyful shout. God rewards a person&quot;s righteousness. &apos;I have sinned, perverted justice, but didn&quot;t experience the consequences. my life beholds light.&apos; twice, three times with persons to shine with life&quot;s light. be quiet, and I will speak. speak, for I want to be innocent. be quiet, and I will teach you wisdom."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Notice that I am opening my mouth; my tongue is speaking in my mouth. lay out your case before me and take a stand. saying that he doesn&quot;t answer all your words?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "My words come from a virtuous heart;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "God&quot;s spirit made me;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "If you are able, answer me;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Notice that I&quot;m just like you to God;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Surely fear of me shouldn&quot;t scare you;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "You certainly said in my hearing;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;I&quot;m pure, without sin;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Notice that he invents arguments against me;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "ties up my feet,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now you&quot;re wrong about this; I&quot;ll answer you,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Why do you contend with him,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "God speaks in one way,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "In the dream, a vision of the night,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "then he opens people&quot;s ears,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "to turn them from a deed"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "He keeps one from the pit,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Or a person may be disciplined by pain"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "until a person loathes food,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "the flesh wastes away, no longer visible;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "A life approaches the pit;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Surely there&quot;s a messenger for this person,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "so that God has compassion on that person and says,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "That person&quot;s flesh is renewed like a child&quot;s;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "They pray to God, and God is pleased with them;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "They sing before people and say:"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "He ransomed me from crossing into the pit;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Look, God does all this,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "to bring them back from the pit,"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Listen, Job; hear me;"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "If you have words, answer me;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "If not, you must hear me;"
+            }
+        ],
+        "34": [
+            {
+                "verse_number": "1",
+                "verse_text": "Elihu continued: knowledgeable ones, listen to me, like the palate tastes food. let&quot;s determine among ourselves what&quot;s good; God has denied my just cause; my wound from an arrow is incurable, even though I didn&quot;t rebel.&apos; He drinks mockery like water walking with evil persons. for delighting in God.&apos; far be it from God to do evil and the Almighty to sin, paying back everyone according to their ways. the Almighty doesn&quot;t distort justice. and who gave him dominion over the entire world? to gather his spirit and breath back to himself&ndash; and humans would return to dust. pay attention to the sound of my words. will you condemn the most righteous one? to royalty, &apos;Evil!&apos; nor regards the rich over the poor, for they are all the work of God&quot;s hands? people are shaken and pass away. The mighty are removed, not by a human hand. and he sees all their steps. where evildoers can hide themselves; to appear before God in judgment. makes others take their place. overturns them at night, and they are crushed. at a place where people can see it. and didn&quot;t value all his ways, he hears the cry of the afflicted. if he hides his face, who can see him? from capturing people. &apos;I have borne punishment; I won&quot;t sin again? if I&quot;ve sinned, I won&quot;t do it again.&apos; for you must choose, not I; declare what you know. the wise who hear me, his words aren&quot;t astute.&apos; because he responds like evil people. mocks us openly and adds to his words against God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Hear my words, wise ones;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "for the ear tests words"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Let&quot;s choose for us what&quot;s right;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "for Job has said, &apos;I&quot;m innocent;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "because of my cause I&quot;m thought a liar;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Who is a man like Job?"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "and travels a path with wrongdoers,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Indeed he said, &apos;No one is rewarded"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Therefore, intelligent ones, hear me;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "for he repays people based on what they do,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Surely God doesn&quot;t act wickedly;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Who placed earth in his care,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "If he were to decide to do it&ndash;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "all flesh would die together,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But if you have understanding, hear this;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Will one who hates justice rule;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Will you say to a king, &apos;Worthless!&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Who shows no favor to princes"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "In the middle of the night they suddenly die;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "God&quot;s eyes are on human ways,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "There&quot;s no darkness, no deep darkness,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "surely no time is set for a person"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "He shatters the mighty without examining them;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Thus he regards their deeds,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "He strikes them because of their wickedness"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Because they turned from following him"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "causing the cry of the poor to reach him,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Still, if he remains quiet, who can condemn;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "He prevents a lawless person from ruling,"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Has Job said to God,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "You teach me what I can&quot;t see;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Will he repay you because you reject sin,"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Smart people say to me,"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "&apos;Job speaks without knowledge;"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "I wish Job would be tested to the limit"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "He adds rebellion to his sin;"
+            }
+        ],
+        "35": [
+            {
+                "verse_number": "1",
+                "verse_text": "Elihu continued: You say, &apos;I&quot;m more just than God.&apos; What have I gained by avoiding sin?&apos; and your friends along with you. scan the clouds high over you. Your offenses have multiplied; what have you done to him? what do you give to him? Or what does he receive from your hand? and your righteousness affects fellow human beings. shout under the power of the mighty. who gives songs in the night; makes us wiser than the birds in the sky?&apos; because of the pride of the wicked. the Almighty doesn&quot;t pay attention to it. the case is before him; so wait anxiously for him. he piles up ignorant words."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Do you think it right?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Yet you ask, &apos;What does it benefit you?"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I&quot;ll answer you,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Look at the heavens and see;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "If you&quot;ve sinned, how have you affected God?"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "If you are righteous,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Your evil affects others like you,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "People cry out because of heavy oppression;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But no one says, &apos;Where is God my maker;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "who teaches us more than the beasts of the earth,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then they cry out; but he doesn&quot;t answer,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "God certainly doesn&quot;t respond to a deceitful cry;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Although you say that you don&quot;t see him,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Even though his anger is now held back, a person doesn&quot;t know it&quot;s only delayed."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So Job mouths emptiness;"
+            }
+        ],
+        "36": [
+            {
+                "verse_number": "1",
+                "verse_text": "Continuing, Elihu said, that there is still something more to say about God. attribute justice to my maker. one with total knowledge is present with you. he is mighty in strength and mind. but grants justice to the poor. he seats kings on thrones forever, and they are lifted up. caught in cords of affliction, and their grave sins. and commands them to turn from wrong. they spend their days in plenty, their years contentedly. they perish by the sword, breathe their last without understanding. they don&quot;t cry out even though he binds them. they are among the holy ones. opens their ears through oppression. to a wide place without distress; your table is set with rich food. justice will be upheld in it. don&quot;t let a huge bribe mislead you. or from all your exertions of strength? when people vanish from their place. because you&quot;ve chosen it over affliction. who is a teacher like him? and who would ever say, &apos;You&quot;ve done wrong&apos;? that all of us have seen. people can observe at great distance. the number of his years is beyond counting. that distill rain from his flood; and drip continually on humans. and covers the seabed; and gives food in abundance. and orders it to its target. even cattle proclaim its rising."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Wait a little while so I can demonstrate for you"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I will draw from my broad knowledge,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "My words are certainly truthful;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Look, God is mighty and doesn&quot;t reject anyone;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He doesn&quot;t let the wicked live,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "He doesn&quot;t avert his eyes from the righteous;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "If they are tied with ropes,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "he informs them about their offenses"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He opens their ears with discipline"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "If they listen and serve,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "But if they don&quot;t listen,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Those with impious hearts become furious;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They die young;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He saves the weak in their affliction,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Surely he draws you up from the brink of trouble"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "You are overly concerned about the case of the wicked;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Don&quot;t let them lure you with wealth;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Will he arrange your rescue from distress"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Don&quot;t wish for the night"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Take care; don&quot;t turn to evil"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Look, God is inaccessible due to his power;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Who has repaid him for his action,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Remember to praise his work"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Every person has seen him;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Look, God is exalted and unknowable;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "He draws up drops of water"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "the clouds pour moisture"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Even if one perceives a spreading cloud and the thunder of his pavilion,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "look how he spreads lightning across it"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "for by water he judges peoples"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "He conceals lightning in his palms"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "His thunder announces it;"
+            }
+        ],
+        "37": [
+            {
+                "verse_number": "1",
+                "verse_text": "Oh, my mind is disturbed by this and is more troubled than usual. the roar issuing from his mouth. his lightning on earth&quot;s edges. he thunders with a mighty voice, and no one can stop it when his voice is heard. he does great things we can&quot;t know. and to the downpour of rain, &apos;Be a mighty shower.&apos; lies down in its den. the cold from the north wind. water&quot;s expanse becomes solid. his lightning scatters clouds. doing everything he commands over the entire earth. or for kindness, God makes it all happen. stop and ponder God&quot;s mighty deeds. his clouds produce lightning? the amazing deeds of one with perfect knowledge, when earth is calmed by the south wind? hard like a mirror made of metal? we can&quot;t present our case due to darkness. or would anyone say he wants to be devoured? it is bright in the sky; the wind has passed and cleared away the clouds. the awesome splendor of God. he is powerful and just, abundantly righteous&ndash; he won&quot;t respond."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Listen closely to the rumble of his voice,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "He looses it under the whole sky,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "After it, a voice roars;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "God roars with his wondrous voice;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He says to the snow, &apos;Fall to earth,&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "He stamps the hand of every person so all can know his work. by his guidance they do their work, none of the wise can see him."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The wild beast enters its lair,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The storm comes from its chamber,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "By God&quot;s breath ice forms;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "He also fills clouds with moisture;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "He overturns the circling clouds;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Whether for punishment, for his world,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Hear this, Job;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Do you realize that when God commands them,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Do you understand the positioning of the clouds,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "you whose clothes are hot"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Can you form the sky with him,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Tell us what we should say to him;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Should someone inform him that I wish to speak,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "For now, no one can look at the sun;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "From the north comes golden light,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "As for the Almighty, we can&quot;t find him&ndash;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Therefore, people fear him;"
+            }
+        ],
+        "38": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then the LORD answered Job from the whirlwind: with words lacking knowledge? I will interrogate you, and you will respond to me. Tell me if you know. Who stretched a measuring tape on it? who laid its cornerstone, and all the divine beings shouted? when it burst forth from the womb, the dense clouds its wrap, put on a bar and doors here your proud waves stop&apos;? informed the dawn of its place and shake the wicked out of it? so it stands out like a colorful garment? the uplifted arm broken. walked in the chamber of the deep? can you see the gates of deep darkness? Tell me if you know everything about it. darkness, where&quot;s it located? do you know the paths to its house? seen the storehouses of hail for a day of battle and war? the east wind scattered over earth? and a way for blasts of thunder a desert with no human and make grass sprout? who brought forth drops of dew? who gave birth to heaven&quot;s frost? the surface of the deep thickens. or loosen the reins of Orion? at their proper times, lead the Bear with her cubs? or can you impose its rule on earth? so their abundant waters cover you? and then says to you, &apos;I&quot;m here&apos;? and who can tilt heaven&quot;s water containers and clods of dirt adhere? or fill the cravings of lion cubs? lie in ambush in their lair. when its young cry to God, move about without food?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Who is this darkening counsel"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Prepare yourself like a man;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Where were you when I laid the earth&quot;s foundations?"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Who set its measurements? Surely you know."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "On what were its footings sunk;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "while the morning stars sang in unison"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Who enclosed the Sea behind doors"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "when I made the clouds its garment,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "when I imposed my limit for it,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "and said, &apos;You may come this far, no farther;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "In your lifetime have you commanded the morning,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "so it would take hold of earth by its edges"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Do you turn it over like clay for a seal,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Light is withheld from the wicked,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Have you gone to the sea&quot;s sources,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Have death&quot;s gates been revealed to you;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Have you surveyed earth&quot;s expanses?"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Where&quot;s the road to the place where light dwells;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Can you take it to its territory;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "You know, for you were born then; you have lived such a long time! or who gave understanding to a rooster?"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Have you gone to snow&quot;s storehouses,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "that I have reserved for a time of distress,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "What is the way to the place where light is divided up;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Who cut a channel for the downpours"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "to bring water to uninhabited land,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "to saturate dry wasteland"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Has the rain a father"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "From whose belly does ice come;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Water hardens like stone;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Can you bind Pleiades&quot; chains"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Can you guide the stars"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Do you know heaven&quot;s laws,"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Can you issue an order to the clouds"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Can you send lightning so that it goes"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Who put wisdom in remote places,"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "Who is wise enough to count the clouds,"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "so that dust becomes mud"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "Can you hunt prey for the lion"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "They lie in their den,"
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "Who provides food for the raven"
+            }
+        ],
+        "39": [
+            {
+                "verse_number": "1",
+                "verse_text": "Do you know when mountain goats give birth; do you observe the birthing of does? do you know when they give birth? send forth their offspring. leave and never return. loosed the ropes of the onager his dwelling place in the salt flats? doesn&quot;t hear the driver&quot;s shout, and seeks any green sprout. or will it spend the night in your crib? will it plow the valley behind you? so that you can leave your work to it? to gather into your threshing floor? but her wings and plumage are like a stork. lets them warm in the dust, or a wild animal trample them. without worrying that her labor might be in vain; didn&quot;t give her some good sense. she laughs at horse and rider. clothe his neck with a mane, his majestic snorting, a fright? charges at battle weapons, He doesn&quot;t turn away from the sword; flashing spear and dagger. can&quot;t stand still at a trumpet&quot;s blast. smells the battle from afar, spreading its wings to the south? the vulture build a nest on high? their fortress on rock&quot;s edge. their eyes notice it from afar, where carcasses lie, there they are."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Can you count the months of pregnancy;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "They crouch, split open for their young,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Their young are healthy; they grow up in the open country,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Who freed the wild donkey,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "to whom I gave the desert as home,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "He laughs at the clamor of the town,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "searches the hills for food"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Will the wild ox agree to be your slave,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Can you bind it with a rope to a plowed row;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Will you trust it because its strength is great"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Can you rely on it to bring back your grain"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The ostrich&quot;s wings flap joyously,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "She leaves her eggs on the earth,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "then forgets that a foot may crush them"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "She treats her young harshly as if they were not hers,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "God didn&quot;t endow her with sense,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When she flaps her wings high,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Did you give strength to the horse,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "cause him to leap like a locust,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He paws in the valley, prances proudly,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "laughs at fear, unafraid."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "a quiver of arrows flies by him,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Excitedly, trembling, he swallows the ground;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "At a trumpet&quot;s sound, he says, &apos;Aha!&apos; hears officers&quot; shouting and the battle cry."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Is it due to your understanding that the hawk flies,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Or at your command does the eagle soar,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "They dwell on an outcropping of rock,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "From there they search for food;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "and their young lap up blood;"
+            }
+        ],
+        "40": [
+            {
+                "verse_number": "1",
+                "verse_text": "The LORD continued to respond to Job: God&quot;s instructor must answer him. I&quot;ll put my hand over my mouth. twice, I won&quot;t do it again. I will interrogate you, and you will respond to me. deem me guilty so you can be innocent? can you thunder with a voice like him? clothe yourself with honor and esteem. look on all the proud and humble them. trample the wicked in their place. bind their faces in a hidden place. for your strong hand has delivered you. he eats grass like cattle. his power in stomach muscles. the tendons in his thighs are tightly woven. his limbs like iron bars. only his maker can come near him with a sword. places where all the wild animals play. under the cover of reed and marsh. poplars of the stream surround him. he is confident even though the Jordan gushes into his mouth. Can anyone pierce his nose by hooks?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Will the one who disputes with the Almighty correct him?"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Job responded to the LORD :"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Look, I&quot;m of little worth. What can I answer you?"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I have spoken once, I won&quot;t answer;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The LORD answered Job from the whirlwind:"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Prepare yourself like a man;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Would you question my justice,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Or do you have an arm like God;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Adorn yourself with splendor and majesty;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Unleash your raging anger;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Look on all the proud and debase them;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Hide them together in the dust;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then I, even I, will praise you,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Look at Behemoth, whom I made along with you;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Look, his strength is in his thighs,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He stiffens his tail like a cedar;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "His bones are like bronze tubes,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "He is the first of God&quot;s acts;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Indeed, the hills bring him tribute,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He lies under the lotuses,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The lotuses screen him with shade;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "If the river surges, he doesn&quot;t hurry;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Can he be seized by his eyes?"
+            }
+        ],
+        "41": [
+            {
+                "verse_number": "1",
+                "verse_text": "Can you draw out Leviathan with a hook, restrain his tongue with a rope? pierce his jaw with a barb? or speak gentle words to you? so that you will take him as a permanent slave? put a leash on him for your girls? will they divide him among traders? his head with a fishing spear? you would never remember the battle. surely the sight of him makes one stumble. who then can stand before me? Everything under heaven is mine. his strength, and impressive form. who can come with a bridle for him? surrounded by frightening teeth? closely locked and sealed. even air can&quot;t come between them. joined, they can&quot;t be separated. his eyes are like dawn&quot;s rays. like fiery sparks they fly out. like a boiling pot over reeds. a flame shoots from his mouth. violence dances before him. on him they are tough and unyielding. hard like a lower millstone. they withdraw before his thrashing. neither will the dart, spear, nor javelin. bronze as rotten wood. slingstones he turns to straw. he laughs at the lance&quot;s rattle. its sharp edges leave a trail in the mud. stirs up the sea like a pot of scented oils, the frothy deep seems white-haired. he is made to be without fear. he is king over all proud beasts."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Can you put a cord through his nose,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Will he beg you at length"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Will he make a pact with you"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Can you play with him like a bird,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Will merchants sell him;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Can you fill his hide with darts,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Should you lay your hand on him,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Such hopes would be delusional;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Nobody is fierce enough to rouse him;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Who opposes me that I must repay?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I&quot;m not awed by his limbs,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Who can remove his outer garment;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Who can open the doors of his mouth,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "His matching scales are his pride,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "One touches another;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Each clings to its pair;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "His sneezes emit flashes of light;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Shafts of fire shoot from his mouth;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Smoke pours from his nostrils"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "His breath lights coals;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Power resides in his neck;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The folds of his flesh stick together;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "His heart is solid like a rock,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "The divine beings dread his rising;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "The sword that touches him won&quot;t prevail;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "He treats iron as straw,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Arrows can&quot;t make him flee;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "He treats a club like straw;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "His abdomen is like jagged pottery shards;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "He causes the depths to churn like a boiling pot,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "leaves a bright wake behind him;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "None on earth can compare to him;"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "He looks on all the proud;"
+            }
+        ],
+        "42": [
+            {
+                "verse_number": "1",
+                "verse_text": "Job answered the LORD : no plan of yours can be opposed successfully. I have indeed spoken about things I didn&quot;t understand, wonders beyond my comprehension. I will question you and you will inform me.&apos; but now my eyes have seen you. on dust and ashes."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I know you can do anything;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "You said, &apos;Who is this darkening counsel without knowledge?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "You said, &apos;Listen and I will speak;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "My ears had heard about you,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Therefore, I relent and find comfort"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "After the LORD had spoken these words to Job, he said to Eliphaz from Teman, &apos;I&quot;m angry at you and your two friends because you haven&quot;t spoken about me correctly as did my servant Job."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So now, take seven bulls and seven rams, go to my servant Job, and prepare an entirely burned offering for yourselves. Job my servant will pray for you, and I will act favorably by not making fools of you because you didn&quot;t speak correctly, as did my servant Job.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Eliphaz from Teman, Bildad from Shuah, and Zophar from Naamah did what the LORD told them; and the LORD acted favorably toward Job."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then the LORD changed Job&quot;s fortune when he prayed for his friends, and the LORD doubled all Job&quot;s earlier possessions."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "All his brothers, sisters, and acquaintances came to him and ate food with him in his house. They comforted and consoled him concerning all the disaster the LORD had brought on him, and each one gave him a qesitah and a gold ring."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then the LORD blessed Job&quot;s latter days more than his former ones. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "He also had seven sons and three daughters."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He named one Jemimah, a second Keziah, and the third Keren-happuch."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "No women in all the land were as beautiful as Job&quot;s daughters; and their father gave an inheritance to them along with their brothers."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "After this, Job lived 140 years and saw four generations of his children."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Then Job died, old and satisfied."
+            }
+        ]
     }
 }

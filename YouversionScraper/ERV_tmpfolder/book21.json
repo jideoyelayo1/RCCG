@@ -1,12 +1,620 @@
 {
     "Ecclesiastes": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "These are the words from the Teacher, a son of David and king of Jerusalem."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Everything is so meaningless. The Teacher says that it is all a waste of time!"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Do people really gain anything from all the hard work they do in this life ?"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "People live and people die, but the earth continues forever."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The sun rises and the sun goes down, and then it hurries to rise again in the same place."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The wind blows to the south, and the wind blows to the north. The wind blows around and around. Then it turns and blows back to the place it began."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "All rivers flow again and again to the same place. They all flow to the sea, but the sea never becomes full."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Words cannot fully explain things, but people continue speaking. Words come again and again to our ears, but our ears don&quot;t become full. And our eyes don&quot;t become full of what we see."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "All things continue the way they have been since the beginning. The same things will be done that have always been done. There is nothing new in this life."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Someone might say, &apos;Look, this is new,&apos; but that thing has always been here. It was here before we were."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "People don&quot;t remember what happened long ago. In the future, they will not remember what is happening now. And later, other people will not remember what the people before them did."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I, the Teacher, was king over Israel in Jerusalem."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I decided to study and to use my wisdom to learn about everything that is done in this life. I learned that it is a very hard thing that God has given us to do."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I looked at everything done on earth, and I saw that it is all a waste of time. It is like trying to catch the wind."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If something is crooked, you cannot say it is straight. And if something is missing, you cannot say it is there."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I said to myself, &apos;I am very wise. I am wiser than all the kings who ruled Jerusalem before me. I know what wisdom and knowledge really are.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I decided to learn how wisdom and knowledge are better than thinking foolish thoughts. But I learned that trying to become wise is like trying to catch the wind."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "With much wisdom comes frustration. The one who gains more wisdom also gains more sorrow."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "I said to myself, &apos;I should have fun&ndash;I should enjoy everything as much as I can.&apos; But I learned that this is also useless."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "It is foolish to laugh all the time. Having fun does not do any good. I also saw that fools and wise people both end the same way."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So I decided to fill my body with wine while I filled my mind with wisdom. I tried this foolishness because I wanted to find a way to be happy. I wanted to see what was good for people to do during their few days of life."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then I began doing great things. I built houses, and I planted vineyards for myself."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I planted gardens, and I made parks. I planted all kinds of fruit trees."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I made pools of water for myself, and I used them to water my growing trees."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I bought men and women slaves, and there were slaves born in my house. I owned many great things. I had herds of cattle and flocks of sheep. I owned more things than any other person in Jerusalem did."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I also gathered silver and gold for myself. I took treasures from kings and their nations. I had men and women singing for me. I had everything any man could want."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I became very rich and famous. I was greater than anyone who lived in Jerusalem before me. My wisdom was always there to help me."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Anything my eyes saw and wanted, I got for myself. My mind was pleased with everything I did. And this happiness was the reward for all my hard work."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "But then I looked at everything I had done and the wealth I had gained. I decided it was all a waste of time! It was like trying to catch the wind. There is nothing to gain from anything we do in this life."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then I decided to think about what it means to be wise or to be foolish or to do crazy things. And I thought about the one who will be the next king. The new king will do the same as the kings before him."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I saw that wisdom is better than foolishness in the same way that light is better than darkness."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Wise people use their minds like eyes to see where they are going. But for fools, it is as if they are walking in the dark."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "I thought to myself, &apos;The same thing that happens to a fool will also happen to me. So why have I tried so hard to become wise?&apos; I said to myself, &apos;Being wise is also useless.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Whether people are wise or foolish, they will still die, and no one will remember either one of them forever. In the future, people will forget everything both of them did. So the two are really the same."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "This made me hate life. It was depressing to think that everything in this life is useless, like trying to catch the wind."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I began to hate all the hard work I had done, because I saw that the people who live after me would get the things that I worked for. I will not be able to take them with me."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Some other person will control everything I worked and studied for. And I don&quot;t know if that person will be wise or foolish. This is also senseless."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "So I became sad about all the work I had done."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "People can work hard using all their wisdom and knowledge and skill. But they will die and other people will get the things they worked for. They did not do the work, but they will get everything. That makes me very sad. It is also not fair and is senseless."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "What do people really have after all their work and struggling in this life?"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Throughout their life, they have pain, frustrations, and hard work. Even at night, a person&quot;s mind does not rest. This is also senseless."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "If people do good and please God, he will give them wisdom, knowledge, and joy. But those who sin will get only the work of gathering and carrying things. God takes from the bad person and gives to the good person. But all this work is useless. It is like trying to catch the wind."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "There is a right time for everything, and everything on earth will happen at the right time. and a time to die. There is a time to plant and a time to pull up plants. and a time to heal. There is a time to destroy and a time to build. and a time to laugh. There is a time to be sad and a time to dance with joy. There is a time to hug someone and a time to stop holding so tightly. and a time to consider it lost. There is a time to keep things and a time to throw things away. and a time to sew it. There is a time to be silent and a time to speak. and a time to hate. There is a time for war and a time for peace."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "There is a time to be born"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "There is a time to kill"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "There is a time to cry"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "There is a time to throw weapons down and a time to pick them up."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "There is a time to look for something"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "There is a time to tear cloth"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "There is a time to love"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Do people really gain anything from their hard work?"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I saw all the hard work God gave us to do."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "God gave us the ability to think about his world, but we can never completely understand everything he does. And yet, he does everything at just the right time."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I learned that the best thing for people to do is to be happy and enjoy themselves as long as they live."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "God wants everyone to eat, drink, and enjoy their work. These are gifts from God."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "I learned that anything God does will continue forever. People cannot add anything to the work of God, and they cannot take anything away from it. God did this so that people would respect him."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "What happened in the past has happened, and what will happen in the future will happen. But God wants to help those who have been treated badly."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I also saw these things in this life : I saw that the courts should be filled with goodness and fairness, but there is evil there now."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So I said to myself, &apos;God has planned a time for everything, and he has planned a time to judge everything people do. He will judge good people and bad people.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I thought about what people do to each other. And I said to myself, &apos;God wants people to see that they are like animals."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The same thing happens to animals and to people&ndash;they die. People and animals have the same &quot;breath.&quot; Is a dead animal different from a dead person? It is all so senseless!"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The bodies of people and animals end the same way. They came from the earth, and, in the end, they will go back to the earth."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Who knows what happens to a person&quot;s spirit? Who knows if a human&quot;s spirit goes up to God while an animal&quot;s spirit goes down into the ground?&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "So I saw that the best thing people can do is to enjoy what they do, because that is all they have. Besides, no one can help another person see what will happen in the future."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "Again I saw that many people are treated badly. I saw their tears, and I saw that there was no one to comfort them. I saw that cruel people had all the power, and I saw that there was no one to comfort the people they hurt."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I decided that it is better for those who have died than for those who are still alive."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And it is even better for those who die at birth, because they never saw the evil that is done in this world."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then I thought, &apos;Why do people work so hard?&apos; I saw people try to succeed and be better than other people. They do this because they are jealous. They don&quot;t want other people to have more than they have. This is senseless. It is like trying to catch the wind."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Some people say, &apos;It is foolish to fold your hands and do nothing. If you don&quot;t work, you will starve to death.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Maybe that is true. But I say it is better to be satisfied with the few things you have than to always be struggling to get more."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Again I saw something else that didn&quot;t make sense:"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I saw a man who has no family, not a son or even a brother. But he continues to work very hard. He is never satisfied with what he has. And he works so hard that he never stops and asks himself, &apos;Why am I working so hard? Why don&quot;t I let myself enjoy my life?&apos; This is also a very bad and senseless thing."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Two people are better than one. When two people work together, they get more work done."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "If one person falls, the other person can reach out to help. But those who are alone when they fall have no one to help them."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "If two people sleep together, they will be warm. But a person sleeping alone will not be warm."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "An enemy might be able to defeat one person, but two people can stand back-to-back to defend each other. And three people are even stronger. They are like a rope that has three parts wrapped together&ndash;it is very hard to break."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "A young leader who is poor but wise is better than a king who is old but foolish. That old king does not listen to warnings."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Maybe the young ruler was born a poor man in the kingdom. And maybe he came from prison to rule the country."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "But I have watched people in this life, and I know this: People will follow that young man. He will become the new king."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Many people will follow this young man. But later, those same people will not like him. This is also senseless. It is like trying to catch the wind."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Be very careful when you go to worship God. It is better to listen to God than to give sacrifices like fools. Fools often do bad things, and they don&quot;t even know it."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Be careful when you make promises to God. Be careful about what you say to him. Don&quot;t let your feelings cause you to speak too soon. God is in heaven, and you are on the earth. So you need to say only a few things to him. This saying is true: and too many words come from the mouth of a fool."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Bad dreams come from too many worries,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "If you make a promise to God, keep your promise. Don&quot;t be slow to do what you promised. God is not happy with fools. Give God what you promised to give him."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "It is better to promise nothing than to promise something and not be able to do it."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So don&quot;t let your words cause you to sin. Don&quot;t say to the priest, &apos;I didn&quot;t mean what I said.&apos; If you do this, God might become angry with your words and destroy everything you have worked for."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "You should not let your useless dreams and bragging bring you trouble. You should respect God."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "In some country you will see poor people who are forced to work very hard. You will see that this is not fair to them. It is against their rights. But don&quot;t be surprised! The ruler who forces them to work has another ruler who forces him. And there is still another ruler who forces both of these rulers."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Even the king is a slave&ndash;his country owns him."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Those who love money will never be satisfied with the money they have. Those who love wealth will not be satisfied when they get more and more. This is also senseless."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The more wealth people have, the more &apos;friends&apos; they have to help spend it. So the rich really gain nothing. They can only look at their wealth."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Those who work hard all day come home and sleep in peace. It is not important if they have little or much to eat. But the rich worry about their wealth and are not able to sleep."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "There is a very sad thing that I have seen happen in this life. People save their money for the future."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then something bad happens and they lose everything. So they have nothing to give to their children."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "People come into the world with nothing. And when they die, they leave with nothing. They might work hard to get things, but they cannot take anything with them when they die."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "It is very sad that people leave the world just as they came. So what does a person gain from &apos;trying to catch the wind&apos;?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "They only get days that are filled with sadness and sorrow. In the end, they are troubled, sick, and angry."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "I have seen what is best for people to do on earth: They should eat, drink, and enjoy the work they have during their short time here. God has given them these few days, and that is all they have."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "If God gives some people wealth, property, and the power to enjoy those things, they should enjoy them. They should accept the things they have and enjoy their work&ndash;that is a gift from God."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "People don&quot;t have many years to live, so they must remember these things all their life. God will keep them busy with the work they love to do."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "I have seen another thing in this life that is not fair and is very hard to understand."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "God gives some people great wealth, riches, and honor. They have everything they need and everything they could ever want. But then God does not let them enjoy those things. Some stranger comes and takes everything. This is a very bad and senseless thing."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "A man might live a long time and have 100 children. But if he is not satisfied with those good things, and if no one remembers him after his death, I say that a baby who dies at birth is better off than that man."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "It is senseless when a baby is born dead. The baby is quickly buried in a dark grave, without even a name."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The baby never saw the sun and never knew anything. But the baby finds more rest than the man who never enjoyed what God gave him."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He might live 2000 years. But if he does not enjoy life, then the baby who was born dead has found the easiest way to the same end."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "People work and work to feed themselves, but they are never satisfied."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "In the same way a wise person is no better than a fool is. It is better to be a poor person who knows how to accept life as it is."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "It is better to be happy with what you have than to always want more and more. Always wanting more and more is useless. It is like trying to catch the wind."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Who knows what is best for people during their short life on earth? Their life passes like a shadow. No one can tell them what will happen later."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "A good reputation is better than expensive pleasures. The day someone dies is better than the day they were born. because everyone must die, and the living need to remember this. because when our face is sad, our heart becomes good. but a fool thinks only about having a good time. than praised by the foolish. It is like thorns burning under a pot. The thorns burn so quickly if someone pays them enough. That money destroys their understanding. than to start it. It is better to be gentle and patient than to be proud and impatient. because anger is foolish. What happened?&apos; Wisdom does not lead us to ask that question. I did learn that it is foolish to be evil, and it is crazy to act like a fool."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "It is better to go to a funeral than to a party,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Sorrow is even better than laughter,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "A wise person thinks about death,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "It is better to be criticized by the wise"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The laughter of fools is such a waste. that the pot does not get hot."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Even the wise will forget their wisdom,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "It is better to finish something"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Don&quot;t become angry quickly,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Don&quot;t say, &apos;Life was better in the &quot;good old days.&quot;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Wisdom is better if you also have property. Wise people will get more than enough wealth."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Wisdom and money can protect you. But knowledge gained through wisdom is even better&ndash;it can save your life."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Look at what God has made. You cannot change a thing, even if you think it is wrong."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "When life is good, enjoy it. But when life is hard, remember that God gives us good times and hard times. And no one knows what will happen in the future."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "In my short life, I have seen everything. I have seen good people die young, and I have seen evil people live long lives."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Try to be a little of this and a little of that. Even God&quot;s followers will do some good things and some bad things."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Don&quot;t listen to everything people say. You might hear your own servant saying bad things about you."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And you know that many times you too have said bad things about other people."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "I used my wisdom and thought about all these things. I wanted to be wise, but I couldn&quot;t do it."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "I cannot understand why things are as they are. It is too hard for anyone to understand."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "I studied and I tried very hard to find true wisdom. I tried to find a reason for everything."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "I also found that some women are dangerous like traps. Their hearts are like nets, and their arms are like chains. It is worse than death to be caught by these women. God&quot;s followers should run away from them. Let the sinners be caught by them."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "&apos;There is one other thing I have learned. God made people good, but they have found many ways to be bad.&apos;"
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "No one can understand and explain things the way wise people can. Their wisdom makes them happy. It changes a sad face into a happy one."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "I say you should always obey the king&quot;s command. Do this because you made a promise to God."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Don&quot;t be afraid to give suggestions to the king, and don&quot;t support something that is wrong. But remember, the king gives the commands that please him."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He has the authority to give commands, and no one can tell him what to do."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "People will be safe if they obey his command. But wise people know the right time to do this, and they also know when to do the right thing."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "There is a right time and a right way to do everything. You must decide what you should do, even when it might cause problems"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "and you are not sure what will happen. No one can tell you what will happen in the future."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "No one has the power to keep their spirit from leaving or to stop their death. During war, no soldier has the freedom to go wherever he wants. In the same way evil does not allow anyone who does wrong to go free."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I saw all this. I thought very hard about the things that happen in this world. I saw that people always struggle for the power to rule others, and this is bad for them."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I also saw great and beautiful funerals for evil people. While the people were going home after the funeral services, they said good things about the evil people who had died. This happened even in the same towns where the evil people had done many bad things. This is senseless."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Sometimes people are not immediately punished for the bad things they do. Their punishment is slow to come, and that makes other people want to do bad things too."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "A sinner might do a hundred evil things and still live a long time. But I know that it is still better to obey and respect God."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Evil people don&quot;t respect God, so they will not get good things or live long lives. Their lives will not be like the shadows that become longer and longer as the sun goes down."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "There is something else that happens on earth that does not seem fair. Bad things should happen to bad people, and good things should happen to good people. But sometimes bad things happen to good people, and good things happen to bad people. This is not fair."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So I decided it was more important to enjoy life because the best thing people can do in this life is to eat, drink, and enjoy life. At least that will help people enjoy the hard work God gave them to do during their life on earth."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "I carefully studied the things people do in this life. I saw how busy people are. They work day and night, and they almost never sleep."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "I also saw that no one can understand all that God does. People can try and try to understand the things that happen here on earth, but they cannot. There may be wise people who claim to understand the meaning of these things, but they are wrong. No one can understand it all."
+            }
+        ]
     }
 }

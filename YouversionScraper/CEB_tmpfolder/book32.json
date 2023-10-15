@@ -1,8 +1,204 @@
 {
     "Jonah": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "The LORD &quot;s word came to Jonah, Amittai&quot;s son:"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;Get up and go to Nineveh, that great city, and cry out against it, for their evil has come to my attention.&apos; Now Jonah had gone down into the hold of the vessel to lie down and was deep in sleep."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So Jonah got up&ndash;to flee to Tarshish from the LORD ! He went down to Joppa and found a ship headed for Tarshish. He paid the fare and went aboard to go with them to Tarshish, away from the LORD ."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But the LORD hurled a great wind upon the sea, so that there was a great storm on the sea; the ship looked like it might be broken to pieces."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The sailors were terrified, and each one cried out to his god. They hurled the cargo that was in the ship into the sea to make it lighter."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The ship&quot;s officer came and said to him, &apos;How can you possibly be sleeping so deeply? Get up! Call on your god! Perhaps the god will give some thought to us so that we won&quot;t perish.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Meanwhile, the sailors said to each other, &apos;Come on, let&quot;s cast lots so that we might learn who is to blame for this evil that&quot;s happening to us.&apos; They cast lots, and the lot fell on Jonah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So they said to him, &apos;Tell us, since you&quot;re the cause of this evil happening to us: What do you do and where are you from? What&quot;s your country and of what people are you?&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "He said to them, &apos;I&quot;m a Hebrew. I worship the LORD , the God of heaven&ndash;who made the sea and the dry land.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then the men were terrified and said to him, &apos;What have you done?&apos; (The men knew that Jonah was fleeing from the LORD , because he had told them.)"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They said to him, &apos;What will we do about you so that the sea will become calm around us?&apos; (The sea was continuing to rage.)"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "He said to them, &apos;Pick me up and hurl me into the sea! Then the sea will become calm around you. I know it&quot;s my fault that this great storm has come upon you.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The men rowed to reach dry land, but they couldn&quot;t manage it because the sea continued to rage against them."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So they called on the LORD , saying, &apos;Please, LORD , don&quot;t let us perish on account of this man&quot;s life, and don&quot;t blame us for innocent blood! You are the LORD : whatever you want, you can do.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then they picked up Jonah and hurled him into the sea, and the sea ceased its raging."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The men worshipped the LORD with a profound reverence; they offered a sacrifice to the LORD and made solemn promises."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Meanwhile, the LORD provided a great fish to swallow Jonah. Jonah was in the belly of the fish for three days and three nights."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "Jonah prayed to the LORD his God from the belly of the fish: you have heard my voice. and the flood surrounds me. All your strong waves and rushing water passed over me. Will I ever again look on your holy temple? the deep surrounds me. Seaweed is wrapped around my head I have sunk down to the underworld; its bars held me with no end in sight. But you brought me out of the pit.&quot; I remembered the LORD , and my prayer came to you, to your holy temple. That which I have promised, I will pay. Deliverance belongs to the LORD !&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;I called out to the LORD in my distress, and he answered me. From the belly of the underworld I cried out for help;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "You had cast me into the depths in the heart of the seas,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "So I said, &quot;I have been driven away from your sight."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Waters have grasped me to the point of death;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "at the base of the undersea mountains."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "When my endurance was weakening,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Those deceived by worthless things lose their chance for mercy."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "But me, I will offer a sacrifice to you with a voice of thanks."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then the LORD spoke to the fish, and it vomited Jonah onto the dry land."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "The LORD &quot;s word came to Jonah a second time:"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;Get up and go to Nineveh, that great city, and declare against it the proclamation that I am commanding you.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And Jonah got up and went to Nineveh, according to the LORD &quot;s word. (Now Nineveh was indeed an enormous city, a three days&quot; walk across.)"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Jonah started into the city, walking one day, and he cried out, &apos;Just forty days more and Nineveh will be overthrown!&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "And the people of Nineveh believed God. They proclaimed a fast and put on mourning clothes, from the greatest of them to the least significant."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When word of it reached the king of Nineveh, he got up from his throne, stripped himself of his robe, covered himself with mourning clothes, and sat in ashes."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then he announced, &apos;In Nineveh, by decree of the king and his officials: Neither human nor animal, cattle nor flock, will taste anything! No grazing and no drinking water!"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Let humans and animals alike put on mourning clothes, and let them call upon God forcefully! And let all persons stop their evil behavior and the violence that&quot;s under their control!&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "He thought, Who knows? God may see this and turn from his wrath, so that we might not perish."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "God saw what they were doing&ndash;that they had ceased their evil behavior. So God stopped planning to destroy them, and he didn&quot;t do it."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "But Jonah thought this was utterly wrong, and he became angry."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He prayed to the LORD , &apos;Come on, LORD ! Wasn&quot;t this precisely my point when I was back in my own land? This is why I fled to Tarshish earlier! I know that you are a merciful and compassionate God, very patient, full of faithful love, and willing not to destroy."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "At this point, LORD , you may as well take my life from me, because it would be better for me to die than to live.&apos; Jonah said, &apos;Yes, my anger is good&ndash;even to the point of death!&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The LORD responded, &apos;Is your anger a good thing?&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But Jonah went out from the city and sat down east of the city. There he made himself a hut and sat under it, in the shade, to see what would happen to the city."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then the LORD God provided a shrub, and it grew up over Jonah, providing shade for his head and saving him from his misery. Jonah was very happy about the shrub."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "But God provided a worm the next day at dawn, and it attacked the shrub so that it died."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then as the sun rose God provided a dry east wind, and the sun beat down on Jonah&quot;s head so that he became faint. He begged that he might die, saying, &apos;It&quot;s better for me to die than to live.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "God said to Jonah, &apos;Is your anger about the shrub a good thing?&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But the LORD said, &apos;You &quot;pitied&quot; the shrub, for which you didn&quot;t work and which you didn&quot;t raise; it grew in a night and perished in a night."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Yet for my part, can&quot;t I pity Nineveh, that great city, in which there are more than one hundred twenty thousand people who can&quot;t tell their right hand from their left, and also many animals?&apos;"
+            }
+        ]
     }
 }

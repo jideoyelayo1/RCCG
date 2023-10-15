@@ -1,8 +1,352 @@
 {
     "Ruth": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "During the days when the judges ruled, there was a famine in the land. A man with his wife and two sons went from Bethlehem of Judah to dwell in the territory of Moab."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The name of that man was Elimelech, the name of his wife was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah. They entered the territory of Moab and settled there."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But Elimelech, Naomi&quot;s husband, died. Then only she was left, along with her two sons."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They took wives for themselves, Moabite women; the name of the first was Orpah and the name of the second was Ruth. And they lived there for about ten years."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "But both of the sons, Mahlon and Chilion, also died. Only the woman was left, without her two children and without her husband."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then she arose along with her daughters-in-law to return from the field of Moab, because while in the territory of Moab she had heard that the LORD had paid attention to his people by providing food for them."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "She left the place where she had been, and her two daughters-in-law went with her. They went along the road to return to the land of Judah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Naomi said to her daughters-in-law, &apos;Go, turn back, each of you to the household of your mother. May the LORD deal faithfully with you, just as you have done with the dead and with me."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "May the LORD provide for you so that you may find security, each woman in the household of her husband.&apos; Then she kissed them, and they lifted up their voices and wept."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But they replied to her, &apos;No, instead we will return with you, to your people.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Naomi replied, &apos;Turn back, my daughters. Why would you go with me? Will there again be sons in my womb, that they would be husbands for you?"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Turn back, my daughters. Go. I am too old for a husband. If I were to say that I have hope, even if I had a husband tonight, and even more, if I were to bear sons&ndash;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "would you wait until they grew up? Would you refrain from having a husband? No, my daughters. This is more bitter for me than for you, since the LORD &quot;s will has come out against me.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then they lifted up their voices and wept again. Orpah kissed her mother-in-law, but Ruth stayed with her."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Naomi said, &apos;Look, your sister-in-law is returning to her people and to her gods. Turn back after your sister-in-law.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But Ruth replied, &apos;Don&quot;t urge me to abandon you, to turn back from following after you. Wherever you go, I will go; and wherever you stay, I will stay. Your people will be my people, and your God will be my God."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Wherever you die, I will die, and there I will be buried. May the LORD do this to me and more so if even death separates me from you.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When Naomi saw that Ruth was determined to go with her, she stopped speaking to her about it."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So both of them went along until they arrived at Bethlehem. When they arrived at Bethlehem, the whole town was excited on account of them, and the women of the town asked, &apos;Can this be Naomi?&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "She replied to them, &apos;Don&quot;t call me Naomi, but call me Mara, for the Almighty has made me very bitter."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I went away full, but the LORD has returned me empty. Why would you call me Naomi, when the LORD has testified against me, and the Almighty has deemed me guilty?&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Thus Naomi returned. And Ruth the Moabite, her daughter-in-law, returned with her from the territory of Moab. They arrived in Bethlehem at the beginning of the barley harvest."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "Now Naomi had a respected relative, a man of worth, through her husband from the family of Elimelech. His name was Boaz."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Ruth the Moabite said to Naomi, &apos;Let me go to the field so that I may glean among the ears of grain behind someone in whose eyes I might find favor.&apos; Naomi replied to her, &apos;Go, my daughter.&apos; And they said to him, &apos;May the LORD bless you.&apos; Boaz ordered his young men, &apos;Let her glean between the bundles, and don&quot;t humiliate her. She told her mother-in-law with whom she had worked and said, &apos;The name of the man with whom I worked today is Boaz.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So she went; she arrived and she gleaned in the field behind the harvesters. By chance, it happened to be the portion of the field that belonged to Boaz, who was from the family of Elimelech."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Just then Boaz arrived from Bethlehem. He said to the harvesters, &apos;May the LORD be with you.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Boaz said to his young man, the one who was overseeing the harvesters, &apos;To whom does this young woman belong?&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The young man who was overseeing the harvesters answered, &apos;She&quot;s a young Moabite woman, the one who returned with Naomi from the territory of Moab."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "She said, &quot;Please let me glean so that I might gather up grain from among the bundles behind the harvesters.&quot; She arrived and has been on her feet from the morning until now, and has sat down for only a moment.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Boaz said to Ruth, &apos;Haven&quot;t you understood, my daughter? Don&quot;t go glean in another field; don&quot;t go anywhere else. Instead, stay here with my young women."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Keep your eyes on the field that they are harvesting and go along after them. I&quot;ve ordered the young men not to assault you. Whenever you are thirsty, go to the jugs and drink from what the young men have filled.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then she bowed down, face to the ground, and replied to him, &apos;How is it that I&quot;ve found favor in your eyes, that you notice me? I&quot;m an immigrant.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Boaz responded to her, &apos;Everything that you did for your mother-in-law after your husband&quot;s death has been reported fully to me: how you left behind your father, your mother, and the land of your birth, and came to a people you hadn&quot;t known beforehand."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "May the LORD reward you for your deed. May you receive a rich reward from the LORD , the God of Israel, under whose wings you&quot;ve come to seek refuge.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "She said, &apos;May I continue to find favor in your eyes, sir, because you&quot;ve comforted me and because you&quot;ve spoken kindly to your female servant&ndash;even though I&quot;m not one of your female servants.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "At mealtime Boaz said to her, &apos;Come over here, eat some of the bread, and dip your piece in the vinegar.&apos; She sat alongside the harvesters, and he served roasted grain to her. She ate, was satisfied, and had leftovers."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then she got up to glean."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Also, pull out some from the bales for her and leave them behind for her to glean. And don&quot;t scold her.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So she gleaned in the field until evening. Then she threshed what she had gleaned; it was about an ephah of barley."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "She picked it up and went into town. Her mother-in-law saw what she had gleaned. She brought out what she had left over after eating her fill and gave it to her."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Her mother-in-law said to her, &apos;Where did you glean today? Where did you work? May the one who noticed you be blessed.&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Naomi replied to her daughter-in-law, &apos;May he be blessed by the LORD , who hasn&quot;t abandoned his faithfulness with the living or with the dead.&apos; Naomi said to her, &apos;The man is one of our close relatives; he&quot;s one of our redeemers.&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Ruth the Moabite replied, &apos;Furthermore, he said to me, &quot;Stay with my workers until they&quot;ve finished all of my harvest.&quot;&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Naomi said to Ruth her daughter-in-law, &apos;It&quot;s good, my daughter, that you go out with his young women, so that men don&quot;t assault you in another field.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Thus she stayed with Boaz&quot;s young women, gleaning until the completion of the barley and wheat harvests. And she lived with her mother-in-law."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Naomi her mother-in-law said to her, &apos;My daughter, shouldn&quot;t I seek security for you, so that things might go well for you?"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Now isn&quot;t Boaz, whose young women you were with, our relative? Tonight he will be winnowing barley at the threshing floor."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "You should bathe, put on some perfume, wear nice clothes, and then go down to the threshing floor. Don&quot;t make yourself known to the man until he has finished eating and drinking."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When he lies down, notice the place where he is lying. Then go, uncover his feet, and lie down. And he will tell you what to do.&apos; So Ruth told her everything the man had done for her."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Ruth replied to her, &apos;I&quot;ll do everything you are telling me.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So she went down to the threshing floor, and she did everything just as her mother-in-law had ordered."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Boaz ate and drank, and he was in a good mood. He went over to lie down by the edge of the grain pile. Then she quietly approached, uncovered his legs, and lay down."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "During the middle of the night, the man shuddered and turned over&ndash;and there was a woman lying at his feet."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Who are you?&apos; he asked. She replied, &apos;I&quot;m Ruth your servant. Spread out your robe over your servant, because you are a redeemer.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "He said, &apos;May you be blessed by the LORD , my daughter! You have acted even more faithfully than you did at first. You haven&quot;t gone after rich or poor young men."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And now, my daughter, don&quot;t be afraid. I&quot;ll do for you everything you are asking. Indeed, my people&ndash;all who are at the gate&ndash;know that you are a woman of worth."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now, although it&quot;s certainly true that I&quot;m a redeemer, there&quot;s a redeemer who is a closer relative than I am."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Stay the night. And in the morning, if he&quot;ll redeem you&ndash;good, let him redeem. But if he doesn&quot;t want to redeem you, then&ndash;as the LORD lives&ndash;I myself will redeem you. Lie down until the morning.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So she lay at his feet until morning. Then she got up before one person could recognize another, for he had said, &apos;No one should know that the woman came to the threshing floor.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He said, &apos;Bring the cloak that you have on and hold it out.&apos; She held it out, and he measured out six measures of barley and placed it upon her. Then she went into town."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "She came to her mother-in-law, who said, &apos;How are you, my daughter?&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "She said, &apos;He gave me these six measures of barley, for he said to me, &quot;Don&quot;t go away empty-handed to your mother-in-law.&quot;&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "&apos;Sit tight, my daughter,&apos; Naomi replied, &apos;until you know how it turns out. The man won&quot;t rest until he resolves the matter today.&apos;"
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "Meanwhile, Boaz went up to the gate and sat down there. Just then, the redeemer about whom Boaz had spoken was passing by. He said, &apos;Sir, come over here and sit down.&apos; So he turned aside and sat down."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Then he took ten men from the town&quot;s elders and said, &apos;Sit down here.&apos; And they sat down. He replied, &apos;I will redeem it.&apos; He was intimate with her, the LORD let her become pregnant, and she gave birth to a son."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Boaz said to the redeemer, &apos;Naomi, who has returned from the field of Moab, is selling the portion of the field that belonged to our brother Elimelech."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I thought that I should let you know and say, &quot;Buy it, in the presence of those sitting here and in the presence of the elders of my people.&quot; If you will redeem it, redeem it; but if you won&quot;t redeem it, tell me so that I may know. There isn&quot;t anyone to redeem it except you, and I&quot;m next in line after you.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then Boaz said, &apos;On the day when you buy the field from Naomi, you also buy Ruth the Moabite, the wife of the dead man, in order to preserve the dead man&quot;s name for his inheritance.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But the redeemer replied, &apos;Then I can&quot;t redeem it for myself, without risking damage to my own inheritance. Redeem it for yourself. You can have my right of redemption, because I&quot;m unable to act as redeemer.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "In Israel, in former times, this was the practice regarding redemption and exchange to confirm any such matter: a man would take off his sandal and give it to the other person. This was the process of making a transaction binding in Israel."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then the redeemer said to Boaz, &apos;Buy it for yourself,&apos; and he took off his sandal."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Boaz announced to the elders and all the people, &apos;Today you are witnesses that I&quot;ve bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and Mahlon."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And also Ruth the Moabite, the wife of Mahlon, I&quot;ve bought to be my wife, to preserve the dead man&quot;s name for his inheritance so that the name of the dead man might not be cut off from his brothers or from the gate of his hometown&ndash;today you are witnesses.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Then all the people who were at the gate and the elders said, &apos;We are witnesses. May the LORD grant that the woman who is coming into your household be like Rachel and like Leah, both of whom built up the house of Israel. May you be fertile in Ephrathah and may you preserve a name in Bethlehem."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And may your household be like the household of Perez, whom Tamar bore to Judah&ndash;through the children that the LORD will give you from this young woman.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "So Boaz took Ruth, and she became his wife."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The women said to Naomi, &apos;May the LORD be blessed, who today hasn&quot;t left you without a redeemer. May his name be proclaimed in Israel."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He will restore your life and sustain you in your old age. Your daughter-in-law who loves you has given birth to him. She&quot;s better for you than seven sons.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Naomi took the child and held him to her breast, and she became his guardian."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The neighborhood women gave him a name, saying, &apos;A son has been born to Naomi.&apos; They called his name Obed. He became Jesse&quot;s father and David&quot;s grandfather."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "These are the generations of Perez: Perez became the father of Hezron,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Hezron the father of Ram, Ram the father of Amminadab,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Amminadab the father of Nahshon, Nahshon the father of Salmon,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Salmon the father of Boaz, Boaz the father of Obed,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Obed the father of Jesse, and Jesse the father of David."
+            }
+        ]
     }
 }
