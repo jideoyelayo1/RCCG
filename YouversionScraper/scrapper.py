@@ -9,6 +9,9 @@ import xml.etree.ElementTree as ET
 import time
 import xml.dom.minidom
 
+## fast run
+import threading
+
 letterSet = set()
 
 def convert_text_to_json(book_name, chapter, text, json_data):
@@ -58,6 +61,25 @@ def webScrapToJSON(book_name, chapterLength, book_code, bookNumber, version):
         code = 68
     if version == "NET":
         code = 107
+    if version == "ICB":
+        code = 1359
+    if version == "CEB":
+        code = 37
+    if version == "EASY":
+        code = 2079
+    if version == "ERV":
+        code = 406
+    if version == "GNBUK":
+        code = 296
+    if version == "MSG":
+        code = 97
+    if version == "CEV":
+        code = 392
+    if version == "CEVUK":
+        code = 294
+    if version == "ESV":
+        code = 59
+    
 
     for chapter in range(1, chapterLength + 1):
         webpage = f"https://www.bible.com/bible/{code}/{book_code}.{chapter}.{version}"
@@ -354,9 +376,32 @@ def run(version):
 
     print(f"Program took: {elapsed_time} seconds( {elapsed_time//60} mins for {version})")
 
-if __name__ == "__main__":
-    version = str(input("What version do you want? "))
+
+def run_version(version):
     run(version)
+
+def run_all():
+    #versions_to_run = ["AMP", "AMPC", "ASV", "CEB", "ERV", "GNBDC", "GNT", "NET", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
+    versions_to_run = ["CEB", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
+
+    threads = []
+    # Create and start a thread for each version
+    for version in versions_to_run:
+        thread = threading.Thread(target=run_version, args=(version,))
+        print(f"{version} has been added to the threads")
+        thread.start()
+        threads.append(thread)
+
+    # Wait for all threads to finish
+    for thread in threads:
+        thread.join()
+
+    print("All threads have finished.")
+
+if __name__ == "__main__":
+    run_all()
+    #version = str(input("What version do you want? "))
+    #run(version)
     #print(letterSet)
     #run("AMP")
     #run("AMPC")
@@ -367,3 +412,4 @@ if __name__ == "__main__":
     #run("GNT")
     #run("NET")
     #run("TPT")
+    pass
