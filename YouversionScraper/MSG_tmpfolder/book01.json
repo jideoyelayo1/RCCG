@@ -415,7 +415,7 @@
             },
             {
                 "verse_number": "14",
-                "verse_text": "Lot went out and warned the fiancés of his daughters, &apos;Evacuate this place; God is about to destroy this city!&apos; But his daughters&quot; would-be husbands treated it as a joke."
+                "verse_text": "Lot went out and warned the fianc\u00c3\u00a9s of his daughters, &apos;Evacuate this place; God is about to destroy this city!&apos; But his daughters&quot; would-be husbands treated it as a joke."
             },
             {
                 "verse_number": "15",
@@ -1178,7 +1178,40 @@
                 "verse_text": "Then Joseph picked out his brother Benjamin, his own mother&quot;s son. He asked, &apos;And is this your youngest brother that you told me about?&apos; Then he said, &apos;God be gracious to you, my son.&apos;"
             }
         ],
-        "44": [],
+        "44": [
+            {
+                "verse_number": "6",
+                "verse_text": "He caught up with them and repeated all this word for word."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The steward said, &apos;Very well then, but we won&quot;t go that far. Whoever is found with the chalice will be my slave; the rest of you can go free.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They ripped their clothes in despair, loaded up their donkeys, and went back to the city."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Joseph was still at home when Judah and his brothers got back. They threw themselves down on the ground in front of him."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Joseph accused them: &apos;How can you have done this? You have to know that a man in my position would have discovered this.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Judah as spokesman for the brothers said, &apos;What can we say, master? What is there to say? How can we prove our innocence? God is behind this, exposing how bad we are. We stand guilty before you and ready to be your slaves&ndash;we&quot;re all in this together, the rest of us as guilty as the one with the chalice.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "&apos;I&quot;d never do that to you,&apos; said Joseph. &apos;Only the one involved with the chalice will be my slave. The rest of you are free to go back to your father.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "&apos;And then you said, &quot;If your youngest brother doesn&quot;t come with you, you won&quot;t be allowed to see me.&quot;"
+            }
+        ],
         "45": [
             {
                 "verse_number": "3",

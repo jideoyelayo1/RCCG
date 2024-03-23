@@ -45,7 +45,7 @@
             },
             {
                 "verse_number": "2",
-                "verse_text": "Their leaders were Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the list of the clans of Israel, with the number of those from each clan who returned from exile: Shephatiah &ndash; 372 Arah &ndash; 775 Pahath Moab (descendants of Jeshua and Joab) &ndash; 2,812 Elam &ndash; 1,254 Zattu &ndash; 945 Zaccai &ndash; 760 Bani &ndash; 642 Bebai &ndash; 623 Azgad &ndash; 1,222 Adonikam &ndash; 666 Bigvai &ndash; 2,056 Adin &ndash; 454 Ater (also called Hezekiah) &ndash; 98 Bezai &ndash; 323 Jorah &ndash; 112 Hashum &ndash; 223 Gibbar &ndash; 95 Bethlehem &ndash; 123 Netophah &ndash; 56 Anathoth &ndash; 128 Azmaveth &ndash; 42 Kiriath Jearim, Chephirah, and Beeroth &ndash; 743 Ramah and Geba &ndash; 621 Michmash &ndash; 122 Bethel and Ai &ndash; 223 Nebo &ndash; 52 Magbish &ndash; 156 The other Elam &ndash; 1,254 Harim &ndash; 320 Lod, Hadid, and Ono &ndash; 725 Jericho &ndash; 345 Senaah &ndash; 3,630 Jedaiah (descendants of Jeshua) &ndash; 973 Immer &ndash; 1,052 Pashhur &ndash; 1,247 Harim &ndash; 1,017 Jeshua and Kadmiel (descendants of Hodaviah) &ndash; 74 Temple musicians (descendants of Asaph) &ndash; 128 Temple guards (descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai) &ndash; 139 Ziha, Hasupha, Tabbaoth, Keros, Siaha, Padon, Lebanah, Hagabah, Akkub, Hagab, Shamlai, Hanan, Giddel, Gahar, Reaiah, Rezin, Nekoda, Gazzam, Uzza, Paseah, Besai, Asnah, Meunim, Nephisim, Bakbuk, Hakupha, Harhur, Bazluth, Mehida, Harsha, Barkos, Sisera, Temah, Neziah, and Hatipha Sotai, Hassophereth, Peruda, Jaalah, Darkon, Giddel, Shephatiah, Hattil, Pochereth Hazzebaim, and Ami Their male and female servants &ndash; 7,337 Male and female musicians &ndash; 200 Horses &ndash; 736 Mules &ndash; 245 Camels &ndash; 435 Donkeys &ndash; 6,720"
+                "verse_text": "Their leaders were Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the list of the clans of Israel, with the number of those from each clan who returned from exile: Shephatiah &ndash; 372 Arah &ndash; 775 Pahath Moab (descendants of Jeshua and Joab) &ndash; 2,812 Elam &ndash; 1,254 Zattu &ndash; 945 Zaccai &ndash; 760 Bani &ndash; 642 Bebai &ndash; 623 Azgad &ndash; 1,222 Adonikam &ndash; 666 Bigvai &ndash; 2,056 Adin &ndash; 454 Ater (also called Hezekiah) &ndash; 98 Bezai &ndash; 323 Jorah &ndash; 112 Hashum &ndash; 223 Gibbar &ndash; 95 Bethlehem &ndash; 123 Netophah &ndash; 56 Anathoth &ndash; 128 Azmaveth &ndash; 42 Kiriath Jearim, Chephirah, and Beeroth &ndash; 743 Ramah and Geba &ndash; 621 Michmash &ndash; 122 Bethel and Ai &ndash; 223 Nebo &ndash; 52 Magbish &ndash; 156 The other Elam &ndash; 1,254 Harim &ndash; 320 Lod, Hadid, and Ono &ndash; 725 Jericho &ndash; 345 Senaah &ndash; 3,630 Jedaiah (descendants of Jeshua) &ndash; 973 Immer &ndash; 1,052 Pashhur &ndash; 1,247 Harim &ndash; 1,017 Jeshua and Kadmiel (descendants of Hodaviah) &ndash; 74 Temple musicians (descendants of Asaph) &ndash; 128 Temple guards (descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai) &ndash; 139 Ziha, Hasupha, Tabbaoth, Keros, Siaha, Padon, Lebanah, Hagabah, Akkub, Hagab, Shamlai, Hanan, Giddel, Gahar, Reaiah, Rezin, Nekoda, Gazzam, Uzza, Paseah, Besai, Asnah, Meunim, Nephisim, Bakbuk, Hakupha, Harhur, Bazluth, Mehida, Harsha, Barkos, Sisera, Temah, Neziah, and Hatipha. Sotai, Hassophereth, Peruda, Jaalah, Darkon, Giddel, Shephatiah, Hattil, Pochereth Hazzebaim, and Ami. Their male and female servants &ndash; 7,337 Male and female musicians &ndash; 200 Horses &ndash; 736 Mules &ndash; 245 Camels &ndash; 435 Donkeys &ndash; 6,720"
             },
             {
                 "verse_number": "58",
@@ -481,7 +481,7 @@
         "8": [
             {
                 "verse_number": "1",
-                "verse_text": "This is the list of the heads of the clans who had been in exile in Babylonia and who returned with Ezra to Jerusalem when Artaxerxes was emperor: Daniel, of the clan of Ithamar Hattush son of Shecaniah, of the clan of David Zechariah, of the clan of Parosh, with 150 men of his clan (there were records of their ancestry) Eliehoenai son of Zerahiah, of the clan of Pahath Moab, with 200 men Ebed son of Jonathan, of the clan of Adin, with fifty men Jeshaiah son of Athaliah, of the clan of Elam, with seventy men Zebadiah son of Michael, of the clan of Shephatiah, with eighty men Obadiah son of Jehiel, of the clan of Joab, with 218 men Zechariah son of Bebai, of the clan of Bebai, with 28 men Johanan son of Hakkatan, of the clan of Azgad, with 110 men Eliphelet, Jeuel, and Shemaiah, of the clan of Adonikam, with sixty men (they returned at a later date) Uthai and Zaccur, of the clan of Bigvai, with seventy men silver &ndash; 22 tonnes 100 silver utensils &ndash; seventy kilogrammes gold &ndash; 3.4 tonnes twenty gold bowls &ndash; 8.4 kilogrammes two fine bronze bowls, equal in value to gold bowls"
+                "verse_text": "This is the list of the heads of the clans who had been in exile in Babylonia and who returned with Ezra to Jerusalem when Artaxerxes was emperor: Daniel, of the clan of Ithamar Hattush son of Shecaniah, of the clan of David Zechariah, of the clan of Parosh, with 150 men of his clan (there were records of their ancestry) Eliehoenai son of Zerahiah, of the clan of Pahath Moab, with 200 men Ebed son of Jonathan, of the clan of Adin, with fifty men Jeshaiah son of Athaliah, of the clan of Elam, with seventy men Zebadiah son of Michael, of the clan of Shephatiah, with eighty men Obadiah son of Jehiel, of the clan of Joab, with 218 men Zechariah son of Bebai, of the clan of Bebai, with 28 men Johanan son of Hakkatan, of the clan of Azgad, with 110 men Eliphelet, Jeuel, and Shemaiah, of the clan of Adonikam, with sixty men (they returned at a later date) Uthai and Zaccur, of the clan of Bigvai, with seventy men. silver &ndash; 22 tonnes 100 silver utensils &ndash; seventy kilogrammes gold &ndash; 3.4 tonnes twenty gold bowls &ndash; 8.4 kilogrammes two fine bronze bowls, equal in value to gold bowls."
             },
             {
                 "verse_number": "15",
@@ -641,7 +641,7 @@
             },
             {
                 "verse_number": "4",
-                "verse_text": "It is your responsibility to act. We are behind you, so go ahead and get it done.&apos; Clan of Joshua and his brothers, sons of Jehozadak: Maaseiah, Eliezer, Jarib, and Gedaliah. Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer Eliashib Shallum, Telem, and Uri Clan of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah"
+                "verse_text": "It is your responsibility to act. We are behind you, so go ahead and get it done.&apos; Clan of Joshua and his brothers, sons of Jehozadak: Maaseiah, Eliezer, Jarib, and Gedaliah. Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer. Eliashib. Shallum, Telem, and Uri. Clan of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah"
             },
             {
                 "verse_number": "5",
@@ -713,7 +713,7 @@
             },
             {
                 "verse_number": "22",
-                "verse_text": "Clan of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah"
+                "verse_text": "Clan of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah."
             },
             {
                 "verse_number": "26",
@@ -741,7 +741,7 @@
             },
             {
                 "verse_number": "43",
-                "verse_text": "Clan of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah"
+                "verse_text": "Clan of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah."
             },
             {
                 "verse_number": "44",

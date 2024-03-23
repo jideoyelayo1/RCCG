@@ -1,28 +1,2224 @@
 {
     "Joshua": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": [],
-        "14": [],
-        "15": [],
-        "16": [],
-        "17": [],
-        "18": [],
-        "19": [],
-        "20": [],
-        "21": [],
-        "22": [],
-        "23": [],
-        "24": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "And after Moses, Yahweh &quot;s servant, died, Yahweh spoke to Joshua son of Nun, Moses&quot; faithful assistant, and said,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;My servant Moses is dead. Now get up! Prepare to cross the Jordan River, you and all the people. Lead them into the land that I am giving to the Israelites."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Every part of the land where you march I will give you, as I promised Moses."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Your borders will extend from the southern desert to the northern mountains of Lebanon, and from the great river Euphrates in the east , to the Mediterranean in the west&ndash;including all the land of the Hittites."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Joshua, no one will be able to defeat you for the rest of your life! I will be with you as I was with Moses, and I will never fail nor abandon you."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "You must be strong and brave. You will lead the people to acquire and apportion the land that I promised their ancestors I would give them."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "You must remain very strong and courageous! Be faithful to obey all the teaching that my servant Moses commanded you to follow. Do not deviate from him to the right or to the left, so that you will have overwhelming success in everything you undertake."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Recite this scroll of the law constantly. Contemplate it day and night and be careful to follow every word it contains; then you will enjoy incredible prosperity and success."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I repeat, be strong and brave! Do not yield to fear nor be discouraged, for I am Yahweh your God, and I will be with you wherever you go!&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Joshua ordered the leaders of the people:"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;Go through the camp and instruct the people, &quot;Pack your bags; for within three days you will cross the Jordan to conquer and occupy the land that Yahweh your God is giving you to possess.&quot; &apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then Joshua addressed the Reubenites, the Gadites, and the half-tribe of Manasseh:"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "until they take possession of the land that Yahweh your God is giving them as their homeland. Afterward, you will be free to return to your own land and possess the land that Moses, Yahweh &quot;s servant, gave you here on the east side of the Jordan.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "They answered Joshua: &apos;We will do everything you have told us and will go wherever you send us."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "We always obeyed Moses, and we will always obey you. May Yahweh your God stand beside you as he stood with Moses."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "And anyone who questions your authority or disobeys whatever you command shall be put to death. So, Joshua, be strong and brave!&apos;"
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Joshua son of Nun secretly sent out two spies from their camp at Acacia. He told them, &apos;Go and explore the land of Canaan, especially Jericho.&apos; They went and arrived at Jericho and entered the house of Rahab the prostitute and lodged there."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The king of Jericho was told: &apos;Some Israelites have come into the city tonight to spy out the entire land. They&quot;re in Rahab&quot;s house .&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So the king sent messengers to Rahab, who said to her: &apos;Turn over the men who entered your house. They&quot;re here to spy out our land.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "But Rahab had already hidden the two men. &apos;Yes,&apos; she said. &apos;The men came to me, but I had no idea where they were from."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "They left at sundown, just before the city gates were closed at night. Who knows where they went. Quick! Go after them, and maybe you can catch them!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "(Rahab had hidden the men on her rooftop under stalks of flax she had spread out to dry on the roof.)"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So the men of Jericho went out to search for the spies, and the city gates were shut behind them. They searched for them as far as where the path crosses the Jordan."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Before the spies had gone to sleep, Rahab went up to the rooftop"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "and said to them, &apos;I know that Yahweh has given you this land. Everyone is absolutely terrified, and we are all paralyzed with fear because of you."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "We&quot;ve heard of the miracles that accompany you and how Yahweh dried up the waters of the Red Sea for you when you left Egypt. We&quot;ve heard how you utterly annihilated the two Amorite kings, Sihon and Og, and their kingdoms who were on the other side of the Jordan."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "As soon as we heard it, our hearts melted with fear, and we were left with no courage among us because of you. Yahweh , your God, is the true God who rules in heaven above and on earth below."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Please, solemnly swear to me by the name of Yahweh that you will show kindness to my family because I have shown kindness to you. Give me a sure sign"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "that you will spare the lives of my father and mother, my brothers and sisters, and all their families. Don&quot;t let us be killed!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The men answered, &apos;If you don&quot;t disclose our mission to anyone, we&quot;ll pledge our lives for yours. Then, when Yahweh gives us this land, we&quot;ll honor our promise and treat you kindly.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Rahab&quot;s house was built into the city wall, so she let them down from the window by a rope."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "She told them, &apos;Head for the hill country and hide. The men chasing you won&quot;t find you there. Hide for three days until they have returned, then you&quot;ll be safe to go your way.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "But the men warned her, &apos; You must do what we say, or we will not be bound to the oath you made us swear."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When our invasion begins, bring all your family together in your house&ndash;your father and mother, your brothers and sisters, and all their families. And tie this crimson rope in the same window through which you let us down."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Remember, if anyone ventures outside your house, his death will be his own fault, not ours! But if anyone inside your house is harmed, then we will be held responsible."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And if you disclose our mission, we will be released from the oath you made us swear.&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Rahab replied in agreement, &apos;Let it be as you say.&apos; And she sent them away, and after they departed, she tied the crimson rope in her window."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The spies went straight to the hill country and hid there for three days, until the pursuers turned back. The king&quot;s men had scoured the countryside without finding them."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Then the two men came down from the hills and crossed back over the Jordan to their camp . They reported to Joshua son of Nun all that had happened to them:"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "&apos; Yahweh has certainly handed over the entire land into our hands! All the people of the land melt in fear before us!&apos;"
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Joshua was up bright and early the next morning. They broke camp, and Joshua led the Israelites from Acacia to the eastern bank of the Jordan. There they set up camp and waited until they crossed over."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "After three days, the leaders of the people went throughout the camp"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "giving orders to the people, &apos;Watch for the priests of the tribe of Levi to lift the ark of the covenant of Yahweh your God. When it starts moving, follow it"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "so you&quot;ll know which way to go, since you&quot;ve never marched this way before. Follow about a half mile behind the ark; don&quot;t go near it.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Joshua instructed the people, &apos;Get yourselves ready! Set yourselves apart for Yahweh ! Tomorrow, Yahweh will perform for us great miracles!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Joshua told the priests, &apos;Raise up the ark of the covenant and step out ahead of the people.&apos; So they lifted the ark onto their shoulders and marched in front of the people."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Yahweh said to Joshua, &apos;This very day I will begin to exalt you in the sight of all Israel so that they will realize that I am with you in the same way I was with Moses."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "You are to command the priests who carry the ark of the covenant with these words: &quot;Carry the ark to the edge of the Jordan and wade into the water.&quot; &apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Joshua told the Israelites, &apos;Come closer and listen to the words of Yahweh your God."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "This is how you will know for sure that the Living God is among you. As you advance into the land , he will drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Look! The ark of the covenant of the Lord of all the earth will go before you and prepare a way for you through the Jordan."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now select twelve men from among the people, one man from each tribe."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;The moment the feet of the priests carrying the ark of Yahweh , the Lord of all the earth, touch the water of the Jordan, a great miracle will happen ! The water flowing downstream toward you will stop and pile up as if behind a dam.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "the water coming downstream toward them stopped flowing and piled up in a solid wall as far upstream as Adam, a place near Zarethan. Yahweh completely cut off the flow of the river so that it drained downstream toward the Desert Sea (the Dead Sea). So the people crossed over opposite Jericho."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Now the priests stood firmly on dry ground in the riverbed with the ark on their shoulders . The entire nation passed by the ark as they completed their miracle -crossing on dry ground."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "When the entire nation had finished their miracle-crossing of the Jordan, Yahweh said to Joshua,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;Choose twelve men, one from each of the twelve tribes of Israel."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Instruct each of them to take a stone from the riverbed, twelve stones from the very place where the priests stand with the ark . Have them carry the stones over to the place where you camp tonight.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "So Joshua summoned the twelve men he had selected from the Israelites, one per tribe."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Joshua instructed them, &apos;Walk out to the middle of the riverbed to the ark of Yahweh your God. Each of you choose a stone and lift it up onto your shoulder&ndash;one stone for each tribe."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The stones will always be a sign to you. Someday, when your children ask you, &quot;Why are these stones so important?&quot;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "tell them, &quot;The Jordan stopped flowing in front of the ark of the covenant of Yahweh &ndash;the floodwaters were completely cut off.&quot; These stones will serve as a memorial for Israel forever.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The Israelites did as Joshua commanded them. They took twelve stones according to the number of the tribes of Israel, from the middle of the riverbed, and carried them to the camp and put them there."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Joshua set up the memorial stones that they had taken from the exact spot where the priests stood bearing the ark in the riverbed. They remain there to this day."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "While the priests remained standing in the middle of the Jordan with the ark on their shoulders , the people hurried across. All the instructions Yahweh had given to Joshua were carried out &ndash;just as Moses had told Joshua."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "And when Israel had finished crossing, the ark of Yahweh and the priests crossed as the people looked on."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The Reubenites, the Gadites, and half the tribe of Manasseh went across, armed and ready for battle, in front of the Israelites, as Moses had commanded them."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "In all, about forty thousand men were equipped for battle. And they all marched before Yahweh to wage war on the plains of Jericho."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "On that day, Yahweh exalted Joshua before all the people. As they had stood in awe of Moses, so they stood in awe of Joshua for the rest of his life."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Yahweh said to Joshua,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "&apos;Command the priests carrying the ark of the covenant to come up from the Jordan.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So Joshua did as he was commanded,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "and the priests carrying the ark of the covenant of Yahweh came up from the riverbed. And the moment their feet touched the western bank of the Jordan, the floodwaters surged back in place where they were before and returned to flood stage."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The people experienced the miracle-crossing of the Jordan on the tenth day of the first month of the Jewish calendar . They established their base camp at Gilgal, east of Jericho,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "where Joshua set up a memorial with the twelve stones taken from the Jordan."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "He told the Israelites, &apos;In time to come, when children ask their fathers, &quot;Why are these stones so important?&quot;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "tell them, &quot;Here is the place where the Israelites crossed the Jordan on dry ground!&quot;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "For your God, Yahweh , dried up the waters of the Jordan before your eyes until you crossed over, just as Yahweh your God did for us years ago ; he dried up the Red Sea while we crossed over!"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "He has done these miracles so that all the earth will be in awe of the mighty power of Yahweh and that you might always obey Yahweh your God!&apos;"
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "All the Amorite kings west of the Jordan and all the Canaanite kings along the coast of the Mediterranean Sea became terrified of the Israelites. For when they heard how Yahweh miraculously dried up the Jordan so that the Israelites could cross over, all their courage melted away."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "At that time, Yahweh commanded Joshua, &apos;Make knives of flint and circumcise the men of Israel again.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So Joshua made stone knives and circumcised all the men at a place they named Circumcision Hill."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So he raised up their sons in their place, and Joshua circumcised them because they had not been circumcised on the way."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "After the circumcision was completed, the whole nation waited in the camp until their wounds had healed."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then Yahweh said to Joshua, &apos;Today, I have rolled away your disgrace from being slaves in Egypt.&apos; For that reason, the place is named Gilgal to this day."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "While encamped at Gilgal, not far from Jericho, the Israelites celebrated the Feast of Passover in the evening of the fourteenth day of the month of Abib ."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The very next day, they ate for the first time food grown in Canaan&ndash;roasted grain and flatbread made without yeast."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "On that day, when they ate the produce of the land, the manna stopped falling from heaven . The Israelites never ate manna again, but that year they enjoyed the fruit of the land of Canaan."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "When Joshua was near Jericho, he looked up and saw standing in front of him a man holding a drawn sword. Joshua approached him and said, &apos;Are you on our side or on our enemies&quot;?&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;Neither,&apos; he replied. &apos;I have not come to take sides but to take charge. I am the Commander of Yahweh &quot;s armies.&apos; At once , Joshua threw himself facedown to the ground and worshiped, and he said to him, &apos;I will do whatever you command, my Lord.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The Commander of Yahweh &quot;s armies said to Joshua, &apos;Remove your sandals, for you are standing on holy ground!&apos; And Joshua obeyed."
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "Now the gates of Jericho were bolted and barred because of the Israelites; no one could get in or out."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Yahweh commanded Joshua, &apos;See, I have given Jericho, its king and mighty warriors into your hands."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "March around the city with all your men of war once a day for six days."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Have seven priests carry shofars in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the shofars."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When you hear the blare of the shofars, have all the people shout with a mighty shout of joy! Then the walls of the city will collapse before your eyes , and your whole army must charge straight in!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So Joshua son of Nun summoned the priests and instructed them: &apos;Take up the ark of the covenant, and have seven priests carry seven shofars in front of the ark of Yahweh .&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "And to the people he said, &apos;Forward! March around the city and set an advance guard of armed men to march ahead of the ark of Yahweh .&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "At Joshua&quot;s order, the seven priests carrying seven shofars advanced before Yahweh . The ark of the covenant of Yahweh followed them as they made long blasts on their shofars."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The advance guard marched in front of the priests who were blowing the shofars, the rear guard marched behind the ark, and the shofars blared the whole time!"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Now Joshua had commanded the rest of the people, &apos;Do not shout! Remain silent! Don&quot;t make a sound until the moment I command you to shout. Then lift up a shout with all your might !&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So the ark of Yahweh circled the city once, then they all came back to the camp in Gilgal and spent the night."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Joshua rose bright and early the next morning, and the priests took up the ark of Yahweh ."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The armed men and the seven priests carrying the seven shofars marched in front of the ark of Yahweh blowing their shofars continually, and the rear guard followed the ark of Yahweh , while the trumpets kept sounding."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "On the second day, they circled the city once and again returned to the camp. They repeated this pattern for six days."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "On the seventh day, everyone rose at daybreak, and they marched around the city in the same manner seven times."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "After their seventh time around, when the priests were about to blow the shofars, Joshua commanded the people: &apos;Shout a shout of joy ! Yahweh has given you the city!"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Jericho and everything in it are to be a devoted offering to Yahweh . But spare Rahab the prostitute and everyone in her house because she hid our spies."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "You must not take for yourselves anything that is dedicated to Yahweh or you will bring trouble and destruction to the entire Israelite camp!"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Everything made of silver, gold, bronze, and iron is sacred and devoted to Yahweh ; place all of it in Yahweh &quot;s treasury!&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The people were ready to shout with a great shout when they heard the shofars. As soon as they heard the blast of the shofars, they raised a massive shout of jubilee like a thunderclap , and all at once the thick walls of Jericho collapsed! Everyone rushed straight ahead and captured the city."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "They utterly destroyed all that was in Jericho, men and women, young and old, livestock and donkeys&ndash;everything was destroyed with the sword."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Joshua told the two spies who had entered Jericho, &apos;Go to the prostitute&quot;s house and rescue her and everyone in her house, just as you promised her.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So the two spies brought out Rahab, her father, mother, brothers and sisters, and all who belonged to her, and gave them refuge outside the camp of Israel."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Then they burned Jericho to the ground and all that was within it. Only the silver and gold, brass, and iron were placed into the treasury of Yahweh &quot;s house."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Yet Joshua spared Rahab the prostitute, her father&quot;s family, and all that belonged to her. She lives among the Israelites to this day because she hid the two men Joshua sent to spy out Jericho."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Afterward, Joshua pronounced this solemn oath: &apos;May Yahweh curse anyone who attempts to rebuild this city, Jericho! He will pay for laying its foundation with the life of his oldest son, and for setting up its gates with his youngest son!&apos;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Yahweh &quot;s presence was with Joshua, and he became famous throughout the land."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "But the Israelites violated the commandment regarding the wealth of Jericho that was to be set apart for the Lord . Achan son of Carmi, grandson of Zimri, of the clan of Zerah, from the tribe of Judah, stole some of the devoted things for himself. This ignited Yahweh &quot;s anger against Israel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Joshua sent spies from Jericho to Ai (a small city near Beth Aven, southeast of Bethel), with orders to spy out the land. So the spies left for Ai."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When they returned to Joshua, they reported to him, &apos;There is no need to trouble the whole army to conquer Ai. The people are so few that two or three thousand men could attack it and take the city .&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "So Joshua sent three thousand troops to attack the city, but they were routed by the men of Ai."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The men of Ai chased them from the city gates, down the hill as far as the quarries, cutting them down as they fled. They killed thirty-six of Joshua&quot;s men, and when Israel heard of their defeat, their hearts melted away with fear!"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Joshua and the elders of Israel tore their clothes and threw dust over their heads to show their sorrow. They threw themselves facedown to the ground in front of the ark of Yahweh until the evening sacrifice ."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Joshua cried out, &apos;O Lord Yahweh , why did you lead these people across the Jordan? To be defeated? To be killed by the Amorites? If only we had been content to stay on the other side of the Jordan!"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "O Lord, what can I say now that Israel has retreated from its enemies?"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "When the Canaanites and everyone else in the land hear about our defeat , they will gang up on us and wipe us off the face of the earth. And what then will you do about your great name?&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Yahweh spoke to Joshua: &apos;Stand up! Why are you groveling before me?"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Israel has sinned! They have broken the covenant which I had commanded them to keep. They have taken forbidden plunder. They have stolen from me, taken what is mine, hidden it among their belongings, and lied about it."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Cursed things are among you! That is why Israel is powerless, has retreated from their enemies, and is in danger of annihilation. If you do not get rid of these cursed things from among you, I will not go with you any longer."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Get up and purify the people in preparation for tomorrow. Tell them, &quot;This is what Yahweh , the God of Israel says: &apos;O Israel, you have in your midst what must be devoted entirely to me! You cannot stand against your enemies until you remove the devoted things from your midst!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Tomorrow morning, you shall present yourselves by tribes. Yahweh will indicate which tribe must come forward by clans. Yahweh will indicate which clan must come forward by families. And Yahweh will indicate which family must come forward one by one."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then finally, Yahweh will expose the man caught with the devoted things, which must be destroyed by fire. Everything that man owns you must likewise destroy by fire, for he has violated the covenant of Yahweh and committed an outrageous act in Israel!&quot; &apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Joshua was up at the crack of dawn and had Israel come forward by tribes, and Yahweh indicated the tribe of Judah."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Joshua then had the clans of Judah come forward, and Yahweh picked out the clan of Zerah. Joshua then had the clan of Zerah come forward and Yahweh indicated the family of Zimri."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Joshua then had Zimri&quot;s family come forward one by one, and Yahweh picked out Achan, the son of Carmi, son of Zimri, son of Zerah, of the tribe of Judah."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then Joshua said to Achan, &apos;My son, give glory to Yahweh , the God of Israel, and confess. Tell me the truth and do not hide anything from him. What have you done?&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "&apos;It&quot;s true,&apos; Achan said. &apos;I&quot;ve sinned against Yahweh , the God of Israel. This is what I did:"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I saw among the plunder an exquisite robe from Babylon, two hundred pieces of silver, and a fifty-shekel bar of gold. I wanted them badly, so I took them and buried them in my tent with the silver underneath.&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Joshua sent messengers who ran to the tent, and there it was! They found it buried in the middle of the tent with the silver underneath."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "They took the stolen objects from the tent, brought them to Joshua and all the Israelites, and displayed them in the presence of Yahweh ."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Then Joshua, and all Israel with him, took Achan son of Zerah along with the silver, the robe, the bar of gold, and all that belonged to him&ndash;his sons, daughters, donkeys, oxen, sheep, tent&ndash;everything. Joshua led them all to the Valley of Trouble"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "and said, &apos;Why have you brought all this trouble on us? Yahweh will bring trouble on you today!&apos; Then all the people stoned Achan and his family to death. They burned up the bodies and all Achan&quot;s possessions."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "They raised over him a huge mound of stones that remains to this day. That is why the place was called the Valley of Trouble ever since. Afterward, Yahweh &quot;s anger subsided against Israel."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "Yahweh said to Joshua, &apos;Do not yield to fear nor shrink back because of Israel&quot;s failure . Now, get up, take all your soldiers with you, and march against Ai. See, I have handed over to you the city, the king, his people, and his land."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Do to Ai what you did to Jericho and its king, except this time, you may take the plunder, including livestock. Set an ambush behind the city.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Joshua and his entire army set out to attack Ai. He chose thirty thousand valiant warriors and sent them ahead by night"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "with these instructions: &apos;Now pay attention. Set an ambush behind Ai, but don&quot;t hide very far away. Stay alert and ready for battle!"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "I&quot;ll lead the rest of the army and make a direct assault on the city, and when they come out to fight us, we&quot;ll flee from them as we did the first time."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When this happens, they&quot;ll say to themselves, &quot;Look! They&quot;re running away from us, just like last time!&quot; And they&quot;ll keep chasing us until we&quot;ve lured them away from the city. While we&quot;re running away from them,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "jump up from your hiding place, race into Ai, and seize it. Yahweh , your God, will deliver the city into your hands!"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "When you&quot;ve captured the city, set it on fire. Now that you have your orders, go and do as Yahweh has commanded!&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Joshua then sent them off, and they proceeded to take up a concealed position west of Ai, between Ai and Bethel, while Joshua spent the night with the rest of the troops."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "So early the next morning, Joshua mustered his troops. He and the leaders of Israel went in front of the army and led them toward Ai."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The entire fighting force with Joshua advanced until they were near the city and encamped north of Ai, with a valley between them and the city."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "He placed a smaller force of about five thousand men west of the city to set an ambush between Bethel and Ai."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The main fighting force north of the city prepared for battle, while the rear guard held a concealed position west of the city. Joshua spent the night in the valley."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "At dawn, when the king of Ai saw the Israelites, he and his army rushed out to fight. They ran to attack Israel at a predetermined place en route to the Arabah, not knowing that an ambush had been set against them behind the city."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Joshua and all the main fighting force fled toward the wilderness as though they were being overcome."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Joshua&quot;s tactic drew all of Ai&quot;s reinforcements out of the city, and they set off in hot pursuit of Joshua and his men ."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Not a man remained in Ai or in Bethel who did not go out in pursuit of Israel, leaving their city undefended."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Then Yahweh spoke to Joshua and said, &apos;Now, take the spear in your hand and point it toward Ai, for I will hand the city over to you!&apos; So Joshua pointed his spear toward the city,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "and when Joshua gave this signal, all the men waiting in ambush behind the city jumped up from their position and poured into Ai. They quickly captured it and set it on fire."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The men who had taken the city came out and joined the battle, so the Israelites had them surrounded. Israel cut them down, leaving neither survivors nor fugitives."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "But they captured the king of Ai alive and brought him to Joshua."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Joshua&quot;s men killed all the inhabitants of Ai in the fields and in the wilderness where they had chased them. They all fell by the sword. Then the Israelites turned to attack Ai and killed those who were still there."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "However, the Israelites took the livestock and the goods captured in the city as Yahweh had instructed Joshua."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Then Joshua burned Ai to the ground and reduced it to a mound of ruins for all time. It remains desolate to this day."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "And he hanged the king of Ai on a tree until sunset. Then at sunset, Joshua had the corpse taken down and left it lying in front of where the city gates once stood . They raised a large pile of stones over his corpse, where it remains to this day."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Afterward, Joshua built near Mount Ebal a stone altar to Yahweh , the God of Israel."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "He made it according to the teaching in the law of Moses, Yahweh &quot;s servant. Moses had commanded them to build an altar using stones that had not been cut with iron tools. On it they offered to Yahweh burnt sacrifices and fellowship offerings."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "And with the Israelites looking on, Joshua inscribed on stones the law which Moses had written."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "All Israel, including their elders, officials, and judges, stood on either side of the ark. Both native-born citizens and immigrants alike faced the ark of the covenant of Yahweh and the Levitical priests who carried it. In front of half of them stood Mount Gerizim, and in front of the other half stood Mount Ebal, as Yahweh &quot;s servant Moses commanded at first to bless the people of Israel."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Afterward, Joshua read aloud all the words of the law, the blessings and the curses, exactly as it was written in the scroll of the law."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Joshua read aloud every word that Moses had commanded, and all the assembly of Israel heard it, including the women, the children, and the foreigners who accompanied them."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "Now when all the kings west of the Jordan heard about these things&ndash;those in the hill country, in the western foothills, and along the entire coast of the Great Sea as far as Lebanon (the kings of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)&ndash;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "they came together to make war against Joshua and Israel."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When the inhabitants of Gibeon learned how Joshua had destroyed Jericho and Ai,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "they resorted to a ruse: They sent a delegation disguised as messengers from a distant land . They loaded their donkeys with worn-out sacks and old, patched wineskins."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "They wore old, patched sandals on their feet and old, tattered clothes, and took along dry, moldy bread."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "When they arrived at Israel&quot;s camp at Gilgal, they said to Joshua and the Israelites: &apos;We&quot;ve come from a far country to propose that you make a treaty with us.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The men of Israel asked the Hivites, &apos;Perhaps you live nearby. Why should we make a treaty with you?&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "&apos;We are willing to be your servants,&apos; they answered Joshua. Joshua questioned them further, &apos;Who are you and where are you from?&apos; This caused Israel to grumble against their leaders,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Gibeonites replied: &apos;Your servants come from a very distant land because we&quot;ve heard of the fame of your God, Yahweh . We&quot;ve heard of his wonders and all that he did in Egypt."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "We&quot;ve also heard of all he did to help you defeat the two Amorite kings on the other side of the Jordan&ndash;King Sihon of Heshbon and King Og of Bashan, who lived in Ashtaroth."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Therefore, our leaders and all the inhabitants of our land sent us to find you with these instructions: &quot;Get food ready for your long trip, and go to the Israelites and say to them, &apos;Make a treaty with us. We&quot;re willing to be your servants.&apos; &quot;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Look at our bread! It was still warm when we left home with it. See how dry and moldy it&quot;s become!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "These wineskins were new when we filled them. See how they&quot;ve dried up and burst! And look, our clothes and sandals are worn out from our long journey.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The leaders of Israel ratified a peace treaty with the Gibeonites by sharing a meal together, but they failed to consult with Yahweh ."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Joshua agreed to let them live. He made a peace treaty with them, and the leaders of the assembly sealed it with an oath."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "But three days after the treaty had been made, the Israelites learned that they had been deceived . In fact, the Gibeonites were from the local area and lived nearby."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "So the Israelites set out at once, and on the third day, they came to their cities: Gibeon, Chephirah, Beeroth, and Kiriath Jearim."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "But the Israelites did not attack them because the leaders of the assembly had sworn an oath to them in the name of Yahweh , the God of Israel."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "but the leaders told the assembly of Israel, &apos;We cannot touch them, for we swore an oath to them in the name of Yahweh , the God of Israel."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Joshua summoned the Gibeonites and asked them, &apos;Why did you deceive us? You told us that you lived very far from us, but we now know for a fact that you live right here near us."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Therefore, we will spare your lives , but you will live under a curse, and you will be condemned to perpetual servitude. You will serve the house of my God by cutting wood and carrying water for us.&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "They answered Joshua, &apos;We lied, sir, because we greatly feared for our lives. We know for certain all about Moses and how he served Yahweh , your God. We know for certain that Yahweh will honor his promise to Moses and give you all these lands as your own. And we know for certain that he commanded you to wipe out all the inhabitants living here and thus take possession of this land."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Now we are at your mercy, so do with us what you consider right and proper.&apos;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "So Joshua had mercy and saved them from being killed by the Israelites."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "That day, he made them woodcutters and water carriers to serve the community of Israel for the altar of Yahweh at his divinely chosen place. And that is what they do to this day."
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "3",
+                "verse_text": "So King Adoni-zedek of Jerusalem sent messages to King Hoham of Hebron, King Piram of Jarmuth, King Japhia of Lachish, and King Debir of Eglon:"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "&apos;The people of Gibeon have made peace with Joshua and the Israelites. Come and help me attack them.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The five Amorite kings joined forces&ndash;the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon. Their combined armies surrounded Gibeon and attacked it."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The Gibeonites sent out a call for help to Joshua at the camp in Gilgal: &apos;Don&quot;t abandon us, for we are your servants! Come quickly and save us! Help us, for the Amorite kings of the hill country have surrounded us!&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So Joshua and all his fighting men, all the mighty warriors of Israel, left Gilgal to aid the Gibeonites ."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Yahweh spoke to Joshua: &apos;Do not fear the Amorite kings and their armies, for I have decreed your victory over them; not one will withstand you!&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Joshua and his fighting force marched all night long from Gilgal to Gibeon and took them all by surprise!"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Joshua inflicted a crushing defeat on them at Gibeon, for Yahweh threw the Amorites into a panic at the sudden sight of Israel&quot;s army! Yahweh empowered Joshua and his army to chase them in the direction of the Beth Horon ascent, and they slaughtered the kings&quot; armies all the way to Azekah and the city of Makkedah ."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "As the Amorites raced down the hill to Beth Horon, Yahweh hurled large hailstones on them from the sky! The hail continued to fall all the way to Azekah; in fact, more men died from Yahweh &quot;s hailstones than by the swords of the Israelites."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Yahweh gave the men of Israel victory over the Amorites that day, the day when Joshua stood before the people and prayed to Yahweh : &apos;Sun, stand still over Gibeon! Moon, stay where you are over the valley of Aijalon!&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "And so the sun stood still in the middle of the sky and was in no hurry to set until one day became two . And the moon halted while the nation triumphed over its enemies&ndash;as it is also recorded in the Scroll of the Upright One."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "It was the day Yahweh himself fought for Israel! There has never been a day like it before or since&ndash;a day when Yahweh obeyed the voice of a man!"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "After their victory , Joshua and his fighting men returned to their camp at Gilgal."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Meanwhile, the five Amorite kings fled and hid in a cave at Makkedah."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "When Joshua was told that the five kings had been found hiding in a cave at Makkedah,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Joshua ordered his men, &apos;Seal up the mouth of the cave with large stones and post guards in front of it."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "But don&quot;t stop! Pursue your enemies! Cut off their retreat and don&quot;t let them reach their cities, for Yahweh your God has given them into your hand!&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "So Joshua and the Israelites nearly killed them all&ndash;almost to a man&ndash;although a few escaped into the fortified cities."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The whole army returned safely to Joshua at the camp in Makkedah. No one dared speak against the Israelites."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Then Joshua ordered, &apos;Open up the cave and bring the five kings out to me.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So Joshua&quot;s men removed the five kings from the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon, and brought them before Joshua."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Joshua summoned all of Israel and ordered his army officers, &apos;Place your feet on the necks of these kings.&apos; So they placed their feet upon their necks!"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Then Joshua said to his officers, &apos;Never be afraid of your enemies or let them discourage you. Be strong and filled with courage! Yahweh is going to do to all your enemies what he&quot;s done to these kings!&apos;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Then Joshua had the kings executed and hanged on five trees, and he left them there until evening."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "At sunset, Joshua ordered them taken down from the trees and thrown into the cave where they had been hiding. He had large stones rolled over the mouth of the cave, and they remain there to this day."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "That day, Joshua captured Makkedah, annihilated the inhabitants, and put its king to the sword, leaving no survivors. And he did to its king what had been done to the king of Jericho."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "From Makkedah, Joshua and his army marched southwest to the city of Libnah and attacked it."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "By the power of Yahweh , the city and its king were handed over to the Israelites. They annihilated all the inhabitants with the sword, leaving no survivors. And they did to its king what they had done to the king of Jericho."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "From Libnah, Joshua and his army marched south to the city of Lachish and attacked it."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "By the power of Yahweh , the city was handed over to Joshua on the second day of the battle. They annihilated all the inhabitants of the city, just as they had done to Libnah."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Meanwhile, Horam, king of Gezer, had marched out to help Lachish, but Joshua defeated him and his army, leaving no survivors."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Then Joshua and all the Israelite army marched on from Lachish to attack the city of Eglon."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "By the power of Yahweh , they captured the city in one day and destroyed its inhabitants, just as they had done to Lachish."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Then Joshua and all the Israelite army marched from Eglon and attacked Hebron."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "By the power of Yahweh , they captured the city, the king, and nearby villages, and totally wiped out all the inhabitants, leaving no survivors, just as they had done to Eglon."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "Lastly, Joshua and all the Israelite army turned around and attacked Debir."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "By the power of Yahweh , they captured the city, the king, and nearby villages, and totally wiped out all the inhabitants, leaving no survivors. They did to Debir and its king as they had done to Libnah and its king and to Hebron."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Yahweh empowered Joshua to conquer the whole region, including the hill country, the southern desert, the western foothills, and the mountain slopes. He conquered all the kings of the land and left no survivors. Everything that breathed was slaughtered&ndash;as Yahweh , the God of Israel, had commanded."
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "Joshua&quot;s conquest stretched from Kadesh Barnea to Gaza, and from Goshen to Gibeon."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "Joshua conquered all their kings and their lands in a single campaign, for Yahweh , the God of Israel, fought for his people."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "Finally, Joshua and all the Israelite army returned to their base camp in Gilgal."
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "When the news of Israel&quot;s southern victories reached King Jabin of Hazor, he organized a massive coalition to fight against Israel . He sent messages to: King Jobab of Merom, the king of Shimron, the king of Achshaph, the kings of the Jordan Valley south of Lake Galilee, the western kings in the heights of Dor, and the Hivite kings who lived near Mount Hermon in the land of Mizpah."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "the kings of the northern hill country, the kings of the foothills, the Amorite kings, the Hittite kings, the Perizzite kings, the Jebusite kings in the highlands,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "the eastern and western Canaanite kings,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They came out in full force with a multitude of horses and chariots. Their vast armies were as numerous as the grains of sand on the seashore."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "All these kings and their enormous armies joined forces and encamped at Lake Merom to fight against Israel."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Yahweh spoke to Joshua, saying, &apos;Don&quot;t be afraid of them; by this time tomorrow, I, Yahweh , will have them all lying slain before Israel. After the battle, cripple their horses and burn their chariots.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Joshua launched his surprise attack, and all his army pounced on them at their camp at Lake Merom."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Yahweh fought alongside Joshua&quot;s fighting men to defeat them. Part of the Israelite army attacked and pursued the retreating forces as far north as the cities of Misrephoth Maim and Sidon. Another part of the Israelite army pursued the enemy as far east as the valley of Mizpah and crushed them all, leaving no survivors."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Afterward, Joshua crippled their horses and burned their chariots as Yahweh had commanded."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Because Hazor at that time was the most powerful of all these kingdoms, Joshua circled back after the battle and conquered it."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "They killed the king, burned Hazor to the ground, and annihilated all its inhabitants. They spared not one breathing thing, leaving no survivors."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Joshua conquered all those royal cities and their kings. He destroyed them all, as Yahweh &quot;s servant Moses had commanded."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "However, of all the cities built on mounds, Joshua burned down only Hazor."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The Israelites kept all the spoils of these towns, including the livestock, but the inhabitants they killed with the sword. There were no survivors."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Just as Yahweh commanded his servant Moses, so Moses commanded Joshua, and Joshua obeyed everything that Yahweh commanded Moses."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So Joshua conquered the entire region: the Judean hills, the southern desert, all the land of Goshen, the foothills, the lowlands of the Jordan Valley, the northern hill country of Israel including its lowlands&ndash;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "everything from Mount Halak, which rises toward Seir, all the way to Baal-Gad in the Lebanon Valley below Mount Hermon. Joshua captured all their kings and executed them."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Joshua waged war with all those kings over a long period."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Apart from the Hivites living in Gibeon, not one city made peace with Israel. By the power of Yahweh , Joshua conquered them all."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Yahweh himself hardened their hearts and made them obstinate so they would attack Israel. Yahweh had determined to wipe them out and condemn them to destruction without mercy, just as he had commanded Moses."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Joshua also drove out the Anakim, a race of giants , from the hill country (including the cities of Hebron, Debir, and Anab)&ndash;from the entire hill country of Judah and Israel. Joshua destroyed the Anakim and their towns"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "so that there were no surviving Anakim in Israelite territory. Some survived but only in the Philistine cities of Gaza, Gath, and Ashdod."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Joshua conquered the whole land, just as Yahweh had promised Moses. Joshua assigned portions of the land to each of the tribes of Israel, and the Israelites lived in peace throughout the land."
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "On the east side of the Jordan, Moses and the Israelites had conquered two kings, Sihon and Og . The Israelites occupied their territory, which extended from the Arnon Valley in the south to Mount Hermon in the north , including the entire eastern desert."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Sihon, king of the Amorites, reigned in Heshbon and ruled over the southern half of Gilead, from Aroer on the edge of the Arnon River Valley in the south to the River Jabbok in the north , which is the border of the Ammonites."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The western area of his kingdom included the eastern desert from Lake Galilee to the Dead Sea (the Salt Sea). His territory included the area east of the Dead Sea as far as the town of Beth Jeshimoth and as far south as Mount Pisgah."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Og, the king of Bashan, was one of the last of the race of giants. He reigned in the cities of Ashtaroth and Edrei. He ruled over all of Bashan, the northern half of Gilead, to the boundary of Sihon, king of Heshbon."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "His territory included Mount Hermon in the north and Salecah in the east , and south to the boundary of the Geshurites and the Maacathites."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Moses and the Israelites conquered the two kings, Sihon and Og. Moses, the servant of Yahweh , divided their land east of the Jordan among the tribes of Reuben, Gad, and half the tribe of Manasseh."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "On the west side of the Jordan, Joshua and the Israelites defeated thirty-one kings, from Baal-Gad in the Lebanon Valley in the north to Mount Halak in the south near Edom. Then Joshua divided this land among the tribes of Israel and gave them their portions as permanent possessions&ndash;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "the hill country, the western foothills, and the Jordan Valley, the mountain slopes, the wilderness of Judea , and the southern desert region&ndash; the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites."
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "Many years passed, and Joshua was a very old man. One day, Yahweh spoke to him: &apos;Although you have reached a ripe old age, a great deal of land remains for you to conquer."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The territory waiting for you to possess includes all the land of the Geshurites and the Philistines. (The kings of the Philistines lived at Gaza, Ashdod, Ashkelon, Gath, and Ekron.)"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "And also all the territory of the Avvites to the south. (The land from the stream of Shihor, at the Egyptian border, as far north as the border of Ekron was considered Canaanite.)"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "There is still all the Canaanite territory from the Sidonian city of Mearah (which belonged to the Sidonians) as far as the Amorite border city of Aphek."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "You have still not conquered the land of the Gebalites, all the land eastward to Lebanon, from the city of Baal-Gad, which is south of Mount Hermon, to Hamath Pass."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "You still must conquer the land of the Sidonians who live in the hill country between the Lebanon Mountains and Misrephoth Maim. As the people of Israel advance, I myself will drive out these peoples from before you! Divide the land among the tribes of Israel exactly as I have commanded you."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Divide among the other nine tribes and the other half-tribe of Manasseh the territory west of the Jordan to possess as their inheritance.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The tribes of Reuben, Gad, and the half-tribe of Manasseh had already received their portion of the land on the east side of the Jordan, which Yahweh &quot;s servant Moses had assigned to them."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "These tribes occupied the land as far southeast as the city of Aroer on the edge of the Arnon Valley, including the city in the middle of the valley and the plain from Dibon in the south, north to Medeba."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Their territory went as far east as the border of Ammon, including all the cities over which King Sihon, the Amorite king, ruled over from Heshbon."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "It also included Gilead, the land of the Geshurites and Maacathites, all of Mount Hermon, and all of Bashan to its eastern boundary of Salecah."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "It encompassed the entire kingdom of Og (the last of the Rephaites) in Bashan, who ruled from Ashtaroth and at Edrei. Moses had defeated them and possessed their lands,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "except for the Geshurites and Maacathites, who still live among the Israelites to this day."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "However, Moses did not assign any land as an inheritance to the tribe of Levi, for their inheritance was to share in the sacrificial offerings made to Yahweh , the God of Israel, as he promised them."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The land Moses assigned to the families of the tribe of Reuben"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "extended from Aroer, on the edge of the Arnon Valley, including the city in the middle of the valley, the whole plain of Medeba,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Heshbon and all its surrounding towns on the plain, including Dibon, Bamoth Baal, Beth Baal Meon,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Jahaz, Kedemoth, Mephaath,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Kiriathaim, Sibmah, Zereth Shahar on the hill in the valley,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Beth Peor, the slopes of Pisgah, and Beth Jeshimoth,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "including all the cities of the plain, and the whole kingdom of Sihon the Amorite, who had ruled at Heshbon. Moses defeated him and the Midianite tribal chiefs, Evi, Rekem, Zur, Hur, and Reba, who dwelt in the land as princes of Sihon."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Among those the Israelites killed in battle was the fortune-teller Balaam son of Beor."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The western boundary of the Reubenites was the Jordan River. These cities and their surrounding villages comprised the inheritance of the families of the tribe of Reuben."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The land Moses assigned to the families of the tribe of Gad"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "included Jazer, all the cities of Gilead, and half the Ammonite country as far as Aroer, near Rabbah."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "It extended north from the city of Heshbon to Ramath Mizpah and Betonim, continuing on to the city of Mahanaim, and to the borders of Lo-Debar."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "In addition, the tribe of Gad received the land along the eastern side of the Jordan River as far north as the southern end of Lake Galilee. This included the cities of Beth Haram, Beth Nimrah, Sukkoth, and Zaphon, all of which were in the Jordan Valley."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "These cities and their surrounding villages comprised the inheritance of the families of the tribe of Gad."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "The land Moses assigned to the families of the half-tribe of Manasseh"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "extended north from the city of Mahanaim, including all of Bashan and the sixty villages of Jair. King Og of Bashan had once ruled over all this territory."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Moses had given half of Gilead to this half-tribe of Manasseh, which descended from Manasseh&quot;s son Machir, including the cities of Ashtaroth and Edrei, where king Og had once ruled."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Moses had distributed all the territory of Moab in the Jordan Valley east of Jericho as the inheritances of these two and a half tribes of Israel ."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "But Moses gave no inheritance of land to the tribe of Levi, but said to them, &apos; Yahweh , the God of Israel, is to be your inheritance.&apos;"
+            }
+        ],
+        "14": [
+            {
+                "verse_number": "1",
+                "verse_text": "Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders divided the land west of the Jordan among the people of Israel as their inheritance."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "By drawing lots, Eleazar assigned territory to the nine and a half tribes, as Yahweh had commanded Moses."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So the Israelites divided the land as Yahweh had commanded Moses."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "One day , while Israel was encamped at Gilgal, the people of Judah approached Joshua, including Caleb son of Jephunneh from the Kenizzite clan. Caleb said to Joshua, &apos;Remember what Yahweh said to Moses about you and me while we were still at Kadesh Barnea."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I was forty years old when Moses, Yahweh &quot;s servant, sent me from Kadesh Barnea to spy out the land of Canaan , and I brought back an honest and accurate report."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I have been faithful and obedient to Yahweh , my God. But my fellow spies who went with me only discouraged the people and made their hearts shrink back with fear."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "On that day, Moses made an oath and promised me, &quot;Every part of the land your feet tread upon shall be an inheritance for you and your descendants forever because you were loyal to Yahweh , my God.&quot;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos; So here I am . It&quot;s been forty-five years since Yahweh made this promise to Moses, when Israel journeyed through the wilderness. Yahweh has preserved me, an eighty-five-year-old man, to this day."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "I&quot;m still as strong today as on that day when Moses sent me out! I&quot;m just as fit to go out to battle now as I was then."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Now give me the hill country that Yahweh promised me on that day. You yourself were there and heard the report that the Anakim lived there in strong and fortified cities. I know that with the power of Yahweh helping me, I will drive them out, just as Yahweh said!&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Joshua spoke God&quot;s blessing over Caleb son of Jephunneh and gave him Hebron as his inheritance."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So Hebron has belonged to Caleb son of Jephunneh the Kenizzite ever since because he passionately followed Yahweh , the God of Israel."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "(Hebron used to be called the City of Arba, after Arba, the most famous of all the Anakim.) Then the land was free of war."
+            }
+        ],
+        "15": [
+            {
+                "verse_number": "1",
+                "verse_text": "Here is the land allotted to the families of the tribe of Judah: Their territory extended southward to the Wilderness of Zin, which belonged to Edom."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Their boundary started from the bay at the southern end of the Dead Sea,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "crossed south of Scorpion Pass, continued to Zin, and went on south of Kadesh Barnea. Then it went past Hezron up to Addar and curved around to Karka,"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "continued to Azmon and followed the stream on the border of Egypt in a northwesterly direction to the Mediterranean Sea. That is the southern border of all the tribes of Israel ."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The Dead Sea formed the eastern border of Judah , and its territory lay to the west toward the Mediterranean Sea . Their northern border began there"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "and went up to Beth Hoglah and continued north of the ridge overlooking the Jordan Valley. From there it went up to the Stone of Bohan, named after Bohan , Reuben&quot;s son."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The boundary then went up to Debir from the Valley of Achor and turned north to Gilgal, which faces Adummim Pass south of the gorge. It continued along to the waters of En Shemesh and ended at En Rogel."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then the boundary ran through the Hinnom Valley along the southern slope of Jebus (now known as Jerusalem). From there it went to the top of the hill west of the Hinnom Valley at the northern end of the Valley of Rephaites."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "It continued from the top of the mountain to the spring of the waters of Nephtoah, and from there to the town of Mount Ephron and on to Baalah, which today is called Kiriath Jearim."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "It then turned west from Baalah to Mount Seir and ran along the northern shoulder of Mount Jearim (that is, Kesalon), descended to the city of Beth Shemesh, and crossed to the city of Timnah."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The border then went north to the ridge of the city of Ekron, turned toward the city of Shikkeron, crossed to Mount Baalah, and came out at the city of Jamnia. The border ended at the southern end of the Dead Sea."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The western boundary was the Mediterranean coastline. This was the territory that belonged to the families of the tribe of Judah."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Yahweh had commanded Joshua, &apos;Give a share of the territory from the tribe of Judah to Caleb son of Jephunneh.&apos; So Joshua gave him the city of Hebron which was founded by Arba, the ancestor of Anak."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Caleb drove out three Anakim from Hebron: Sheshai, Ahiman, and Talmai&ndash;descendants of Anak."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "From Hebron, he marched out and fought against the people of Debir, which used to be called Kiriath Sepher."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Caleb once promised, &apos;Whoever succeeds in capturing Kiriath Sepher may marry my daughter Achsah.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Caleb&quot;s nephew Othniel, the son of his brother Kenaz, took the city, so Caleb gave him the hand of his daughter Achsah in marriage."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "One day, Achsah came and charmed her father so that she could ask him for a gift. When she got down from her donkey, Caleb said to her, &apos;What would you like for a wedding present ?&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "&apos;Father,&apos; she replied, &apos;give me a special gift. You have already given me land, but it&quot;s in arid country. Please, also give me some springs of water.&apos; So Caleb gave her the upper and lower springs near the city of Hebron ."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "These are the cities given as an inheritance to the families of the tribe of Judah."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The cities of the first district in the extreme south near the border of Edom included Kabzeel, Eder, Jagur, Eshtaol, Zorah, Ashnah, Zenan, Hadashah, Migdal Gad, Libnah, Ether, Ashan, Ekron, with its surrounding settlements and villages; and Gaza, its settlements and villages, as far south as the Wadi of Egypt and as far west as the coastline of the Mediterranean Sea. Shamir, Jattir, Socoh, Arab, Dumah, Eshan, Maon, Carmel, Ziph, Juttah, Halhul, Beth Zur, Gedor, Kiriath Baal (that is, Kiriath Jearim) and Rabbah&ndash;two towns and their villages. Beth Arabah, Middin, Secacah,"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Kinah, Dimonah, Adadah,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Kedesh, Hazor, Ithnan,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Ziph, Telem, Bealoth,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Hazor Hadattah, Kerioth Hezron (that is, Hazor),"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Amam, Shema, Moladah,"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Hazar Gaddah, Heshmon, Beth Pelet,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Hazar Shual, Beersheba, Biziothiah,"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Baalah, Iyyim, Ezem,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Eltolad, Kesil, Hormah,"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Ziklag, Madmannah, Sansannah,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Lebaoth, Shilhim, Ain, and Rimmon&ndash;a total of twenty-nine towns and their villages."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "The cities of the second district in the western foothills included"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Zanoah, En Gannim, Tappuah, Enam,"
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Jarmuth, Adullam, Socoh, Azekah,"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Shaaraim, Adithaim, and Gederah (or Gederothaim) &ndash;fourteen towns and their villages."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "The cities of the third district included"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "Dilean, Mizpah, Joktheel,"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "Lachish, Bozkath, Eglon,"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Cabbon, Lahmas, Kitlish,"
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "Gederoth, Beth Dagon, Naamah, and Makkedah&ndash;sixteen towns and their villages."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "The cities of the fourth district included"
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "Iphtah, Ashnah, Nezib,"
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "Keilah, Aczib, and Mareshah&ndash;nine towns and their villages."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "The cities of the fifth district included"
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "from Ekron westward, all the towns in the vicinity of Ashdod, together with their villages;"
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "Ashdod, and its surrounding settlements and villages;"
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "The cities of the sixth district in the Judean hills included"
+            },
+            {
+                "verse_number": "49",
+                "verse_text": "Dannah, Kiriath Sannah (that is, Debir),"
+            },
+            {
+                "verse_number": "50",
+                "verse_text": "Anab, Eshtemoh, Anim,"
+            },
+            {
+                "verse_number": "51",
+                "verse_text": "Goshen, Holon, and Giloh&ndash;eleven towns and their villages."
+            },
+            {
+                "verse_number": "52",
+                "verse_text": "The cities of the seventh district included"
+            },
+            {
+                "verse_number": "53",
+                "verse_text": "Janim, Beth Tappuah, Aphekah,"
+            },
+            {
+                "verse_number": "54",
+                "verse_text": "Humtah, Kiriath Arba (that is, Hebron), and Zior&ndash;nine towns and their villages."
+            },
+            {
+                "verse_number": "55",
+                "verse_text": "The cities of the eighth district included"
+            },
+            {
+                "verse_number": "56",
+                "verse_text": "Jezreel, Jokdeam, Zanoah,"
+            },
+            {
+                "verse_number": "57",
+                "verse_text": "Kain, Gibeah, and Timnah&ndash;ten towns and their villages."
+            },
+            {
+                "verse_number": "58",
+                "verse_text": "The cities of the ninth district included"
+            },
+            {
+                "verse_number": "59",
+                "verse_text": "Maarath, Beth Anoth, and Eltekon&ndash;six towns and their villages."
+            },
+            {
+                "verse_number": "60",
+                "verse_text": "The cities of the tenth district included"
+            },
+            {
+                "verse_number": "61",
+                "verse_text": "The desert cities of the eleventh district included"
+            },
+            {
+                "verse_number": "62",
+                "verse_text": "Nibshan, the City of Salt, and En Gedi&ndash;six towns and their villages."
+            },
+            {
+                "verse_number": "63",
+                "verse_text": "The people of Judah could not dislodge the Jebusites from Jerusalem, and they live among the people of Judah to this day."
+            }
+        ],
+        "16": [
+            {
+                "verse_number": "1",
+                "verse_text": "The territory assigned to Joseph&quot;s descendants began east of the springs of Jericho near the Jordan, then turned north through the desert and into the hill country as far as Bethel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "From Bethel (that is, Luz), it crossed over to Arkite territory at Ataroth."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "It then descended westward to the territory of the Japhletites as far as the border of Lower Beth Horon and Gezer, ending at the Mediterranean Sea."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Ephraim and Manasseh, the descendants of Joseph, inherited this entire territory."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The southern boundary of the territory of the tribe of Ephraim went from Ataroth Addar in the east to Upper Beth Horon"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "then westward to the Sea. The northern boundary went from Michmethath to the east of Taanath-Shiloh and going further to the east of Janoah."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "From Janoah the border descended to Ataroth and Naarah. It touched Jericho and came out at the Jordan River."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "However, the Ephraimites did not drive out the Canaanites from the city of Gezer, but they conscripted the Canaanites to serve them to this day."
+            }
+        ],
+        "17": [
+            {
+                "verse_number": "1",
+                "verse_text": "Joshua assigned land to the descendants of Manasseh, Joseph&quot;s firstborn son. Joshua allotted Gilead and Bashan to Machir the firstborn of Manasseh, the father of Gilead, because he was a brave warrior."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And Joshua assigned land west of the Jordan River to the rest of the tribe of Manasseh. The male descendants of Manasseh were Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. All of these men were heads of families, and each of their families received territory west of the Jordan River ."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Manasseh&quot;s grandson Gilead had a son named Hepher who had a son named Zelophehad, who had no sons. But he did have five daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They came before the priest Eleazar and Joshua son of Nun and the leaders, and said, &apos; Yahweh commanded Moses to give us an inheritance among our relatives.&apos; So according to Yahweh &quot;s commandment, he gave an inheritance to them as he did to their uncles."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The northwest territory of Manasseh reached from Asher to Michmethath, which is east of Shechem; the boundary went southward to the inhabitants of the spring of Tappuah"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "and divided the land of Tappuah belonging to the tribe of Manasseh from the town of Tappuah belonging to the Ephraimites."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Within these two territories, there were several cities together with their surrounding towns that belonged to Manasseh: Beth Shean, Ibleam, Dor, Endor, Taanach, and Megiddo. These constituted three regions."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Yet the men of Manasseh failed to take possession of those towns, and the Canaanites continued to live in that land."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Later, when the Israelites grew strong, they put the Canaanites to forced labor but did not utterly drive them out."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "One day, the descendants of Joseph came to Joshua and said, &apos; Yahweh has blessed us with many people, but you have given us only one part of the land. We ought to have more land!&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Joshua said to them, &apos;If the hill country of Ephraim is too small for the large number of people in your tribes, then go into the forests which belong to the Perizzites and the Rephaites, and clear ground for yourselves there.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The descendants of Joseph answered, &apos;Indeed, there&quot;s not enough room for us in the hill country of Ephraim. Yet all the Canaanites who live in the plain have chariots with iron-rimmed wheels, both those in Beth Shean and its villages, and those in the Valley of Jezreel.&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Then Joshua said to the tribe of Ephraim and the half-tribe of Manasseh, &apos;There are indeed many people in your tribes, and for that reason, you are very powerful. I will give you more than one share of land."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Therefore, I will give you the hill country as well. It is a forest, but Yahweh will empower you to take possession of it and clear it from one end to the other. You will conquer all the Canaanites even though they not only have iron chariots but also are a strong people.&apos;"
+            }
+        ],
+        "18": [
+            {
+                "verse_number": "1",
+                "verse_text": "After the Israelites had conquered the land, all of them gathered at Shiloh, and the priests set up the tabernacle."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then Joshua cast lots in Yahweh &quot;s presence at Shiloh and assigned a section of the land to each of the remaining tribes of Israel."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The first lot came out for the families of Benjamin. So the first tribe that received territory was the tribe of Benjamin. Joshua assigned them land which lay between the tribe of Judah on the south and the descendants of Joseph on the north ."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Their northern border began in the east at the Jordan River and went up the slope north of Jericho and westward through the hill country as far as the desert near the city of Beth Aven."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The border then went to the slope on the south side of Luz (that is, Bethel) then down to Ataroth Addar on the mountain south of Lower Beth Horon."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The border then turned south from the western side of this mountain and went to the city of Kiriath Baal, which is also called Kiriath Jearim, a town of Judah."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "From the outskirts of Kiriath Jearim, the boundary extended to Mount Ephron and went from there to the fountain of the Waters of Nephtoah."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "It continued down to the foot of the mountain on the north side of the Valley of Rephaites, where the Hinnom Valley begins. From there it went south through the Hinnom Valley to the south slope of Jerusalem and then downward to En Rogel."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "From there the boundary turned sharply northward to En Shemesh and on to Geliloth, facing the ascent of Adummim, and descended to the Boulder of Bohan, son of Reuben."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Then it passed north of the ridge overlooking the Jordan Valley. From there it descended into the valley,"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "passing north of the ridge of Beth Hoglah. The southern border ended where the Jordan River empties into the Dead Sea."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The eastern border was the Jordan River. The families of the tribe of Benjamin received as their possession the land within these borders."
+            }
+        ],
+        "19": [
+            {
+                "verse_number": "1",
+                "verse_text": "The families of the tribe of Simeon received the second assignment of land, which was located within the territory of Judah."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "In addition, they received four other cities, along with the villages around them: Ain, Rimmon, Ether, and Ashan."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Simeon&quot;s territory included all the cities and villages as far south as the town of Baalath Beer, which is also known as Ramah in the Negeb."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The families of Simeon received their inheritance from Judah&quot;s share of land because Judah&quot;s portion exceeded what they needed. So the inheritance of the families of Simeon was within the territory of Judah."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The families of the tribe of Zebulun received the third assignment of land. Their boundary reached as far southeast as the city of Sarid."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Going west, it ran to Maralah, touched Dabbesheth, and extended to the stream near Jokneam."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "In the other direction, the boundary line went east to the border of Chisloth-Tabor, and from there to Daberath and Japhia;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "then it continued east of Gath-Hepher, Eth Kazin, Rimmon, and turned toward Neah."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The northern boundary of Zebulun passed Hannathon and ended at the valley of Iphtah El."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Their land encompassed twelve cities, including Kattath, Nahalal, Shimeon, Iralah, and Bethlehem."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Zebulun&quot;s families inherited all these towns and their villages."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The families of the tribe of Issachar received the fourth assignment of land."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Their border touched Tabor, Shahazumah, and Beth Shemesh, and ended at the Jordan River&ndash;sixteen towns and their villages."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Issachar&quot;s families inherited all these cities and their towns."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The families of the tribe of Asher received the fifth assignment of land."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Their territory included the city of Helkath to Hali, Beten, Achshaph,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Allammelech, Amad, and Mishal. Their border touched Carmel to the west and Shihor Libnath."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The eastern border went north from the city of Beth Dagon. It touched the territory of the tribe of Zebulun and the Valley of Iphtah El to the north, Beth Emek and Neiel, and extended to Cabul on the north."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "It went to Abdon, Rehob, Hammon, and Kanah, as far as Greater Sidon."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "The boundary then turned back toward Ramah and went to the fortified city of Tyre, turned toward Hosah and came out at the sea in the region of Aczib,"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Ummah, Aphek, and Rehob&ndash;twenty-two towns and their villages."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Asher&quot;s families inherited this entire region."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "The families of the tribe of Naphtali received the sixth assignment of land."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "The northern border of its territory went from the town of Heleph to the oak near the town of Zaanannim, then continued to Adami Nekeb, Jabneel, and on to Lakkum, and ended at the Jordan River."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "It turned westward to Aznoth Tabor, extended from there to Hukok, touched Zebulun on the south, Asher on the west, and the Jordan on the east."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "Naphtali&quot;s families inherited this entire region."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "The families of the tribe of Dan received the seventh assignment of land."
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "The Danites had difficulty taking possession of their territory, so they went up and attacked Leshem, took it, killed its inhabitants, and occupied it. Then they renamed the city after their ancestor Dan."
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "Dan&quot;s families inherited this entire region."
+            }
+        ],
+        "20": [
+            {
+                "verse_number": "4",
+                "verse_text": "The one who has committed manslaughter shall escape for protection to one of these cities and stand at the entrance to the city gates and explain his case to the leaders of the city. The leaders must then receive him into their city and grant him asylum."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When the one looking for revenge comes after him, the leaders of the city must protect him and not hand him over, for he killed the person accidentally and without premeditation."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "He must remain in the city until he has had a public trial; then he must remain protected in the city until the man who is high priest at that time has died. Afterward, he may return to his family and his own hometown.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So they dedicated three cities on the west side of the Jordan River : Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (that is, Hebron) in the hill country of Judah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "And beyond the Jordan east of Jericho, they dedicated Bezer in the desert plain belonging to the tribe of Reuben, Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "These were the designated cities of refuge. Any Israelite or any foreigner living among them who had accidentally killed someone could run to one of these cities for protection. He could live there safely until he had a fair trial, and unless he had been proven guilty , he could not be killed by the one seeking revenge."
+            }
+        ],
+        "21": [
+            {
+                "verse_number": "3",
+                "verse_text": "So the people of Israel obeyed Yahweh &quot;s command and gave the Levites some of their cities and pasturelands from their inheritance."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "By lot, the descendants of Gershon received thirteen cities from the tribe of Issachar, from the tribe of Asher, from the tribe of Naphtali, and from the half-tribe of Manasseh in Bashan."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Clan by clan, the descendants of Merari received twelve cities from the tribe of Reuben, the tribe of Gad, and the tribe of Zebulun."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Yahweh had commanded through Moses to draw lots to see what cities the Levites would receive. So they drew lots, and the people of Israel gave them these cities together with the pasturelands around them."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The priests, the descendants of Aaron, received thirteen cities in all, with their pasturelands."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They also received two cities from the half-tribe of Manasseh: Taanach and Gath Rimmon, along with the pastureland of each."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "The rest of the Kohathite clans received ten towns and their pasturelands."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The Levite clans of the Gershonites received two towns from the half-tribe of Manasseh: Golan in Bashan (a city of asylum for one who committed manslaughter) and Beeshterah, together with their pasturelands."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "They received three towns from the tribe of Naphtali: Kedesh in Galilee (a city of asylum for one who committed manslaughter), Hammoth Dor, and Kartan, together with their pasturelands."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "All the Gershonite clans received thirteen towns, together with their pasturelands."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Merarite clans of the remaining Levites received twelve cities in all."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "So Yahweh gave Israel all the land he had promised their ancestors. They took possession of the land and settled there."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "Yahweh kept his promise and gave them peace in the land just as he had promised to their forefathers. Not one of their enemies could stand against them."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "Yahweh didn&quot;t break a single promise that he made to the people of Israel. He faithfully kept every promise he made to them."
+            }
+        ],
+        "22": [
+            {
+                "verse_number": "1",
+                "verse_text": "Then Joshua summoned all the men of the tribes of Reuben, Gad, and East Manasseh"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "and said to them, &apos;You have done all that Moses the servant of Yahweh commanded, and you have obeyed me in everything I commanded."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Through it all, you&quot;ve never deserted your fellow Israelites and were always there to help them . You&quot;ve completed every task given to you by Yahweh your God."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Yes, he has promised peace to your fellow Israelites, and he has kept that promise. So now, return to the homeland east of the Jordan which Moses, Yahweh &quot;s servant, assigned to you."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Make sure you obey every command and instruction Moses, Yahweh &quot;s servant, gave you. Love Yahweh ! He is your God, so walk in his ways and obey his commands! Cling to him and serve him diligently with all your heart and with all your soul!&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then Joshua spoke a blessing over them and sent them on their way, and they settled there."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "To one half of the tribe of Manasseh, Moses had assigned land in Bashan. To the other half, Joshua assigned land on the west side of the Jordan with their fellow Israelites. Joshua blessed them and sent them off to their homes"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "with these words: &apos;You are free to go. You leave for your homes rich&ndash;with great herds of cattle, silver and gold, bronze and iron, and a great quantity of clothing! Share with your friends and families everything you took from your enemies.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So the tribes of Reuben, Gad, and East Manasseh left their fellow Israelites at Shiloh in Canaan and returned to Gilead, their homeland. For Moses had told them before he died, &apos; Yahweh wants you to take this land for your own.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "On their way home, the tribes of Reuben, Gad, and East Manasseh came to the town of Geliloth near the Jordan River. So they built their own large, impressive altar there."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "When the rest of the Israelites heard that the people of the tribe of Reuben, Gad, and East Manasseh had built an altar at Geliloth at the entrance to the land of Canaan,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "they gathered at Shiloh to go to war against them."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So they came to the people in the land of Gilead, to the tribes of Reuben, Gad, and East Manasseh. Phineas and the men with him said,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "&apos;We speak to you on behalf of all Yahweh &quot;s people. Why did you rebel against Yahweh and build this altar for yourselves? Why did you quit following the God of Israel and do such an evil thing?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Haven&quot;t we had enough trouble from the terrible sin we committed at Peor? There a plague came upon us even though we belong to Yahweh . To this day, our conscience is stained and we still suffer from our atrocious deeds."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "How dare you turn back from following Yahweh ! If you rebel against him today, he will be angry with everyone in Israel tomorrow."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "If you think your land is defiled, then come back to Yahweh &quot;s land, where his tabernacle stands at Shiloh . But don&quot;t rebel against Yahweh or us by building for yourself an altar."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Don&quot;t forget what happened to Achan! Yahweh told us, &quot;Destroy everything in the city of Jericho.&quot; But Achan son of Zerah did not obey Yahweh &quot;s command regarding the devoted things, and so Yahweh punished us all. Achan died because of what he did, and so did many other Israelites because of Achan&quot;s sin.&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The Reubenites, the Gadites, and the half-tribe of Manasseh answered the princes of the tribes of Israel:"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "&apos; Yahweh is the God of all gods! Yahweh is the God of all gods! We appeal to God Almighty as our witness . He knows why we did this, and we want you to know too! If we rebelled or betrayed Yahweh , then you may take our lives today."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "But we built this altar with no intention of burning any kind of sacrifices on it. If we built this altar in rebellion against Yahweh or to break our covenant with him, then may Yahweh himself punish us."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "We did build an altar, but not for burning sacrifices or making offerings."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "We built this altar to show to our people and to your people and to the generations to come that we will worship Yahweh at his tabernacle. We will bring all our offerings into Yahweh &quot;s presence there so that your children may never say to our children in the future, &quot;You have no part in the worship of Yahweh .&quot;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "We have decided among us that if that day should ever come, our descendants would reply: &quot;See the replica of the altar of Yahweh , which our fathers made here at the border between us &ndash;not for burnt offerings or sacrifices, but as a witness that we both serve the same God .&quot;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Far be it from us to rebel against Yahweh or to turn away from following him this day by building an altar on which to present offerings or make sacrifices to Yahweh our God. We would never build an altar to take the place of the altar which stands before his tabernacle, the place of his presence .&apos;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "When Phineas the priest, and the princes of the tribes heard the explanation of the tribes of Reuben, Gad, and East Manasseh, they were satisfied."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Phineas son of Eleazar the priest said to them, &apos;Now we know that Yahweh is among us! Since you have not rebelled against him, you have indeed saved the Israelites from Yahweh &quot;s punishment.&apos;"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Then Phineas and the ten princes of the western tribes returned to the land of Canaan and told the people of Israel everything that happened."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "The outcome pleased the Israelites and they praised God. They spoke no more of going to war against the eastern tribes to destroy the land where they had lived."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "The Reubenites and the Gadites called the altar Witness , for they said, &apos;The altar stands as a witness to us all that Yahweh is God.&apos;"
+            }
+        ],
+        "23": [
+            {
+                "verse_number": "1",
+                "verse_text": "Many years had passed since Yahweh had given Israel rest from all their enemies, and Joshua was very old."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So Joshua called together all the Israelites, including all their leaders&ndash;elders, judges, and officials&ndash;and told them, &apos;I&quot;m now very old and don&quot;t have much longer to live ."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Yahweh your God has shown you his power and fought against your enemies for you. You have seen all the wonders that he has done to all these nations because he loves you."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "See, I have assigned to your tribes all the land from the Jordan River in the east to the Mediterranean Sea in the west. I have given you the land of all the nations that we&quot;ve already conquered as an inheritance, and also the land of those nations that we&quot;ve yet to conquer."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Yahweh your God will absolutely keep his promises to you. He will drive out all your enemies and make them retreat before you so that you will possess their land."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So be very strong and steadfast; be careful to obey fully what is written in the Scroll of the teaching of Moses, without deviating from it."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Do not intermingle with the nations that are left among you nor speak the names of their gods when you take an oath. And by all means don&quot;t worship or pray to them."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "As you have done until now, cling tightly to Yahweh , for he is your God."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Yahweh has driven out great and powerful nations before you! No one was able to withstand you,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "for Yahweh your God fights for you as he promised he would! That is why just one of you causes a thousand of our enemies to run away."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Above all else, keep watch over your hearts, so as to always love Yahweh your God."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;But if you ever turn away and make alliances with the nations that remain in your midst, and establish friendly relations with them and intermarry,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "then you may be sure that Yahweh your God will no longer drive them out before you. Instead they will become a snare and a trap for you! They will be like whips on your backsides and thorns in your eyes until you perish from the good land that Yahweh your God has given you."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;Now I am about to go the way of all humanity. You know with all your heart and soul that not one promise of Yahweh your God has failed. Without a doubt, every promise he made to us he has kept; he has fulfilled them all."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Just as he has kept every wonderful promise he ever made to you, so Yahweh your God will carry out every threat and will obliterate you completely from this good land which he has given you."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "If you break the covenant our God, Yahweh , made with you and worship other gods and bow down to them, his anger will blaze against you. He will punish you, and he will remove you from the face of this good land he has given you.&apos;"
+            }
+        ],
+        "24": [
+            {
+                "verse_number": "1",
+                "verse_text": "Joshua assembled all Israel&quot;s tribes at Shechem. He summoned all the leaders&ndash;elders, judges, and officials of Israel&ndash;and they all stood in the presence of God."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Then Joshua said to them all: &apos;This is what Yahweh the God of Israel has to say to you: &quot;Long ago, your forefathers&ndash;Terah, father of Abraham and father of Nahor&ndash;lived beyond the Euphrates and worshiped other gods."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I took your father Abraham from that land and led him through all the land of Canaan. I gave him a son, Isaac, and through Isaac I multiplied his descendants."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "I gave Isaac two sons, Jacob and Esau. To Esau and his descendants I gave the hill country of Edom as their inheritance, while Jacob and his family went down to Egypt."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When the time of their captivity was complete , I sent Moses and Aaron to Egypt to deliver them . I struck the land with great plagues, and afterward I led you out from there."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "I freed your forefathers from Egypt and brought you to the Red Sea, but the Egyptians pursued them with chariots and horsemen."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then our people cried out to Yahweh for help, and he put a thick, dark cloud between you and the Egyptians. When the Egyptians attempted to follow them , I caused the sea to roll over them and drown them. You saw with your own eyes what I did to the Egyptians. Then you lived in the desert for many years."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "I brought you to the land of the Amorites, who lived east of the Jordan. When they fought against you, I gave them into your hands. As you advanced, I gave you victory over them, and you took possession of their land."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&quot;Later, when Balak son of Zippor, king of Moab, opposed Israel, he sent for the prophet Balaam son of Beor to come and curse you."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But I refused to listen to Balaam. Instead he had to prophesy my blessings over you! I rescued you from his power."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&quot;Later, after you crossed the Jordan miraculously, you faced another impossibility &ndash;Jericho! The lords of Jericho, as well as the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, fought with you, but I gave you victory over them all!"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "I sent the hornet ahead of you to run off the two Amorite kings. Your weapons and strength had nothing to do with it!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "I gave you land on which you had not labored and cities that you had not built. You are now living in the land I gave you. You are eating grapes from vines that others planted and olives from trees planted by the people who lived there before you.&quot;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;Now therefore, worship Yahweh with holy awe and serve him in authentic love and loyalty. Remove from your hearts every false god to whom your fathers bowed down beyond the Euphrates and in Egypt and serve Yahweh ."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "If it seems wrong in your eyes to serve Yahweh , then make your decision today which gods you will worship&ndash;the gods which your ancestors worshiped in Mesopotamia or the gods which the Amorites worship in the land where you are now living&ndash;but I and my family, we will give our lives to worship and serve Yahweh !&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The people responded enthusiastically : &apos;Far be it from us to abandon Yahweh and serve other gods!"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Our God, Yahweh , set us and our fathers free from slavery in the land of Egypt, the house of bondage. He performed these many great signs and wonders before our eyes. Yahweh supernaturally protected us throughout our entire journey as we passed through the territory of other nations."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "And as we advanced, Yahweh powerfully drove out from before us all the people, including the Amorites who inhabited the country. Yes, Joshua! We, too, will worship and serve Yahweh , for he alone is our God.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Joshua warned the people, &apos;Don&quot;t be so quick to say, &quot;We will worship and serve Yahweh ,&quot; for he is a holy God. And he will tolerate no rivals. God will not forgive the sin of unfaithfulness to him."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "If after Yahweh has been gracious to you, you turn and forsake him to worship other gods, then he will turn and deal harshly with you and totally consume you!&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "&apos;No, no!&apos; the people responded. &apos;We promise to worship and serve Yahweh !&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Then Joshua said to them, &apos;You are witnesses against yourselves that you have chosen to serve Yahweh .&apos; &apos;Yes, we are witnesses,&apos; they responded."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "&apos;Now then,&apos; said Joshua, &apos;throw away these foreign gods that are among you, and yield your hearts fully to Yahweh the God of Israel!&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "And the people promised Joshua, &apos;We really will worship and serve our God, Yahweh , and listen to his voice.&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "On that day when the people were gathered at Shechem, Joshua made a covenant between them and Yahweh , which contained laws the people were to obey."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Joshua recorded all this in a book of divine instruction. Then he set up a large stone memorial at the tent pole near the holy place of Yahweh ."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Joshua said to all the people, &apos;Look at this stone! It will serve as a witness, for it heard all the words that Yahweh spoke to us; it will be a witness against you if you rebel against our God.&apos;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Joshua then dismissed the people, each to their own inheritance."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Some time later, Joshua son of Nun, the servant of Yahweh , died at the age of one hundred and ten."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "They buried him on his own property, at Timnath Serah in the hill country of Ephraim, north of Mount Gaash."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Israel was faithful to serve Yahweh during the lifetime of Joshua and the lifetime of the elders who lived on after Joshua, those who had experienced all the miracles that Yahweh had done for Israel."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "They buried Joseph&quot;s bones, which the Israelites had brought up from Egypt, at Shechem, in the tract of land that Jacob bought for a hundred pieces of silver from the children of Hamor, Shechem&quot;s father. So the land became the inheritance of Joseph&quot;s descendants."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "The chief priest Eleazar son of Aaron also died. They buried him on the hill of his son Phineas, which had been assigned to him in Ephraim."
+            }
+        ]
     }
 }

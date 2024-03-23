@@ -381,8 +381,9 @@ def run_version(version):
     run(version)
 
 def run_all():
-    #versions_to_run = ["AMP", "AMPC", "ASV", "CEB", "ERV", "GNBDC", "GNT", "NET", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
-    versions_to_run = ["CEB", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
+    start_time = time.time()
+    versions_to_run = ["AMP", "AMPC", "ASV", "CEB", "ERV", "GNBDC", "GNT", "NET", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
+    #versions_to_run = ["CEB", "TPT","EASY","CEV","GW","MSG","YLT98","FBV","ICB"]
 
     threads = []
     # Create and start a thread for each version
@@ -395,12 +396,16 @@ def run_all():
     # Wait for all threads to finish
     for thread in threads:
         thread.join()
+    
+    end_time = time.time()
 
-    print("All threads have finished.")
+    elapsed_time = end_time - start_time
+
+    print(f"All threads have finished. Program took: {elapsed_time} seconds( {elapsed_time//60} mins to run {len(versions_to_run)} versions.)")
 
 if __name__ == "__main__":
     run_all()
-    #version = str(input("What version do you want? "))
+    """    #version = str(input("What version do you want? "))
     #run(version)
     #print(letterSet)
     #run("AMP")
@@ -412,4 +417,5 @@ if __name__ == "__main__":
     #run("GNT")
     #run("NET")
     #run("TPT")
+    """
     pass

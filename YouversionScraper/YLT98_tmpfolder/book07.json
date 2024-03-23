@@ -1,25 +1,2474 @@
 {
     "Judges": {
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [],
-        "7": [],
-        "8": [],
-        "9": [],
-        "10": [],
-        "11": [],
-        "12": [],
-        "13": [],
-        "14": [],
-        "15": [],
-        "16": [],
-        "17": [],
-        "18": [],
-        "19": [],
-        "20": [],
-        "21": []
+        "1": [
+            {
+                "verse_number": "1",
+                "verse_text": "And after Joshua died, the twelve tribal leaders consulted Yahweh for a prophetic sign and asked, &apos;Which tribe do you choose to be the first to lead the attack against the Canaanites?&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Yahweh answered them, &apos;Let Judah take the lead."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "I have delivered the land into their hands.&apos; Judah then enlisted support from their brother-tribe Simeon, saying, &apos;Follow us into our territory and fight with us against the Canaanites; then we will do the same for you.&apos; So the Simeonites agreed and joined them."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When Judah advanced, Yahweh gave them victory over the Canaanites and Perizzites, and they defeated ten thousand men at Bezek."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Adoni-Bezek confessed, &apos;I once had seventy kings picking up scraps under my table with their thumbs and big toes cut off. Now God has paid me back for what I did to them!&apos; They took him captive to Jerusalem, where he died."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The men of Judah attacked Jerusalem and captured it. They killed the inhabitants of the city and set it on fire."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Afterward, the men of Judah continued their advance and attacked the Canaanites living in the hill country, the southern desert region, and the western lowlands."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Under Caleb&quot;s leadership , they fought against the Canaanites living in Hebron, formerly known as Kiriath Arba, and killed the three Canaanite families descended from Sheshai, Ahiman, and Talmai."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "From there, they attacked the city of Debir, formerly known as Kiriath Sepher."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Caleb announced, &apos;I will give my daughter Achsah in marriage to the man who attacks and captures Kiriath Sepher.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Caleb&quot;s nephew Othniel the Kenizzite captured Kiriath Sepher; and Caleb gave him his daughter Achsah in marriage."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "One day, Othniel nagged her to ask her father for a field as a wedding gift, so she went to him . When she got down from her donkey, Caleb said to her, &apos;What can I do for you?&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;Please, give me a blessing,&apos; she replied. &apos;I know you&quot;ve already given me some arid desert land, but please give me a field with springs of water.&apos; So Caleb blessed her with a field that had both upper and lower springs."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The descendants of Moses&quot; father-in-law, the Kenite, joined the people of Judah, and went with them from Jericho , the City of Date Palms, to the Judean wilderness. The Kenites had settled there among the Amalekites at Arad."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Judah and their brother-tribe Simeon advanced to the city of Zephath and wiped out the Canaanites living there. That&quot;s why they now call the city Hormah."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The men of Judah captured Gaza, Ashkelon, Ekron, and the territories surrounding each of these cities."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Yahweh &quot;s presence and power were with the men of Judah and they were able to conquer the hill country, but because the people of the lowlands had war chariots, they failed to drive them out."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Because Caleb conquered the three giants , the sons of Anak, he was given the city of Hebron."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The tribe of Benjamin, however, failed to conquer the Jebusites living in Jerusalem. So to this day, the Jebusites live among the Benjamites in Jerusalem."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The spies confronted a man coming out of Bethel and they said to him, &apos;Show us the way to enter the city and we will treat you well.&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "So he showed the spies a secret entrance into the city, and they killed everyone living in Bethel with the sword except that man and his family."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Later the man and his family moved to the land of the Hittites and built a town. The new town has kept the name Luz to this day."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The Canaanites were determined to stay in their land, so the men of Manasseh did not conquer the cities of Beth Shean, Taanach, Dor, Ibleam, Megiddo, and their surrounding villages."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "And whenever Israel gained the upper hand, they subjected the Canaanites to forced labor; but they did not completely drive them out."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "The tribe of Ephraim failed to drive out the Canaanites living in Gezer, so the Canaanites continue to live there among them."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "The tribe of Zebulun failed to drive out the Canaanites living in Kitron or Nahalol, so the Canaanites continue to live there among them."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "The tribe of Asher failed to drive out the Canaanites living in Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob,"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "so the people of Asher live among the Canaanites residing in the land because they did not conquer them."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Likewise, the tribe of Naphtali failed to drive out the Canaanites living in Beth Shemesh or Beth Anath, so they live among the Canaanites residing in the land. However, they forced the inhabitants of Beth Shemesh and Beth Anath to serve them."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "The tribe of Dan was least successful . The Amorites forced them back into the hills and they could no longer live in the valley."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "The Amorites persisted in living on Mount Heres, in Aijalon, and in Shaalbim. But when the descendants of Joseph grew stronger, they overpowered the Amorites and ruled over them."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "The boundary of the Amorites ran from Scorpion Pass to Sela and continued northward from there."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": "1",
+                "verse_text": "The Angel of Yahweh went up from Gilgal to Bokim and said to the people: &apos;I rescued you from Egypt and brought you into the land I had promised to your ancestors. I said, &quot;I will never, never break my covenant with you,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "and you are never, never to make a covenant with the inhabitants of this land. You must tear down their altars to their false gods !&quot; But you have not listened to my voice. See what you have done!"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Therefore listen to what I&quot;m telling you&ndash;I won&quot;t drive them out before you. Instead, they will be thorns in your sides, and their gods will become a trap for you!&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "After the Angel of Yahweh had delivered his message to all the Israelites, the people burst out with loud, bitter weeping."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So they named that place Bokim, and in that place of tears they offered sacrifices to Yahweh ."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Then Joshua released the people to go take possession of their territorial inheritance."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The people faithfully worshiped Yahweh all the days of Joshua and through all the days of the elders who outlived him. They had all experienced the many astounding miracles Yahweh had done for Israel."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Yahweh &quot;s servant, Joshua son of Nun, died at the age of one hundred and ten"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "and the people buried him on his own parcel of land in the hill country of Ephraim at Timnath Serah, north of Mount Gaash."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Eventually, after that entire generation died and was buried, the next generation forgot Yahweh and all that he had done for Israel."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The Israelites did what was evil in the sight of Yahweh and worshiped the images of Baal."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Israel deserted Yahweh , the God of their ancestors, who had rescued them from Egypt. They found new gods to worship&ndash;the gods of the people around them. They bowed down to them and provoked Yahweh to anger."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "They completely abandoned Yahweh to serve Baal and the images of the goddess Astarte."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "They caused the anger of Yahweh to be kindled against Israel, and he handed them over to invaders, who plundered them. He surrendered them to their enemies on all sides, and they could no longer defend themselves."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Every time they went into battle, Yahweh raised his hand against them to their undoing, just as he had warned them, and they were in great distress."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Nevertheless, Yahweh raised up deliverers from among them who rescued them from the marauding bands."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Rather than listen to their deliverers, they prostituted themselves to other gods and bowed down to worship them. This new generation quickly turned from the good path and refused to be like their ancestors who actually listened to Yahweh &quot;s commands."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Yet, whenever Yahweh raised up a hero for them, his presence and power were with that leader, and he would rescue the people from their enemies as long as that deliverer lived. Yahweh had mercy and pitied them because of their cries of distress and groanings under the grip of their oppressors."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "But when their champion died, then the people would relapse into their former idolatry. They would worship other gods, bow down to them, and refuse to give up their evil ways. And each generation behaved worse than the one before it."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Then Yahweh became furious with Israel, saying, &apos;Because this nation has violated the covenant that I commanded their fathers to keep, and because they no longer listen to my voice,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "I will no longer drive out any of the nations that remained in the land after Joshua died.&apos;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Over and over Yahweh tested Israel to see if they would faithfully walk in his ways, as their ancestors had done."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So Yahweh intentionally left pagan nations in the land instead of driving them all out at once, and he did not give Joshua the victory over them, nor did he drive them out after Joshua&quot;s death ."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": "1",
+                "verse_text": "Here is a list of the nations that Yahweh permitted to remain in the land so he could use them to test the Israelites who had not known what it was like during the Canaanite wars."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He wanted the succeeding generations of Israel, who had not known war before, to learn the art of warfare."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So he left in the land the five Philistine principalities and all the Canaanites, Sidonians, and Hivites who lived on Mount Lebanon from Mount Baal Hermon as far as Lebo Hamath."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They remained in the land to test Israel to see if they would obey Yahweh &quot;s commands that Moses had given to their ancestors."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So the Israelites settled among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "They took their daughters in marriage and gave their own daughters to their sons; and the Israelites served their false gods."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The Israelites did what was evil in Yahweh &quot;s sight. They ignored Yahweh their God, and they served the Baal gods and the Asherah goddesses."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Therefore Yahweh &quot;s blazing anger rose up against them. He surrendered them to Cushan-Rishathaim, the king of Mesopotamia. He kept the Israelites in bondage to him for eight years."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then the Israelites, with shattered hearts , cried out to Yahweh for mercy , and he answered them by raising up a champion-deliverer to rescue them, Othniel. He was Caleb&quot;s nephew, the son of his younger brother Kenaz."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And the Spirit of Yahweh was upon him and empowered him to liberate Israel from bondage . He became Israel&quot;s champion and went out to war, and Yahweh delivered into his hands Cushan-Rishathaim, the king of Mesopotamia. Othniel overpowered him,"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "and after the land had peace for forty years, Othniel the son of Kenaz died."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The Israelites again did what was evil in Yahweh &quot;s sight, and because they did what was offensive to Yahweh , he gave King Eglon of Moab power over Israel."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Eglon formed an alliance with the Ammonites and Amalekites, and they attacked and defeated Israel. Eglon captured Jericho , the City of Date Palms."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "King Eglon of Moab kept the Israelites in bondage to him for eighteen years."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then the Israelites, with shattered hearts , cried out to Yahweh for mercy, and Yahweh raised up a champion-deliverer to rescue them&ndash;Ehud, who was left-handed. He was the son of Gera from the tribe of Benjamin. One day, the Israelites sent him to present tribute to King Eglon of Moab. After all the king&quot;s servants had left,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Ehud had made for himself a two-edged sword over a foot long, which he strapped under his coat to his right thigh."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He and his entourage came before King Eglon, who was a very fat man, to present the tribute."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "After the formal presentation of the tribute, he told the men who accompanied him to go back home."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Ehud went with them part of the way , but he turned back at the carved stones near Gilgal. He returned to Eglon and said, &apos;Your Majesty, I have a secret message for you.&apos; The king said to his attendants, &apos;Leave us!&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Ehud approached King Eglon while he was sitting alone in his cool upper room and said to him, &apos;I have a message from God for you.&apos; As the king rose from his throne,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Ehud reached beneath his robe with his left hand for the sword strapped to his right thigh, and he plunged it deep into Eglon&quot;s belly!"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "And the hilt also went in after the blade, and the fat closed over the blade. Ehud was unable to pull out the sword, and the dung came out."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Stepping out of the king&quot;s upper room into the portico, Ehud shut and locked the doors behind him."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "After he had slipped away, the king&quot;s servants came to the doors of the upper room and discovered they were locked. So they told themselves, &apos;He must be on the toilet.&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They waited and waited, but still the king did not emerge. Embarrassed, they finally took their key and unlocked the doors. And when they opened the doors, there was their master sprawled out on the floor, dead!"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "But Ehud had escaped while they stood there wondering what to do. He fled beyond the carved stones and made it to Seirah."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "When he arrived back in the land , he sounded the war trumpet with a loud blast and rallied the people in the hill country of Ephraim. The Israelites went down from the hills to fight against the Moabites with Ehud leading the charge."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "&apos;Follow me closely,&apos; he said, &apos;and pursue them, for Yahweh has delivered your enemies, the Moabites, into your hands!&apos; So they followed his lead and secured the fords of the Jordan opposite the land of Moab and did not let anyone cross."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "In the battle that ensued, they killed nearly ten thousand able-bodied men&ndash;brave warriors of Moab, and not one escaped."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "On that day, Moab surrendered to Israel, and the land had peace for eighty years."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "After Ehud, God raised up Shamgar son of Anath, who killed six hundred Philistines with nothing but an ox-goad, and Shamgar the deliverer rescued Israel."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": "1",
+                "verse_text": "After Ehud died, the Israelites returned to doing evil before the eyes of Yahweh ,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "so he surrendered them to King Jabin of Canaan, who ruled from Hazor. His army commander Sisera established his base in Harosheth of the Gentiles."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Jabin had nine hundred chariots with iron-rimmed wheels, and he ruthlessly oppressed Israel for twenty years. Then the Israelites, with shattered hearts , cried out to Yahweh for help."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "God raised up Deborah to lead Israel as a champion-deliverer. She was a prophetess and a fiery woman."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "She presided as Israel&quot;s judge under the Palm of Deborah, a certain palm tree between Ramah and Bethel in the hill country of Ephraim, and the people of Israel came to her for wise decisions."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "One day she sent for Barak son of Abinoam from the city of Kedesh in Naphtali and said to him, &apos; Yahweh , the God of Israel, commands you: &quot;Go, deploy ten thousand men from the tribes of Naphtali and Zebulun, and march to Mount Tabor."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "I will draw Sisera, the commander of Jabin&quot;s army, to fight against you at the Kishon River. He will have his many chariots and soldiers, but I will give you victory over him.&quot; &apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Barak replied, &apos;I will go if you go with me, but if you don&quot;t go with me, I won&quot;t go either.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Very well,&apos; she answered. &apos;I will go with you, but you will receive no glory in the victory because Yahweh will hand over Sisera to a woman.&apos; So Deborah set off for Kedesh with Barak."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Barak summoned the tribes of Zebulun and Naphtali to Kedesh, and ten thousand warriors followed him and Deborah also."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Now Heber the Kenite migrated away from the other Kenites (the descendants of Hobab, Moses&quot; father-in-law) and was living close to Kedesh near the oak tree at Zaanannim."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When Sisera found out that Barak son of Abinoam was marching toward Mount Tabor,"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "he gathered together his nine hundred iron-rimmed chariots and all his soldiers and sent them from Harosheth of the Gentiles to the Kishon River."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then Deborah prophesied to Barak, &apos;Today, Yahweh has given you victory over Sisera! Go! Yahweh is marching out before you!&apos; Immediately, Barak charged down from Mount Tabor with his ten thousand warriors."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "And Yahweh threw Sisera and his army into confusion before the onslaught of Barak and his men. Sisera and all his chariots and men were overwhelmed. He leaped from his chariot and fled on foot."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Barak pursued the other chariots and the army to Harosheth of the Gentiles until Sisera&quot;s whole army was killed by the sword, and only Sisera survived."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He ran for his life to the tent of Jael wife of Heber the Kenite, for there was friendship between King Jabin of Hazor and the family of Heber the Kenite."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Jael came out of her tent to greet Sisera and said to him, &apos;Come in, my lord, come in here. You have nothing to fear.&apos; As soon as he entered her tent, she hid him under a blanket."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Sisera said to her, &apos;I&quot;m so thirsty. Please let me have some water.&apos; So she opened a skin of milk, gave him some to drink, and covered him again."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "He said to her, &apos;Stand at the entrance of your tent. If anybody comes and asks you if there is anybody here, tell them, &quot;No.&quot; &apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Exhausted, he fell fast asleep under the blanket. While he slept, Jael wife of Heber took a tent peg in one hand and a hammer in the other and tiptoed over to where he was lying. And with a crushing blow , she drove the tent peg through his temple until it went down into the ground&ndash;he was dead!"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Just then, Barak arrived in pursuit of Sisera. Jael went out of her tent to greet him and said, &apos;Come, let me show you the man you&quot;re looking for.&apos; He went inside with her, and there was Sisera lying dead with the tent peg through his temple."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "On that day God humiliated King Jabin of Canaan before the Israelites."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The hand of the Israelites pressed harder and harder against King Jabin of Canaan until there was nothing left of him but a memory !"
+            }
+        ],
+        "5": [
+            {
+                "verse_number": "1",
+                "verse_text": "Deborah and Barak son of Abinoam sang this victory song:"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Blessings be to Yahweh , who gave us victory today! For the people answered the call, Open your ears, you princes! For I will sing a song to Yahweh . I will make music to Yahweh , the God of Israel. and when you marched from Edom&quot;s plains, the earth trembled, the sky poured, the clouds burst, in the presence of Yahweh , the Glorious One of Sinai, in the presence of Yahweh , the God of Israel! and in the days of Jael, no one felt safe ; and those who dared to travel took back roads. hard to find in Israel, until I, Deborah, took a stand! Of forty thousand men in Israel, with the people who gladly volunteered. Praise Yahweh ! who ride on your white donkeys, sitting on your fancy saddles! Declare it, you poor the righteous triumph of his villagers in Israel! Then the people of Yahweh marched out from their city gates! Awake, awake! Break out in a song! Arise, O Barak, arise! Son of Abinoam, arise! Carry off your captives and lead them all away ! Yahweh &quot;s people came to me to fight against the mighty ones. your brother Benjamin joined your ranks. Issachar stood fast alongside Barak, rushing into the valley under Barak&quot;s command, while among Reuben&quot;s clans there was great searching of heart. Among Reuben&quot;s clans there was great searching of heart. and Dan lingered near their ships, while Asher kept their distance and stayed by the coast, safe and secure in their harbors. they battled by the stream of Megiddo. The kings of Canaan fought, but they took away no spoils of silver. moving across the sky, shining as they fought against Sisera. I shall march and keep marching on. Here they come galloping on, &apos;and speak a double curse over those who live there. For they did not come to help Yahweh &quot;s cause nor rally to Yahweh &quot;s side to fight the mighty.&apos; wife of Heber the Kenite&ndash; the most fortunate of Bedouin women. but she gave him milk; she brought him buttermilk in a beautiful bowl. and a workman&quot;s hammer in the other, she struck Sisera and pierced his skull; and he lay still before Jael. Sprawled on the tent floor, he bit the dust at her feet&ndash; deader than a doornail! she gazed from behind the lattice and lamented: &apos;Why is the clatter of his chariot so late in coming? Why are his horses so slow to return?&apos; indeed, she even thought to herself: a slave-girl or two for each man, colorful cloth and garments as plunder for Sisera, two colorful garments, embroidered, and richly embroidered garments for my neck.&apos; But may those who love you shine like the sun, Then the land had peace for forty years. and Israel threw off what once held us back. the roads were deserted, I arose as a mother in Israel! which brought war into the land. not a shield or spear was seen. who must walk wherever you go! as they proclaim the victories of Yahweh , Leaders came from Manasseh, and from Zebulun, those who hold the ruler&quot;s staff. listening for the shepherds to whistle for their flocks? and risked it all on the heights of the battlefield. the ancient Kishon River contended with them . So be strong, O my soul! steeds and stallions stampeding on, but they all got stuck in the mud ! she drove the peg through his temple. bright in its strength as it crosses the sky!"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Listen, you kings!"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Yahweh , when you advanced from Seir,"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "and the mountains melted,"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "In the days of Shamgar son of Anath,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Champions were hard to find &ndash;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "The Israelites chose new gods,"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "My heart is with Israel&quot;s princes,"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Declare it, you rich"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Listen to the sound of singers at the well,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Lead on, O Deborah, lead on!"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The remaining nobles marched out,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "You men of Ephraim came out to the valley,"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Issachar&quot;s princes rallied to Deborah,"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Reuben, why do you remain by the sheepfolds,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Gad played it safe and stayed east of the Jordan,"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "But Zebulun and Naphtali defied death"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "At Taanach foreign kings came and clashed;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Even the stars in the sky joined in the fight,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "The flooding Kishon swept them away&ndash;"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Then thundered the horses&quot; hooves, pulling the chariots of the kings of Canaan ."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "&apos;Speak a curse over Meroz,&apos; says the angel of Yahweh ,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The most blessed of all women is Jael,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Sisera came to Jael&quot;s tent and asked for water,"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "With a tent peg in one hand"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "She shattered his skull,"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Sisera&quot;s mother waited for him at her window;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "The wisest of her princesses replied;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "&apos;They must be gathering and dividing the spoils:"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Yahweh , may all who hate you perish in the same way!"
+            }
+        ],
+        "6": [
+            {
+                "verse_number": "1",
+                "verse_text": "Once again the Israelites did evil in the sight of Yahweh , so Yahweh handed them over to the Midianites for seven years."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "The crushing power of the Midianites overwhelmed Israel, forcing the Israelites to make hiding places for themselves in caves and mountain strongholds."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Whenever the Israelites planted any crops, and before they could reap the harvest , the Midianites would come with the Amalekites and other desert tribes and invade the land."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They would camp in their fields and destroy their crops as far as Gaza. They would seize all their sheep, cattle, and donkeys. They left nothing for the Israelites to live on."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When they invaded the land with their livestock and camels and tents, they were as numerous as locusts, leaving the land desolate."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Israel was impoverished and helpless against them. Then the Israelites, with shattered hearts , cried out to Yahweh for mercy ."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "When the Israelites, with shattered hearts , cried out to Yahweh because of the Midianite oppression,"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "he sent them a prophet with this message: &apos;Listen to the words of Yahweh , the God of Israel: &quot;I delivered you from Egypt and from a life of slavery."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "I snatched you from the brutality of the Egyptians. I rescued you from the people who invaded this land and fought against you. I drove them out as you advanced, and I gave their land to you."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "I told you that I am Yahweh your God, and that you must not worship the false gods of the Amorites, in whose land you dwell. But you did not listen to my voice.&quot; &apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "The Angel of Yahweh came to the village of Ophrah and sat down under the oak tree that belonged to Joash, a man of the clan of Abiezer. His son Gideon was secretly threshing some wheat in a winepress so that the Midianites would not see him."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Yahweh &quot;s Angel suddenly appeared to Gideon and said, &apos; Yahweh &quot;s presence goes with you, man of fearless courage!&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;Me?&apos; Gideon replied. &apos;But sir, if Yahweh is truly with us, why have all these troubles come to us? Where are all his miracle-wonders that our fathers told us about when they said, &quot;Did not Yahweh deliver us out of Egypt?&quot; But now Yahweh has abandoned us and put us under the power of the Midianites.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then Yahweh himself faced Gideon directly and said, &apos;Am I not sending you? With my presence you have all you need . Go in the strength that you now have and rescue Israel from Midian&quot;s power!&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Gideon said to him, &apos;But Lord, how could I ever rescue Israel? Of all the thousands in Manasseh, my clan is the weakest, and I&quot;m the least qualified in my family.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Yahweh replied, &apos; My presence and my power will be with you. Believe me, Gideon , you will crush the Midianites as easily as if they were only one man!&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Then Gideon said, &apos;If it&quot;s really true that you will go with me and that I have found grace before your eyes, then show me a miracle-sign to prove that you are really Yahweh speaking with me."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Don&quot;t leave until I return with my offering to you.&apos; And he answered, &apos;I&quot;ll wait until you return.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So Gideon went and cooked a young goat and many loaves of unleavened bread. He placed the meat in a basket and the broth in a pot and took his offering and presented it to him under the oak tree."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "God&quot;s Angel said to Gideon, &apos;Place the meat and the bread on that rock and pour the broth over them.&apos; And Gideon did so."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Then Yahweh &quot;s Angel reached out the staff he was holding and touched the meat and the bread. All at once, supernatural fire sprang up from the rock and burned up the meat and the bread. Then the Angel of Yahweh vanished from his sight."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Immediately, Gideon realized that he had seen the Angel of Yahweh ! Terror stricken , he said, &apos;Oh, Lord Yahweh ! I have seen the Angel of Yahweh face-to-face!&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "But Yahweh spoke to him and said, &apos;Be at peace. Don&quot;t be afraid. You will not die.&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "So Gideon built an altar to Yahweh there and named it &apos;In Yahweh there is Peace.&apos; (The altar is still standing at Ophrah, which belongs to the clan of Abiezer.)"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "That night, Yahweh spoke to Gideon and said, &apos;Take your father&quot;s bull and the second bull that is seven years old, and go and demolish your father&quot;s altar to Baal. And cut down the tree of the goddess Asherah, which is beside it."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "And in their place, on top of the stronghold, build a well-constructed altar to Yahweh your God. Use the Asherah tree you have cut down for firewood. Then take the second bull and burn it whole as an offering.&apos;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "So Gideon took ten of his servants and did what Yahweh had told him. Because he feared both his family and the men of the town he did it at night rather than in the daytime."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "When the people of the town got up early the next morning, they found the altar to Baal and the symbol of Asherah cut down, and the second bull burned on the new altar that Gideon had built there."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "They asked each other, &apos;Who did this?&apos; After investigating thoroughly, they concluded that it was the work of Gideon son of Joash."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Enraged, they demanded of Joash, &apos;Bring your son out here and we will kill him! He tore down the altar to Baal and chopped down the Asherah tree beside it.&apos;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "But Joash said to all those who confronted him, &apos;Does Baal need you to fight his battles? Are you really going to rescue him? I will kill anyone who stands up for Baal before morning. If Baal is a god, let him fight his own battles and defend his own altar!&apos;"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "From then on, Gideon&quot;s nickname was &apos;Jerubbaal,&apos; that is to say, &apos;Let Baal contend against him,&apos; because he broke down his altar."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Now all the Midianites, the Amalekites, and the people of the East formed an army. They crossed the Jordan and camped in the Valley of Jezreel to fight against Israel ."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Then the Spirit of Yahweh clothed himself in Gideon and enveloped him ! Gideon sounded a blast of the shofar to call the men of the clan of Abiezer to follow him."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "He sent messengers throughout the territory of both parts of Manasseh, and throughout the territory of Asher, Zebulun, and Naphtali&ndash;to call them to follow Gideon into battle. And they all came to join him."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Gideon said to God, &apos;If you have really chosen me to rescue Israel, as you said,"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "then give me proof . Here&ndash;I am placing a wool fleece on the threshing floor. If in the morning the dew is only on the wool but not on the ground around it, then I will know for sure that I&quot;m the one you have chosen to rescue Israel, as you said.&apos;"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "And that is exactly what happened. When Gideon got up early the next morning, he squeezed the fleece and wrung out enough dew to fill a bowl."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "Then Gideon said to God, &apos;Don&quot;t be angry with me; let me speak just once more. Please let me ask you for one more sign. This time let the fleece be dry, and the ground wet.&apos;"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "That night God did what Gideon had asked. The next morning the fleece was dry, but dew covered the ground around it."
+            }
+        ],
+        "7": [
+            {
+                "verse_number": "1",
+                "verse_text": "Now, the Baal-Fighter (that is, Gideon) and his men rose early and encamped by the Spring of Trembling. The Midianites had encamped in the valley to the north, below Moreh."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Yahweh spoke to Gideon: &apos;You have too many in your army. If I give them victory over the Midianites, they might claim credit for themselves at my expense, thinking that they had won the victory on their own."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Announce to your men, &quot;All who are trembling and afraid, hurry back home and leave Mount Gilead!&quot; &apos; So twenty-two thousand went back home, and only ten thousand stayed with Gideon."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then Yahweh spoke to Gideon again, &apos;You still have too many men. Take them down to the water, and I will test them for you there. If I tell you a man should go with you, he will go. If I tell you a man should not go with you, he will not go.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "So Gideon brought the soldiers down to the water, and Yahweh said to him, &apos;Separate those who drink from their cupped hands and drink as a dog laps from those who kneel down to drink.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Of the ten thousand men, only three hundred lapped water from their cupped hands; all the others knelt to drink."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Then Yahweh told Gideon, &apos;I will give you victory over the Midianites with the three hundred men who cupped their hands and drank. Tell everyone else to go home.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So Gideon sent all the Israelites home except the three hundred, who kept the supplies and shofars of those who had left. Now the Midianites were camped down below in the valley."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "That night Yahweh commanded Gideon, &apos;Get up and attack the camp; I am giving you victory over the Midianites!"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But if you are afraid to engage them, first go down to the camp with your servant Purah."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Listen to what they are saying, and then you will be brave and have the courage to attack.&apos; So Gideon and his servant Purah went down and approached the outposts of the enemy camp."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The Midianites, the Amalekites, and the desert tribesmen were spread out in the valley like a swarm of locusts. They had as many camels as there were grains of sand on the seashore."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "As soon as Gideon arrived, he heard an enemy soldier telling a friend about a dream. He was saying, &apos;Well, I had a dream of this huge commotion in our camp. I dreamed a round loaf of barley bread came whirling into our camp and leveled a tent. It hit the tent so hard it turned it upside down, and the tent collapsed on the ground.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "His friend interpreted the dream and said, &apos;Your dream symbolizes the sword of the Israelite, Gideon son of Joash! It can&quot;t mean anything else! God has given him victory over Midian and our whole army!&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "When Gideon heard about the man&quot;s dream and what it meant, he fell to his knees and worshiped Yahweh . Then he went back to the Israelite camp and shouted, &apos;Come on, it&quot;s time to strike! Yahweh is giving you victory over the Midianite army!&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "He divided his three hundred men into three groups and gave each man a shofar and a clay jar hiding a torch inside it."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He told them, &apos;Follow me! When I get to the edge of the camp, watch me closely and do exactly what I do."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When my group and I blow our shofars, then you blow yours all around the camp and shout, &quot;For Yahweh and for Gideon!&quot; &apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Each man held his position surrounding the camp. And the entire enemy army was shocked awake by the thunderous noises of Gideon&quot;s army! They all panicked and fled, yelling as they ran away!"
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "When they sounded their three hundred shofars, Yahweh made the enemy troops turn against each other with their own swords. The Midianites fled toward Zarerah as far as Beth Shittah, as far as the outskirts of the town of Abel Meholah near Tabbath."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Gideon called to arms men from the tribes of Naphtali, Asher, and both parts of Manasseh, and they rallied and pursued the Midianites."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Then Gideon sent messengers through the entire hill country of Ephraim, saying, &apos;Join us in the fight against the Midianites. Deny them access to the River Jordan and the streams as far as Beth Barah, and prevent them from crossing over .&apos; The men of Ephraim came together, and they held the River Jordan and the streams as far as Beth Barah."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "They captured the two Midianite chiefs, Oreb and Zeeb. They executed Oreb at Oreb Rock and Zeeb at Zeeb Winepress. While the Ephraimites continued to pursue the Midianites, they brought the heads of Oreb and Zeeb to Gideon, who was now east of the Jordan."
+            }
+        ],
+        "8": [
+            {
+                "verse_number": "1",
+                "verse_text": "The men of Ephraim got into a heated argument with Gideon and complained to him, &apos;Why didn&quot;t you tell us you were going to fight the Midianites? Why did you do that to us?&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Gideon replied, &apos;What have I accomplished compared to you? What your tribe did is worth so much more than what my whole clan has done."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "After all, through the power of God, you killed both Midianite chiefs, Oreb and Zeeb. What have I done compared with you?&apos; After he said this, they calmed down and were no longer so angry."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Totally exhausted, Gideon and his three hundred men crossed the river Jordan and continued to pursue the enemy."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When they arrived at Succoth, he said to the men of the town, &apos;Please give my men some loaves of bread. They are exhausted, and I am still pursuing the two Midianite kings, Zebah and Zalmunna.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "But the leaders of Succoth replied, &apos;Why should we give any food to your army? You haven&quot;t even captured Zebah and Zalmunna yet.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So Gideon said, &apos;All right! Since you won&quot;t help me, when Yahweh has handed them over to me, I&quot;ll whip you with thorns and briars from the desert!&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Gideon went on to Penuel and made the same request of the people there, but the men of Penuel gave him the same reply as the men of Succoth."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "So he informed them, &apos;I&quot;ll come back victoriously, and when I do, I will tear your tower down!&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Zebah and Zalmunna were at Karkor with an army of fifteen thousand men who survived, for one hundred twenty thousand sword-wielding soldiers had already been killed."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Gideon followed the desert trail of the nomads east of Nobah and Jogbehah, surprised the enemy&quot;s army, and ambushed them."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The two Midianite kings, Zebah and Zalmunna, escaped, but Gideon pursued and captured them, and terrified what remained of the Midianite army."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "While Gideon son of Joash was returning from the battle by way of Heres Pass,"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "he captured a young man from Succoth and interrogated him. The young man wrote down for Gideon the names of the seventy-seven leading men of Succoth."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Then Gideon went to the men of Succoth and said, &apos;You mocked me, refused to help me , and said that you couldn&quot;t give any food to my exhausted army because I had not yet captured Zebah and Zalmunna. Well, here they are!&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "As he had promised , Gideon took desert thorns and briars and whipped the leaders of Succoth."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "As for Penuel, Gideon tore down its tower and killed the men of that city."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Then Gideon asked the kings, Zebah and Zalmunna, &apos;What can you tell me about the men you killed at Tabor?&apos; They answered, &apos;They looked just like you. Every one of them looked like the son of a king.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Gideon said, &apos;They were my brothers, my own mother&quot;s sons. I swear, as surely as Yahweh lives, that if you had let them live, I would let you live.&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Then he turned to Jether, his firstborn son, and said, &apos;Go ahead, kill them now!&apos; But the boy wouldn&quot;t do it. He didn&quot;t draw his sword because he was still only a timid boy."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Then Zebah and Zalmunna taunted Gideon, &apos;Come on, kill us yourself. It takes a man to do a man&quot;s job.&apos; So Gideon executed them and plundered the crescent ornaments that hung on the necks of their camels."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "After that, the Israelites said to Gideon, &apos; You&quot;re our war hero! You&quot;re the one who saved us from the Midianites. You be our ruler! Then your son will rule after you, and then your grandson.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Gideon answered, &apos;No. Neither I nor my son will be your ruler. Yahweh is to be your only King."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "However, I do have one request,&apos; Gideon added. &apos;Give me all the gold earrings you took from the Midianites.&apos; (It was the custom of the Midianites to wear gold earrings, because they were Ishmaelites.)"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "The people answered, &apos;Gladly. They&quot;re yours!&apos; They spread out a cloth, and each one placed on it the earrings they had taken as plunder."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Gideon received gold earrings that weighed seventeen hundred shekels, not including the crescent ornaments, necklaces, and fine purple robes of the kings of Midian, nor the ornamental collars taken from the necks of their camels."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "Gideon used all this plunder to make a sacred golden ephod. He put it on display in his hometown, Ophrah, and all Israel strayed from Yahweh and gave over their hearts to the golden ephod. It was a seducing snare for Gideon and his family."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "So Israel defeated Midian, who never troubled them again. The land had peace for forty years until Gideon died."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Gideon , the Baal-Fighter, son of Joash, returned to his own home and lived there."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Because he had many wives, Gideon fathered seventy sons."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "In addition, he took a concubine in Shechem. She bore him a son, and he named him Abimelech."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash, at Ophrah, a town of the clan of Abiezer."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "No sooner had Gideon died than the Israelites again abandoned the true God and worshiped the images of Baal. They made Baal-Berith their god"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "and no longer remembered Yahweh their God, who had saved them from all their enemies on every side."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "The Israelites failed to demonstrate loyal love to the family of Gideon, the Baal-Fighter, for all the good that he had done for them."
+            }
+        ],
+        "9": [
+            {
+                "verse_number": "1",
+                "verse_text": "Abimelech son of Baal-Fighter ( or Gideon ) went to his mother&quot;s brothers and to the rest of her clan in Shechem and said to them,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;Ask all the leaders of Shechem, &quot;Which do you prefer: to have just one man as your ruler or have seventy of Baal-Fighter&quot;s sons rule over you?&quot; And don&quot;t forget, I&quot;m your own flesh and blood.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When the brothers repeated these words to the leaders of Shechem, their hearts were drawn to Abimelech, for they said, &apos;He is from our hometown and from our own clan.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "They gave him seventy shekels of silver from the temple of Baal-Berith, and Abimelech used it to hire reckless scoundrels to follow him."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "He went to his father&quot;s home in Ophrah and on one stone executed his seventy brothers, the sons of Baal-Fighter. Jotham, Baal-Fighter&quot;s youngest son, escaped and went into hiding."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "All the citizens of Shechem and Beth Millo gathered beside the sacred tree at the pillar in Shechem and crowned Abimelech king."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "When Jotham learned about this, he climbed up on the top of Mount Gerizim and shouted: &apos;Listen to me, citizens of Shechem, so that God may listen to you."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "All the trees one day determined to anoint a king for themselves. They said to the olive tree, &quot;Be our king.&quot;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;But the olive tree answered, &quot;What? Give up my rich oil that is used to honor both gods and men, to hold sway over the trees?&quot;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;Next, the trees said to the fig tree, &quot;Come and be our king.&quot;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "&apos;But the fig tree replied, &quot;What? Give up my good, sweet fruit to hold sway over the trees?&quot;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "&apos;Then the trees said to the vine, &quot;Come and be our king.&quot;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;But the vine answered, &quot;What? Give up my wine, which cheers both gods and men, to hold sway over the trees?&quot;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "&apos;Finally, all the trees said to the thornbush, &quot;Come and be our king.&quot;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;The thornbush replied, &quot;If you really want to anoint me your king, then come and put your trust in my shade. If you don&quot;t, then let fire blaze out of my thorny branches and consume the cedars of Lebanon!&quot;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "&apos;Now then let me ask you this: Do you really think you did a right and honorable thing when you made Abimelech king? Do you think you treated Baal-Fighter and his family fairly?"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And to think that my father fought for you, and risked his life to save you from the power of the Midianites!"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Today, you have revolted against my father&quot;s family, murdered his seventy sons on a single stone, and made Abimelech, the son of his slave girl, king over the citizens of Shechem because he&quot;s your close relative."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "What were you thinking? If you have acted honorably and done what is right by Baal-Fighter and his family today, then may you enjoy Abimelech, this thornbush king of yours , and may he enjoy you too!"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "But if not, let fire come out from Abimelech and consume you, citizens of Shechem and Beth Millo, and let fire come out from you, citizens of Shechem and Beth Millo, and consume Abimelech!&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "After shouting these words, Jotham ran away and went to live at the Well because he was afraid of his brother Abimelech."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "After Abimelech had ruled Israel for three years,"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "God sent a spirit to stir up hostility between Abimelech and the citizens of Shechem, and they rebelled against him."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "God sent this judgment in order to avenge the brutal murder of Baal-Fighter&quot;s seventy sons and the shedding of their blood. Righteous retribution caught up with both Abimelech, who had instigated the murder of his half brothers, and the citizens of Shechem, who had aided and abetted him."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "In their uprising against Abimelech, the citizens of Shechem placed bandits on the hilltops to ambush and rob everyone who passed by, and Abimelech heard of their treachery."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "One day, a man named Gaal son of Ebed moved with his clan into Shechem, and Gaal won the confidence of the people."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "After the grape harvest, they trod the grapes and celebrated a festival in the temple of Baal , their god. While they were drinking and feasting, they cursed Abimelech."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Gaal son of Ebed rose and said, &apos;Who is this Abimelech? We are the Shechemites now! Why should we serve him? Isn&quot;t he Baal-Fighter&quot;s son, and isn&quot;t the governor of our city Zebul his deputy? Why should we take orders from him; we are descendants of Hamor, Shechem&quot;s founder. Why should we be slaves of Abimelech?"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "If only the people of Shechem were under my command, then I would get rid of him. I would say to Abimelech, &quot;Assemble your whole army! We&quot;ll defeat them all! &quot; &apos;"
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Zebul, the governor of the city, was infuriated when he heard of the taunts of Gaal son of Ebed."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "He secretly sent messengers to Abimelech, saying, &apos;Gaal son of Ebed and his clan have come to Shechem. They&quot;re inciting the entire city against you."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "Now then, under the cover of darkness, you and your men should come and take up concealed positions in the fields."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "At sunrise launch your surprise attack and advance against the city. When Gaal and his men come out to face you, fight them with all of your might.&apos;"
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "So Abimelech and all his men set out by night and took up concealed positions near Shechem in four groups."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "Gaal son of Ebed went out and stood in the entrance of the gate of the city just as Abimelech and his soldiers got up from their hiding places."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "When Gaal saw them, he said to Zebul, &apos;Look, an army is marching down from the hilltops!&apos; Zebul replied, &apos;That&quot;s nothing but shadows in the hills; they only look like men.&apos;"
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "Gaal spoke up again: &apos;No, look! I see people coming down the center, and another group from the direction of Oracle Oak.&apos;"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "Then Zebul said to him, &apos;Where is all your big talk now? Weren&quot;t you the loudmouth who said, &quot;Who is Abimelech that he could make us his slaves?&quot; The men you ridiculed are now coming to fight you! Go ahead&ndash;go and fight them!&apos;"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "So Gaal led the men of Shechem and went out to fight Abimelech."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "Abimelech chased him, and many Shechemites fell wounded and died before they could retreat to the city gate."
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "Abimelech returned to his headquarters at Arumah, while Zebul drove Gaal and his clan out of Shechem."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "The next day Abimelech found out that the people of Shechem were planning to go out on a foray into the countryside."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "So he divided his men into three groups, and they set out to ambush the Shechemites in the fields. As soon as Abimelech saw the people leaving the city, he sprang up and attacked them."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "Abimelech and his men advanced rapidly and occupied the city gate. The other two companies chased them down out into the open fields and killed them."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "Abimelech fought hard all day at the gate of Shechem until he had captured the city. He massacred all its people, leveled the city to rubble, and scattered salt over it."
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "When they heard the news, the leading citizens living in the Shechem Tower ran into the stronghold of the temple of Baal-Berith."
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "When Abimelech heard that they had assembled there,"
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "he and all his forces went up Mount Zalmon. Taking an axe in his hand, he cut off some branches and hoisted the bundle onto his shoulders. He ordered the men with him, &apos;Quick! Do the same!&apos;"
+            },
+            {
+                "verse_number": "49",
+                "verse_text": "So each one cut a bundle of branches and followed Abimelech. They piled them against the walls of the temple and with the people inside they set it on fire. So everyone who fled into the tower of Shechem died; nearly a thousand men and women perished."
+            },
+            {
+                "verse_number": "50",
+                "verse_text": "Next, Abimelech attacked the city of Thebez and captured it."
+            },
+            {
+                "verse_number": "51",
+                "verse_text": "All the people had fled to the Tower of Strength in the middle of the city. They locked themselves in and climbed up onto the tower roof."
+            },
+            {
+                "verse_number": "52",
+                "verse_text": "Abimelech advanced as far as the tower, stormed it, and set it on fire."
+            },
+            {
+                "verse_number": "53",
+                "verse_text": "But a woman dropped a millstone on his head and fractured his skull."
+            },
+            {
+                "verse_number": "54",
+                "verse_text": "Abimelech cried out to his armor-bearer, &apos;Kill me with your sword so no one can say I was killed by a woman.&apos; So his servant ran him through, and he died."
+            },
+            {
+                "verse_number": "55",
+                "verse_text": "When the Israelites saw that Abimelech was dead, everyone went home."
+            },
+            {
+                "verse_number": "56",
+                "verse_text": "God avenged the evil that Abimelech had done to his father by murdering his seventy brothers."
+            },
+            {
+                "verse_number": "57",
+                "verse_text": "God also punished the Shechemites for all their wickedness. That day , the curse of Jotham son of Baal-Fighter was fulfilled."
+            }
+        ],
+        "10": [
+            {
+                "verse_number": "1",
+                "verse_text": "After Abimelech died, Yahweh raised up a man of Issachar&quot;s tribe to deliver Israel. His name was Tola son of Puah and grandson of Dodo. He lived in the village of Shamir in the highlands of Ephraim."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He was Israel&quot;s champion-deliverer for twenty-three years; then he died and was buried at Shamir."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "After Tola, Yahweh raised up a man from Gilead whose name was Jair. He was Israel&quot;s champion-deliverer for twenty-two years."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He had thirty sons, who rode on thirty donkeys, and thirty villages belonged to them. These villages are in the region of Gilead and are called Jair&quot;s Villages to this day."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Jair died and was buried at Kamon."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The Israelites again did evil in the sight of Yahweh , worshiping the Baals and the Ashtaroths, the gods of Aram, Sidon, Moab, and Ammon, and the gods of the Philistines. Because Israel entirely abandoned the worship of Yahweh ,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Yahweh became furious with Israel, and he handed them over to the oppression of the Philistines and the Ammonites."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They crushed and oppressed all the Israelites for eighteen years. They ruled over all the Israelites living east of the Jordan in Gilead, in the land of the Amorites."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Ammonites also crossed the Jordan and fought against the tribes of Judah, Benjamin, and Ephraim, leaving Israel distressed."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Then the Israelites desperately cried out to Yahweh , &apos;We have sinned against you because we have abandoned our God and have worshiped the Baals.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Yahweh answered them, &apos;Did I not rescue you in the past from the power of the Egyptians, the Amorites, the Ammonites, the Philistines,"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "the Sidonians, the Amalekites, and the Midianites? When they swept over you and oppressed you and when you cried out in desperation to me, did I not deliver you and set you free from their power?"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Because you have abandoned me to serve false gods, I am no longer coming to your rescue!"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Go ahead and pray all you want to these new gods you have chosen. Let&quot;s see if they will come and deliver you in your time of trouble!&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "But the Israelites continued to plead with Yahweh , &apos;Rescue us! We know we are guilty. You can do to us whatever seems good to you, but please , come to our rescue!&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So they threw away the false gods from among them and returned to worshiping Yahweh . At last , Yahweh felt Israel&quot;s misery and could bear it no longer."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Then the Ammonites mustered an army and encamped in Gilead, while the Israelites rallied together, and they encamped at Mizpah."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The commanders of the people of Gilead said to one another, &apos;Whoever starts the fight against the Ammonites, we&quot;ll make him our leader.&apos;"
+            }
+        ],
+        "11": [
+            {
+                "verse_number": "1",
+                "verse_text": "Yahweh raised up a brave, fearless champion from Gilead to deliver Israel. His name was Jephthah, and he was the son of a prostitute. His father Gilead"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "had other sons by his wife, and when they grew up, they forced Jephthah to leave home. They said to him, &apos;You will inherit nothing of our father&quot;s wealth because you are the son of another woman.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Jephthah fled from his half brothers and lived in the land of Tob. There he recruited a gang of lawless mercenaries who traveled around with him."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Sometime later, the Ammonites waged war against Israel."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "When they attacked Israel, the leaders of Gilead went to the land of Tob to find Jephthah and to bring him back from exile."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Swallowing their pride , they said to him, &apos;Come and lead us so that we can fight the Ammonites.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Jephthah answered, &apos;You&quot;re the very people who hated me so much that you kicked me out of my father&quot;s house. Why are you coming to me now that you&quot;re in trouble?&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "They said to Jephthah, &apos;We&quot;re turning to you now because we want you to lead us in battle. Come and fight the Ammonites. You&quot;re the one we need! &apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Jephthah said to them, &apos; Very well . If you take me back home to fight the Ammonites and Yahweh gives me victory, then you will make me your ruler. Agreed?&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;That&quot;s right,&apos; they replied. &apos;With Yahweh as our witness, we pledge our loyalty to you.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Jephthah returned home with the leaders of Gilead, and the people made him their commander and ruler. Jephthah stated his terms in a solemn ceremony at Mizpah in the presence of Yahweh ."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then Jephthah sent messengers to the king of Ammon to ask, &apos;What is your quarrel with us? Why have you invaded our country?&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The king of Ammon answered Jephthah&quot;s messengers, &apos;When the Israelites came out of Egypt, they seized my land from the River Arnon to the River Jabbok, as far as the River Jordan. Now give it all back, and we&quot;ll be at peace.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Jephthah again sent messengers back to the king of Ammon"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "with this answer: &apos;Israel seized neither the land of Moab nor the land of Ammon."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "When the Israelites left Egypt, they passed through the desert to the Red Sea and came to Kadesh."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "They sent messengers to the king of Edom requesting permission to go through his land, but the king of Edom refused. They also asked the king of Moab, but he too would not cooperate. So the Israelites were forced to remain at Kadesh."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Leaving from there, they traveled through the desert in order to bypass the land of Edom and the land of Moab. When they arrived at the east side of Moab, on the other side of the River Arnon, they made camp there, but they did not cross the Arnon because it was Moab&quot;s boundary."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then, the Israelites dispatched messengers to Sihon, the Amorite king of Heshbon, and requested his permission to go through his country to their own land."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Because Sihon did not trust Israel, he assembled his whole army, made camp at Jahaz, and attacked Israel."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "But Yahweh , the mighty God of Israel, gave the Israelites victory over Sihon and his army. So the Israelites took possession of all the territory of the Amorites who lived in that land."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "Then they occupied all the Amorite territory from the Arnon in the south to the Jabbok in the north and from the desert in the east to the Jordan in the west."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "Since it was Yahweh the mighty God of Israel who drove out the Amorites for his people, the Israelites,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "who do you think you are to try to take it back? You should be satisfied with whatever land your god Chemosh has won for himself, but we are going to keep everything that Yahweh our mighty God has given us."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "Do you think you&quot;re stronger than Moab&quot;s king Balak son of Zippor? He never challenged Israel over disputed land, did he? Did he ever go to war against us?"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "For three hundred years, Israel has been living here and occupying Heshbon, Aroer, and the towns around them, and all the cities on the banks of the Arnon River. Why have you waited until now to try to take them back?"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "No, I have not wronged you; rather, you are doing me wrong by attacking me. Let Yahweh be the judge, and let him decide today which of us is right, Israel or Ammon.&apos;"
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "But the king of Ammon ignored Jephthah&quot;s message."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Then the Spirit of Yahweh rushed upon Jephthah and empowered him . He and his men marched through Gilead and Manasseh and returned to Mizpah in Gilead, and from there, he stalked the Ammonites."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "Jephthah promised Yahweh : &apos;If you give me victory over the Ammonites,"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "I will offer up to you as a burnt offering the first thing that comes out of my house to greet me when I return in victory. I will sacrifice that one as an offering to you.&apos;"
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "So Jephthah crossed the river with his men to fight the Ammonites, and Yahweh gave him victory."
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "He struck at them from Aroer to the area near Minnith, twenty villages in all, and as far as Abel Keramim. The Israelites brought the Ammonites down to the dust in a great slaughter."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "When Jephthah arrived home at Mizpah, his daughter came hurrying out of the house to welcome her father home, dancing to the rhythm of tambourines. She was his only child&ndash;his one and only."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "When he realized who had come out, he ripped his cloak and was overcome with grief. He exclaimed, &apos;Oh no! My dearest daughter, you have torn my heart to shreds! Must it be you I offer? I have made a solemn promise to Yahweh , and I cannot retract it!&apos;"
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "She said to him, &apos;My father, you have made a vow to Yahweh and he has delivered you from your enemies, the Ammonites. Do to me what you promised him you would do."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "But please grant me one thing. Spare me for two months and let me go with my friends to grieve. Let me be free to wander on the hills and to lament my sad fate.&apos;"
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "&apos;Go,&apos; he replied, and he sent her away for two months. She and her friends went into the mountains and grieved because she was going to die unmarried and childless."
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "After two months, she returned to her father, and Jephthah fulfilled his vow to Yahweh . His daughter died still a virgin. (This was the origin of the custom in Israel"
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "that young women would go away each year to grieve and lament for the daughter of Jephthah of Gilead.)"
+            }
+        ],
+        "12": [
+            {
+                "verse_number": "1",
+                "verse_text": "Jephthah&quot;s actions grievously offended the men of Ephraim. They assembled their forces and crossed the Jordan River to Zaphon to confront Jephthah . They said to him, &apos;Why did you cross the border to fight the Ammonites without inviting us to join you? We&quot;re going to burn your house down over your head!&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Jephthah replied, &apos;I and my people were in the middle of a serious conflict with the Ammonites. I summoned you, but you ignored me."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When I realized that you were not coming to help us, I risked my own life to cross the border to fight them. Yahweh empowered me to be victorious over them. So why are you coming to fight with me now?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Then Jephthah gathered all the men of Gilead and fought the men of Ephraim. The men of Gilead defeated them, for the Ephraimites insulted them, saying, &apos;You men of Gilead are nothing but renegades from Ephraim and Manasseh!&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "In order to keep the Ephraimites from escaping, the men of Gilead captured the places where they could cross the Jordan. When any Ephraimite tried to escape and asked permission to cross the river, the men of Gilead would ask, &apos;Are you an Ephraimite?&apos; If he said, &apos;No,&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "they would tell him to say &apos;Shibboleth.&apos; But if he could not pronounce it correctly and said &apos;Sibboleth,&apos; the men of Gilead would seize him and kill him there at the crossing place of the Jordan. At that time, they killed forty-two thousand Ephraimites."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Jephthah ruled Israel for six years. When he died, they buried him in his hometown in Gilead."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "After Jephthah, Yahweh raised up Ibzan, a champion-deliverer from Bethlehem who ruled Israel."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "He had thirty sons and thirty daughters. He gave his thirty daughters in marriage outside his tribe and brought thirty women from outside the tribe as wives for his sons. Ibzan ruled Israel for seven years."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "When he died, they buried him at Bethlehem."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "After Ibzan, Yahweh raised up Elon, a champion-deliverer from Zebulun, who ruled Israel for ten years."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "When he died, they buried him at Aijalon in the territory of Zebulun."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "After Elon, Yahweh raised up Abdon son of Hillel, a champion-deliverer from Pirathon, to rule Israel."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He had forty sons and thirty grandsons, who rode on seventy donkeys. Abdon led Israel for eight years."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "When he died, they buried him at Pirathon in the territory of Ephraim in the hill country of the Amalekites."
+            }
+        ],
+        "13": [
+            {
+                "verse_number": "1",
+                "verse_text": "Once again, the Israelites continued doing evil in the sight of Yahweh , so he subjected them to Philistine rule for forty years."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "There was a certain man from the tribe of Dan, who lived in the city of Zorah, named Manoah. His wife was barren and childless,"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "but the Angel of Yahweh appeared to her and said, &apos;Look here! You are no longer barren and childless, for you will conceive and give birth to a son."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Now be careful not to drink any wine or beer and to eat nothing considered unclean."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "You will conceive and will give birth to a son. Raise the boy as one dedicated to God from the womb and never cut his hair. He will begin to deliver Israel from Philistine power.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So Manoah&quot;s wife went to her husband and said, &apos;A man sent from God came to me! He looked like an angel of God&ndash;incredibly awesome. I didn&quot;t ask where he came from, and he didn&quot;t tell me his name,"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "but he told me, &quot;You will become pregnant, and you will have a son. Make sure you don&quot;t drink any wine or beer, and eat nothing unclean, for the boy will be fully devoted to God from the womb to the day he dies!&quot; &apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Manoah pleaded with Yahweh , &apos;O my Lord, please send the man of God back to us. Have him come to instruct us how to raise the son who is to be born.&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "God answered Manoah&quot;s prayer and sent the Angel of God to the woman again while she was sitting alone in the field. Her husband Manoah was not with her"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "so she ran at once to tell him the news: &apos;Look! Come quickly! He reappeared&ndash;the same man who came to me that day!&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So Manoah got up, followed his wife, and went to the man. Manoah said to him, &apos;Are you the man who appeared and spoke to my wife?&apos; &apos;I am,&apos; he said. But his wife said, &apos;If Yahweh had planned to kill us, he wouldn&quot;t have accepted our burnt offering and our grain offering. He wouldn&quot;t have revealed all these things to us or have spoken to us as he did just now.&apos; And Manoah and his wife never encountered Yahweh &quot;s Angel again."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Manoah replied, &apos;Well, when Yahweh fulfills your prophecy, how should we raise the boy, and what is his life mission?&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "The Angel of Yahweh answered, &apos;Do everything that I instructed your wife."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "She must abstain from anything that comes from the grapevine and drink no alcohol, nor should she eat anything unclean. She must do all that I have commanded her.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "Manoah said to the Angel of Yahweh , &apos;Please stay here until we cook a young goat for you.&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The Angel of Yahweh said to Manoah, &apos;Even if you detain me, I will not eat your food. But if you want to prepare a burnt offering, offer it up to Yahweh .&apos; Manoah did not realize that he was speaking with the Angel of Yahweh ."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Stunned , Manoah asked the Angel of Yahweh . &apos;What is your name? When Yahweh fulfills your prophecy, we want to honor you!&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The Angel of Yahweh replied, &apos;Why ask for my name? It is &quot;Wonderfully Hidden!&quot; &apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So Manoah prepared the young goat and his grain offering and took them to the rock to offer them up to Yahweh , the wonder-working God . While Manoah and his wife watched,"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "flames burst from the rock and ascended upward to heaven from the altar. The Angel of Yahweh , wrapped in the flames of fire, ascended into the sky. Dazed, Manoah and his wife fell facedown to the ground in worship ."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Manoah&quot;s wife gave birth to a son, and she named him Samson. The boy grew up with Yahweh &quot;s blessing on his life."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "The Spirit of Yahweh began to stir his heart while he was between Zorah and Eshtaol, in the Camp of Dan."
+            }
+        ],
+        "14": [
+            {
+                "verse_number": "1",
+                "verse_text": "One day Samson went down to Timnah where a Philistine girl caught his eye,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "so he returned home and told his parents, &apos;At Timnah I noticed a young woman among the daughters of the Philistines; get her for me now to be my wife.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "His parents replied, &apos;Why can&quot;t you find a woman from among our relatives, or at least from our tribe? You don&quot;t have to get a wife from the uncircumcised Philistines.&apos; But Samson told his father, &apos;Get her for me; I know she&quot;s the right one for me.&apos; &apos;Ask away,&apos; they said to him. &apos;Let&quot;s hear your riddle.&apos; &apos;From the eater came something to eat, From the strong came something sweet.&apos; After three days, they were still stumped and could not figure it out. &apos;Listen,&apos; he said to her. &apos;I haven&quot;t even told my parents. So why should I tell you?&apos; &apos;What could be sweeter than honey? And what is stronger than a lion?&apos; And Samson angrily replied, &apos;If you hadn&quot;t used my cow for your plow you wouldn&quot;t know my riddle now!&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Now, his parents had no idea that Samson&quot;s passion for the girl was part of Yahweh &quot;s plan to create an opportunity to come against the Philistines who ruled over Israel at that time."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "One day, Samson decided to go back to Timnah to visit the Philistine woman . As he was approaching the vineyards of Timnah, a full-grown lion suddenly came roaring toward him."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The Spirit of Yahweh entered Samson and empowered him to tear the lion to pieces with his bare hands as if it were a young goat! But he never disclosed to his father and mother what he had done."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Afterward, he went into Timnah and talked with the Philistine woman, because Samson was convinced that she was the right one for him."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Later, Samson returned to marry her. On his way there, he turned aside to look at the lion&quot;s remains, and to his surprise, there was a swarm of bees, honey, and honeycomb in the carcass of the lion!"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "He scooped some of the honey into his hands and continued on his way, eating as he went. When he rejoined his father and mother, he gave some to them, and they ate too. But he did not tell them he had scooped it from the lion&quot;s carcass."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "So Samson&quot;s father accompanied him to Timnah to arrange the marriage. Following the custom for young men about to marry, Samson threw a party that lasted for seven days."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "When the Philistines saw him, they arranged for thirty Philistine men to accompany him as groomsmen ."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Samson challenged them with a riddle, &apos;Hey, I have a riddle for you. If you can solve my riddle within the seven days of our feast, then I will give each of you a linen garment and a set of fine clothing."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "But if you cannot solve it, then you must give me thirty linen garments and thirty sets of fine clothing.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "He said to them:"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "On the fourth day, they said to Samson&quot;s bride, &apos;Have you invited us here to bankrupt us? Do whatever it takes to persuade your husband to tell you the answer to his riddle, or we will burn down your father&quot;s house with you and your family inside!&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "So Samson&quot;s bride went to him and turned on the tears and sobbed, &apos;Honey, you don&quot;t really love me! You hate me! You&quot;ve challenged my countrymen with a riddle, but you haven&quot;t told me its meaning !&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "She continued to cry on his shoulder for the remaining days of their feast, and on the seventh day, because she had so persistently nagged him, he finally gave in and divulged the secret. Then she went and explained the riddle to her countrymen."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "On the seventh day before the sun had set, the townsmen answered him:"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Then suddenly, the Spirit of Yahweh rushed upon Samson, infusing him with power! He went down to Ashkelon and killed thirty of their men. He stripped them of their linen tunics and their robes and gave them in payment to those who had explained the riddle. Then, in a blazing fury, he returned to his father&quot;s house."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Meanwhile, unknown to Samson, his bride married his best man."
+            }
+        ],
+        "15": [
+            {
+                "verse_number": "1",
+                "verse_text": "Later, during the wheat harvest, Samson went to visit his wife and took a young goat as a gift for her. He said to her father , &apos;I&quot;m going into my wife&quot;s bedroom to sleep with her.&apos; But her father wouldn&quot;t let him enter. He said to Samson,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "&apos;I thought you really despised her and had divorced her, so I gave her to your best man. Look, her younger sister is even more beautiful than she. Take her instead.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "Samson said, &apos;That does it! This time I&quot;ll settle my score with you Philistines for good!&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Samson went out and caught three hundred foxes, tied their tails together in pairs, and lashed a torch between each pair of tails."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "He lit the torches and set the foxes loose in the grain fields of the Philistines, burning all their grain to the ground, including the sheaves and the standing grain, as well as their vineyards and olive groves."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "&apos;Who did this?&apos; the Philistines demanded. &apos;Samson,&apos; someone told them, &apos;because his father-in-law from Timnah gave Samson&quot;s bride to his best man.&apos; So the Philistines went and burned both the woman and her father to death. The Philistines replied, &apos;We&quot;ve come to capture Samson and repay him for what he did to us.&apos; Samson replied, &apos;I only did to them what they did to me.&apos; &apos;All right,&apos; Samson said, &apos;but promise me that you won&quot;t kill me.&apos; &apos;With only a donkey&quot;s jawbone, With only a donkey&quot;s jawbone, a thousand men lie slain!&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "&apos;Because you did this despicable act,&apos; Samson vowed, &apos;I won&quot;t rest until I get even with you!&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He was so furious that he launched a vicious attack on the Philistines and single handedly slaughtered many of them. Afterward, he went and hid in a cave in the cliff of Etam."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "The Philistines retaliated by setting up camp in Judah and deploying their men near the town of Lehi."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "The men of Judah asked the Philistines, &apos;Why are you coming against us?&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So three thousand men of Judah went to Samson&quot;s cave in the cliff of Etam, and they said to him, &apos;What are you trying to do to us? Don&quot;t you realize the Philistines rule over us?&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The men of Judah told him, &apos;We&quot;ve come to take you prisoner and hand you over to the Philistines.&apos;"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "&apos;We promise not to kill you,&apos; they replied. &apos;We&quot;ll only tie you up and hand you over to the Philistines.&apos; They bound him with two brand new ropes and led him from the cave near the cliff of Etam to Lehi ."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "When the Philistines saw Samson coming, they raised a shout of triumph. Immediately, the mighty Spirit of Yahweh came rushing upon Samson! He snapped the ropes off his arms as if they were strings catching fire, and they fell from his wrists."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "He spotted a raw jawbone of a donkey lying there on the ground and picked it up. He began to swing it wildly and used it to kill a thousand Philistines that day."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Samson then said, I made heaps of donkeys out of them!"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "When he finished boasting, he threw the jawbone to the ground. That&quot;s how the place got its name&ndash;Jawbone Hill."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Afterward, Samson was terribly thirsty and cried out to Yahweh , &apos;I was strengthened by your great power to win this awesome victory. Will you now leave me here dying of thirst&ndash;and let me fall into the hands of these pagans?&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So God answered Samson&quot;s prayer and split open the rock basin under Lehi , and water gushed out! Samson drank and his spirit was revived. He named that place &apos;The Spring for the One Who Cried,&apos; and it is still there in Lehi to this day."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Samson led Israel as its champion-deliverer for twenty years during the period of Philistine oppression."
+            }
+        ],
+        "16": [
+            {
+                "verse_number": "1",
+                "verse_text": "One day, Samson went to Gaza, a Philistine town, and slept with a prostitute there."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "Word soon spread that Samson was in town, so the men of Gaza gathered and hid at the town gates, cutting off his escape . They made no move during the night, saying, &apos;We&quot;ll kill him at dawn when he tries to leave.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "But in the middle of the night, Samson got up and left. On his way out of Gaza, he took hold of the doors of the town gate and ripped them off their hinges&ndash;two posts, the gates, and the locking bar. He hoisted them all on his shoulders and carried them off a great distance to the top of the hill across from Hebron."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "Some time later Samson fell in love with a woman named Delilah from the Sorek Valley."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "The rulers of the Philistines went to her with a plan : &apos;Trick Samson into telling you the secret of his great strength. Find out how we can subdue him. We&quot;ll tie him up and make him helpless. Then each of us will give you eleven hundred pieces of silver.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "So Delilah approached Samson and asked, &apos;Please dear, won&quot;t you tell me the secret of your strength and how you could be tied up and made helpless?&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Samson replied, &apos;If someone bound me with seven new bowstrings that haven&quot;t been dried, I&quot;ll become as weak as an ordinary man.&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "So the Philistine tyrants brought Delilah seven new bowstrings, and she tied Samson up with them."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "With men waiting in ambush in one of the inner rooms of her house, she cried out, &apos;Samson! The Philistines are here to capture you!&apos; But Samson snapped the bowstrings like a piece of string snaps when it is burned by a fire. So no one discovered the secret of his strength."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "Afterward, Delilah said to him, &apos;You&quot;ve made fun of me and told me lies! Please tell me how you can be tied up securely.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Samson replied, &apos;If someone bound me with brand-new ropes that have never been used, I&quot;ll become as weak as anyone else.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "So Delilah took new ropes and tied him up with them, and the men were waiting in ambush in the inner room as before. Delilah cried out, &apos;Samson! The Philistines are here to capture you!&apos; Once again, Samson easily snapped the ropes from his arms like they were threads."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Delilah reprimanded him, saying, &apos;You&quot;ve made a fool of me and lied to me again! Now tell me the truth&ndash;how can you be tied up?&apos; Samson replied, &apos;If you weave the seven braids of my hair into the fabric on your loom and tighten it with the pin, I&quot;ll become as weak as anyone else.&apos; So while he slept, Delilah wove the seven braids of his hair into the fabric He woke up and thought, &apos;I&quot;ll do the same as before and shake myself free.&apos; But he didn&quot;t realize that Yahweh had turned away from him. &apos;Our god has given us victory! Dagon has subdued our strong enemy Samson!&apos; &apos;Our god has delivered our enemy to us! The one who devastated our country and piled our corpses high!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "and pinned it with a peg. Again she cried out, &apos;Samson! The Philistines are here to capture you!&apos; But Samson woke up and yanked his hair from both the loom and the fabric."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "&apos;How can you say, &quot;I love you,&quot; &apos; pouted Delilah, &apos;and yet you don&quot;t tell me your secrets? You&quot;ve tricked me three times now, and you still haven&quot;t told me what makes you so strong!&apos;"
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "She tormented him day after day until he was sick to death of her nagging."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "Finally, he confessed to her everything: &apos;I&quot;ve never had my hair cut, because my parents dedicated me to God from birth. If anyone cuts my hair, my power will leave me, and I&quot;ll become as weak as anyone else.&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When Delilah realized he had finally disclosed his secret, she sent for the Philistine rulers. &apos;Come quickly!&apos; she said. &apos;He&quot;s finally told me his secret!&apos; So the Philistine rulers returned with the bribe money in their hands."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "Delilah lulled Samson to sleep with his head in her lap. Then she called in a barber to cut off the seven locks of his hair. In this way she weakened him, and his strength drained from him."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "Then she cried out, &apos;Samson! The Philistines have come to capture you!&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "So the Philistines captured him and gouged out his eyes. They took him down to Gaza, where they bound him with bronze chains and forced him to grind grain in the prison."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "But before long , his hair began to grow back."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "One day, the Philistine tyrants celebrated a great festival to offer extravagant sacrifices to their god, Dagon. They praised Dagon, saying,"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "When the people saw their idol, they too joined in the praises, saying,"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "By now, the people were getting drunk and demanded, &apos;Bring out Samson and let him dance for us!&apos; So he was brought from the prison to amuse them, and they displayed him between the main pillars that supported their temple ."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "Blind Samson said to the young servant who was leading him by the hand, &apos;Let go of me and let me feel the pillars that hold up the temple. I want to lean against them.&apos;"
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The temple was completely packed with people. All the Philistine rulers were there, and there were some three thousand men and women in the balcony watching as Samson provided them some amusement."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Then Samson prayed to Yahweh , &apos;Lord Yahweh , please remember me again. O God, impart your strength to me just one more time. With one blow let me take revenge on the Philistines for gouging out my eyes.&apos;"
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "Then his brothers and entire family went down to Gaza to get his body. They brought him back home and buried him between Zorah and Eshtaol, next to his father, Manoah. Samson had led Israel for twenty years."
+            }
+        ],
+        "17": [
+            {
+                "verse_number": "1",
+                "verse_text": "There was a man named Micah from the hill country of Ephraim."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "He said to his mother, &apos;When someone stole your eleven hundred shekels of silver, I overheard you speak a curse over the thief. Well, it turns out , I have the money. I&quot;m the one who took it. Here&ndash;I&quot;m bringing it back .&apos; Immediately, his mother, wanting to revoke her curse , said: &apos;O my son! May Yahweh bless you!&apos; &apos;I&quot;m a Levite from Bethlehem in Judah,&apos; he said, &apos;and I&quot;m looking for a place to live.&apos;"
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "So he returned the eleven hundred shekels of silver to his mother, but she said to him, &apos;I give it back to you, for I solemnly dedicate this silver to Yahweh for my son to make a carved image, an idol covered with silver.&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "So from the silver he returned to his mother, she took two hundred shekels of silver and gave them to a silversmith, who molded them into an idol and overlaid the idol with silver. Micah kept the idol in his house."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Now Micah had a shrine, and he made some idols and a counterfeit ephod and ordained one of his sons as his priest."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "In those days, Israel had no king. People did whatever they wanted to do."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "At the same time, there was a young man from the priestly tribe of Levi living in Bethlehem in Judah."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "He left there to search for another place to live. On his journey, he came to Micah&quot;s house in the hill country of Ephraim."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Micah asked him, &apos;Where are you from?&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "&apos;Live here with me,&apos; Micah said to him. &apos;Be my father and priest, and I&quot;ll pay you ten shekels of silver a year and provide your clothes and your food.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So the Levite agreed to move in with him and the young man became like one of his sons."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "Then Micah ordained the young Levite as his priest, and he lived in his house."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "And Micah declared, &apos;Now I know that Yahweh will bless me and prosper me, since a Levite now serves as my priest.&apos;"
+            }
+        ],
+        "18": [
+            {
+                "verse_number": "1",
+                "verse_text": "In those days there was no king in Israel, and the tribe of Dan sought a territory to settle in. They still had no place to call their own among the tribes of Israel."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "So the Danites sent out from Zorah and from Eshtaol five of their valiant men to spy out the land, telling them, &apos;Go, explore the land.&apos; When they advanced to the hill country of Ephraim, they got as far as Micah&quot;s house and camped near there."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "When they approached Micah&quot;s house, they recognized the voice of the young Levite, so they went over to him and asked, &apos;Why are you here? Who brought you here? What are you doing in this place?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "He replied, &apos;Micah helped me. He hired me, and I&quot;ve become his priest.&apos;"
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then they said to him, &apos;Good! Please pray to God for us and find out if our mission will succeed.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "The priest replied, &apos;You have nothing to worry about. The eyes of Yahweh are watching over your mission. You will succeed .&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "So the five spies went northward and came to Laish. They observed that the people were wealthy and living in security, after the manner of the Sidonians. Their quiet and carefree community lacked nothing. Furthermore, they lived far from the Sidonians and had no dealings with anyone, leaving them defenseless."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "When the spies returned to Zorah and Eshtaol from their expedition, they were asked, &apos;What&quot;s your report?&apos;"
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "&apos;Come on, let&quot;s do this!&apos; they replied. &apos;Listen, we&quot;ve seen the land, and it&quot;s very good. Don&quot;t just sit here wasting time ; let&quot;s go quickly and invade the land to conquer and possess it."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "When we arrive, we will encounter an unsuspecting people. The land is wide open and fruitful. God has indeed given it into your hand!&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So six hundred Danites, fully armed for war, set out from Zorah and Eshtaol."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "They went up and camped west of Kiriath Jearim in Judah. (To this day that place is called The Camp of Dan.)"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "From there they passed through the hill country of Ephraim until they arrived at the house of Micah."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Then the five men who had explored the region of Laish remarked to their comrades, &apos;Did you know there&quot;s an ephod somewhere in these houses, and other idols and an idol overlaid with silver? So decide what you&quot;ll do about it.&apos;"
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "So they stopped there and came to Micah&quot;s house where the young Levite lived, and they greeted him."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "While the six hundred fully armed Danites stationed themselves by the entrance of the gate,"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "the five spies proceeded to enter and take the idol overlaid with silver, the ephod, and the other idols. Now the priest was standing with the six hundred fully armed men at the entrance of the gate."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "When he saw the men going into Micah&quot;s house to take the idol overlaid with silver, the ephod, and the other idols, the priest said to them, &apos;What are you doing?&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "They said to him, &apos;Be quiet! Don&quot;t say a word, just come with us and be our priest and a father to us all . Isn&quot;t it better for you to be a priest representing an entire tribe of Israel rather than the house of only one man?&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The offer pleased the priest and he accepted. He took all the idols and the ephod and joined the Danites."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "They resumed their journey with their children, their livestock, and their possessions going in front of them."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "When they had traveled a considerable distance from Micah&quot;s home, Micah and his neighbors gathered and chased the Danites until they caught up with them."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "They shouted at the Danites, who turned around and answered Micah, &apos;What&quot;s your problem? Why have you come against us with such a company?&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "He replied, &apos;Why did you take the gods that I made, kidnap my priest, and march off? What&quot;s left for me now? How dare you ask me, &quot;What&quot;s my problem?&quot; &apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "The Danites retorted, &apos;We don&quot;t want to hear any more of your complaints lest some of our hot-tempered men here attack and kill you, your friends , and your household.&apos;"
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "So the Danites went their way. When Micah realized that he was outnumbered, he turned around and went back home."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The Danites, Micah&quot;s priest, and all that Micah had made, came to Laish, a city of quiet and unsuspecting people. They slaughtered them and burned down their city."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "No one came to their rescue, because Laish was far from Sidon and they had no dealings with Aram. Laish was in the valley that belonged to Beth Rehob. The Danites rebuilt the city and lived in it."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "Although the city used to be called Laish, they named the city Dan after their ancestor Dan the Israelite."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "The Danites erected their own idol to worship . Jonathan son of Gershom, son of Moses, and his sons served as priests to the tribe of the Danites until the time the nation went into captivity."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "So they enshrined the idol Micah had made, and they made it their own even though the proper house of God stood at Shiloh."
+            }
+        ],
+        "19": [
+            {
+                "verse_number": "1",
+                "verse_text": "These were the days when there was no king ruling in Israel. Now there was a Levite who lived in the remote hill country of Ephraim. He took as his mistress a woman from Bethlehem in Judah,"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "but she eventually was unfaithful. She deserted him and returned to her father&quot;s house in Bethlehem where she stayed for four months."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The Levite set out with his servant and a pair of donkeys to find her, win back her heart, and try to persuade her to return home with him. She received him into her father&quot;s house, and when the girl&quot;s father saw him, he received him warmly."
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "His father-in-law, the girl&quot;s father, pressed him to stay, so the Levite stayed with him three days, and they ate and drank together."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "On the fourth day, early in the morning, he started to leave, but his father-in-law, the girl&quot;s father, insisted, &apos;Eat something first to give you strength for your journey ; then you can leave.&apos;"
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "After the two of them sat down and had breakfast together, the girl&quot;s father said to the Levite, &apos;You might as well stay overnight and enjoy yourself.&apos;"
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "The Levite started to leave, but his mistress&quot; father kept urging him to stay until he turned back and spent another night there."
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Early in the morning of the fifth day, he was about to leave when the girl&quot;s father said, &apos;Come, have breakfast.&apos; They ate together and lingered there until past noon."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "Then the Levite, his mistress, and his attendant started to leave. But his mistress&quot; father said to him, &apos;Look, the day is almost gone; stay another night here and enjoy yourself. Tomorrow, you can start early on your journey and head for home.&apos;"
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "But the Levite refused; he and his two donkeys, his servant, and his mistress set out and traveled as far as the vicinity of Jebus&ndash;that is, Jerusalem."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "Late in the day, they were near Jebus, and the servant said to his master, &apos;Let&quot;s go into this town of the Jebusites and spend the night there.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "His master said to him, &apos; No . They are not of Israel. We will not enter a town of foreigners. We will go on to Gibeah."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Come,&apos; he said to his attendant, &apos;we&quot;ll go to another town and spend the night either in Gibeah or in Ramah.&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "So they traveled on, and as the sun set, they were near Gibeah in the territory of Benjamin."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "They turned off there and entered Gibeah to spend the night. The Levite, his servant, and his mistress sat down in the town square, but nobody invited them indoors to spend the night."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "In the evening, an old man came into town from working in his field. This man was from the hill country of Ephraim and resided at Gibeah, where the townspeople were of the tribe of Benjamin."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "He happened to see the travelers sitting in the town square. The old man inquired, &apos;Where do you come from? And where are you headed?&apos;"
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "The Levite replied, &apos;We&quot;re just passing through. We&quot;re traveling from Bethlehem in Judah to the other end of the hill country of Ephraim, where I live. I just made a journey to Bethlehem of Judah, and now we&quot;re on our way to the House of Yahweh , but nobody has offered us hospitality."
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "We have plenty of straw and feed for our donkeys, and bread and wine for me and the woman and for the attendant with us. All we need is a roof over our heads ; we lack nothing.&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "&apos;Rest easy,&apos; said the old man. &apos;I&quot;ll take care of all your needs. You won&quot;t need to spend the night in the square.&apos;"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "So the old man took them into his house. He prepared fodder for the donkeys; then they washed their feet, and they ate and drank together."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "They were enjoying themselves when suddenly some perverted and depraved men of the town surrounded the house and pounded on the door. They called to the aged owner of the house, &apos;Bring out the man you invited into your house so that we can have sex with him.&apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The owner of the house went out to reason with them. &apos;Please, my friends,&apos; he said. &apos;Don&quot;t commit such a wicked act. This man is my guest! Do not perpetrate this outrage."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "Look, here are the man&quot;s mistress and my virgin daughter&ndash;let me bring them out to you. Do what you wish with them. Have your pleasure with them, but don&quot;t do such an outrageous thing to this man.&apos;"
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "But the men refused to listen to him, so the Levite seized his mistress and pushed her out to them. They raped her repeatedly all night until morning and finally let her go when dawn broke."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "At sunrise the woman staggered back to the house where her master had spent the night and collapsed at the entrance of the man&quot;s house."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "When the Levite arose in the morning, he opened the doors of the house to start on his journey, and he saw his mistress lying at the entrance of the house with her hands on the threshold."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "&apos;Get up,&apos; he said to her, &apos;it&quot;s time to go.&apos; But there was no response, for she was dead. The man placed her body on the donkey and set out for home."
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "When he arrived home, he took a sword, cut the corpse of his mistress limb by limb into twelve pieces, and sent them, one for each tribe , throughout Israel."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "And everyone who saw this horrible display, cried out, &apos;Never have we seen such brutality take place from the day we came up from the land of Egypt to this day. We need to decide what we should do about this!&apos;"
+            }
+        ],
+        "20": [
+            {
+                "verse_number": "1",
+                "verse_text": "The Israelites were united as one man from Dan in the north to Beersheba in the south, including those living in Gilead on the other side of the Jordan. Everyone assembled together before Yahweh at Mizpah."
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "All the leaders of all the people from the tribes of Israel presented themselves in the assembly of God&quot;s people, four hundred thousand fighting men armed with swords."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "The Benjamites heard that the Israelites had assembled at Mizpah. The Israelites said to them, &apos;Tell us, how did this evil rape and murder happen?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "The Levite, whose mistress had been murdered, replied, &apos;My mistress and I stopped in Gibeah in the territory of Benjamin to spend the night."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "That night, the depraved men of Gibeah came after me to harm me, gathering around the house in the night where I was staying. They intended to kill me, but instead, they raped my mistress, and she died."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "This deliberate, outrageous act of depravity was committed in Israel! Therefore, I took her body and cut it in pieces and sent the pieces throughout every part of Israel."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "Now you Israelites must decide on a response! Let&quot;s do something about it here and now!&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then all the people stood in unison and declared, &apos;None of us will go back to our cities or return to our homes."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "This is what we&quot;re going to do to Gibeah: We&quot;ll cast lots to choose who will fight against it."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "And we&quot;ll take a tenth of the men of our tribes of Israel to carry supplies for our forces. When our army arrives at Gibeah in the territory of Benjamin, we&quot;ll give them what they deserve for the outrageous, disgraceful act they committed in Israel.&apos;"
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "So all the men of Israel united as one man to come against Gibeah."
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "The Israelite tribes sent couriers throughout the tribe of Benjamin, saying, &apos;What is this brutal crime that you have done?"
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "We demand that you surrender the depraved perverts from Gibeah who took part in this evil act . We&quot;ll put them to death and purge the evil out of Israel.&apos; But the Benjamites refused to yield to the demands of their brothers the Israelites. Yahweh answered, &apos;Judah will go first.&apos; Yahweh answered, &apos;Attack! For tomorrow I will give you the victory!&apos; But when the Benjamites had taken the bait , the Israelites said, &apos;Retreat, and draw them away from the city to the main roads.&apos; The fighting was fierce. And the Benjamites had no clue that disaster was at their doorstep. When the Benjamites had inflicted about thirty casualties on the men of Israel, they said, &apos;Look, we are defeating them as we did in the first battle!&apos;"
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "Instead, the Benjamites gathered warriors from all their towns to come to Gibeah and fight their brothers , the Israelites."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "On that day, the Benjamites gathered a force from their towns of twenty-six thousand armed men, not including the seven hundred elite soldiers of Gibeah."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "Among Benjamin&quot;s elite troops, seven hundred were left-handed, and each of them could sling a rock and hit a target within a hairbreadth without missing."
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "The tribes of Israel had four hundred thousand experienced soldiers armed with swords, not counting Benjamin&quot;s warriors."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Before the battle , the armies of Israel went to the house of God to seek counsel from God. The Israelites inquired, &apos;Which tribe gets to go first to battle the Benjamites?&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "The Israelites got up the next morning and encamped near Gibeah."
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "The men of Israel took up battle positions against the Benjamites at Gibeah,"
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "but the Benjamites rushed out of the city, and slaughtered twenty-two thousand Israelites."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "The men of Israel encouraged one another and resumed their battle positions where they had lined up the first day."
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "The Israelites wept before Yahweh until evening, and they inquired of Yahweh , &apos;Should we go out again to battle with our brothers the Benjamites?&apos; And Yahweh answered, &apos;Yes, go back into the battle!&apos;"
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The next day, the Israelites advanced toward the Benjamites."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "When Benjamin marched out from Gibeah to engage them, they struck down another eighteen thousand Israelite swordsmen."
+            },
+            {
+                "verse_number": "26",
+                "verse_text": "After losing again, the entire Israelite army went up to the house of God, and they sat there fasting and weeping before Yahweh all day until evening and presented burnt offerings and peace offerings before Yahweh ."
+            },
+            {
+                "verse_number": "27",
+                "verse_text": "The Israelites inquired of Yahweh at Shiloh , for the ark of God&quot;s covenant was there in those days."
+            },
+            {
+                "verse_number": "28",
+                "verse_text": "Phineas son of Eleazer, son of Aaron, ministered there before the ark . He inquired of Yahweh , saying, &apos;Should we resume our battle with our brothers, the Benjamites? Or should we quit?&apos;"
+            },
+            {
+                "verse_number": "29",
+                "verse_text": "So Israel set ambushes all around Gibeah."
+            },
+            {
+                "verse_number": "30",
+                "verse_text": "On the third day, one company of Israelites advanced against the Benjamites, deploying against Gibeah as they had before."
+            },
+            {
+                "verse_number": "31",
+                "verse_text": "This tactic drew the Benjamites out of the city to attack the advancing Israelite army, leaving the city unguarded. They began to inflict casualties on the Israelites as before. There they killed about thirty men of Israel."
+            },
+            {
+                "verse_number": "32",
+                "verse_text": "The Benjamites boasted, &apos;We are defeating them just as we did before!&apos;"
+            },
+            {
+                "verse_number": "33",
+                "verse_text": "Every Israelite rose from his position and took their assumed positions at Baal-Tamar. Then the Israelites who were hiding in ambush jumped up from their positions west of Gibeah."
+            },
+            {
+                "verse_number": "34",
+                "verse_text": "Ten thousand elite soldiers from all over Israel made their direct assault on Gibeah."
+            },
+            {
+                "verse_number": "35",
+                "verse_text": "On that day, Yahweh struck down the Benjamites before Israel. The Israelites slaughtered 25,100 swordsmen of Benjamin."
+            },
+            {
+                "verse_number": "36",
+                "verse_text": "Then the Benjamites realized that they were defeated. The Israelites had moved back because they were depending on the surprise attack they had set up near Gibeah."
+            },
+            {
+                "verse_number": "37",
+                "verse_text": "The men of Israel who had been waiting in ambush made a mad dash for Gibeah, attacked the city, and killed its inhabitants."
+            },
+            {
+                "verse_number": "38",
+                "verse_text": "The Israelites&quot; strategy was to send up a smoke signal from the city once they had sacked it,"
+            },
+            {
+                "verse_number": "39",
+                "verse_text": "and when the men of Israel saw the smoke signal, they would turn and rejoin the battle."
+            },
+            {
+                "verse_number": "40",
+                "verse_text": "But when the smoke signal began to go up from the city, the Benjamites looked behind them and saw the whole city going up in smoke!"
+            },
+            {
+                "verse_number": "41",
+                "verse_text": "When the men of Israel turned back, the men of Benjamin saw that disaster had come upon them, and they panicked."
+            },
+            {
+                "verse_number": "42",
+                "verse_text": "So they fled toward the wilderness, retreating from the Israelites, but the Israelites overtook them and killed them there."
+            },
+            {
+                "verse_number": "43",
+                "verse_text": "Surrounding the Benjamites, the Israelites chased them and easily overran them in the area east of Gibeah."
+            },
+            {
+                "verse_number": "44",
+                "verse_text": "Eighteen thousand Benjamites died, all of them valiant fighters."
+            },
+            {
+                "verse_number": "45",
+                "verse_text": "As they turned and fled in the wilderness to Rimmon Rock, the Israelites picked off another five thousand Benjamites on the main roads. They chased them as far as Gidom, killing two thousand more there."
+            },
+            {
+                "verse_number": "46",
+                "verse_text": "That day, a total of twenty-five thousand sword-bearing Benjamites fell, all of them valiant fighters."
+            },
+            {
+                "verse_number": "47",
+                "verse_text": "But six hundred men who had fled to the wilderness camped at Rimmon Rock and remained there for four months."
+            },
+            {
+                "verse_number": "48",
+                "verse_text": "The men of Israel went back to the Benjamites and slaughtered every living thing in every town&ndash;men and beasts and all that were found, and they burned down every town they came across."
+            }
+        ],
+        "21": [
+            {
+                "verse_number": "1",
+                "verse_text": "The men of Israel had bound themselves by an oath at Mizpah: &apos;Not one of us will give his daughter in marriage to a Benjamite.&apos;"
+            },
+            {
+                "verse_number": "2",
+                "verse_text": "And then the people came to Bethel and sat until evening before God, and they raised their voice with groaning and great weeping."
+            },
+            {
+                "verse_number": "3",
+                "verse_text": "They said, &apos; Yahweh , the true God of Israel, we have lost one of our own tribes today. Why has this happened to Israel?&apos;"
+            },
+            {
+                "verse_number": "4",
+                "verse_text": "When the next day dawned, the people got up early, built an altar there, and offered burnt offerings and peace offerings."
+            },
+            {
+                "verse_number": "5",
+                "verse_text": "Then the Israelites asked one another, &apos;Which tribe of Israel failed to appear in our assembly before Yahweh ?&apos; Under the terms of their solemn oath, whoever did not come before Yahweh at Mizpah should be put to death."
+            },
+            {
+                "verse_number": "6",
+                "verse_text": "Even so, the Israelites had compassion for their brothers of the tribe of Benjamin and were grieved deeply over their loss . They lamented, &apos;One of our tribes has been eliminated from Israel this day."
+            },
+            {
+                "verse_number": "7",
+                "verse_text": "How can we provide wives for the few survivors since we have sworn by Yahweh that we will not give any of our daughters as wives for them?&apos;"
+            },
+            {
+                "verse_number": "8",
+                "verse_text": "Then they inquired, &apos;Were there any from the tribes of Israel who did not come up before Yahweh at Mizpah?&apos; They found out that no one from Jabesh-Gilead had come to the assembly."
+            },
+            {
+                "verse_number": "9",
+                "verse_text": "When the roll was called among the people, not one of the inhabitants of Jabesh-Gilead was there."
+            },
+            {
+                "verse_number": "10",
+                "verse_text": "So the people sent twelve thousand soldiers with the command: &apos;Go to the inhabitants of Jabesh-Gilead and kill them with the sword, including the women and children."
+            },
+            {
+                "verse_number": "11",
+                "verse_text": "This is what you are to do: exterminate every man and every woman who is not a virgin.&apos;"
+            },
+            {
+                "verse_number": "12",
+                "verse_text": "And they found four hundred unmarried young virgins among those living in Jabesh-Gilead. They seized them and brought them to the camp at Shiloh in the land of Canaan."
+            },
+            {
+                "verse_number": "13",
+                "verse_text": "Then the whole congregation sent word to the Benjamites at Rimmon Rock and offered them peace."
+            },
+            {
+                "verse_number": "14",
+                "verse_text": "The Benjamites returned, and the Israelites presented the young women they had spared at Jabesh-Gilead. But they were not a sufficient number of wives for them all."
+            },
+            {
+                "verse_number": "15",
+                "verse_text": "The people were remorseful and had compassion on the tribe of Benjamin because Yahweh had taken out a tribe of Israel."
+            },
+            {
+                "verse_number": "16",
+                "verse_text": "The elders of the tribes said, &apos;Where are we to find wives for the survivors of Benjamin since there are no more women left in their tribe?&apos;"
+            },
+            {
+                "verse_number": "17",
+                "verse_text": "And they said, &apos;There must be heirs for the survivors of Benjamin to prevent the tribe from being wiped out from Israel."
+            },
+            {
+                "verse_number": "18",
+                "verse_text": "Yet we cannot give them any of our daughters as wives.&apos; For the Israelites had sworn, &apos;A curse will rest on anyone who gives a wife to a Benjamite.&apos;"
+            },
+            {
+                "verse_number": "19",
+                "verse_text": "So they said, &apos;Look, Yahweh &quot;s yearly festival is taking place at Shiloh, just north of Bethel, and east of the main road that goes up from Bethel to Shechem, and a little south of Lebonah.&apos;"
+            },
+            {
+                "verse_number": "20",
+                "verse_text": "And they instructed the Benjamites, &apos;Go and hide in the vineyards."
+            },
+            {
+                "verse_number": "21",
+                "verse_text": "Watch for the young women of Shiloh to come out for their dances. When they come out of the vineyards, grab one of the young women of Shiloh to be your wife. Then go and live in your tribal land of Benjamin."
+            },
+            {
+                "verse_number": "22",
+                "verse_text": "If their fathers or their brothers come to complain to us, we&quot;ll tell them, &quot;Do us this favor, please. Grant us permission for the Benjamites to keep them as wives because in battle we didn&quot;t seize them from you. And since you didn&quot;t give them to us, you&quot;re not guilty of breaking your oath.&quot; &apos;"
+            },
+            {
+                "verse_number": "23",
+                "verse_text": "So the Benjamites took as many wives as there were men from among the dancers, and they carried them away. Then they returned to their own territory and rebuilt towns to live in."
+            },
+            {
+                "verse_number": "24",
+                "verse_text": "The Israelites dispersed by tribes and families, and they went out from there to their own territories."
+            },
+            {
+                "verse_number": "25",
+                "verse_text": "In those days, Israel had no king, and everyone did whatever they wanted to do."
+            }
+        ]
     }
 }
